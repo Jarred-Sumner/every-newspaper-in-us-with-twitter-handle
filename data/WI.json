@@ -1,0 +1,462 @@
+{
+  "Abbotsford, WI": [],
+  "Antigo, WI": [
+    {
+      "name": "Antigo Daily Journal",
+      "twitter": "AntigoDJ",
+      "website": "http://www.antigodailyjournal.com/"
+    }
+  ],
+  "Appleton, WI": [
+    {
+      "name": "Post-Crescent",
+      "twitter": "postcrescent",
+      "website": "http://www.postcrescent.com/",
+      "facebook": "https://www.facebook.com/postcrescent"
+    }
+  ],
+  "Ashland, WI": [
+    {
+      "name": "Daily Press",
+      "twitter": "AshlandDailyPre",
+      "website": "http://www.apg-wi.com/ashland_daily_press/",
+      "facebook": "https://www.facebook.com/pages/Ashland-Daily-Press/143201255699653"
+    }
+  ],
+  "Augusta, WI": [],
+  "Baraboo, WI": [
+    {
+      "name": "Baraboo News Republic",
+      "twitter": "News_Republic",
+      "website": "http://www.wiscnews.com/baraboonewsrepublic/",
+      "facebook": "https://www.facebook.com/BarabooNewsRepublic"
+    }
+  ],
+  "Barron, WI": [],
+  "Beaver Dam, WI": [
+    {
+      "name": "Daily Citizen",
+      "twitter": "BDCitizen",
+      "website": "http://www.wiscnews.com/bdc/",
+      "facebook": "https://www.facebook.com/beaverdamdailycitizen"
+    }
+  ],
+  "Beloit, WI": [
+    {
+      "name": "Beloit Daily News",
+      "twitter": "BDNConnection",
+      "website": "http://www.beloitdailynews.com/",
+      "facebook": "https://www.facebook.com/BeloitDailyNews"
+    }
+  ],
+  "Black River Falls, WI": [
+    {
+      "name": "River Falls Journal",
+      "twitter": "riverfallsj",
+      "website": "http://www.riverfallsjournal.com/",
+      "facebook": "https://www.facebook.com/riverfallsjournal"
+    }
+  ],
+  "Bloomer, WI": [],
+  "Brodhead, WI": [],
+  "Chetek, WI": [],
+  "Chippewa Falls, WI": [
+    {
+      "name": "Chippewa Herald",
+      "twitter": "chippewaherald",
+      "website": "http://chippewa.com/",
+      "facebook": "https://www.facebook.com/ChippewaHerald"
+    }
+  ],
+  "Cumberland, WI": [],
+  "Durand, WI": [],
+  "Eagle River, WI": [],
+  "Eau Claire, WI": [
+    {
+      "name": "Leader Telegram",
+      "twitter": "leadertelegram",
+      "website": "http://www.leadertelegram.com/",
+      "facebook": "https://www.facebook.com/pages/Leader-Telegram/299437708783"
+    }
+  ],
+  "Edgar, WI": [],
+  "Ellsworth, WI": [
+    {
+      "name": "Pierce County Herald",
+      "twitter": "piercecounty",
+      "website": "http://www.piercecountyherald.com/",
+      "facebook": "https://www.facebook.com/pages/Pierce-County-Herald/138576996175305"
+    }
+  ],
+  "Florence, WI": [],
+  "Fond du Lac, WI": [
+    {
+      "name": "Fond Du Lac Reporter",
+      "twitter": "fdlreporter",
+      "website": "http://www.fdlreporter.com/",
+      "facebook": "https://www.facebook.com/TheFdLReporter"
+    }
+  ],
+  "Fort Atkinson, WI": [
+    {
+      "name": "Daily Jefferson Co Union",
+      "twitter": "DUNews",
+      "website": "http://www.dailyunion.com/",
+      "facebook": "https://www.facebook.com/DailyJeffersonCountyUnion"
+    }
+  ],
+  "Frederic, WI": [
+    {
+      "name": "Inter-County Leader",
+      "twitter": "leadernewsroom",
+      "website": "https://leaderregister.com/",
+      "facebook": "https://www.facebook.com/intercountyleader"
+    }
+  ],
+  "Grantsburg, WI": [],
+  "Green Bay, WI": [
+    {
+      "name": "Green Bay Press Gazette",
+      "twitter": "gbpressgazette",
+      "website": "http://www.greenbaypressgazette.com/",
+      "facebook": "https://www.facebook.com/gbpressgazette"
+    }
+  ],
+  "Hayward, WI": [
+    {
+      "name": "Sawyer County Record",
+      "twitter": "SawyerCoRecord",
+      "website": "http://www.apg-wi.com/sawyer_county_record/",
+      "facebook": "https://www.facebook.com/sawyercountyrecord"
+    }
+  ],
+  "Hudson, WI": [
+    {
+      "name": "Hudson Star Observer",
+      "twitter": "hudsonwi",
+      "website": "http://www.hudsonstarobserver.com/",
+      "facebook": "https://www.facebook.com/hudsonstarobserver"
+    }
+  ],
+  "Hurley, WI": [],
+  "Janesville, WI": [
+    {
+      "name": "Janesville Gazette",
+      "twitter": "gazettextra",
+      "website": "http://www.gazettextra.com/",
+      "facebook": "https://www.facebook.com/JanesvilleGazette"
+    }
+  ],
+  "Kaukauna, WI": [],
+  "Kenosha, WI": [
+    {
+      "name": "Kenosha News",
+      "twitter": "Kenosha_News",
+      "website": "http://www.kenoshanews.com/",
+      "facebook": "https://www.facebook.com/Kenosha.News"
+    }
+  ],
+  "La Crosse, WI": [
+    {
+      "name": "La Crosse Tribune",
+      "twitter": "lacrossetribune",
+      "website": "http://lacrossetribune.com/",
+      "facebook": "https://www.facebook.com/lacrossetribune"
+    }
+  ],
+  "Ladysmith, WI": [
+    {
+      "name": "Ladysmith News",
+      "twitter": "ladysmithnews",
+      "website": "http://www.ladysmithnews.com/",
+      "facebook": "https://www.facebook.com/pages/Ladysmith-News/124980300858613"
+    }
+  ],
+  "Lake Geneva, WI": [
+    {
+      "name": "Lake Geneva News",
+      "twitter": "LGOnline",
+      "website": "http://www.lakegenevanews.net/",
+      "facebook": "https://www.facebook.com/LakeGenevaRegionalNews"
+    }
+  ],
+  "Lake Tomahawk, WI": [],
+  "Madison, WI": [
+    {
+      "name": "Capital Times",
+      "twitter": "captimes",
+      "website": "http://host.madison.com/ct/",
+      "facebook": "https://www.facebook.com/CapTimes"
+    },
+    {
+      "name": "Isthmus",
+      "twitter": "isthmus",
+      "website": "http://www.isthmus.com/",
+      "facebook": "https://www.facebook.com/IsthmusMadison"
+    },
+    {
+      "name": "Onion",
+      "twitter": "theonion",
+      "website": "http://www.theonion.com/",
+      "facebook": "https://www.facebook.com/theonion"
+    },
+    {
+      "name": "Wisconsin State Journal",
+      "twitter": "wistatejournal",
+      "website": "http://host.madison.com/wsj/",
+      "facebook": "https://www.facebook.com/WisconsinStateJournal"
+    }
+  ],
+  "Manitowoc, WI": [
+    {
+      "name": "Herald Times Reporter",
+      "twitter": "htrnews",
+      "website": "http://www.htrnews.com/",
+      "facebook": "https://www.facebook.com/HeraldTimesReporter"
+    }
+  ],
+  "Marinette, WI": [
+    {
+      "name": "Eagle Herald",
+      "twitter": "EagleHerald",
+      "website": "http://ehextra.com/",
+      "facebook": "https://www.facebook.com/EagleHerald"
+    }
+  ],
+  "Marshfield, WI": [
+    {
+      "name": "Marshfield News-Herald",
+      "twitter": "mnherald",
+      "website": "http://www.marshfieldnewsherald.com/",
+      "facebook": "https://www.facebook.com/MarshfieldNews"
+    }
+  ],
+  "Medford, WI": [],
+  "Menomonie, WI": [],
+  "Merrill, WI": [],
+  "Milwaukee, WI": [
+    {
+      "name": "BizTimes",
+      "twitter": "biztimesmedia",
+      "website": "http://www.biztimes.com/",
+      "facebook": "https://www.facebook.com/BizTimesMedia"
+    },
+    {
+      "name": "Business Journal",
+      "twitter": "MKEBizJournal",
+      "website": "http://www.bizjournals.com/milwaukee/",
+      "facebook": "https://www.facebook.com/MKEBizJournal"
+    },
+    {
+      "name": "Milwaukee Journal Sentinel",
+      "twitter": "JournalSentinel",
+      "website": "http://www.jsonline.com/",
+      "facebook": "https://www.facebook.com/journalsentinel"
+    },
+    {
+      "name": "Shepherd Express",
+      "twitter": "shepherdexpress",
+      "website": "http://shepherdexpress.com/",
+      "facebook": "https://www.facebook.com/ShepherdExpress"
+    },
+    {
+      "name": "Spanish Journal",
+      "twitter": "SpanishJournal",
+      "website": "http://www.spanishjournal.com/",
+      "facebook": "https://www.facebook.com/spanishjournal"
+    }
+  ],
+  "Minocqua, WI": [],
+  "Mondovi, WI": [],
+  "Monroe, WI": [
+    {
+      "name": "Monroe Times",
+      "twitter": "MonroeTimes",
+      "website": "http://themonroetimes.com/",
+      "facebook": "https://www.facebook.com/monroetimes"
+    }
+  ],
+  "Montello, WI": [],
+  "New Richmond, WI": [
+    {
+      "name": "Richmond News",
+      "twitter": "newrichmondnews",
+      "website": "http://www.rivertowns.net/",
+      "facebook": "https://www.facebook.com/newrichmondnews"
+    }
+  ],
+  "Onalaska, WI": [
+    {
+      "name": "Courier Life News",
+      "twitter": "LaCrosseTribune",
+      "website": "http://lacrossetribune.com/courierlifenews/",
+      "facebook": "https://www.facebook.com/lacrossetribune"
+    }
+  ],
+  "Oregon, WI": [
+    {
+      "name": "Oregon Observer",
+      "twitter": "OregonObserver1",
+      "website": "http://www.connectoregonwi.com/",
+      "facebook": "https://www.facebook.com/pages/Oregon-Observer/229742493727269"
+    }
+  ],
+  "Oshkosh, WI": [
+    {
+      "name": "The Northwestern",
+      "twitter": "onwnews",
+      "website": "http://www.thenorthwestern.com/",
+      "facebook": "https://www.facebook.com/oshkoshnorthwestern"
+    }
+  ],
+  "Osseo, WI": [],
+  "Park Falls, WI": [
+    {
+      "name": "Price County Review",
+      "twitter": "PriceCountyDail",
+      "website": "http://www.apg-wi.com/price_county_review/",
+      "facebook": "https://www.facebook.com/pages/PriceCountyDailycom/296062510446814"
+    }
+  ],
+  "Peshtigo, WI": [],
+  "Plymouth, WI": [],
+  "Port Washington, WI": [],
+  "Portage, WI": [
+    {
+      "name": "Daily Register",
+      "twitter": "PDRnews",
+      "website": "http://www.wiscnews.com/portagedailyregister/",
+      "facebook": "https://www.facebook.com/PortageDailyRegister"
+    }
+  ],
+  "Racine, WI": [
+    {
+      "name": "Journal Times",
+      "twitter": "journaltimes",
+      "website": "http://journaltimes.com/",
+      "facebook": "https://www.facebook.com/JournalTimes"
+    }
+  ],
+  "Random Lake, WI": [],
+  "Reedsburg, WI": [
+    {
+      "name": "Reedsburg Times Press",
+      "twitter": "Times_Press",
+      "website": "http://www.wiscnews.com/reedsburgtimespress/",
+      "facebook": "https://www.facebook.com/ReedsburgTimesPress"
+    }
+  ],
+  "Rhinelander, WI": [
+    {
+      "name": "Northwoods River News",
+      "twitter": "NWoodsRiverNews",
+      "website": "http://www.rivernewsonline.com/",
+      "facebook": "https://www.facebook.com/TheNorthwoodsRiverNews"
+    }
+  ],
+  "Rice Lake, WI": [
+    {
+      "name": "Rice Lake Chronotype",
+      "twitter": "RLnewspaper",
+      "website": "http://www.apg-wi.com/rice_lake_chronotype/"
+    }
+  ],
+  "Sauk City, WI": [
+    {
+      "name": "Sauk Prairie Eagle",
+      "twitter": "thespeagle",
+      "website": "http://www.wiscnews.com/saukprairieeagle/",
+      "facebook": "https://www.facebook.com/saukprairieeagle"
+    }
+  ],
+  "Shawano, WI": [
+    {
+      "name": "Shawano Leader",
+      "twitter": "ShawanoLeader",
+      "website": "http://www.shawanoleader.com/",
+      "facebook": "https://www.facebook.com/shawanoleader"
+    }
+  ],
+  "Sheboygan, WI": [
+    {
+      "name": "Sheboygan Press",
+      "twitter": "SheboyganPress",
+      "website": "http://www.sheboyganpress.com/",
+      "facebook": "https://www.facebook.com/pages/The-Sheboygan-Press/97657252278"
+    }
+  ],
+  "Shell Lake, WI": [],
+  "Spooner, WI": [
+    {
+      "name": "Spooner Advocate",
+      "twitter": "SpoonerAdvocate",
+      "website": "http://www.apg-wi.com/spooner_advocate/",
+      "facebook": "https://www.facebook.com/spooneradvocate"
+    }
+  ],
+  "Stevens Point, WI": [
+    {
+      "name": "Portage County Gazette",
+      "twitter": "PCGazette",
+      "website": "http://www.pcgazette.com/",
+      "facebook": "https://www.facebook.com/pages/Portage-County-Gazette/126268509475"
+    },
+    {
+      "name": "Stevens Point City-Times",
+      "twitter": "spcitytimes",
+      "website": "http://spcitytimes.com/",
+      "facebook": "https://www.facebook.com/pages/Stevens-Point-City-Times/304389376252761"
+    },
+    {
+      "name": "Stevens Point Journal",
+      "twitter": "stevenspointJrl",
+      "website": "http://www.stevenspointjournal.com/",
+      "facebook": "https://www.facebook.com/StevensPointJRL"
+    }
+  ],
+  "Sturgeon Bay, WI": [
+    {
+      "name": "Door County Advocate",
+      "twitter": "dcadvocatenews",
+      "website": "http://www.greenbaypressgazette.com/door-co/",
+      "facebook": "https://www.facebook.com/doorcountyadvocate"
+    }
+  ],
+  "Superior, WI": [],
+  "Tomah, WI": [],
+  "Watertown, WI": [
+    {
+      "name": "Watertown Daily Times",
+      "twitter": "wdtimes1",
+      "website": "http://www.wdtimes.com/",
+      "facebook": "https://www.facebook.com/pages/Watertown-Daily-Times/126905167364020"
+    }
+  ],
+  "Waukesha, WI": [
+    {
+      "name": "Waukesha Freeman",
+      "twitter": "WaukeshaFreeman",
+      "website": "http://www.gmtoday.com/",
+      "facebook": "https://www.facebook.com/WaukeshaFreeman"
+    }
+  ],
+  "Waunakee, WI": [],
+  "Wausau, WI": [
+    {
+      "name": "Wausau Daily Herald",
+      "twitter": "wausauherald",
+      "website": "http://www.wausaudailyherald.com/",
+      "facebook": "https://www.facebook.com/wausaudailyherald"
+    }
+  ],
+  "Wautoma, WI": [],
+  "Wisconsin Dells, WI": [],
+  "Wisconsin Rapids, WI": [
+    {
+      "name": "Daily Tribune",
+      "twitter": "wrtribune",
+      "website": "http://www.wisconsinrapidstribune.com/",
+      "facebook": "https://www.facebook.com/wisconsinrapidstribune"
+    }
+  ]
+}

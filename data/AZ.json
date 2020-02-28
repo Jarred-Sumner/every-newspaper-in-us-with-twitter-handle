@@ -1,0 +1,457 @@
+{
+  "Ajo, AZ": [],
+  "Apache Junction, AZ": [],
+  "Arizona City, AZ": [],
+  "Benson, AZ": [
+    {
+      "name": "San Pedro Valley News-Sun",
+      "twitter": "bensonnews",
+      "website": "http://www.bensonnews-sun.com/",
+      "facebook": "https://www.facebook.com/bensonnews"
+    }
+  ],
+  "Bisbee, AZ": [],
+  "Bullhead City, AZ": [
+    {
+      "name": "Bullhead City Bee",
+      "twitter": "BHCBee",
+      "website": "http://www.bullheadcity-bee.com/",
+      "facebook": "https://www.facebook.com/bullheadcitybee"
+    },
+    {
+      "name": "Mohave Daily News",
+      "twitter": "MDNreporter",
+      "website": "http://www.mohavedailynews.com/",
+      "facebook": "https://www.facebook.com/mohavevalleydailynews"
+    }
+  ],
+  "Camp Verde, AZ": [
+    {
+      "name": "Camp Verde Bugle",
+      "twitter": "CVBugle",
+      "website": "http://cvbugle.com/",
+      "facebook": "https://www.facebook.com/CVbugle"
+    }
+  ],
+  "Casa Grande, AZ": [
+    {
+      "name": "Casa Grande Dispatch",
+      "twitter": "CGDispatch",
+      "website": "http://www.trivalleycentral.com/casa_grande_dispatch/",
+      "facebook": "https://www.facebook.com/casa.dispatch"
+    }
+  ],
+  "Cave Creek, AZ": [
+    {
+      "name": "Sonoran News",
+      "twitter": "sonorannews",
+      "website": "http://www.sonorannews.com/",
+      "facebook": "https://www.facebook.com/SonoranNews"
+    }
+  ],
+  "Chandler, AZ": [],
+  "Chino Valley, AZ": [
+    {
+      "name": "Chino Valley Review",
+      "twitter": "ChinoValleynews",
+      "website": "http://cvrnews.com/",
+      "facebook": "https://www.facebook.com/ChinoValleyReview"
+    }
+  ],
+  "Coolidge, AZ": [
+    {
+      "name": "Coolidge Examiner",
+      "twitter": "coolidgenews",
+      "website": "http://www.trivalleycentral.com/coolidge_examiner/",
+      "facebook": "https://www.facebook.com/CoolidgeExaminer"
+    },
+    {
+      "name": "Florence Reminder & Blade Tribune",
+      "twitter": "FloAZBlade",
+      "website": "http://www.trivalleycentral.com/florence_reminder_blade_tribune/",
+      "facebook": "https://www.facebook.com/floblade"
+    }
+  ],
+  "Corona de Tucson, AZ": [
+    {
+      "name": "Arizona Daily Star",
+      "twitter": "TucsonStar",
+      "website": "http://tucson.com/",
+      "facebook": "https://www.facebook.com/ArizonaDailyStar"
+    },
+    {
+      "name": "Explorer Newspapers",
+      "twitter": "explorer_news",
+      "website": "http://tucsonlocalmedia.com/",
+      "facebook": "https://www.facebook.com/ExplorerNewspaper"
+    },
+    {
+      "name": "Inside Tucson Business",
+      "twitter": "azbiz",
+      "website": "http://www.insidetucsonbusiness.com/",
+      "facebook": "https://www.facebook.com/insidetucsonbusiness"
+    },
+    {
+      "name": "So. Arizona News-Examiner",
+      "twitter": "SoAzNewsX",
+      "website": "http://soaznewsx.com/"
+    },
+    {
+      "name": "Tucson Weekly",
+      "twitter": "tucsonweekly",
+      "website": "http://www.tucsonweekly.com/",
+      "facebook": "https://www.facebook.com/tucsonweekly"
+    }
+  ],
+  "Cottonwood, AZ": [
+    {
+      "name": "Verde Independent",
+      "twitter": "VerdeNews",
+      "website": "http://verdenews.com/",
+      "facebook": "https://www.facebook.com/verdenews"
+    }
+  ],
+  "Douglas, AZ": [],
+  "East Globe, AZ": [
+    {
+      "name": "Arizona Silver Belt",
+      "twitter": "azsilverbelt",
+      "website": "http://www.silverbelt.com/",
+      "facebook": "https://www.facebook.com/pages/Arizona-Silver-Belt/127421320758653"
+    }
+  ],
+  "Eloy, AZ": [
+    {
+      "name": "Eloy Enterprise",
+      "twitter": "EloyEnterprise",
+      "website": "http://www.trivalleycentral.com/eloy_enterprise/",
+      "facebook": "https://www.facebook.com/eloyenterprise.newspaper"
+    }
+  ],
+  "First Mesa, AZ": [
+    {
+      "name": "East Valley Tribune",
+      "twitter": "EVTNow",
+      "website": "http://www.eastvalleytribune.com/local/mesa/",
+      "facebook": "https://www.facebook.com/EVTNow"
+    }
+  ],
+  "Flagstaff, AZ": [
+    {
+      "name": "Arizona Daily Sun",
+      "twitter": "azds",
+      "website": "http://azdailysun.com/",
+      "facebook": "https://www.facebook.com/ArizonaDailySun"
+    },
+    {
+      "name": "Navajo Hopi Observer",
+      "twitter": "NHOnews",
+      "website": "http://nhonews.com/",
+      "facebook": "https://www.facebook.com/NavajoHopiObserver"
+    }
+  ],
+  "Florence, AZ": [],
+  "Fountain Hills, AZ": [],
+  "Gilbert, AZ": [],
+  "Glendale, AZ": [
+    {
+      "name": "Glendale Today",
+      "twitter": "YourWVnews",
+      "website": "http://www.yourwestvalley.com/",
+      "facebook": "https://www.facebook.com/yourwestvalley"
+    }
+  ],
+  "Goodyear, AZ": [
+    {
+      "name": "West Valley View",
+      "twitter": "WestValleyView",
+      "website": "http://www.westvalleyview.com/",
+      "facebook": "https://www.facebook.com/WestValleyView"
+    }
+  ],
+  "Green Valley, AZ": [
+    {
+      "name": "News & Sun",
+      "twitter": "greenvalleynews",
+      "website": "http://www.gvnews.com/",
+      "facebook": "https://www.facebook.com/GreenValleyNews"
+    }
+  ],
+  "Holbrook, AZ": [],
+  "Kearny, AZ": [],
+  "Kingman, AZ": [
+    {
+      "name": "Kingman Daily Miner",
+      "twitter": "DailyMiner",
+      "website": "http://kdminer.com/",
+      "facebook": "https://www.facebook.com/dailyminer"
+    }
+  ],
+  "Lake Havasu City, AZ": [
+    {
+      "name": "Today's News-Herald",
+      "twitter": "havasunews",
+      "website": "http://www.havasunews.com/",
+      "facebook": "https://www.facebook.com/pages/Todays-News-Herald/160566553965650"
+    }
+  ],
+  "Marana, AZ": [
+    {
+      "name": "Marana News",
+      "twitter": "Explorer_News",
+      "website": "http://www.tucsonlocalmedia.com/news/marana/",
+      "facebook": "https://www.facebook.com/pages/Marana-News/188826331190748"
+    }
+  ],
+  "Maricopa, AZ": [
+    {
+      "name": "Maricopa Monitor",
+      "twitter": "maricopamonitor",
+      "website": "http://www.copamonitor.com/",
+      "facebook": "https://www.facebook.com/MaricopaMonitor"
+    }
+  ],
+  "Nogales, AZ": [
+    {
+      "name": "Nogales International",
+      "twitter": "nogalesnews",
+      "website": "http://www.nogalesinternational.com/",
+      "facebook": "https://www.facebook.com/nogalesinternational"
+    }
+  ],
+  "Page, AZ": [
+    {
+      "name": "Lake Powell Chronicle",
+      "twitter": "lakepowellchron",
+      "website": "http://www.lakepowellchronicle.com/",
+      "facebook": "https://www.facebook.com/LakePowellChronicle"
+    }
+  ],
+  "Parker, AZ": [],
+  "Parks, AZ": [
+    {
+      "name": "Grand Canyon News",
+      "twitter": "GCanyonNews",
+      "website": "http://www.grandcanyonnews.com/",
+      "facebook": "https://www.facebook.com/GrandCanyonNews"
+    }
+  ],
+  "Payson, AZ": [
+    {
+      "name": "Payson Roundup",
+      "twitter": "paysonroundup",
+      "website": "http://www.paysonroundup.com/",
+      "facebook": "https://www.facebook.com/PaysonRoundupNewspaper"
+    }
+  ],
+  "Peoria, AZ": [
+    {
+      "name": "Peoria Times",
+      "twitter": "EastPeoriaTimes",
+      "website": "http://www.peoriatimes.com/",
+      "facebook": "https://www.facebook.com/pages/East-Peoria-Times-Courier/117814502837"
+    }
+  ],
+  "Phoenix, AZ": [
+    {
+      "name": "Ahwatukee Foothills News",
+      "twitter": "ahwatukeefn",
+      "website": "http://www.ahwatukee.com/",
+      "facebook": "https://www.facebook.com/pages/Ahwatukee-Foothills-News/42435708153"
+    },
+    {
+      "name": "Arizona Capitol Times",
+      "twitter": "azcapitoltimes",
+      "website": "http://www.azcapitoltimes.com/",
+      "facebook": "https://www.facebook.com/azcapitoltimes"
+    },
+    {
+      "name": "CITYSunTimes",
+      "twitter": "CITYSunTimes",
+      "website": "http://news.citysuntimes.com/",
+      "facebook": "https://www.facebook.com/CITYSunTimes"
+    },
+    {
+      "name": "Culturadoor",
+      "twitter": "culturadoor",
+      "website": "http://www.culturadoor.com/",
+      "facebook": "https://www.facebook.com/pages/Culturadoor/145397005483512"
+    },
+    {
+      "name": "East Valley Tribune",
+      "twitter": "evtnow",
+      "website": "http://www.eastvalleytribune.com/",
+      "facebook": "https://www.facebook.com/EVTNow"
+    },
+    {
+      "name": "Frontdoors News",
+      "twitter": "frontdoorsnews",
+      "website": "http://frontdoorsnews.com/",
+      "facebook": "https://www.facebook.com/frontdoorsnews"
+    },
+    {
+      "name": "Jewish News of Phoenix",
+      "twitter": "phxjnews",
+      "website": "http://www.jewishaz.com/",
+      "facebook": "https://www.facebook.com/JewishAZ"
+    },
+    {
+      "name": "La Voz",
+      "twitter": "lavozaz",
+      "website": "http://www.lavozarizona.com/",
+      "facebook": "https://www.facebook.com/LaVozArizona"
+    },
+    {
+      "name": "New Times",
+      "twitter": "PhoenixNewTimes",
+      "website": "http://www.phoenixnewtimes.com/",
+      "facebook": "https://www.facebook.com/phoenixnewtimes"
+    },
+    {
+      "name": "Phoenix Business Journal",
+      "twitter": "phxbizjournal",
+      "website": "http://www.bizjournals.com/phoenix/",
+      "facebook": "https://www.facebook.com/phxbizjournal"
+    },
+    {
+      "name": "Prensa Hispana",
+      "twitter": "PrensaHispanaAZ",
+      "website": "http://www.prensahispanaaz.com/",
+      "facebook": "https://www.facebook.com/PrensaHispana"
+    }
+  ],
+  "Prescott, AZ": [
+    {
+      "name": "Daily Courier",
+      "twitter": "thedailycourier",
+      "website": "http://dcourier.com/",
+      "facebook": "https://www.facebook.com/DailyCourier"
+    },
+    {
+      "name": "Prescott Valley Tribune",
+      "twitter": "pvtrib",
+      "website": "http://pvtrib.com/",
+      "facebook": "https://www.facebook.com/PrescottValleyTribune"
+    }
+  ],
+  "Prescott Valley, AZ": [
+    {
+      "name": "Big Bug News",
+      "twitter": "thedailycourier",
+      "website": "http://www.dcourier.com/news/neighbors/",
+      "facebook": "https://www.facebook.com/DailyCourier"
+    }
+  ],
+  "Quartzsite, AZ": [
+    {
+      "name": "Quartzsite Times",
+      "twitter": "Pvvt",
+      "website": "http://www.pvvt.com/",
+      "facebook": "https://www.facebook.com/blythenews"
+    }
+  ],
+  "Safford, AZ": [
+    {
+      "name": "Eastern Arizona Courier",
+      "twitter": "eacourier",
+      "website": "http://www.eacourier.com/",
+      "facebook": "https://www.facebook.com/eacourier"
+    }
+  ],
+  "Scottsdale, AZ": [
+    {
+      "name": "East Valley Tribune",
+      "twitter": "evtnow",
+      "website": "http://www.eastvalleytribune.com/local/",
+      "facebook": "https://www.facebook.com/EVTNow"
+    }
+  ],
+  "Sedona, AZ": [
+    {
+      "name": "Sedona Red Rock News",
+      "twitter": "sedonanews",
+      "website": "http://www.redrocknews.com/",
+      "facebook": "https://www.facebook.com/sedonanews"
+    },
+    {
+      "name": "Sedona.biz",
+      "twitter": "SedonaDotBiz",
+      "website": "http://www.sedona.biz/",
+      "facebook": "https://www.facebook.com/SedonaDotBiz"
+    }
+  ],
+  "Show Low, AZ": [
+    {
+      "name": "White Mountain Independent",
+      "twitter": "WMIcentral",
+      "website": "http://www.wmicentral.com/",
+      "facebook": "https://www.facebook.com/wmicentral"
+    }
+  ],
+  "Sierra Vista, AZ": [
+    {
+      "name": "Sierra Vista Herald",
+      "twitter": "SVherald",
+      "website": "http://www.svherald.com/",
+      "facebook": "https://www.facebook.com/sierravistaherald"
+    }
+  ],
+  "Sun City, AZ": [
+    {
+      "name": "Daily Sun News",
+      "twitter": "YourWVnews",
+      "website": "http://www.yourwestvalley.com/your_town/sun_city/",
+      "facebook": "https://www.facebook.com/yourwestvalley"
+    }
+  ],
+  "Surprise, AZ": [
+    {
+      "name": "Surprise Today",
+      "twitter": "YourWVnews",
+      "website": "http://www.yourwestvalley.com/your_town/surprise/",
+      "facebook": "https://www.facebook.com/yourwestvalley"
+    }
+  ],
+  "Tempe, AZ": [
+    {
+      "name": "Wrangler News",
+      "twitter": "wranglernews",
+      "website": "http://www.wranglernews.com/",
+      "facebook": "https://www.facebook.com/WranglerNews"
+    }
+  ],
+  "Tombstone, AZ": [],
+  "Wickenburg, AZ": [
+    {
+      "name": "Wickenburg Sun",
+      "twitter": "wickenburgsun",
+      "website": "http://www.wickenburgsun.com/",
+      "facebook": "https://www.facebook.com/TheWickenburgSun"
+    }
+  ],
+  "Willcox, AZ": [
+    {
+      "name": "Arizona Range News",
+      "twitter": "rangenews",
+      "website": "http://www.willcoxrangenews.com/",
+      "facebook": "https://www.facebook.com/willcoxnews"
+    }
+  ],
+  "Williams, AZ": [],
+  "Window Rock, AZ": [
+    {
+      "name": "Navajo Times",
+      "twitter": "navajotimes",
+      "website": "http://navajotimes.com/",
+      "facebook": "https://www.facebook.com/navajotimes"
+    }
+  ],
+  "Yuma, AZ": [
+    {
+      "name": "Bajo El Sol",
+      "twitter": "Bajo_El_Sol",
+      "website": "http://www.bajoelsol.com/",
+      "facebook": "https://www.facebook.com/BajoElSolNoticias"
+    }
+  ]
+}

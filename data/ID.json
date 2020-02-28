@@ -1,0 +1,145 @@
+{
+  "Aberdeen, ID": [],
+  "American Falls, ID": [],
+  "Blackfoot, ID": [],
+  "Boise City, ID": [
+    {
+      "name": "Boise Weekly",
+      "twitter": "Boiseweekly",
+      "website": "http://www.boiseweekly.com/",
+      "facebook": "https://www.facebook.com/boiseweekly"
+    },
+    {
+      "name": "Idaho Business Review",
+      "twitter": "IBRnews",
+      "website": "http://idahobusinessreview.com/",
+      "facebook": "https://www.facebook.com/IdahoBusinessReview"
+    },
+    {
+      "name": "Idaho Statesman",
+      "twitter": "idahostatesman",
+      "website": "http://www.idahostatesman.com/",
+      "facebook": "https://www.facebook.com/idahostatesman"
+    }
+  ],
+  "Bonners Ferry, ID": [],
+  "Burley, ID": [],
+  "Challis, ID": [],
+  "Coeur d'Alene, ID": [
+    {
+      "name": "Spokesman Review",
+      "twitter": "spokesmanreview",
+      "website": "http://www.spokesman.com/",
+      "facebook": "https://www.facebook.com/spokesmanreview"
+    }
+  ],
+  "Cottonwood, ID": [],
+  "Council, ID": [],
+  "Driggs, ID": [
+    {
+      "name": "Teton Valley News",
+      "twitter": "tetonvalleynews",
+      "website": "http://www.tetonvalleynews.net/",
+      "facebook": "https://www.facebook.com/TetonValleyNews"
+    }
+  ],
+  "Eagle, ID": [],
+  "Emmett, ID": [],
+  "Fort Hall, ID": [],
+  "Grangeville, ID": [],
+  "Homedale, ID": [],
+  "Idaho Falls, ID": [
+    {
+      "name": "Post Register",
+      "twitter": "clarkcorbin",
+      "website": "http://www.postregister.com/",
+      "facebook": "https://www.facebook.com/pages/Post-Register/440983490430"
+    }
+  ],
+  "Kamiah, ID": [],
+  "Ketchum, ID": [
+    {
+      "name": "Idaho Mountain Express",
+      "twitter": "IdahoMtExpress",
+      "website": "http://www.mtexpress.com/",
+      "facebook": "https://www.facebook.com/MountainExpress"
+    }
+  ],
+  "Kuna, ID": [
+    {
+      "name": "Kuna Melba News",
+      "twitter": "kunamelbanews",
+      "website": "http://www.kunamelbanews.com/",
+      "facebook": "https://www.facebook.com/pages/Kuna-Melba-News/87263131377"
+    }
+  ],
+  "Lewiston, ID": [
+    {
+      "name": "Lewiston Tribune",
+      "twitter": "lewistontribune",
+      "website": "http://lmtribune.com/",
+      "facebook": "https://www.facebook.com/lewistontribune"
+    }
+  ],
+  "McCall, ID": [],
+  "Meridian, ID": [],
+  "Montpelier, ID": [],
+  "Moscow, ID": [
+    {
+      "name": "Moscow-Pullman Daily News",
+      "twitter": "mpdailynews",
+      "website": "http://dnews.com/",
+      "facebook": "https://www.facebook.com/PalouseNews"
+    }
+  ],
+  "Mountain Home, ID": [],
+  "Nampa, ID": [
+    {
+      "name": "Idaho Press-Tribune",
+      "twitter": "IdahoPressTrib",
+      "website": "http://www.idahopress.com/",
+      "facebook": "https://www.facebook.com/Idaho.Press.Tribune"
+    }
+  ],
+  "Orofino, ID": [],
+  "Parkline, ID": [],
+  "Payette, ID": [],
+  "Pocatello, ID": [
+    {
+      "name": "Idaho State Journal",
+      "twitter": "IdahoStateJ",
+      "website": "http://www.idahostatejournal.com/",
+      "facebook": "https://www.facebook.com/idahostatejournal"
+    }
+  ],
+  "Preston, ID": [],
+  "Priest River, ID": [],
+  "Rexburg, ID": [
+    {
+      "name": "Standard Journal",
+      "twitter": "uvsj",
+      "website": "http://www.rexburgstandardjournal.com/",
+      "facebook": "https://www.facebook.com/uppervalleystandardjournal"
+    }
+  ],
+  "Rigby, ID": [],
+  "Sandpoint, ID": [
+    {
+      "name": "Bonner County Daily Bee",
+      "twitter": "DailyBee",
+      "website": "http://www.bonnercountydailybee.com/",
+      "facebook": "https://www.facebook.com/bonnercountydailybee"
+    }
+  ],
+  "Shelley, ID": [],
+  "Shoshone, ID": [],
+  "Twin Falls, ID": [
+    {
+      "name": "Times-News",
+      "twitter": "twinfallstn",
+      "website": "http://magicvalley.com/",
+      "facebook": "https://www.facebook.com/thetimesnews"
+    }
+  ],
+  "Weiser, ID": []
+}

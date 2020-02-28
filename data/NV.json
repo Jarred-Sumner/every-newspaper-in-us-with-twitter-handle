@@ -1,0 +1,181 @@
+{
+  "Battle Mountain, NV": [],
+  "Boulder City, NV": [
+    {
+      "name": "Boulder City Review",
+      "twitter": "bcreview",
+      "website": "http://bouldercityreview.com/",
+      "facebook": "https://www.facebook.com/bouldercityreview"
+    }
+  ],
+  "Caliente, NV": [
+    {
+      "name": "Lincoln County Record",
+      "twitter": "lccentral",
+      "website": "http://www.lccentral.com/",
+      "facebook": "https://www.facebook.com/lccentral"
+    }
+  ],
+  "Carson City, NV": [
+    {
+      "name": "Nevada Appeal",
+      "twitter": "nevadaappeal",
+      "website": "http://www.nevadaappeal.com/",
+      "facebook": "https://www.facebook.com/NevadaAppeal"
+    }
+  ],
+  "Dayton, NV": [
+    {
+      "name": "Leader Courier",
+      "twitter": "rgj",
+      "website": "http://www.rgj.com/news/leader-courier-news/",
+      "facebook": "https://www.facebook.com/RGJmedia"
+    }
+  ],
+  "Elko, NV": [
+    {
+      "name": "Elko Daily Free Press",
+      "twitter": "ElkoDaily",
+      "website": "http://elkodaily.com/",
+      "facebook": "https://www.facebook.com/elkodaily"
+    }
+  ],
+  "Ely, NV": [
+    {
+      "name": "Ely Daily Times",
+      "twitter": "ElyTimes",
+      "website": "http://www.elynews.com/",
+      "facebook": "https://www.facebook.com/ElyTimes"
+    }
+  ],
+  "Eureka, NV": [],
+  "Fallon, NV": [
+    {
+      "name": "Lahontan Valley News",
+      "twitter": "fallonnews",
+      "website": "http://www.nevadaappeal.com/news/lahontan-valley/",
+      "facebook": "https://www.facebook.com/LahontanValleyNews"
+    }
+  ],
+  "Gardnerville, NV": [
+    {
+      "name": "Record-Courier",
+      "twitter": "recordcouriernv",
+      "website": "http://www.recordcourier.com/",
+      "facebook": "https://www.facebook.com/recordcourier"
+    }
+  ],
+  "Hawthorne, NV": [],
+  "Henderson, NV": [
+    {
+      "name": "Henderson View",
+      "twitter": "reviewjournal",
+      "website": "http://www.reviewjournal.com/local/henderson",
+      "facebook": "https://www.facebook.com/reviewjournal"
+    }
+  ],
+  "Incline Village, NV": [
+    {
+      "name": "Tahoe Daily Tribune",
+      "twitter": "TahoeDailyTrib",
+      "website": "http://www.tahoedailytribune.com/",
+      "facebook": "https://www.facebook.com/TahoeDailyTribune"
+    }
+  ],
+  "Las Vegas, NV": [
+    {
+      "name": "Las Vegas Informer",
+      "twitter": "lvinformer",
+      "website": "http://lasvegas.informermg.com/",
+      "facebook": "https://www.facebook.com/lvinformer"
+    },
+    {
+      "name": "Las Vegas Review Journal",
+      "twitter": "reviewjournal",
+      "website": "http://www.reviewjournal.com/",
+      "facebook": "https://www.facebook.com/reviewjournal"
+    },
+    {
+      "name": "Las Vegas Sun",
+      "twitter": "lasvegassun",
+      "website": "https://lasvegassun.com/",
+      "facebook": "https://www.facebook.com/lasvegassun"
+    },
+    {
+      "name": "Las Vegas Weekly",
+      "twitter": "LasVegasWeekly",
+      "website": "https://lasvegasweekly.com/",
+      "facebook": "https://www.facebook.com/lasvegasweekly"
+    },
+    {
+      "name": "Vegas Inc",
+      "twitter": "vegasinc",
+      "website": "https://vegasinc.com/news/business/",
+      "facebook": "https://www.facebook.com/vegasinc"
+    }
+  ],
+  "Laughlin, NV": [],
+  "Lovelock, NV": [],
+  "Mesquite, NV": [
+    {
+      "name": "Desert Valley Times",
+      "twitter": "SpectrumNews",
+      "website": "http://www.thespectrum.com/mesquite/",
+      "facebook": "https://www.facebook.com/TheSpectrumNews"
+    },
+    {
+      "name": "Mesquite Local News",
+      "twitter": "MesquiteLocal",
+      "website": "http://mesquitelocalnews.com/",
+      "facebook": "https://www.facebook.com/pages/Mesquite-Local-News/152547778130177"
+    }
+  ],
+  "Moapa Valley, NV": [],
+  "Pahrump, NV": [
+    {
+      "name": "Pahrump Valley Times",
+      "twitter": "pvtimes",
+      "website": "http://pvtimes.com/",
+      "facebook": "https://www.facebook.com/pages/Pahrump-Valley-Times/111940278873743"
+    }
+  ],
+  "Reno, NV": [
+    {
+      "name": "News & Review",
+      "twitter": "rnrtwits",
+      "website": "http://www.newsreview.com/",
+      "facebook": "https://www.facebook.com/RenoNewsReview"
+    },
+    {
+      "name": "Reno Gazette-Journal",
+      "twitter": "rgj",
+      "website": "http://www.rgj.com/",
+      "facebook": "https://www.facebook.com/RGJmedia"
+    }
+  ],
+  "Sparks, NV": [
+    {
+      "name": "Sparks Tribune",
+      "twitter": "sparkstribune",
+      "website": "http://sparkstrib.com/",
+      "facebook": "https://www.facebook.com/Sparkstribune"
+    }
+  ],
+  "West Wendover, NV": [],
+  "Winnemucca, NV": [
+    {
+      "name": "Inside Northern Nevada",
+      "twitter": "News4Nevada",
+      "website": "http://insidenorthernnevada.com/",
+      "facebook": "https://www.facebook.com/news4nevada"
+    }
+  ],
+  "Yerington, NV": [
+    {
+      "name": "Mason Valley News",
+      "twitter": "MasonValleyNews",
+      "website": "http://www.rgj.com/news/mason-valley-news/",
+      "facebook": "https://www.facebook.com/pages/Mason-Valley-News/198372836839675"
+    }
+  ]
+}

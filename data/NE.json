@@ -1,0 +1,383 @@
+{
+  "Ainsworth, NE": [],
+  "Albion, NE": [],
+  "Alliance, NE": [],
+  "Arapahoe, NE": [],
+  "Arnold, NE": [],
+  "Ashland, NE": [
+    {
+      "name": "Ashland Gazette",
+      "twitter": "wahoonewspaper",
+      "website": "http://www.wahoo-ashland-waverly.com/",
+      "facebook": "https://www.facebook.com/AshlandGazette"
+    }
+  ],
+  "Atkinson, NE": [],
+  "Aurora, NE": [
+    {
+      "name": "Aurora News-Register",
+      "twitter": "NewsregisterANR",
+      "website": "http://www.auroranewsregister.com/",
+      "facebook": "https://www.facebook.com/auroranewsregister"
+    }
+  ],
+  "Beatrice, NE": [
+    {
+      "name": "Daily Sun",
+      "twitter": "beadailysunnews",
+      "website": "http://beatricedailysun.com/",
+      "facebook": "https://www.facebook.com/BeatriceDailySun"
+    }
+  ],
+  "Bellevue, NE": [
+    {
+      "name": "Bellevue Leader",
+      "twitter": "bellevueleader",
+      "website": "http://www.omaha.com/sarpy/bellevue/",
+      "facebook": "https://www.facebook.com/bellevueleader"
+    }
+  ],
+  "Blair, NE": [
+    {
+      "name": "Pilot-Tribune & Enterprise",
+      "twitter": "EnterprisePub",
+      "website": "http://www.enterprisepub.com/",
+      "facebook": "https://www.facebook.com/pages/Enterprise-Publishing-Company/47472656273"
+    }
+  ],
+  "Blue Springs-Wymore, NE": [],
+  "Bridgeport, NE": [
+    {
+      "name": "Bridgeport News-Blade",
+      "twitter": "News_Blade",
+      "website": "http://www.newsblade.com/",
+      "facebook": "https://www.facebook.com/bridgeport.newsblade"
+    }
+  ],
+  "Broken Bow, NE": [],
+  "Chadron, NE": [
+    {
+      "name": "Chadron Record",
+      "twitter": "ChadronRecord",
+      "website": "http://rapidcityjournal.com/news/local/communities/chadron/",
+      "facebook": "https://www.facebook.com/ChadronRecord"
+    }
+  ],
+  "Clearwater, NE": [
+    {
+      "name": "Clearwater Record-Ewing News",
+      "twitter": "NelighNews",
+      "website": "http://www.nelighnews.com/clearwater_ewing/",
+      "facebook": "https://www.facebook.com/pages/Neligh-News-Leader/121500851239543"
+    }
+  ],
+  "Columbus, NE": [],
+  "Cozad, NE": [
+    {
+      "name": "Tri-City Tribune",
+      "twitter": "TriCityTribune",
+      "website": "http://www.tricitytrib.com/"
+    }
+  ],
+  "Creighton, NE": [],
+  "Crofton, NE": [],
+  "David City, NE": [],
+  "Doniphan, NE": [],
+  "Elgin, NE": [],
+  "Elkhorn, NE": [
+    {
+      "name": "Douglas County Post-Gazette",
+      "twitter": "DCPGSports",
+      "website": "http://www.dcpostgazette.com/",
+      "facebook": "https://www.facebook.com/TheDouglasCountyPostGazette"
+    }
+  ],
+  "Fairbury, NE": [
+    {
+      "name": "Fairbury Journal-News",
+      "twitter": "FbyJournal",
+      "website": "http://www.fairburyjournalnews.com/",
+      "facebook": "https://www.facebook.com/fairburyjournalnews.local"
+    }
+  ],
+  "Falls City, NE": [
+    {
+      "name": "Falls City Journal",
+      "twitter": "FCNEJournal",
+      "website": "http://www.fcjournal.net/",
+      "facebook": "https://www.facebook.com/fallscityjournal"
+    }
+  ],
+  "Fremont, NE": [
+    {
+      "name": "Fremont Tribune",
+      "twitter": "FremontTribune",
+      "website": "http://fremonttribune.com/",
+      "facebook": "https://www.facebook.com/thefremonttribune"
+    }
+  ],
+  "Friend, NE": [],
+  "Geneva, NE": [],
+  "Gering, NE": [
+    {
+      "name": "Gering Courier",
+      "twitter": "GeringCourier",
+      "website": "http://www.starherald.com/gering/",
+      "facebook": "https://www.facebook.com/GeringCourier"
+    }
+  ],
+  "Gibbon, NE": [],
+  "Gothenburg, NE": [],
+  "Grand Island, NE": [
+    {
+      "name": "Daily Independent",
+      "twitter": "theindependent",
+      "website": "http://www.theindependent.com/",
+      "facebook": "https://www.facebook.com/GIIndependent"
+    }
+  ],
+  "Gretna, NE": [
+    {
+      "name": "Gretna Breeze",
+      "twitter": "gretnabreeze",
+      "website": "http://www.omaha.com/sarpy/gretna/",
+      "facebook": "https://www.facebook.com/gretna.breeze"
+    }
+  ],
+  "Hartington, NE": [
+    {
+      "name": "Cedar County News",
+      "twitter": "CedarCoNews",
+      "website": "http://www.hartington.net/",
+      "facebook": "https://www.facebook.com/pages/Cedar-County-News/281752803640"
+    }
+  ],
+  "Hastings, NE": [
+    {
+      "name": "Hastings Tribune",
+      "twitter": "hastingstribune",
+      "website": "http://www.hastingstribune.com/",
+      "facebook": "https://www.facebook.com/HastingsTribune"
+    }
+  ],
+  "Hebron, NE": [],
+  "Hemingford, NE": [],
+  "Hickman, NE": [],
+  "Imperial, NE": [],
+  "Kearney, NE": [
+    {
+      "name": "Kearney Daily Hub",
+      "twitter": "KearneyHub",
+      "website": "http://www.kearneyhub.com/",
+      "facebook": "https://www.facebook.com/kearneyhub"
+    }
+  ],
+  "Kimball, NE": [],
+  "Lexington, NE": [
+    {
+      "name": "Lexington Clipper-Herald",
+      "twitter": "ClipperHerald",
+      "website": "http://lexch.com/",
+      "facebook": "https://www.facebook.com/LexingtonClipperHerald"
+    }
+  ],
+  "Lincoln, NE": [
+    {
+      "name": "Lincoln Journal Star",
+      "twitter": "JournalStarNews",
+      "website": "http://journalstar.com/",
+      "facebook": "https://www.facebook.com/LincolnJournalStar"
+    },
+    {
+      "name": "Neighborhood Extra",
+      "twitter": "JournalStarNews",
+      "website": "http://journalstar.com/niche/neighborhood-extra/",
+      "facebook": "https://www.facebook.com/LincolnJournalStar"
+    }
+  ],
+  "McCook, NE": [
+    {
+      "name": "McCook Daily Gazette",
+      "twitter": "mccookgazette2",
+      "website": "http://www.mccookgazette.com/",
+      "facebook": "https://www.facebook.com/mccookgazette"
+    }
+  ],
+  "Milford, NE": [],
+  "Minden, NE": [],
+  "Mitchell, NE": [],
+  "Nebraska City, NE": [],
+  "Neligh, NE": [
+    {
+      "name": "News and Leader",
+      "twitter": "NelighNews",
+      "website": "http://www.nelighnews.com/",
+      "facebook": "https://www.facebook.com/NelighNews"
+    }
+  ],
+  "Niobrara, NE": [],
+  "Norfolk, NE": [],
+  "North Bend, NE": [
+    {
+      "name": "North Bend Eagle",
+      "twitter": "northbendeagle",
+      "website": "http://www.northbendeagle.com/",
+      "facebook": "https://www.facebook.com/pages/North-Bend-Eagle/42304392053"
+    }
+  ],
+  "North Platte, NE": [
+    {
+      "name": "North Platte Telegraph",
+      "twitter": "NPTelegraph",
+      "website": "http://www.nptelegraph.com/",
+      "facebook": "https://www.facebook.com/NPTelegraph"
+    }
+  ],
+  "O'Neill, NE": [],
+  "Oakland, NE": [],
+  "Omaha, NE": [
+    {
+      "name": "Midlands Business Journal",
+      "twitter": "mbjpublications",
+      "website": "http://www.mbj.com/"
+    },
+    {
+      "name": "Omaha Reader",
+      "twitter": "TheReaderOmaha",
+      "website": "http://thereader.com/",
+      "facebook": "https://www.facebook.com/thereaderomaha"
+    },
+    {
+      "name": "Omaha-World Herald",
+      "twitter": "OWHnews",
+      "website": "http://www.omaha.com/",
+      "facebook": "https://www.facebook.com/WorldHerald"
+    }
+  ],
+  "Oshkosh, NE": [],
+  "Papillion, NE": [
+    {
+      "name": "Times",
+      "twitter": "PapillionTimes",
+      "website": "http://www.omaha.com/sarpy/papillion/",
+      "facebook": "https://www.facebook.com/papilliontimes"
+    }
+  ],
+  "Pawnee City, NE": [],
+  "Pender, NE": [],
+  "Petersburg, NE": [],
+  "Plainview, NE": [],
+  "Plattsmouth, NE": [],
+  "Ralston, NE": [
+    {
+      "name": "Ralston Recorder",
+      "twitter": "ralstonrecorder",
+      "website": "http://www.omaha.com/sarpy/ralston/",
+      "facebook": "https://www.facebook.com/ralstonrecorder"
+    }
+  ],
+  "Ravenna, NE": [],
+  "Scottsbluff, NE": [
+    {
+      "name": "Scottsbluff Star-Herald",
+      "twitter": "sbstarherald",
+      "website": "http://www.starherald.com/",
+      "facebook": "https://www.facebook.com/ScottsbluffStarHerald/"
+    }
+  ],
+  "Seward, NE": [],
+  "Shelton, NE": [],
+  "Sidney, NE": [
+    {
+      "name": "Sidney Sun Telegraph",
+      "twitter": "SunTelegraph",
+      "website": "http://www.suntelegraph.com/",
+      "facebook": "https://www.facebook.com/SidneySunTelegraph"
+    }
+  ],
+  "South Sioux City, NE": [
+    {
+      "name": "Dakota County Star",
+      "twitter": "SSC_Star",
+      "website": "http://www.enterprisepub.com/dakotacountystar/",
+      "facebook": "https://www.facebook.com/pages/Dakota-County-Star/114602245221776"
+    }
+  ],
+  "Stromsburg, NE": [],
+  "Superior, NE": [],
+  "Sutton, NE": [
+    {
+      "name": "Clay County News",
+      "twitter": "claycountynews",
+      "website": "http://www.theclaycountynews.com/",
+      "facebook": "https://www.facebook.com/pages/The-Clay-County-News/257650744723"
+    }
+  ],
+  "Syracuse, NE": [],
+  "Tecumseh, NE": [],
+  "Tekamah, NE": [
+    {
+      "name": "Burt County Plaindealer",
+      "twitter": "bcplaindealer",
+      "website": "http://www.midwestmessenger.com/burt_county/",
+      "facebook": "https://www.facebook.com/plaindealer"
+    },
+    {
+      "name": "Midwest Messenger",
+      "twitter": "MWMessenger",
+      "website": "http://www.midwestmessenger.com/",
+      "facebook": "https://www.facebook.com/midwestmessenger"
+    }
+  ],
+  "Valentine, NE": [],
+  "Wahoo, NE": [
+    {
+      "name": "Wahoo Newspaper",
+      "twitter": "wahoonewspaper",
+      "website": "http://www.wahoo-ashland-waverly.com/",
+      "facebook": "https://www.facebook.com/wahoonewspaper"
+    }
+  ],
+  "Wauneta, NE": [
+    {
+      "name": "Wauneta Breeze",
+      "twitter": "WaunetaBreeze",
+      "website": "http://www.waunetabreeze.com/",
+      "facebook": "https://www.facebook.com/TheWaunetaBreeze"
+    }
+  ],
+  "Waverly, NE": [
+    {
+      "name": "News",
+      "twitter": "waverlynews",
+      "website": "http://www.wahoo-ashland-waverly.com/waverly/",
+      "facebook": "https://www.facebook.com/waverlynews"
+    }
+  ],
+  "Wayne, NE": [
+    {
+      "name": "Wayne Herald",
+      "twitter": "TheWayneHerald",
+      "website": "http://www.mywaynenews.com/",
+      "facebook": "https://www.facebook.com/pages/The-Wayne-Herald/164649006884238"
+    }
+  ],
+  "West Point, NE": [
+    {
+      "name": "West Point News",
+      "twitter": "wstptnews",
+      "website": "http://www.wpnews.com/",
+      "facebook": "https://www.facebook.com/WestPointNews/"
+    }
+  ],
+  "Wilber, NE": [],
+  "Wood River, NE": [],
+  "York, NE": [
+    {
+      "name": "News Times",
+      "twitter": "yorknewstimes",
+      "website": "http://www.yorknewstimes.com/",
+      "facebook": "https://www.facebook.com/yorknewstimes"
+    }
+  ]
+}

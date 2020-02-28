@@ -1,0 +1,592 @@
+{
+  "Alexandria, VA": [
+    {
+      "name": "Alexandria Gazette Packet",
+      "twitter": "marykimm",
+      "website": "http://www.alexandriagazette.com/",
+      "facebook": "https://www.facebook.com/ConnectionNewspapers"
+    },
+    {
+      "name": "Alexandria Times",
+      "twitter": "AlexTimesNews",
+      "website": "http://alextimes.com/",
+      "facebook": "https://www.facebook.com/pages/Alexandria-Times/226316950757380"
+    },
+    {
+      "name": "Potomac Almanac",
+      "twitter": "PotomacAlmanac",
+      "website": "http://www.potomacalmanac.com/",
+      "facebook": "https://www.facebook.com/ConnectionNewspapers"
+    }
+  ],
+  "Amelia Court House, VA": [],
+  "Arlington, VA": [
+    {
+      "name": "Arlington Connection",
+      "twitter": "arlconnection",
+      "website": "http://www.arlingtonconnection.com/",
+      "facebook": "https://www.facebook.com/ConnectionNewspapers"
+    }
+  ],
+  "Bedford, VA": [
+    {
+      "name": "Bedford Bulletin",
+      "twitter": "BedfordBullNH",
+      "website": "http://www.bedfordbulletin.com/",
+      "facebook": "https://www.facebook.com/pages/The-Bedford-Bulletin/133889826546"
+    }
+  ],
+  "Big Stone Gap, VA": [
+    {
+      "name": "Coalfield Progress",
+      "twitter": "coalfield",
+      "website": "http://www.thecoalfieldprogress.com/",
+      "facebook": "https://www.facebook.com/pages/The-Coalfield-Progress/50439908360"
+    }
+  ],
+  "Bland, VA": [
+    {
+      "name": "Bland County Messenger",
+      "twitter": "SwVirginia_News",
+      "website": "http://www.swvatoday.com/news/bland_county/",
+      "facebook": "https://www.facebook.com/SWVaToday"
+    }
+  ],
+  "Bon Air, VA": [
+    {
+      "name": "Chesterfield Observer",
+      "twitter": "CfieldObserver",
+      "website": "http://www.chesterfieldobserver.com/",
+      "facebook": "https://www.facebook.com/pages/Chesterfield-Observer/159158504116928"
+    }
+  ],
+  "Bristol, VA": [
+    {
+      "name": "Bristol Herald Courier",
+      "twitter": "heraldcourier",
+      "website": "http://www.heraldcourier.com/",
+      "facebook": "https://www.facebook.com/heraldcourierdotcom/?rf=124647024249523"
+    }
+  ],
+  "Burke, VA": [
+    {
+      "name": "Burke Connection",
+      "twitter": "burkeconnection",
+      "website": "http://www.burkeconnection.com/",
+      "facebook": "https://www.facebook.com/ConnectionNewspapers"
+    }
+  ],
+  "Camptown, VA": [
+    {
+      "name": "Tidewater News",
+      "twitter": "TidewaterNews",
+      "website": "http://www.tidewaternews.com/category/news/wight-county/",
+      "facebook": "https://www.facebook.com/tidewaternews"
+    }
+  ],
+  "Centreville, VA": [
+    {
+      "name": "Centre View",
+      "twitter": "CentreView",
+      "website": "http://www.centre-view.com/",
+      "facebook": "https://www.facebook.com/ConnectionNewspapers"
+    }
+  ],
+  "Charlottesville, VA": [
+    {
+      "name": "Daily Progress",
+      "twitter": "DailyProgress",
+      "website": "http://www.dailyprogress.com/",
+      "facebook": "https://www.facebook.com/dailyprogress"
+    }
+  ],
+  "Christiansburg, VA": [],
+  "Clintwood, VA": [],
+  "Courtland, VA": [
+    {
+      "name": "Tidewater News",
+      "twitter": "tidewaternews",
+      "website": "http://www.tidewaternews.com/category/news/southampton/",
+      "facebook": "https://www.facebook.com/tidewaternews"
+    }
+  ],
+  "Covington, VA": [],
+  "Crozet, VA": [
+    {
+      "name": "Crozet Gazette",
+      "twitter": "CrozetGazette",
+      "website": "http://www.crozetgazette.com/",
+      "facebook": "https://www.facebook.com/crozetgazette"
+    }
+  ],
+  "Culpeper, VA": [
+    {
+      "name": "Culpeper Star Exponent",
+      "twitter": "CulpeperSE",
+      "website": "http://www.dailyprogress.com/starexponent/",
+      "facebook": "https://www.facebook.com/Starexponent.news"
+    }
+  ],
+  "Danville, VA": [
+    {
+      "name": "Danville Register & Bee",
+      "twitter": "godanriver",
+      "website": "http://www.godanriver.com/",
+      "facebook": "https://www.facebook.com/godanriver"
+    }
+  ],
+  "East Lexington, VA": [
+    {
+      "name": "News-Gazette",
+      "twitter": "TheNewsGazette",
+      "website": "http://www.thenews-gazette.com/",
+      "facebook": "https://www.facebook.com/pages/The-News-Gazette/76743914409"
+    }
+  ],
+  "Fairfax, VA": [
+    {
+      "name": "Fairfax Connection",
+      "twitter": "ffxconnection",
+      "website": "http://www.fairfaxconnection.com/",
+      "facebook": "https://www.facebook.com/ConnectionNewspapers"
+    }
+  ],
+  "Falls Church, VA": [
+    {
+      "name": "Falls Church News-Press",
+      "twitter": "FCNP_Nicholas",
+      "website": "http://fcnp.com/",
+      "facebook": "https://www.facebook.com/fallschurchcity"
+    }
+  ],
+  "Farmville, VA": [
+    {
+      "name": "Farmville Herald",
+      "twitter": "FarmvilleHerald",
+      "website": "http://www.farmvilleherald.com/",
+      "facebook": "https://www.facebook.com/pages/The-Farmville-Herald/163635187532"
+    }
+  ],
+  "Fincastle, VA": [],
+  "Floyd, VA": [
+    {
+      "name": "Floyd Press",
+      "twitter": "SwVirginia_News",
+      "website": "http://www.swvatoday.com/news/floyd/",
+      "facebook": "https://www.facebook.com/wandacombs.floydpress"
+    }
+  ],
+  "Franklin, VA": [
+    {
+      "name": "Tidewater News",
+      "twitter": "tidewaternews",
+      "website": "http://www.tidewaternews.com/category/news/franklin/",
+      "facebook": "https://www.facebook.com/tidewaternews"
+    }
+  ],
+  "Fredericksburg, VA": [],
+  "Galax, VA": [
+    {
+      "name": "Gazette",
+      "twitter": "GalaxNews",
+      "website": "http://www.galaxgazette.com/",
+      "facebook": "https://www.facebook.com/pages/Galax-Gazette/249155319878"
+    }
+  ],
+  "Gate City, VA": [
+    {
+      "name": "Virginia Star",
+      "twitter": "SCVaStar",
+      "website": "http://www.virginiastar.net/",
+      "facebook": "https://www.facebook.com/pages/Scott-County-Virginia-Star/81895767190"
+    }
+  ],
+  "Great Falls, VA": [
+    {
+      "name": "Great Falls Connection",
+      "twitter": "marykimm",
+      "website": "http://www.greatfallsconnection.com/",
+      "facebook": "https://www.facebook.com/ConnectionNewspapers"
+    }
+  ],
+  "Hampton, VA": [
+    {
+      "name": "Daily Press",
+      "twitter": "daily_press",
+      "website": "http://www.dailypress.com/",
+      "facebook": "https://www.facebook.com/hamptonnews"
+    }
+  ],
+  "Hanover, VA": [
+    {
+      "name": "Herald-Progress",
+      "twitter": "heraldprogress",
+      "website": "http://www.herald-progress.com/",
+      "facebook": "https://www.facebook.com/pages/The-Herald-Progress/249083255113762"
+    }
+  ],
+  "Harrisonburg, VA": [
+    {
+      "name": "Daily News Record",
+      "twitter": "DNRnews",
+      "website": "http://www.dnronline.com/",
+      "facebook": "https://www.facebook.com/DNRonline"
+    }
+  ],
+  "Herndon, VA": [
+    {
+      "name": "Herndon Connection",
+      "twitter": "herndonconnect",
+      "website": "http://www.herndonconnection.com/",
+      "facebook": "https://www.facebook.com/ConnectionNewspapers"
+    }
+  ],
+  "Hillsville, VA": [
+    {
+      "name": "Carroll News",
+      "twitter": "carrollnews",
+      "website": "http://thecarrollnews.com/",
+      "facebook": "https://www.facebook.com/pages/The-Carroll-News/119717104927"
+    }
+  ],
+  "Hopewell, VA": [
+    {
+      "name": "Hopewell News",
+      "twitter": "HopewellNews",
+      "website": "http://www.hopewellnews.com/",
+      "facebook": "https://www.facebook.com/TheHopewellNews"
+    }
+  ],
+  "Hot Springs, VA": [],
+  "Keysville, VA": [],
+  "Kilmarnock, VA": [
+    {
+      "name": "Rappahannock Record",
+      "twitter": "RappRecord",
+      "website": "http://www.rrecord.com/",
+      "facebook": "https://www.facebook.com/RappahannockRecord"
+    }
+  ],
+  "Leesburg, VA": [
+    {
+      "name": "Loudoun Times Mirror",
+      "twitter": "LTMNews",
+      "website": "http://www.loudountimes.com/",
+      "facebook": "https://www.facebook.com/pages/Loudoun-Times-Mirror/16779603787"
+    },
+    {
+      "name": "Loudoun Times-Mirror",
+      "twitter": "LTMnews",
+      "website": "http://www.loudountimes.com/",
+      "facebook": "https://www.facebook.com/Loudoun-Times-Mirror-16779603787/"
+    }
+  ],
+  "Louisa, VA": [
+    {
+      "name": "Central Virginian News",
+      "twitter": "thecv",
+      "website": "http://www.thecentralvirginian.com/",
+      "facebook": "https://www.facebook.com/pages/The-Central-Virginian/254722314545932"
+    }
+  ],
+  "Lynchburg, VA": [
+    {
+      "name": "News & Advance",
+      "twitter": "newsadvance",
+      "website": "http://www.newsadvance.com/",
+      "facebook": "https://www.facebook.com/newsadvance"
+    }
+  ],
+  "Madison, VA": [
+    {
+      "name": "Madison County Eagle",
+      "twitter": "MCEagleNews",
+      "website": "http://www.dailyprogress.com/madisonnews/",
+      "facebook": "https://www.facebook.com/madisoncountyeagle"
+    }
+  ],
+  "Manassas, VA": [
+    {
+      "name": "InsideNoVa",
+      "twitter": "INSIDENOVA",
+      "website": "http://www.insidenova.com/",
+      "facebook": "https://www.facebook.com/insidenova"
+    }
+  ],
+  "Marion, VA": [
+    {
+      "name": "Smyth County News & Messenger",
+      "twitter": "SwVirginia_News",
+      "website": "http://www.swvatoday.com/news/smyth_county/",
+      "facebook": "https://www.facebook.com/SWVaToday"
+    }
+  ],
+  "Martinsville, VA": [
+    {
+      "name": "Martinsville Bulletin",
+      "twitter": "MVilleBulletin",
+      "website": "http://www.martinsvillebulletin.com/",
+      "facebook": "https://www.facebook.com/MARTINSVILLE-BULLETIN-1041382549218732/"
+    }
+  ],
+  "McLean, VA": [
+    {
+      "name": "McLean Connection",
+      "twitter": "McLeanConnect",
+      "website": "http://www.mcleanconnection.com/",
+      "facebook": "https://www.facebook.com/ConnectionNewspapers"
+    },
+    {
+      "name": "USA Today",
+      "twitter": "usatoday",
+      "website": "http://www.usatoday.com/",
+      "facebook": "https://www.facebook.com/usatoday"
+    }
+  ],
+  "Mount Vernon, VA": [
+    {
+      "name": "Mount Vernon Gazette",
+      "twitter": "mtvernongazette",
+      "website": "http://www.mountvernongazette.com/",
+      "facebook": "https://www.facebook.com/ConnectionNewspapers"
+    }
+  ],
+  "New Castle, VA": [],
+  "Norfolk, VA": [
+    {
+      "name": "Hampton Roads Messenger",
+      "twitter": "H_R_Messenger",
+      "website": "http://hamptonroadsmessenger.com/",
+      "facebook": "https://www.facebook.com/hamptonroadsmessenger"
+    },
+    {
+      "name": "Inside Business",
+      "twitter": "insidebusiness",
+      "website": "http://pilotonline.com/inside-business/",
+      "facebook": "https://www.facebook.com/insidebusiness"
+    },
+    {
+      "name": "Virginian Pilot",
+      "twitter": "pilotnews",
+      "website": "http://pilotonline.com/",
+      "facebook": "https://www.facebook.com/virginianpilot"
+    }
+  ],
+  "North Springfield, VA": [
+    {
+      "name": "Air Force Times",
+      "twitter": "airforcetimes",
+      "website": "http://www.airforcetimes.com/",
+      "facebook": "https://www.facebook.com/AirForceTimes"
+    },
+    {
+      "name": "Army Times",
+      "twitter": "armytimes",
+      "website": "http://www.armytimes.com/",
+      "facebook": "https://www.facebook.com/armytimes"
+    },
+    {
+      "name": "Marine Corps Times",
+      "twitter": "marinetimes",
+      "website": "http://www.marinecorpstimes.com/",
+      "facebook": "https://www.facebook.com/MarineCorpsTimes"
+    },
+    {
+      "name": "Navy Times",
+      "twitter": "navytimes",
+      "website": "http://www.navytimes.com/",
+      "facebook": "https://www.facebook.com/navytimes"
+    },
+    {
+      "name": "Springfield Connection",
+      "twitter": "sprconnect",
+      "website": "http://www.springfieldconnection.com/",
+      "facebook": "https://www.facebook.com/ConnectionNewspapers"
+    }
+  ],
+  "Onley, VA": [],
+  "Palmyra, VA": [
+    {
+      "name": "Fluvanna Review",
+      "twitter": "fluvannareview",
+      "website": "http://www.fluvannareview.com/",
+      "facebook": "https://www.facebook.com/pages/Fluvanna-Review/117197871658389"
+    }
+  ],
+  "Petersburg, VA": [
+    {
+      "name": "Progress Index",
+      "twitter": "progressindex",
+      "website": "http://progress-index.com/",
+      "facebook": "https://www.facebook.com/TheProgressIndex"
+    }
+  ],
+  "Pulaski, VA": [
+    {
+      "name": "Southwest Times",
+      "twitter": "SouthwestTimes",
+      "website": "http://www.southwesttimes.com/",
+      "facebook": "https://www.facebook.com/TheSouthwestTimes"
+    }
+  ],
+  "Radford, VA": [],
+  "Reston, VA": [
+    {
+      "name": "Reston Connection",
+      "twitter": "restonconnect",
+      "website": "http://www.reston-connection.com/",
+      "facebook": "https://www.facebook.com/ConnectionNewspapers"
+    }
+  ],
+  "Richlands, VA": [],
+  "Richmond, VA": [
+    {
+      "name": "Richmond Times-Dispatch",
+      "twitter": "rtdnews",
+      "website": "http://www.richmond.com/",
+      "facebook": "https://www.facebook.com/TimesDispatch"
+    },
+    {
+      "name": "Style Weekly",
+      "twitter": "styleweekly",
+      "website": "http://www.styleweekly.com/",
+      "facebook": "https://www.facebook.com/StyleWeekly"
+    }
+  ],
+  "Roanoke, VA": [
+    {
+      "name": "Roanoke Times",
+      "twitter": "roanoketimes",
+      "website": "http://www.roanoke.com/",
+      "facebook": "https://www.facebook.com/roanoketimes"
+    }
+  ],
+  "Rocky Mount, VA": [],
+  "Salem, VA": [],
+  "Smithfield, VA": [
+    {
+      "name": "Times",
+      "twitter": "SmithfieldTimes",
+      "website": "http://www.smithfieldtimes.com/",
+      "facebook": "https://www.facebook.com/smithfield.times"
+    }
+  ],
+  "South Boston, VA": [
+    {
+      "name": "Gazette-Virginian",
+      "twitter": "sobogazette",
+      "website": "http://www.yourgv.com/",
+      "facebook": "https://www.facebook.com/gazettevirginian"
+    },
+    {
+      "name": "News and Record",
+      "twitter": "sobNR",
+      "website": "http://www.thenewsrecord.com/"
+    }
+  ],
+  "South Hill, VA": [
+    {
+      "name": "South Hill Enterprise",
+      "twitter": "SouthHillEnterp",
+      "website": "http://www.southhillenterprise.com/",
+      "facebook": "https://www.facebook.com/pages/South-Hill-Enterprise-SHE/248450068610369"
+    }
+  ],
+  "Stanardsville, VA": [],
+  "Staunton, VA": [
+    {
+      "name": "Daily News Leader",
+      "twitter": "NewsLeaderNOW",
+      "website": "http://www.newsleader.com/",
+      "facebook": "https://www.facebook.com/newsleaderStaunton"
+    }
+  ],
+  "Strasburg, VA": [
+    {
+      "name": "Northern Virginia Daily",
+      "twitter": "nvdaily",
+      "website": "http://www.nvdaily.com/",
+      "facebook": "https://www.facebook.com/nvdaily"
+    }
+  ],
+  "Stuart, VA": [],
+  "Suffolk, VA": [
+    {
+      "name": "News Herald",
+      "twitter": "suffolknews",
+      "website": "http://www.suffolknewsherald.com/",
+      "facebook": "https://www.facebook.com/pages/Suffolk-News-Herald/136322790088"
+    }
+  ],
+  "Urbanna, VA": [
+    {
+      "name": "Southside Sentinel",
+      "twitter": "ssentinel",
+      "website": "http://www.ssentinel.com/",
+      "facebook": "https://www.facebook.com/SSentineldotcom"
+    }
+  ],
+  "Vienna, VA": [
+    {
+      "name": "Vienna Connection",
+      "twitter": "viennaconnect",
+      "website": "http://www.viennaconnection.com/",
+      "facebook": "https://www.facebook.com/ConnectionNewspapers"
+    }
+  ],
+  "Vinton, VA": [],
+  "Warrenton, VA": [
+    {
+      "name": "Fauquier Democrat",
+      "twitter": "FauquierDotCom",
+      "website": "http://www.fauquier.com",
+      "facebook": "https://www.facebook.com/pages/Fauquier-Times-Democrat/92372024357"
+    }
+  ],
+  "Washington, VA": [
+    {
+      "name": "Rappahannock News",
+      "twitter": "rappnews",
+      "website": "http://www.rappnews.com/",
+      "facebook": "https://www.facebook.com/rappahannocknews"
+    }
+  ],
+  "Waynesboro, VA": [
+    {
+      "name": "Augusta Free Press",
+      "twitter": "augfreepress",
+      "website": "http://augustafreepress.com/",
+      "facebook": "https://www.facebook.com/AugustaFreePress"
+    },
+    {
+      "name": "News-Virginian",
+      "twitter": "newsvirginian",
+      "website": "http://www.newsvirginian.com/",
+      "facebook": "https://www.facebook.com/newsvirginian"
+    }
+  ],
+  "Williamsburg, VA": [
+    {
+      "name": "Virginia Gazette",
+      "twitter": "vagazette",
+      "website": "http://www.vagazette.com/",
+      "facebook": "https://www.facebook.com/pages/The-Virginia-Gazette/141530814802"
+    }
+  ],
+  "Winchester, VA": [
+    {
+      "name": "Winchester Star",
+      "twitter": "WinStarVa",
+      "website": "http://www.winchesterstar.com/",
+      "facebook": "https://www.facebook.com/pages/The-Winchester-Star/195641831897"
+    }
+  ],
+  "Wytheville, VA": [
+    {
+      "name": "Enterprise",
+      "twitter": "SwVirginia_News",
+      "website": "http://www.swvatoday.com/news/wytheville/",
+      "facebook": "https://www.facebook.com/SWVaToday"
+    }
+  ]
+}

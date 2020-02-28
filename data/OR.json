@@ -1,0 +1,439 @@
+{
+  "Albany, OR": [
+    {
+      "name": "Democrat-Herald",
+      "twitter": "dhnews",
+      "website": "http://democratherald.com/",
+      "facebook": "https://www.facebook.com/dhnews"
+    }
+  ],
+  "Ashland, OR": [
+    {
+      "name": "Ashland Daily Tidings",
+      "twitter": "dailytidings",
+      "website": "http://www.dailytidings.com/",
+      "facebook": "https://www.facebook.com/dailytidings"
+    }
+  ],
+  "Astoria, OR": [
+    {
+      "name": "Daily Astorian",
+      "twitter": "dailyastorian",
+      "website": "http://www.dailyastorian.com/",
+      "facebook": "https://www.facebook.com/DailyAstorian"
+    }
+  ],
+  "Baker City, OR": [
+    {
+      "name": "Baker City Herald",
+      "twitter": "bakercityherald",
+      "website": "http://www.bakercityherald.com/",
+      "facebook": "https://www.facebook.com/pages/Baker-City-Herald/114015861975478"
+    }
+  ],
+  "Beaverton, OR": [
+    {
+      "name": "Beaverton Valley Times",
+      "twitter": "valleytimes",
+      "website": "http://portlandtribune.com/beaverton-valley-times-news/",
+      "facebook": "https://www.facebook.com/pages/Beaverton-Valley-Times/1412416682310946"
+    }
+  ],
+  "Bend, OR": [
+    {
+      "name": "Bulletin",
+      "twitter": "thebulletin",
+      "website": "http://www.bendbulletin.com/",
+      "facebook": "https://www.facebook.com/bendbulletin"
+    },
+    {
+      "name": "Cascade Business News",
+      "twitter": "cascadebusnews",
+      "website": "http://cascadebusnews.com/",
+      "facebook": "https://www.facebook.com/CascadeBusinessNews"
+    },
+    {
+      "name": "Source Weekly",
+      "twitter": "sourceweekly",
+      "website": "http://www.bendsource.com/",
+      "facebook": "https://www.facebook.com/sourceweekly"
+    }
+  ],
+  "Brookings, OR": [
+    {
+      "name": "Curry Coastal Pilot",
+      "twitter": "currypilot",
+      "website": "http://www.currypilot.com/",
+      "facebook": "https://www.facebook.com/currypilot"
+    }
+  ],
+  "Burns, OR": [],
+  "Canby, OR": [],
+  "Cannon Beach, OR": [
+    {
+      "name": "Cannon Beach Gazette",
+      "twitter": "thecbgazette",
+      "website": "http://www.dailyastorian.com/gazette",
+      "facebook": "https://www.facebook.com/cannonbeachgazette"
+    }
+  ],
+  "Clatskanie, OR": [
+    {
+      "name": "Clatskanie Chief",
+      "twitter": "thechiefnews",
+      "website": "http://www.thechiefnews.com/",
+      "facebook": "https://www.facebook.com/thechiefnews"
+    }
+  ],
+  "Columbia City, OR": [
+    {
+      "name": "St. Helens Chronicle",
+      "twitter": "SHChronicle",
+      "website": "http://www.thechronicleonline.com/",
+      "facebook": "https://www.facebook.com/sthelenschronicle"
+    }
+  ],
+  "Coos Bay, OR": [
+    {
+      "name": "World",
+      "twitter": "TheWorldLink",
+      "website": "http://theworldlink.com/",
+      "facebook": "https://www.facebook.com/theworldnewspaper"
+    }
+  ],
+  "Corvallis, OR": [
+    {
+      "name": "Corvallis Gazette Times",
+      "twitter": "gtnews",
+      "website": "http://www.gazettetimes.com/",
+      "facebook": "https://www.facebook.com/gtnews"
+    }
+  ],
+  "Cottage Grove, OR": [
+    {
+      "name": "Cottage Grove Sentinel",
+      "twitter": "CGSentinel",
+      "website": "http://www.cgsentinel.com/",
+      "facebook": "https://www.facebook.com/pages/Cottage-Grove-Sentinel/277918985580804"
+    }
+  ],
+  "Creswell, OR": [],
+  "Dallas, OR": [
+    {
+      "name": "Polk County Itemizer-Observer",
+      "twitter": "PolkIONews",
+      "website": "http://www.polkio.com/",
+      "facebook": "https://www.facebook.com/pages/Polk-County-Itemizer-Observer/205062686252209"
+    }
+  ],
+  "Enterprise, OR": [
+    {
+      "name": "Wallowa County Chieftain",
+      "twitter": "wcchieftain",
+      "website": "http://www.wallowa.com/",
+      "facebook": "https://www.facebook.com/Wallowa"
+    }
+  ],
+  "Eugene, OR": [
+    {
+      "name": "Eugene Weekly",
+      "twitter": "eugeneweekly",
+      "website": "http://www.eugeneweekly.com/",
+      "facebook": "https://www.facebook.com/eugeneweekly"
+    },
+    {
+      "name": "Register-Guard",
+      "twitter": "registerguard",
+      "website": "http://registerguard.com/",
+      "facebook": "https://www.facebook.com/registerguard"
+    }
+  ],
+  "Florence, OR": [],
+  "Gold Beach, OR": [],
+  "Grants Pass, OR": [
+    {
+      "name": "Daily Courier",
+      "twitter": "DailyCourier",
+      "website": "http://www.thedailycourier.com/",
+      "facebook": "https://www.facebook.com/pages/Grants-Pass-Daily-Courier/64393391305"
+    }
+  ],
+  "Gresham, OR": [
+    {
+      "name": "Outlook",
+      "twitter": "gresham_outlook",
+      "website": "http://portlandtribune.com/gresham-outlook-news/",
+      "facebook": "https://www.facebook.com/pages/Gresham-Outlook-sports-page/301040080734"
+    }
+  ],
+  "Hermiston, OR": [
+    {
+      "name": "Hermiston Herald",
+      "twitter": "HermistonHerald",
+      "website": "http://www.hermistonherald.com/",
+      "facebook": "https://www.facebook.com/HermistonHerald"
+    }
+  ],
+  "Hillsboro, OR": [],
+  "Hood River, OR": [
+    {
+      "name": "Hood River News",
+      "twitter": "HoodRiverNews",
+      "website": "http://www.hoodrivernews.com/",
+      "facebook": "https://www.facebook.com/hoodrivernews"
+    }
+  ],
+  "John Day, OR": [
+    {
+      "name": "Blue Mountain Eagle",
+      "twitter": "myeaglenews",
+      "website": "http://www.bluemountaineagle.com/",
+      "facebook": "https://www.facebook.com/MyEagleNews"
+    }
+  ],
+  "Keizer, OR": [
+    {
+      "name": "Keizertimes",
+      "twitter": "Keizertimes",
+      "website": "http://keizertimes.com/",
+      "facebook": "https://www.facebook.com/Keizertimes"
+    }
+  ],
+  "Klamath Falls, OR": [
+    {
+      "name": "Herald and News",
+      "twitter": "HeraldandNews",
+      "website": "http://www.heraldandnews.com/",
+      "facebook": "https://www.facebook.com/HandN"
+    }
+  ],
+  "La Grande, OR": [
+    {
+      "name": "La Grande Observer",
+      "twitter": "lagrandenews",
+      "website": "http://www.lagrandeobserver.com/",
+      "facebook": "https://www.facebook.com/pages/La-Grande-Observer/105392516175605"
+    }
+  ],
+  "Lake Oswego, OR": [
+    {
+      "name": "West Linn Tidings",
+      "twitter": "WestLinnTidings",
+      "website": "http://portlandtribune.com/west-linn-tidings-news/",
+      "facebook": "https://www.facebook.com/westlinntidings"
+    }
+  ],
+  "Lakeview, OR": [],
+  "Lebanon, OR": [
+    {
+      "name": "Lebanon Express",
+      "twitter": "LebanonExpress",
+      "website": "http://lebanon-express.com/",
+      "facebook": "https://www.facebook.com/LebanonExpress"
+    }
+  ],
+  "Lincoln City, OR": [
+    {
+      "name": "News Guard",
+      "twitter": "TheNewsGuard",
+      "website": "http://www.thenewsguard.com/",
+      "facebook": "https://www.facebook.com/thenewsguard"
+    }
+  ],
+  "Madras, OR": [],
+  "Manzanita, OR": [
+    {
+      "name": "North Coast Citizen",
+      "twitter": "nccitizen",
+      "website": "http://www.northcoastcitizen.com/",
+      "facebook": "https://www.facebook.com/northcoastcitizen"
+    }
+  ],
+  "McMinnville, OR": [
+    {
+      "name": "News-Register",
+      "twitter": "newsregister",
+      "website": "http://newsregister.com/",
+      "facebook": "https://www.facebook.com/newsregister"
+    }
+  ],
+  "Medford, OR": [
+    {
+      "name": "Mail Tribune",
+      "twitter": "mailtribune",
+      "website": "http://www.mailtribune.com/",
+      "facebook": "https://www.facebook.com/mailtribune"
+    }
+  ],
+  "Molalla, OR": [],
+  "Newberg, OR": [
+    {
+      "name": "Newberg Graphic",
+      "twitter": "newberggraphic",
+      "website": "http://www.pamplinmedia.com/newberg-graphic-news",
+      "facebook": "https://www.facebook.com/newberggraphic"
+    }
+  ],
+  "Newport, OR": [],
+  "Ontario, OR": [
+    {
+      "name": "Argus Observer",
+      "twitter": "argusobserver",
+      "website": "http://www.argusobserver.com/",
+      "facebook": "https://www.facebook.com/ArgusObserver"
+    }
+  ],
+  "Pacific City, OR": [],
+  "Pendleton, OR": [
+    {
+      "name": "East Oregonian",
+      "twitter": "EastOregonian",
+      "website": "http://www.eastoregonian.com/",
+      "facebook": "https://www.facebook.com/EastOregonian"
+    }
+  ],
+  "Portland, OR": [
+    {
+      "name": "Mid-County Memo",
+      "twitter": "MidcountyMemo",
+      "website": "http://midcountymemo.com/",
+      "facebook": "https://www.facebook.com/midcountymemo"
+    },
+    {
+      "name": "Oregonian",
+      "twitter": "oregonian",
+      "website": "http://www.oregonlive.com/",
+      "facebook": "https://www.facebook.com/theoregonian"
+    },
+    {
+      "name": "Portland Business Journal",
+      "twitter": "pdxbizjournal",
+      "website": "http://www.bizjournals.com/portland/",
+      "facebook": "https://www.facebook.com/PortlandBizJournal"
+    },
+    {
+      "name": "Portland Mercury",
+      "twitter": "portlandmercury",
+      "website": "http://www.portlandmercury.com/",
+      "facebook": "https://www.facebook.com/portlandmercury"
+    },
+    {
+      "name": "Portland Observer",
+      "twitter": "pdxobserver",
+      "website": "http://portlandobserver.com/"
+    },
+    {
+      "name": "Portland Tribune",
+      "twitter": "ThePortlandTrib",
+      "website": "http://portlandtribune.com/",
+      "facebook": "https://www.facebook.com/pages/Portland-Tribune/89942648552"
+    },
+    {
+      "name": "Skanner",
+      "twitter": "TheSkannerNews",
+      "website": "http://www.theskanner.com/",
+      "facebook": "https://www.facebook.com/pages/The-Skanner-News-Group/176585345334"
+    },
+    {
+      "name": "Willamette Week",
+      "twitter": "wweek",
+      "website": "http://www.wweek.com/",
+      "facebook": "https://www.facebook.com/wweek"
+    }
+  ],
+  "Prineville, OR": [],
+  "Rogue River, OR": [],
+  "Roseburg, OR": [
+    {
+      "name": "News-Review",
+      "twitter": "nrtoday",
+      "website": "http://www.nrtoday.com/",
+      "facebook": "https://www.facebook.com/thenewsreview"
+    }
+  ],
+  "Salem, OR": [
+    {
+      "name": "Capital Press Agriculture Weekly",
+      "twitter": "capitalpress",
+      "website": "http://www.capitalpress.com/",
+      "facebook": "https://www.facebook.com/capitalpress"
+    },
+    {
+      "name": "Salem News",
+      "twitter": "oregonnews",
+      "website": "http://salem-news.com/"
+    },
+    {
+      "name": "Salem Weekly",
+      "twitter": "salemweekly",
+      "website": "http://salemweeklynews.com/",
+      "facebook": "https://www.facebook.com/salem.weekly"
+    },
+    {
+      "name": "Statesman Journal",
+      "twitter": "Salem_Statesman",
+      "website": "http://www.statesmanjournal.com/",
+      "facebook": "https://www.facebook.com/statesmanjournal"
+    }
+  ],
+  "Scappoose, OR": [],
+  "Seaside, OR": [
+    {
+      "name": "Seaside Signal",
+      "twitter": "SeasideSignal",
+      "website": "http://www.dailyastorian.com/signal",
+      "facebook": "https://www.facebook.com/seasidesignal"
+    }
+  ],
+  "Silverton, OR": [],
+  "Sisters, OR": [
+    {
+      "name": "Nugget Newspaper",
+      "twitter": "Nuggetnewspaper",
+      "website": "http://www.nuggetnews.com/",
+      "facebook": "https://www.facebook.com/NuggetNews"
+    }
+  ],
+  "Springfield, OR": [
+    {
+      "name": "River Reflections",
+      "twitter": "McKReflections",
+      "website": "http://mckenzieriverreflectionsnewspaper.com/",
+      "facebook": "https://www.facebook.com/McKenzieRiverReflections"
+    }
+  ],
+  "Stayton, OR": [],
+  "Sweet Home, OR": [],
+  "The Dalles, OR": [
+    {
+      "name": "Dalles Chronicle",
+      "twitter": "tdchronicle",
+      "website": "http://www.thedalleschronicle.com/",
+      "facebook": "https://www.facebook.com/TheDallesChronicle"
+    }
+  ],
+  "Tillamook, OR": [
+    {
+      "name": "Headlight-Herald",
+      "twitter": "headlightherald",
+      "website": "http://www.tillamookheadlightherald.com/",
+      "facebook": "https://www.facebook.com/tillamookheadlightherald"
+    }
+  ],
+  "Wilsonville, OR": [
+    {
+      "name": "Wilsonville Spokesman",
+      "twitter": "wspokesman",
+      "website": "http://www.pamplinmedia.com/wilsonville-spokesman-news",
+      "facebook": "https://www.facebook.com/wilsonvillespokesman"
+    }
+  ],
+  "Woodburn, OR": [
+    {
+      "name": "Woodburn Independent",
+      "twitter": "WBIndependent",
+      "website": "http://www.pamplinmedia.com/woodburn-independent-news",
+      "facebook": "https://www.facebook.com/WoodburnIndependent"
+    }
+  ]
+}

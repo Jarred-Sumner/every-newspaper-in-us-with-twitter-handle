@@ -1,0 +1,123 @@
+{
+  "Anchorage, AK": [
+    {
+      "name": "Alaska Dispatch News",
+      "twitter": "adndotcom",
+      "website": "http://www.adn.com/",
+      "facebook": "https://www.facebook.com/akdispatch"
+    },
+    {
+      "name": "Alaska Journal of Commerce",
+      "twitter": "alaskajournal",
+      "website": "http://www.alaskajournal.com/",
+      "facebook": "https://www.facebook.com/AlaskaJournal"
+    },
+    {
+      "name": "Alaska Star ",
+      "twitter": "Alaska_Star",
+      "website": "http://www.alaskastar.com/",
+      "facebook": "https://www.facebook.com/AlaskaStar"
+    },
+    {
+      "name": "Anchorage Press ",
+      "twitter": "anchoragepress",
+      "website": "http://www.anchoragepress.com/",
+      "facebook": "https://www.facebook.com/anchoragepress"
+    }
+  ],
+  "Bethel, AK": [],
+  "Cordova, AK": [],
+  "Delta Junction, AK": [],
+  "Dillingham, AK": [],
+  "Fairbanks, AK": [
+    {
+      "name": "Fairbanks Daily News-Miner",
+      "twitter": "newsminer",
+      "website": "http://www.newsminer.com/",
+      "facebook": "https://www.facebook.com/fairbanksDNM"
+    }
+  ],
+  "Haines, AK": [],
+  "Homer, AK": [],
+  "Juneau, AK": [
+    {
+      "name": "Capital City Weekly ",
+      "twitter": "capweekly",
+      "website": "http://capitalcityweekly.com/",
+      "facebook": "https://www.facebook.com/capitalcityweekly"
+    },
+    {
+      "name": "Juneau Empire",
+      "twitter": "JuneauEmpire",
+      "website": "http://juneauempire.com/",
+      "facebook": "https://www.facebook.com/juneauempire"
+    }
+  ],
+  "Kenai, AK": [
+    {
+      "name": "Clarion Dispatch ",
+      "twitter": "pclarion",
+      "website": "http://peninsulaclarion.com/dispatch",
+      "facebook": "https://www.facebook.com/peninsulaclarion"
+    },
+    {
+      "name": "Peninsula Clarion",
+      "twitter": "pclarion",
+      "website": "http://peninsulaclarion.com/",
+      "facebook": "https://www.facebook.com/peninsulaclarion"
+    }
+  ],
+  "Ketchikan, AK": [
+    {
+      "name": "Ketchikan Daily News",
+      "twitter": "KDNSports",
+      "website": "http://www.ketchikandailynews.com/",
+      "facebook": "https://www.facebook.com/ketchikandailynews"
+    },
+    {
+      "name": "Sitnews",
+      "twitter": "SitNews",
+      "website": "http://www.sitnews.us/",
+      "facebook": "https://www.facebook.com/SitNews.Ketchikan"
+    }
+  ],
+  "Kodiak, AK": [
+    {
+      "name": "Kodiak Daily Mirror",
+      "twitter": "kdkmirror",
+      "website": "http://www.kodiakdailymirror.com/",
+      "facebook": "https://www.facebook.com/pages/The-Kodiak-Daily-Mirror/117209891693204"
+    }
+  ],
+  "Kotzebue, AK": [],
+  "Nome, AK": [],
+  "Petersburg, AK": [],
+  "Seldovia, AK": [
+    {
+      "name": "Seldovia Gazette",
+      "twitter": "SeldoviaCom",
+      "website": "http://www.seldovia.com/seldovia-gazette/",
+      "facebook": "https://www.facebook.com/Seldovia"
+    }
+  ],
+  "Seward, AK": [],
+  "Sitka, AK": [
+    {
+      "name": "Daily Sitka Sentinel",
+      "twitter": "sitkasentinel",
+      "website": "http://sitkasentinel.com/",
+      "facebook": "https://www.facebook.com/sitkasentinel"
+    }
+  ],
+  "Skagway, AK": [],
+  "Valdez, AK": [],
+  "Wasilla, AK": [
+    {
+      "name": "Frontiersman",
+      "twitter": "matsu_news",
+      "website": "http://www.frontiersman.com/",
+      "facebook": "https://www.facebook.com/frontiersman"
+    }
+  ],
+  "Wrangell, AK": []
+}

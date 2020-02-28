@@ -1,0 +1,281 @@
+{
+  "Abbeville, LA": [],
+  "Alexandria, LA": [
+    {
+      "name": "Alexandria Daily Town Talk",
+      "twitter": "TownTalkDotCom",
+      "website": "http://www.thetowntalk.com/",
+      "facebook": "https://www.facebook.com/TheTownTalk"
+    }
+  ],
+  "Amite City, LA": [],
+  "Basile, LA": [],
+  "Bastrop, LA": [
+    {
+      "name": "Bastrop Daily Enterprise",
+      "twitter": "DailyEnterprise",
+      "website": "http://www.bastropenterprise.com/",
+      "facebook": "https://www.facebook.com/BastropEnterprise"
+    }
+  ],
+  "Baton Rouge, LA": [
+    {
+      "name": "Advocate",
+      "twitter": "2theadvocate",
+      "website": "http://www.theadvocate.com/",
+      "facebook": "https://www.facebook.com/theadvocatebr"
+    },
+    {
+      "name": "Business Report",
+      "twitter": "brbizreport",
+      "website": "https://www.businessreport.com/",
+      "facebook": "https://www.facebook.com/businessreport"
+    }
+  ],
+  "Bogalusa, LA": [],
+  "Bossier City, LA": [
+    {
+      "name": "Press-Tribune",
+      "twitter": "BossierPress",
+      "website": "http://bossierpress.com/",
+      "facebook": "https://www.facebook.com/bossierpress"
+    }
+  ],
+  "Boutte, LA": [],
+  "Bunkie, LA": [],
+  "Cade, LA": [],
+  "Cameron, LA": [],
+  "Central, LA": [],
+  "Clinton, LA": [
+    {
+      "name": "East Feliciana Watchman",
+      "twitter": "2theadvocate",
+      "website": "http://www.theadvocate.com/baton_rouge/news/communities/",
+      "facebook": "https://www.facebook.com/eastfeliciana.watchman"
+    }
+  ],
+  "Crowley, LA": [
+    {
+      "name": "Crowley Post-Signal",
+      "twitter": "CPS_NewsUpdates",
+      "website": "http://www.crowleypostsignal.com/",
+      "facebook": "https://www.facebook.com/TheCrowleyPostSignal"
+    }
+  ],
+  "Denham Springs, LA": [
+    {
+      "name": "Livingston Parish News",
+      "twitter": "LPNews1898",
+      "website": "http://www.livingstonparishnews.com/",
+      "facebook": "https://www.facebook.com/TheLivingstonParishNews"
+    }
+  ],
+  "DeQuincy, LA": [],
+  "DeRidder, LA": [
+    {
+      "name": "Beauregard Daily News",
+      "twitter": "beauregardnews",
+      "website": "http://www.beauregarddailynews.net/",
+      "facebook": "https://www.facebook.com/beauregardnews"
+    }
+  ],
+  "Donaldsonville, LA": [
+    {
+      "name": "Donaldsonville Chief",
+      "twitter": "dvillechief",
+      "website": "http://www.donaldsonvillechief.com/",
+      "facebook": "https://www.facebook.com/pages/The-Donaldsonville-Chief/80835703246"
+    }
+  ],
+  "Eunice, LA": [],
+  "Farmerville, LA": [],
+  "Ferriday, LA": [],
+  "Franklin, LA": [],
+  "Gonzales, LA": [
+    {
+      "name": "Weekly Citizen",
+      "twitter": "WeeklyCitizen",
+      "website": "http://www.weeklycitizen.com/",
+      "facebook": "https://www.facebook.com/WeeklyCitizen"
+    }
+  ],
+  "Greensburg, LA": [],
+  "Gueydan, LA": [],
+  "Hammond, LA": [
+    {
+      "name": "Daily Star",
+      "twitter": "hammondlastar",
+      "website": "http://www.hammondstar.com/",
+      "facebook": "https://www.facebook.com/pages/The-Daily-Star-Hammond-La/129005157889"
+    }
+  ],
+  "Houma, LA": [
+    {
+      "name": "Houma Today",
+      "twitter": "houmatoday",
+      "website": "http://www.houmatoday.com/",
+      "facebook": "https://www.facebook.com/houmatoday"
+    }
+  ],
+  "Jena, LA": [],
+  "Jennings, LA": [],
+  "Kaplan, LA": [],
+  "Kentwood, LA": [],
+  "Lafayette, LA": [
+    {
+      "name": "Daily Advertiser",
+      "twitter": "theadvertiser",
+      "website": "http://www.theadvertiser.com/",
+      "facebook": "https://www.facebook.com/dailyadvertiser"
+    }
+  ],
+  "Lake Charles, LA": [
+    {
+      "name": "American Press",
+      "twitter": "americanpress",
+      "website": "http://www.americanpress.com/",
+      "facebook": "https://www.facebook.com/americanpress"
+    }
+  ],
+  "Laplace, LA": [],
+  "Leesville, LA": [
+    {
+      "name": "Daily Leader",
+      "twitter": "LDLeader",
+      "website": "http://www.leesvilledailyleader.com/",
+      "facebook": "https://www.facebook.com/pages/Leesville-Daily-Leader/115764205185612"
+    }
+  ],
+  "Many, LA": [],
+  "Minden, LA": [],
+  "Monroe, LA": [
+    {
+      "name": "News-Star",
+      "twitter": "thenewsstar",
+      "website": "http://www.thenewsstar.com/",
+      "facebook": "https://www.facebook.com/pages/The-News-Star/54660221594"
+    }
+  ],
+  "Morgan City, LA": [],
+  "Natchitoches, LA": [],
+  "New Iberia, LA": [],
+  "New Orleans, LA": [
+    {
+      "name": "CityBusiness",
+      "twitter": "City_Business",
+      "website": "http://neworleanscitybusiness.com/",
+      "facebook": "https://www.facebook.com/NewOrleansCityBusiness"
+    },
+    {
+      "name": "Clarion Herald",
+      "twitter": "clarionHerald",
+      "website": "http://clarionherald.info/",
+      "facebook": "https://www.facebook.com/clarionherald"
+    },
+    {
+      "name": "Gambit Weekly",
+      "twitter": "The_Gambit",
+      "website": "http://www.bestofneworleans.com/",
+      "facebook": "https://www.facebook.com/GambitNewOrleans"
+    },
+    {
+      "name": "Times-Picayune",
+      "twitter": "nolanews",
+      "website": "http://www.nola.com/t-p/",
+      "facebook": "https://www.facebook.com/NOLAnews"
+    }
+  ],
+  "Opelousas, LA": [
+    {
+      "name": "Opelousas Daily World",
+      "twitter": "The_Daily_World",
+      "website": "http://www.dailyworld.com/",
+      "facebook": "https://www.facebook.com/dailyworld"
+    }
+  ],
+  "Plaquemine, LA": [
+    {
+      "name": "Post South",
+      "twitter": "ThePostSouth",
+      "website": "http://www.postsouth.com/",
+      "facebook": "https://www.facebook.com/PostSouth"
+    }
+  ],
+  "Ponchatoula, LA": [],
+  "Port Allen, LA": [
+    {
+      "name": "West Side Journal",
+      "twitter": "WestSideJournal",
+      "website": "http://www.thewestsidejournal.com/",
+      "facebook": "https://www.facebook.com/The-West-Side-Journal-87213548175/?rf=126101807444785"
+    }
+  ],
+  "Port Sulphur, LA": [
+    {
+      "name": "Southwest Daily News",
+      "twitter": "SulphurNews",
+      "website": "http://www.sulphurdailynews.com/",
+      "facebook": "https://www.facebook.com/pages/Southwest-Daily-News/211763305553513"
+    }
+  ],
+  "Prairieville, LA": [
+    {
+      "name": "Creole",
+      "twitter": "Thecreole_com",
+      "website": "http://www.thecreole.com/",
+      "facebook": "https://www.facebook.com/TheCreole"
+    }
+  ],
+  "Rayne, LA": [],
+  "Rayville, LA": [],
+  "Ruston, LA": [
+    {
+      "name": "Ruston Daily Leader",
+      "twitter": "RustonLeader ",
+      "website": "http://www.rustonleader.com/",
+      "facebook": "https://www.facebook.com/rustondailyleader"
+    }
+  ],
+  "Shreveport, LA": [
+    {
+      "name": "Times",
+      "twitter": "shreveporttimes",
+      "website": "http://www.shreveporttimes.com/",
+      "facebook": "https://www.facebook.com/shreveporttimes"
+    }
+  ],
+  "Thibodaux, LA": [
+    {
+      "name": "Daily Comet",
+      "twitter": "dailycomet",
+      "website": "http://www.dailycomet.com/",
+      "facebook": "https://www.facebook.com/dailycomet"
+    }
+  ],
+  "Ville Platte, LA": [],
+  "West Monroe, LA": [
+    {
+      "name": "Ouachita Citizen",
+      "twitter": "OuachitaCitizen",
+      "website": "http://www.hannapub.com/ouachitacitizen/",
+      "facebook": "https://www.facebook.com/TheOuachitaCitizen"
+    }
+  ],
+  "Winnfield, LA": [],
+  "Winnsboro, LA": [
+    {
+      "name": "Franklin Sun",
+      "twitter": "TheFranklinSun",
+      "website": "http://www.hannapub.com/franklinsun/",
+      "facebook": "https://www.facebook.com/thefranklinsun"
+    }
+  ],
+  "Zachary, LA": [
+    {
+      "name": "Zachary Plainsman-News",
+      "twitter": "2theadvocate",
+      "website": "http://www.theadvocate.com/baton_rouge/news/communities/",
+      "facebook": "https://www.facebook.com/zacharyplainsman"
+    }
+  ]
+}

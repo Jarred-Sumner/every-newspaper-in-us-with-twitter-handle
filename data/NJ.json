@@ -1,0 +1,665 @@
+{
+  "Allentown, NJ": [],
+  "Andover, NJ": [],
+  "Bayonne, NJ": [
+    {
+      "name": "Bayonne Community News",
+      "twitter": "hudson_reporter",
+      "website": "http://hudsonreporter.com/pages/bayonne",
+      "facebook": "https://www.facebook.com/thehudsonreporter"
+    }
+  ],
+  "Belle Mead, NJ": [],
+  "Berkeley, NJ": [
+    {
+      "name": "Berkeley Times",
+      "twitter": "micromediapubs",
+      "website": "http://micromediapubs.com/category/berkeley/",
+      "facebook": "http://www.facebook.com/theberkeleytimes/"
+    }
+  ],
+  "Bernardsville, NJ": [
+    {
+      "name": "Bernardsville News",
+      "twitter": "Bville_News",
+      "website": "http://www.newjerseyhills.com/bernardsville_news/",
+      "facebook": "https://www.facebook.com/bernardsvillenews"
+    },
+    {
+      "name": "Echoes Sentinel",
+      "twitter": "echoessentinel",
+      "website": "http://www.newjerseyhills.com/echoes-sentinel/",
+      "facebook": "https://www.facebook.com/EchoesSentinel"
+    },
+    {
+      "name": "Hanover Eagle",
+      "twitter": "hanovereagle",
+      "website": "http://www.newjerseyhills.com/hanover_eagle/",
+      "facebook": "https://www.facebook.com/HanoverEagle"
+    }
+  ],
+  "Brick, NJ": [
+    {
+      "name": "Brick Times",
+      "twitter": "micromediapubs",
+      "website": "http://micromediapubs.com/category/brick/",
+      "facebook": "https://www.facebook.com/thebricktimes"
+    }
+  ],
+  "Bridgeton, NJ": [
+    {
+      "name": "South Jersey Times",
+      "twitter": "njdotcom",
+      "website": "http://www.nj.com/south/",
+      "facebook": "https://www.facebook.com/SouthJerseyTimes"
+    }
+  ],
+  "Bridgewater, NJ": [
+    {
+      "name": "Courier-News",
+      "twitter": "MyCentralJersey",
+      "website": "http://www.mycentraljersey.com/",
+      "facebook": "https://www.facebook.com/MyCentralJersey"
+    }
+  ],
+  "Brigantine, NJ": [
+    {
+      "name": "Brigantine Beachcomber News",
+      "twitter": "BrigantineNews",
+      "website": "http://www.shorenewstoday.com/brigantine/",
+      "facebook": "https://www.facebook.com/BrigantineBeachcomber"
+    }
+  ],
+  "Caldwell, NJ": [
+    {
+      "name": "Progress",
+      "twitter": "TheProgressNJ",
+      "website": "http://www.newjerseyhills.com/the_progress/",
+      "facebook": "https://www.facebook.com/TheProgressNJ"
+    }
+  ],
+  "Cape May, NJ": [
+    {
+      "name": "Cape May Gazette",
+      "twitter": "capemaygazette",
+      "website": "http://www.shorenewstoday.com/cape_may/",
+      "facebook": "https://www.facebook.com/capemaygazette"
+    }
+  ],
+  "Cedar Grove, NJ": [
+    {
+      "name": "Cedar Grove Observer",
+      "twitter": "CGVObserver",
+      "website": "http://www.newjerseyhills.com/cg-v_observers/",
+      "facebook": "https://www.facebook.com/pages/CedarGroveVeronaObserver/110770215713982"
+    }
+  ],
+  "Chatham, NJ": [
+    {
+      "name": "Chatham Courier",
+      "twitter": "ChathamCourier",
+      "website": "http://www.newjerseyhills.com/chatham_courier/",
+      "facebook": "https://www.facebook.com/chathamcourier"
+    }
+  ],
+  "Cherry Hill, NJ": [
+    {
+      "name": "Courier-Post",
+      "twitter": "cpsj",
+      "website": "http://www.courierpostonline.com/",
+      "facebook": "https://www.facebook.com/courierpost"
+    }
+  ],
+  "Chester, NJ": [
+    {
+      "name": "Observer Tribune",
+      "twitter": "ObserverTribune",
+      "website": "http://www.newjerseyhills.com/observer-tribune/",
+      "facebook": "https://www.facebook.com/ObserverTribune"
+    }
+  ],
+  "Clinton, NJ": [
+    {
+      "name": "Hunterdon Review",
+      "twitter": "HunterdonReview",
+      "website": "http://www.newjerseyhills.com/hunterdon_review/",
+      "facebook": "https://www.facebook.com/HunterdonReview"
+    }
+  ],
+  "Collingswood, NJ": [
+    {
+      "name": "Retrospect",
+      "twitter": "theretrospect",
+      "website": "http://theretrospect.com/",
+      "facebook": "https://www.facebook.com/pages/The-Retrospect/102243110324"
+    }
+  ],
+  "Cranbury, NJ": [
+    {
+      "name": "Cranbury Press",
+      "twitter": "cranburypress",
+      "website": "http://www.centraljersey.com/news/the_cranbury_press/",
+      "facebook": "https://www.facebook.com/CranburyPress"
+    }
+  ],
+  "Denville, NJ": [],
+  "East Brunswick, NJ": [
+    {
+      "name": "Home News & Tribune",
+      "twitter": "mycentraljersey",
+      "website": "http://www.mycentraljersey.com/",
+      "facebook": "https://www.facebook.com/MyCentralJersey"
+    }
+  ],
+  "East Newark, NJ": [
+    {
+      "name": "Star-Ledger",
+      "twitter": "starledger",
+      "website": "http://www.nj.com/starledger/",
+      "facebook": "https://www.facebook.com/Star.Ledger"
+    }
+  ],
+  "East Rutherford, NJ": [
+    {
+      "name": "South Bergenite",
+      "twitter": "northjersey",
+      "website": "http://www.northjersey.com/local/bergen/",
+      "facebook": "https://www.facebook.com/northjerseycom/"
+    }
+  ],
+  "East Windsor, NJ": [
+    {
+      "name": "Windsor-Hights Herald",
+      "twitter": "WHHerald",
+      "website": "http://www.centraljersey.com/news/windsor_hights_herald/",
+      "facebook": "https://www.facebook.com/WindsorHightsHerald"
+    }
+  ],
+  "Edison, NJ": [],
+  "Farmingdale, NJ": [],
+  "Flemington, NJ": [
+    {
+      "name": "Hunterdon Co Democrat",
+      "twitter": "njdotcom",
+      "website": "http://www.nj.com/hunterdon-county-democrat/",
+      "facebook": "https://www.facebook.com/NJ.com"
+    }
+  ],
+  "Florham Park, NJ": [
+    {
+      "name": "Florham Park Eagle",
+      "twitter": "FlorhamPEagle",
+      "website": "http://www.newjerseyhills.com/florham_park_eagle/",
+      "facebook": "https://www.facebook.com/florhamparkeagle"
+    }
+  ],
+  "Franklin, NJ": [],
+  "Garfield, NJ": [
+    {
+      "name": "Nowy Dziennik",
+      "twitter": "NowyDziennik",
+      "website": "http://www.dziennik.com/",
+      "facebook": "https://www.facebook.com/nowydziennik"
+    }
+  ],
+  "Hackensack, NJ": [
+    {
+      "name": "Hackensack Chronicle",
+      "twitter": "northjersey",
+      "website": "http://www.northjersey.com/local/hackensack/",
+      "facebook": "https://www.facebook.com/northjerseycom/"
+    },
+    {
+      "name": "The Record",
+      "twitter": "northjersey",
+      "website": "http://www.northjersey.com/local/hackensack",
+      "facebook": "https://www.facebook.com/northjerseycom/"
+    }
+  ],
+  "Haddonfield, NJ": [
+    {
+      "name": "Haddonfield Sun",
+      "twitter": "HaddonfieldSun",
+      "website": "https://haddonfieldsun.com/",
+      "facebook": "https://www.facebook.com/haddonfieldsun"
+    }
+  ],
+  "Hammonton, NJ": [
+    {
+      "name": "Hammonton Gazette",
+      "twitter": "HammGazette",
+      "website": "http://www.hammontongazette.com/",
+      "facebook": "https://www.facebook.com/HammontonGazette/"
+    }
+  ],
+  "Hillsborough, NJ": [
+    {
+      "name": "Hillsborough Beacon",
+      "twitter": "HillsBeacon",
+      "website": "http://www.centraljersey.com/news/hillsborough_beacon/",
+      "facebook": "https://www.facebook.com/HillsboroughBeacon"
+    }
+  ],
+  "Hoboken, NJ": [
+    {
+      "name": "Hoboken Reporter",
+      "twitter": "hudson_reporter",
+      "website": "http://hudsonreporter.com/pages/hoboken",
+      "facebook": "https://www.facebook.com/thehudsonreporter"
+    }
+  ],
+  "Holmdel, NJ": [],
+  "Hopewell, NJ": [
+    {
+      "name": "Hopewell Valley News",
+      "twitter": "HopewellValley",
+      "website": "http://www.centraljersey.com/news/hopewell_valley_news/",
+      "facebook": "https://www.facebook.com/HopewellValleyNews"
+    }
+  ],
+  "Howell, NJ": [
+    {
+      "name": "Howell Times",
+      "twitter": "micromediapubs",
+      "website": "http://micromediapubs.com/category/howell/",
+      "facebook": "https://www.facebook.com/thehowelltimes"
+    }
+  ],
+  "Jackson, NJ": [
+    {
+      "name": "Jackson Times",
+      "twitter": "micromediapubs",
+      "website": "http://micromediapubs.com/category/jackson/",
+      "facebook": "http://www.facebook.com/thejacksontimes"
+    }
+  ],
+  "Jersey City, NJ": [
+    {
+      "name": "Jersey City Reporter",
+      "twitter": "hudson_reporter",
+      "website": "http://hudsonreporter.com/pages/jersey_city",
+      "facebook": "https://www.facebook.com/thehudsonreporter"
+    },
+    {
+      "name": "Jersey Journal",
+      "twitter": "jerseyjournal",
+      "website": "http://www.nj.com/jjournal/",
+      "facebook": "https://www.facebook.com/JerseyJournal"
+    },
+    {
+      "name": "NJ.com",
+      "twitter": "njdotcom",
+      "website": "http://www.nj.com/",
+      "facebook": "https://www.facebook.com/NJ.com"
+    }
+  ],
+  "Kearny, NJ": [
+    {
+      "name": "Kearny Observer",
+      "twitter": "theobservernj",
+      "website": "http://www.theobserver.com/",
+      "facebook": "https://www.facebook.com/TheObserverNewspaper"
+    }
+  ],
+  "Livingston, NJ": [],
+  "Long Branch, NJ": [],
+  "Longport, NJ": [
+    {
+      "name": "Downbeach Current",
+      "twitter": "DBCurrent",
+      "website": "http://www.shorenewstoday.com/downbeach/",
+      "facebook": "https://www.facebook.com/DownbeachCurrent"
+    }
+  ],
+  "Madison, NJ": [
+    {
+      "name": "Madison Eagle",
+      "twitter": "MadisonEagleNJ",
+      "website": "http://www.newjerseyhills.com/madison_eagle/",
+      "facebook": "https://www.facebook.com/madisoneagle"
+    }
+  ],
+  "Manahawkin, NJ": [
+    {
+      "name": "Southern Ocean Times",
+      "twitter": "micromediapubs",
+      "website": "http://micromediapubs.com/category/southern-ocean/",
+      "facebook": "http://www.facebook.com/thesouthernoceantimes"
+    }
+  ],
+  "Manasquan, NJ": [
+    {
+      "name": "Coast Star",
+      "twitter": "coaststar",
+      "website": "http://starnewsgroup.com/",
+      "facebook": "https://www.facebook.com/pages/Star-News-Group-The-Coast-Star-The-Ocean-Star-Starnewsgroupcom/221050765448"
+    }
+  ],
+  "Manchester, NJ": [
+    {
+      "name": "Manchester Times",
+      "twitter": "micromediapubs",
+      "website": "http://micromediapubs.com/category/manchester/",
+      "facebook": "https://www.facebook.com/pages/Manchester-Times/207465582644398"
+    }
+  ],
+  "Maple Shade, NJ": [
+    {
+      "name": "South Jersey Local News",
+      "twitter": "CentralRecord",
+      "website": "http://www.southjerseylocalnews.com/",
+      "facebook": "https://www.facebook.com/southjersey"
+    }
+  ],
+  "Maywood, NJ": [],
+  "Medford, NJ": [
+    {
+      "name": "Central Record",
+      "twitter": "CentralRecord",
+      "website": "http://www.southjerseylocalnews.com/",
+      "facebook": "https://www.facebook.com/CentralRecord"
+    }
+  ],
+  "Middlesex, NJ": [
+    {
+      "name": "South Plainfield Observer",
+      "twitter": "SPObserver",
+      "website": "https://spobserver.com/"
+    }
+  ],
+  "Millville, NJ": [],
+  "Montclair, NJ": [
+    {
+      "name": "Montclair Times",
+      "twitter": "northjersey",
+      "website": "http://www.northjersey.com/local/montclair/",
+      "facebook": "https://www.facebook.com/northjerseycom/"
+    }
+  ],
+  "Morristown, NJ": [
+    {
+      "name": "Morris Newsbee",
+      "twitter": "MorrisNewsBee",
+      "website": "http://www.newjerseyhills.com/morris_news_bee/",
+      "facebook": "https://www.facebook.com/MorrisNewsBee"
+    }
+  ],
+  "Mount Olive, NJ": [
+    {
+      "name": "Mount Olive Chronicle",
+      "twitter": "MtOliveChron",
+      "website": "http://www.newjerseyhills.com/mt_olive_chronicle/",
+      "facebook": "https://www.facebook.com/MountOliveChronicle"
+    }
+  ],
+  "Neptune, NJ": [
+    {
+      "name": "Asbury Park Press",
+      "twitter": "AsburyParkPress",
+      "website": "http://www.app.com/",
+      "facebook": "https://www.facebook.com/asburyparkpress"
+    }
+  ],
+  "New Brunswick, NJ": [
+    {
+      "name": "NJBIZ",
+      "twitter": "NJBIZ",
+      "website": "http://www.njbiz.com/",
+      "facebook": "https://www.facebook.com/njbiz"
+    }
+  ],
+  "Newton, NJ": [
+    {
+      "name": "New Jersey Herald",
+      "twitter": "NJHerald",
+      "website": "http://www.njherald.com/",
+      "facebook": "https://www.facebook.com/NewJerseyHerald"
+    }
+  ],
+  "North Bergen, NJ": [
+    {
+      "name": "North Bergen Reporter",
+      "twitter": "hudson_reporter",
+      "website": "http://hudsonreporter.com/pages/north_bergen",
+      "facebook": "https://www.facebook.com/thehudsonreporter"
+    }
+  ],
+  "North Brunswick, NJ": [],
+  "North Wildwood, NJ": [
+    {
+      "name": "Wildwood Leader",
+      "twitter": "wildwoodleader",
+      "website": "http://www.shorenewstoday.com/wildwood/",
+      "facebook": "https://www.facebook.com/wildwoodleader"
+    }
+  ],
+  "Ocean City, NJ": [],
+  "Parsippany-Troy Hills, NJ": [
+    {
+      "name": "Daily Record",
+      "twitter": "dailyrecord",
+      "website": "http://www.dailyrecord.com/",
+      "facebook": "https://www.facebook.com/dailyrecordnews"
+    },
+    {
+      "name": "Parsippany Focus",
+      "twitter": "parsippanyfocus",
+      "website": "http://parsippanyfocus.com/",
+      "facebook": "https://www.facebook.com/parsippanyfocus/"
+    }
+  ],
+  "Paterson, NJ": [
+    {
+      "name": "Passaic News",
+      "twitter": "northjersey",
+      "website": "http://www.northjersey.com/local/passaic/",
+      "facebook": "https://www.facebook.com/northjerseycom/"
+    }
+  ],
+  "Pleasantville, NJ": [],
+  "Princeton, NJ": [
+    {
+      "name": "Princeton Packet",
+      "twitter": "PrincetonPacket",
+      "website": "http://www.centraljersey.com/news/the_princeton_packet/",
+      "facebook": "https://www.facebook.com/princetonpacket"
+    },
+    {
+      "name": "Town Topics",
+      "twitter": "TownTopics",
+      "website": "http://www.towntopics.com/",
+      "facebook": "https://www.facebook.com/towntopics"
+    }
+  ],
+  "Rahway, NJ": [
+    {
+      "name": "NJToday.net",
+      "twitter": "NJTODAY",
+      "website": "http://njtoday.net/",
+      "facebook": "https://www.facebook.com/NJTODAYNET"
+    }
+  ],
+  "Ramsey, NJ": [],
+  "Randolph, NJ": [
+    {
+      "name": "Randolph Reporter",
+      "twitter": "RandolphReporte",
+      "website": "http://www.newjerseyhills.com/randolph_reporter/",
+      "facebook": "https://www.facebook.com/RandolphReporter"
+    }
+  ],
+  "Red Bank, NJ": [
+    {
+      "name": "Two River Times",
+      "twitter": "TwoRiverTimes",
+      "website": "http://tworivertimes.com/",
+      "facebook": "https://www.facebook.com/thetworivertimes"
+    }
+  ],
+  "Ridgewood, NJ": [
+    {
+      "name": "Ridgewood News",
+      "twitter": "northjersey",
+      "website": "http://www.northjersey.com/local/ridgewood/",
+      "facebook": "https://www.facebook.com/northjerseycom/"
+    }
+  ],
+  "Rio Grande, NJ": [
+    {
+      "name": "Cape May County Herald",
+      "twitter": "HeraldNews",
+      "website": "http://www.capemaycountyherald.com/",
+      "facebook": "https://www.facebook.com/heraldnewspapers"
+    }
+  ],
+  "Roxbury, NJ": [
+    {
+      "name": "Roxbury Register",
+      "twitter": "roxburyregister",
+      "website": "http://www.newjerseyhills.com/roxbury_register/",
+      "facebook": "https://www.facebook.com/RoxburyRegister"
+    }
+  ],
+  "Sayreville, NJ": [],
+  "Secaucus, NJ": [
+    {
+      "name": "Secaucus Reporter",
+      "twitter": "hudson_reporter",
+      "website": "http://hudsonreporter.com/pages/secaucus",
+      "facebook": "https://www.facebook.com/thehudsonreporter"
+    }
+  ],
+  "South Toms River, NJ": [
+    {
+      "name": "Toms River Times",
+      "twitter": "micromediapubs",
+      "website": "http://micromediapubs.com/toms-river/",
+      "facebook": "https://www.facebook.com/thetomsrivertimes"
+    }
+  ],
+  "Sparta, NJ": [],
+  "Strathmere, NJ": [
+    {
+      "name": "Upper Township Gazette",
+      "twitter": "shorenewstoday",
+      "website": "http://www.shorenewstoday.com/upper_township/",
+      "facebook": "https://www.facebook.com/TheCurrentNewspapers"
+    }
+  ],
+  "Surf City, NJ": [
+    {
+      "name": "SandPaper",
+      "twitter": "TheSandPaperLBI",
+      "website": "http://thesandpaper.villagesoup.com/center/news",
+      "facebook": "https://www.facebook.com/pages/The-SandPaper/158895537503624"
+    }
+  ],
+  "Trenton, NJ": [
+    {
+      "name": "Capitolwire.com",
+      "twitter": "Capitolwire",
+      "website": "http://www.capitolwire.com/"
+    },
+    {
+      "name": "Times",
+      "twitter": "njdotcom",
+      "website": "http://www.nj.com/times/",
+      "facebook": "https://www.facebook.com/NJ.com"
+    },
+    {
+      "name": "Trentonian",
+      "twitter": "Trentonian",
+      "website": "http://www.trentonian.com/",
+      "facebook": "https://www.facebook.com/Trentonian"
+    }
+  ],
+  "Union, NJ": [],
+  "Union City, NJ": [
+    {
+      "name": "Union City Reporter",
+      "twitter": "hudson_reporter",
+      "website": "http://hudsonreporter.com/pages/union_city",
+      "facebook": "https://www.facebook.com/thehudsonreporter"
+    }
+  ],
+  "Upper, NJ": [
+    {
+      "name": "Current",
+      "twitter": "GallowayCurrent",
+      "website": "http://www.shorenewstoday.com/galloway_township/",
+      "facebook": "https://www.facebook.com/gallowaycurrent"
+    },
+    {
+      "name": "Ocean City Gazette",
+      "twitter": "ocgazette",
+      "website": "http://www.shorenewstoday.com/ocean_city/",
+      "facebook": "https://www.facebook.com/oceancitygazette"
+    },
+    {
+      "name": "Shore News",
+      "twitter": "shorenewstoday",
+      "website": "http://www.shorenewstoday.com/",
+      "facebook": "https://www.facebook.com/TheCurrentNewspapers"
+    }
+  ],
+  "Vernon, NJ": [],
+  "Verona, NJ": [
+    {
+      "name": "Verona Observer",
+      "twitter": "CGVObserver",
+      "website": "http://www.newjerseyhills.com/cg-v_observers/",
+      "facebook": "https://www.facebook.com/pages/CedarGroveVeronaObserver/110770215713982"
+    }
+  ],
+  "Vineland, NJ": [
+    {
+      "name": "Vineland Daily Journal",
+      "twitter": "thedailyjournal",
+      "website": "http://www.thedailyjournal.com/",
+      "facebook": "https://www.facebook.com/vinelanddailyjournal"
+    }
+  ],
+  "Wayne, NJ": [
+    {
+      "name": "Wayne News",
+      "twitter": "northjersey",
+      "website": "http://www.northjersey.com/local/wayne/",
+      "facebook": "https://www.facebook.com/northjerseycom/"
+    }
+  ],
+  "Weehawken, NJ": [
+    {
+      "name": "Weehawken Reporter",
+      "twitter": "hudson_reporter",
+      "website": "http://hudsonreporter.com/pages/weehawken",
+      "facebook": "https://www.facebook.com/thehudsonreporter"
+    }
+  ],
+  "West Milford, NJ": [],
+  "West New York, NJ": [
+    {
+      "name": "West New York Reporter",
+      "twitter": "hudson_reporter",
+      "website": "http://hudsonreporter.com/pages/west_new_york",
+      "facebook": "https://www.facebook.com/thehudsonreporter"
+    }
+  ],
+  "Westampton, NJ": [],
+  "Westfield, NJ": [
+    {
+      "name": "Westfield Leader",
+      "twitter": "leadertimes",
+      "website": "http://www.goleader.com/",
+      "facebook": "https://www.facebook.com/leadertimes"
+    }
+  ],
+  "Westwood, NJ": [
+    {
+      "name": "Pascack News",
+      "twitter": "northjersey",
+      "website": "http://www.northjersey.com/local/passaic/",
+      "facebook": "https://www.facebook.com/northjerseycom/"
+    }
+  ],
+  "Woodbury, NJ": []
+}

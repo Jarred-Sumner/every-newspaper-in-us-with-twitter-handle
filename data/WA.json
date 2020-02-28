@@ -1,0 +1,590 @@
+{
+  "Aberdeen, WA": [
+    {
+      "name": "Daily World",
+      "twitter": "GHDailyWorld",
+      "website": "http://thedailyworld.com/",
+      "facebook": "https://www.facebook.com/TheDailyWorld"
+    }
+  ],
+  "Arlington, WA": [],
+  "Bainbridge Island, WA": [
+    {
+      "name": "Bainbridge Islander",
+      "twitter": "BIConversation",
+      "website": "http://www.kitsapsun.com/bainbridge",
+      "facebook": "https://www.facebook.com/BainbridgeIslander"
+    },
+    {
+      "name": "Island Review",
+      "twitter": "BIReview",
+      "website": "http://www.bainbridgereview.com/",
+      "facebook": "https://www.facebook.com/BainbridgeReview"
+    }
+  ],
+  "Battle Ground, WA": [],
+  "Bellevue, WA": [
+    {
+      "name": "Bellevue Business Journal",
+      "twitter": "BellevueNews",
+      "website": "http://bellevuebusinessjournal.com/",
+      "facebook": "https://www.facebook.com/bellevuebusinessjournal"
+    }
+  ],
+  "Bellingham, WA": [
+    {
+      "name": "Bellingham Herald",
+      "twitter": "bhamherald",
+      "website": "http://www.bellinghamherald.com/",
+      "facebook": "https://www.facebook.com/bellinghamherald"
+    }
+  ],
+  "Blaine, WA": [],
+  "Bonney Lake, WA": [],
+  "Boulevard Park, WA": [
+    {
+      "name": "Ballard News-Tribune",
+      "twitter": "ballardnewstrib",
+      "website": "http://www.ballardnewstribune.com/",
+      "facebook": "https://www.facebook.com/ballardnewstrib"
+    }
+  ],
+  "Bremerton, WA": [
+    {
+      "name": "Sun",
+      "twitter": "kitsapsun",
+      "website": "http://www.kitsapsun.com/",
+      "facebook": "https://www.facebook.com/KitsapNews"
+    }
+  ],
+  "Camas, WA": [
+    {
+      "name": "Camas-Washougal Post-Record",
+      "twitter": "cwprsports",
+      "website": "http://www.camaspostrecord.com/",
+      "facebook": "https://www.facebook.com/pages/Camas-Washougal-Post-Record/242390949113644"
+    }
+  ],
+  "Cashmere, WA": [],
+  "Centralia, WA": [
+    {
+      "name": "Chronicle",
+      "twitter": "chronline",
+      "website": "http://www.chronline.com/",
+      "facebook": "https://www.facebook.com/thecentraliachronicle"
+    }
+  ],
+  "Chelan, WA": [],
+  "Cheney, WA": [],
+  "Cle Elum, WA": [],
+  "Colville, WA": [
+    {
+      "name": "Statesman-Examiner",
+      "twitter": "SENewsteam",
+      "website": "http://www.statesmanexaminer.com/",
+      "facebook": "https://www.facebook.com/SENewspaper"
+    }
+  ],
+  "Concrete, WA": [],
+  "Coupeville, WA": [],
+  "Deer Park, WA": [],
+  "East Port Orchard, WA": [
+    {
+      "name": "Port Orchard Independent",
+      "twitter": "poinews",
+      "website": "http://www.portorchardindependent.com/",
+      "facebook": "https://www.facebook.com/PortOrchardIndependent"
+    }
+  ],
+  "East Wenatchee, WA": [
+    {
+      "name": "Wenatchee World",
+      "twitter": "wenatcheeworld",
+      "website": "http://www.wenatcheeworld.com/",
+      "facebook": "https://www.facebook.com/WenatcheeWorld"
+    }
+  ],
+  "Eatonville, WA": [],
+  "Edmonds, WA": [
+    {
+      "name": "Edmonds Beacon",
+      "twitter": "edmondsbeacon",
+      "website": "http://edmondsbeacon.villagesoup.com/",
+      "facebook": "https://www.facebook.com/pages/Edmonds-Beacon/294075160628414"
+    }
+  ],
+  "Ellensburg, WA": [
+    {
+      "name": "Daily Record",
+      "twitter": "EllensburgDR",
+      "website": "http://www.dailyrecordnews.com/",
+      "facebook": "https://www.facebook.com/ellensburgdailyrecord"
+    }
+  ],
+  "Enumclaw, WA": [
+    {
+      "name": "Courier-Herald",
+      "twitter": "Enumclaw_CH",
+      "website": "http://www.courierherald.com/",
+      "facebook": "https://www.facebook.com/EnumclawCourierHerald"
+    }
+  ],
+  "Everett, WA": [
+    {
+      "name": "Herald",
+      "twitter": "everettherald",
+      "website": "http://www.heraldnet.com/",
+      "facebook": "https://www.facebook.com/HeraldNet"
+    }
+  ],
+  "Federal Way, WA": [
+    {
+      "name": "Federal Way Mirror",
+      "twitter": "fwmirror",
+      "website": "http://www.federalwaymirror.com/",
+      "facebook": "https://www.facebook.com/FWMirror"
+    }
+  ],
+  "Forks, WA": [],
+  "Friday Harbor, WA": [
+    {
+      "name": "Islands' Sounder",
+      "twitter": "pnwlocalnews",
+      "website": "http://www.islandssounder.com/",
+      "facebook": "https://www.facebook.com/pnwlocalnews"
+    },
+    {
+      "name": "Journal San Juan",
+      "twitter": "SanJuanJournal",
+      "website": "http://www.sanjuanjournal.com/",
+      "facebook": "https://www.facebook.com/JournalSanJuans"
+    },
+    {
+      "name": "San Juan Islander",
+      "twitter": "sanjuanislander",
+      "website": "http://www.sanjuanislander.com/",
+      "facebook": "https://www.facebook.com/sanjuanislander"
+    }
+  ],
+  "Gig Harbor, WA": [
+    {
+      "name": "Peninsula Gateway",
+      "twitter": "pengateway",
+      "website": "http://www.thenewstribune.com/news/local/community/gateway/",
+      "facebook": "https://www.facebook.com/peninsulagateway"
+    }
+  ],
+  "Goldendale, WA": [
+    {
+      "name": "Goldendale Sentinel",
+      "twitter": "GdaleSentinel",
+      "website": "http://goldendalesentinel.com/",
+      "facebook": "https://www.facebook.com/goldendalesentinel"
+    }
+  ],
+  "Grandview, WA": [],
+  "Issaquah, WA": [
+    {
+      "name": "Issaquah Press",
+      "twitter": "issaquahpress",
+      "website": "http://www.issaquahpress.com/",
+      "facebook": "https://www.facebook.com/issaquahpress"
+    }
+  ],
+  "Kennewick, WA": [
+    {
+      "name": "Tri-City Herald",
+      "twitter": "tricityherald",
+      "website": "http://www.tri-cityherald.com/",
+      "facebook": "https://www.facebook.com/TriCityHerald1"
+    }
+  ],
+  "Langley, WA": [
+    {
+      "name": "South Whidbey Record",
+      "twitter": "WhidbeyRecord",
+      "website": "http://www.southwhidbeyrecord.com/",
+      "facebook": "https://www.facebook.com/SouthWhidbeyRecord"
+    }
+  ],
+  "Leavenworth, WA": [],
+  "Liberty Lake, WA": [
+    {
+      "name": "Liberty Lake Splash",
+      "twitter": "LLSplash",
+      "website": "http://www.libertylakesplash.com/",
+      "facebook": "https://www.facebook.com/LibertyLakeSplash"
+    }
+  ],
+  "Long Beach, WA": [
+    {
+      "name": "Chinook Observer",
+      "twitter": "chinookobserver",
+      "website": "http://www.chinookobserver.com/",
+      "facebook": "https://www.facebook.com/ChinookObserver"
+    }
+  ],
+  "Longview, WA": [
+    {
+      "name": "Daily News",
+      "twitter": "the_daily_news",
+      "website": "http://tdn.com/",
+      "facebook": "https://www.facebook.com/pages/The-Daily-News/115458415536"
+    }
+  ],
+  "Lynden, WA": [
+    {
+      "name": "Lynden Tribune",
+      "twitter": "lyndentribune",
+      "website": "http://www.lyndentribune.com/",
+      "facebook": "https://www.facebook.com/lyndentrib"
+    }
+  ],
+  "Marysville, WA": [
+    {
+      "name": "Marysville Globe",
+      "twitter": "globereporter1",
+      "website": "http://www.marysvilleglobe.com/",
+      "facebook": "https://www.facebook.com/TheMarysvilleGlobe"
+    }
+  ],
+  "Mercer Island, WA": [
+    {
+      "name": "Mercer Island Reporter",
+      "twitter": "mireporter",
+      "website": "http://www.mi-reporter.com/",
+      "facebook": "https://www.facebook.com/MIReporter"
+    }
+  ],
+  "Monroe, WA": [
+    {
+      "name": "Monroe Monitor",
+      "twitter": "MonroeMonitor",
+      "website": "http://www.monroemonitor.com/",
+      "facebook": "https://www.facebook.com/monroemonitor"
+    },
+    {
+      "name": "Sky Valley Chronicle",
+      "twitter": "SRValley",
+      "website": "http://www.skyvalleychronicle.com/",
+      "facebook": "https://www.facebook.com/pages/SKY-VALLEY-CHRONICLE/10150097028885425"
+    }
+  ],
+  "Montesano, WA": [],
+  "Moses Lake, WA": [
+    {
+      "name": "Columbia Basin Herald",
+      "twitter": "The_CBH",
+      "website": "http://www.columbiabasinherald.com/",
+      "facebook": "https://www.facebook.com/cbherald"
+    }
+  ],
+  "Mount Vernon, WA": [
+    {
+      "name": "Skagit Valley Herald",
+      "twitter": "goskagit",
+      "website": "http://www.goskagit.com/",
+      "facebook": "https://www.facebook.com/SkagitValleyHerald"
+    }
+  ],
+  "Mukilteo, WA": [
+    {
+      "name": "Mukilteo Beacon",
+      "twitter": "mukilteobeacon",
+      "website": "http://mukilteobeacon.villagesoup.com/",
+      "facebook": "https://www.facebook.com/pages/Mukilteo-Beacon/259817677410879"
+    }
+  ],
+  "Newport, WA": [],
+  "North Omak, WA": [
+    {
+      "name": "County Chronicle",
+      "twitter": "OmakChronicle",
+      "website": "http://www.omakchronicle.com/",
+      "facebook": "https://www.facebook.com/omakokanogancountychronicle"
+    }
+  ],
+  "North Puyallup, WA": [
+    {
+      "name": "Puyallup Herald",
+      "twitter": "PuyallupNews",
+      "website": "http://www.thenewstribune.com/news/local/community/puyallup-herald/",
+      "facebook": "https://www.facebook.com/TheHeraldPuyallup"
+    }
+  ],
+  "North Yelm, WA": [
+    {
+      "name": "Nisqually Valley News",
+      "twitter": "nisqvalleynews",
+      "website": "http://www.yelmonline.com/",
+      "facebook": "https://www.facebook.com/nisquallyvalleynews"
+    }
+  ],
+  "Northwest Stanwood, WA": [
+    {
+      "name": "Stanwood Camano News",
+      "twitter": "StanCamNEWS",
+      "website": "http://www.scnews.com/",
+      "facebook": "https://www.facebook.com/pages/Stanwood-Camano-News/271728462932221"
+    }
+  ],
+  "Oak Harbor, WA": [
+    {
+      "name": "Whidbey News-Times",
+      "twitter": "whidbeynews",
+      "website": "http://www.whidbeynewstimes.com/",
+      "facebook": "https://www.facebook.com/WhidbeyNews"
+    }
+  ],
+  "Olympia, WA": [
+    {
+      "name": "Olympian",
+      "twitter": "theolympian",
+      "website": "http://www.theolympian.com/",
+      "facebook": "https://www.facebook.com/TheOlympian"
+    }
+  ],
+  "Oroville, WA": [
+    {
+      "name": "Okanogan Valley Gazette-Tribune",
+      "twitter": "GazetteTribune",
+      "website": "http://www.gazette-tribune.com/",
+      "facebook": "https://www.facebook.com/GazetteTribune"
+    }
+  ],
+  "Othello, WA": [],
+  "Port Angeles, WA": [
+    {
+      "name": "Peninsula Daily News",
+      "twitter": "pendailynews",
+      "website": "http://www.peninsuladailynews.com/",
+      "facebook": "https://www.facebook.com/pages/Peninsula-Daily-News/57663452337"
+    }
+  ],
+  "Port Townsend, WA": [
+    {
+      "name": "Jefferson County Leader",
+      "twitter": "ptleader",
+      "website": "http://www.ptleader.com/",
+      "facebook": "https://www.facebook.com/ptleader"
+    }
+  ],
+  "Poulsbo, WA": [
+    {
+      "name": "North Kitsap Herald",
+      "twitter": "nkherald",
+      "website": "http://www.northkitsapherald.com/",
+      "facebook": "https://www.facebook.com/NorthKitsapHerald"
+    }
+  ],
+  "Prosser, WA": [],
+  "Pullman, WA": [
+    {
+      "name": "Daily News",
+      "twitter": "mpdailynews",
+      "website": "http://dnews.com/",
+      "facebook": "https://www.facebook.com/PalouseNews"
+    }
+  ],
+  "Raymond, WA": [],
+  "Renton, WA": [
+    {
+      "name": "Renton Reporter",
+      "twitter": "rentonreporter",
+      "website": "http://www.rentonreporter.com/",
+      "facebook": "https://www.facebook.com/RentonReporter"
+    }
+  ],
+  "Seattle, WA": [
+    {
+      "name": "Capitol Hill Times",
+      "twitter": "Cap_Hill_Times",
+      "website": "http://www.capitolhilltimes.com/",
+      "facebook": "https://www.facebook.com/CapitolHillTimes"
+    },
+    {
+      "name": "Daily Journal of Commerce",
+      "twitter": "SeattleDJC",
+      "website": "http://www.djc.com/",
+      "facebook": "https://www.facebook.com/pages/Seattle-Daily-Journal-of-Commerce/314794254084"
+    },
+    {
+      "name": "Madison Park Times",
+      "twitter": "MadisonParkTime",
+      "website": "http://www.madisonparktimes.com/",
+      "facebook": "https://www.facebook.com/MadisonParkTimes"
+    },
+    {
+      "name": "Northwest Asian Weekly",
+      "twitter": "nwasianweekly",
+      "website": "http://www.nwasianweekly.com/",
+      "facebook": "https://www.facebook.com/NorthwestAsianWeekly"
+    },
+    {
+      "name": "Puget Sound Business Journal",
+      "twitter": "PSBJ",
+      "website": "http://www.bizjournals.com/seattle/",
+      "facebook": "https://www.facebook.com/pugetsoundbusinessjournal"
+    },
+    {
+      "name": "Queen Anne & Magnolia News",
+      "twitter": "qamagnews",
+      "website": "http://www.queenannenews.com/",
+      "facebook": "https://www.facebook.com/QueenAnneMagnoliaNews"
+    },
+    {
+      "name": "Seattle Post Intelligencer",
+      "twitter": "seattlepi",
+      "website": "http://www.seattlepi.com/",
+      "facebook": "https://www.facebook.com/pages/The-Seattle-Post-Intelligencer/7457442370"
+    },
+    {
+      "name": "Seattle Times",
+      "twitter": "seattletimes",
+      "website": "http://seattletimes.com/",
+      "facebook": "https://www.facebook.com/seattletimes"
+    },
+    {
+      "name": "Seattle Weekly",
+      "twitter": "seattleweekly",
+      "website": "http://www.seattleweekly.com/",
+      "facebook": "https://www.facebook.com/SeattleWeekly"
+    },
+    {
+      "name": "West Seattle Herald",
+      "twitter": "westseattleher",
+      "website": "http://www.westseattleherald.com/",
+      "facebook": "https://www.facebook.com/WestSeattleHerald"
+    }
+  ],
+  "Sequim, WA": [
+    {
+      "name": "Sequim Gazette",
+      "twitter": "sequimgazette",
+      "website": "http://www.sequimgazette.com/",
+      "facebook": "https://www.facebook.com/sequimgazette"
+    }
+  ],
+  "Silverdale, WA": [
+    {
+      "name": "Central Kitsap Reporter",
+      "twitter": "reporterpatriot",
+      "website": "http://www.centralkitsapreporter.com/",
+      "facebook": "https://www.facebook.com/CKReporter"
+    }
+  ],
+  "Snoqualmie, WA": [
+    {
+      "name": "Snoqualmie Valley Record",
+      "twitter": "valleyrecord",
+      "website": "http://www.valleyrecord.com/",
+      "facebook": "https://www.facebook.com/ValleyRecord"
+    }
+  ],
+  "Spokane, WA": [
+    {
+      "name": "Spokane Journal of Business",
+      "twitter": "SpokaneJofB",
+      "website": "http://www.spokanejournal.com/",
+      "facebook": "https://www.facebook.com/pages/Spokane-Journal-of-Business/178922715477354"
+    },
+    {
+      "name": "Spokesman-Review",
+      "twitter": "spokesmanreview",
+      "website": "http://www.spokesman.com/",
+      "facebook": "https://www.facebook.com/spokesmanreview"
+    }
+  ],
+  "Sunnyside, WA": [
+    {
+      "name": "Daily Sun News",
+      "twitter": "dailysunnewswa",
+      "website": "http://www.dailysunnews.com/",
+      "facebook": "https://www.facebook.com/thedailysunnews"
+    }
+  ],
+  "Tacoma, WA": [
+    {
+      "name": "News Tribune",
+      "twitter": "thenewstribune",
+      "website": "http://www.thenewstribune.com/",
+      "facebook": "https://www.facebook.com/tacomanewstribune"
+    },
+    {
+      "name": "Tacoma Daily Index",
+      "twitter": "TacomaIndex",
+      "website": "http://www.tacomadailyindex.com/",
+      "facebook": "https://www.facebook.com/tacomadailyindex"
+    },
+    {
+      "name": "Tacoma Weekly",
+      "twitter": "tacomaweekly",
+      "website": "http://www.tacomaweekly.com/",
+      "facebook": "https://www.facebook.com/tacomaweekly"
+    },
+    {
+      "name": "The Business Examiner",
+      "twitter": "be_daily",
+      "website": "http://www.businessexaminer.com/",
+      "facebook": "https://www.facebook.com/bizexam"
+    }
+  ],
+  "Twisp, WA": [
+    {
+      "name": "Methow Valley News",
+      "twitter": "MethowNews ",
+      "website": "http://www.methowvalleynews.com/",
+      "facebook": "https://www.facebook.com/pages/Methow-Valley-News/128607483863863"
+    }
+  ],
+  "Vancouver, WA": [
+    {
+      "name": "Columbian",
+      "twitter": "thecolumbian",
+      "website": "http://www.columbian.com/",
+      "facebook": "https://www.facebook.com/thecolumbian"
+    }
+  ],
+  "Vashon, WA": [
+    {
+      "name": "Island Beachcomber",
+      "twitter": "VMIBeachcomber",
+      "website": "http://www.vashonbeachcomber.com/",
+      "facebook": "https://www.facebook.com/VashonBeachcomber"
+    }
+  ],
+  "Vaughn, WA": [
+    {
+      "name": "Key Peninsula News",
+      "twitter": "keypennews",
+      "website": "http://www.keypennews.com/",
+      "facebook": "https://www.facebook.com/KeyPenNews"
+    }
+  ],
+  "Waitsburg, WA": [],
+  "Walla Walla, WA": [
+    {
+      "name": "Walla Walla Union-Bulletin",
+      "twitter": "ubnews",
+      "website": "http://union-bulletin.com/",
+      "facebook": "https://www.facebook.com/unionbulletin"
+    }
+  ],
+  "White Salmon, WA": [],
+  "Woodinville, WA": [
+    {
+      "name": "Woodinville Weekly ",
+      "twitter": "WdvlWeekly",
+      "website": "http://www.nwnews.com/",
+      "facebook": "https://www.facebook.com/pages/Woodinville-Weekly/72744598345"
+    }
+  ],
+  "Yakima, WA": [
+    {
+      "name": "Yakima Herald-Republic",
+      "twitter": "Yakima_Herald",
+      "website": "http://www.yakimaherald.com/",
+      "facebook": "https://www.facebook.com/yakimaheraldrepublic"
+    }
+  ]
+}

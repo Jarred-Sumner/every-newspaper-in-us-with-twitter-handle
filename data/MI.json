@@ -1,0 +1,822 @@
+{
+  "Adrian, MI": [
+    {
+      "name": "Daily Telegram",
+      "twitter": "lenaweenews ",
+      "website": "http://www.lenconnect.com/",
+      "facebook": "https://www.facebook.com/thedailytelegram"
+    }
+  ],
+  "Algonac, MI": [],
+  "Allegan, MI": [],
+  "Alpena, MI": [
+    {
+      "name": "Alpena News",
+      "twitter": "TheAlpenaNews",
+      "website": "http://www.thealpenanews.com/",
+      "facebook": "https://www.facebook.com/TheAlpenaNews"
+    }
+  ],
+  "Ann Arbor, MI": [
+    {
+      "name": "Ann Arbor News",
+      "twitter": "annarbornews",
+      "website": "http://www.mlive.com/ann-arbor/",
+      "facebook": "https://www.facebook.com/annarbornews"
+    }
+  ],
+  "Arvon, MI": [],
+  "Bad Axe, MI": [],
+  "Baldwin, MI": [
+    {
+      "name": "Lake County Star",
+      "twitter": "lakecountystar",
+      "website": "http://news.pioneergroup.com/lakecountystar/",
+      "facebook": "https://www.facebook.com/lakecountystar"
+    }
+  ],
+  "Battle Creek, MI": [
+    {
+      "name": "Battle Creek Enquirer",
+      "twitter": "bcenquirer",
+      "website": "http://www.battlecreekenquirer.com/",
+      "facebook": "https://www.facebook.com/battlecreekenquirer"
+    }
+  ],
+  "Bay City, MI": [
+    {
+      "name": "Bay City Times",
+      "twitter": "baycitytimes",
+      "website": "http://www.mlive.com/bay-city/",
+      "facebook": "https://www.facebook.com/baycitytimes"
+    }
+  ],
+  "Bay Mills, MI": [],
+  "Bellaire, MI": [],
+  "Belleville, MI": [],
+  "Benton Harbor, MI": [
+    {
+      "name": "Herald-Palladium",
+      "twitter": "heraldpalladium",
+      "website": "http://www.heraldpalladium.com/",
+      "facebook": "https://www.facebook.com/HeraldPalladium"
+    }
+  ],
+  "Berrien Springs, MI": [],
+  "Big Rapids, MI": [
+    {
+      "name": "Big Rapids Pioneer",
+      "twitter": "bigrapidsnews",
+      "website": "http://news.pioneergroup.com/bigrapidsnews/",
+      "facebook": "https://www.facebook.com/bigrapidspioneer"
+    }
+  ],
+  "Birmingham, MI": [
+    {
+      "name": "Birmingham Eccentric",
+      "twitter": "BhmEccentric",
+      "website": "http://www.hometownlife.com/news/eccentric-birmingham/",
+      "facebook": "https://www.facebook.com/BhamEccentric"
+    },
+    {
+      "name": "Birmingham-Bloomfield Eagle",
+      "twitter": "BBEagleNews",
+      "website": "http://www.candgnews.com/newspaper/birminghambloomfieldeagle",
+      "facebook": "https://www.facebook.com/BirminghamBloomfieldEagle"
+    }
+  ],
+  "Blissfield, MI": [],
+  "Boyne City, MI": [
+    {
+      "name": "Boyne City Gazette",
+      "twitter": "bcgazette",
+      "website": "http://www.boynegazette.com/",
+      "facebook": "https://www.facebook.com/bcgazette"
+    }
+  ],
+  "Brevort, MI": [],
+  "Brooklyn, MI": [],
+  "Brown City, MI": [],
+  "Bruce, MI": [
+    {
+      "name": "Evening News",
+      "twitter": "SooEveningNews",
+      "website": "http://www.sooeveningnews.com/",
+      "facebook": "https://www.facebook.com/SaultEveningNews"
+    }
+  ],
+  "Cadillac, MI": [
+    {
+      "name": "Cadillac News",
+      "twitter": "CadillacNews",
+      "website": "http://www.cadillacnews.com/",
+      "facebook": "https://www.facebook.com/CadillacNews"
+    }
+  ],
+  "Caro, MI": [],
+  "Cass City, MI": [],
+  "Cassopolis, MI": [
+    {
+      "name": "Cassopolis Vigilant",
+      "twitter": "cassopolisnews",
+      "website": "http://www.leaderpub.com/category/news/cassopolis-news/",
+      "facebook": "https://www.facebook.com/pages/Cassopolis-Vigilant/118086918229041"
+    }
+  ],
+  "Cedar Springs, MI": [],
+  "Center Line, MI": [
+    {
+      "name": "St. Clair Shores Sentinel",
+      "twitter": "SCSSentinel",
+      "website": "http://www.candgnews.com/newspaper/stclairshoressentinel",
+      "facebook": "https://www.facebook.com/stclairshoressentinel"
+    }
+  ],
+  "Charlevoix, MI": [
+    {
+      "name": "Charlevoix Courier",
+      "twitter": "ChxCourier",
+      "website": "http://www.petoskeynews.com/charlevoix/",
+      "facebook": "https://www.facebook.com/charlevoix.courier.5"
+    }
+  ],
+  "Cheboygan, MI": [],
+  "Chesaning, MI": [
+    {
+      "name": "Tri County Citizen",
+      "twitter": "mihomepaper",
+      "website": "http://tricountycitizen.mihomepaper.com/",
+      "facebook": "https://www.facebook.com/ViewNewspaperGroup"
+    }
+  ],
+  "Clare, MI": [],
+  "Coldwater, MI": [],
+  "Davison, MI": [
+    {
+      "name": "Burton View",
+      "twitter": "mihomepaper",
+      "website": "http://burtonview.mihomepaper.com/",
+      "facebook": "https://www.facebook.com/ViewNewspaperGroup"
+    },
+    {
+      "name": "Davison Index",
+      "twitter": "mihomepaper",
+      "website": "http://davisonindex.mihomepaper.com/",
+      "facebook": "https://www.facebook.com/ViewNewspaperGroup"
+    }
+  ],
+  "Dearborn, MI": [
+    {
+      "name": "Press and Guide",
+      "twitter": "pressandguide",
+      "website": "http://www.pressandguide.com/",
+      "facebook": "https://www.facebook.com/DearbornDearborn-Heights-Press-Guide-285476184996788/timeline/"
+    }
+  ],
+  "Detroit, MI": [
+    {
+      "name": "Crain's Detroit Business",
+      "twitter": "crainsdetroit",
+      "website": "http://www.crainsdetroit.com/",
+      "facebook": "https://www.facebook.com/CrainsDetroit"
+    },
+    {
+      "name": "Detroit Free Press",
+      "twitter": "freep",
+      "website": "http://www.freep.com/",
+      "facebook": "https://www.facebook.com/detroitfreepress"
+    },
+    {
+      "name": "Detroit News",
+      "twitter": "detroitnews",
+      "website": "http://www.detroitnews.com/",
+      "facebook": "https://www.facebook.com/DetroitNews"
+    },
+    {
+      "name": "Latino Press",
+      "twitter": "LatinoPress",
+      "website": "http://www.latinodetroit.com/",
+      "facebook": "https://www.facebook.com/pages/Latino-Press/209348892466404"
+    },
+    {
+      "name": "Metro Times",
+      "twitter": "metrotimes",
+      "website": "http://www.metrotimes.com/",
+      "facebook": "https://www.facebook.com/metrotimes"
+    }
+  ],
+  "Dundee, MI": [],
+  "East Grand Rapids, MI": [
+    {
+      "name": "Business Journal",
+      "twitter": "grbj",
+      "website": "http://www.grbj.com/",
+      "facebook": "https://www.facebook.com/grbusinessjournal"
+    },
+    {
+      "name": "Grand Rapids Press",
+      "twitter": "grpress",
+      "website": "http://www.mlive.com/grand-rapids/",
+      "facebook": "https://www.facebook.com/grpress"
+    },
+    {
+      "name": "Grand Rapids Times",
+      "twitter": "grtimes",
+      "website": "http://www.grtimes.com/",
+      "facebook": "https://www.facebook.com/grtimes"
+    },
+    {
+      "name": "MiBiz",
+      "twitter": "MiBiz",
+      "website": "https://mibiz.com/",
+      "facebook": "https://www.facebook.com/pages/MiBiz/32340683364"
+    }
+  ],
+  "East Lansing, MI": [
+    {
+      "name": "Lansing State Journal",
+      "twitter": "LSJnews",
+      "website": "http://www.lansingstatejournal.com/",
+      "facebook": "https://www.facebook.com/lsjnews"
+    }
+  ],
+  "Escanaba, MI": [
+    {
+      "name": "Daily Press",
+      "twitter": "TheDailyPress",
+      "website": "http://www.dailypress.net/",
+      "facebook": "https://www.facebook.com/TheDailyPress"
+    }
+  ],
+  "Fenton, MI": [
+    {
+      "name": "Tri-County Times",
+      "twitter": "tctimes",
+      "website": "http://www.tctimes.com/",
+      "facebook": "https://www.facebook.com/tricountytimes"
+    }
+  ],
+  "Ferndale, MI": [
+    {
+      "name": "Woodward Talk",
+      "twitter": "WoodwardTalk",
+      "website": "http://www.candgnews.com/newspaper/woodwardtalk",
+      "facebook": "https://www.facebook.com/woodwardtalk"
+    }
+  ],
+  "Flint, MI": [
+    {
+      "name": "Flint Journal",
+      "twitter": "flintjournal",
+      "website": "http://www.mlive.com/flint/",
+      "facebook": "https://www.facebook.com/flintjournal"
+    }
+  ],
+  "Frankenmuth, MI": [],
+  "Frankfort, MI": [
+    {
+      "name": "Benzie County Record Patriot",
+      "twitter": "recordpatriot",
+      "website": "http://news.pioneergroup.com/recordpatriot/",
+      "facebook": "https://www.facebook.com/benzierecordpatriot"
+    }
+  ],
+  "Fraser, MI": [
+    {
+      "name": "Fraser-Clinton Township Chronicle",
+      "twitter": "candgnews",
+      "website": "http://www.candgnews.com/newspaper/fraserclintonchronicle",
+      "facebook": "https://www.facebook.com/fraserclintonchronicle"
+    }
+  ],
+  "Fremont, MI": [],
+  "Gaylord, MI": [
+    {
+      "name": "Gaylord Herald Times",
+      "twitter": "speerjt",
+      "website": "http://www.petoskeynews.com/gaylord/",
+      "facebook": "https://www.facebook.com/ghtmi"
+    }
+  ],
+  "Gladwin, MI": [],
+  "Grand Blanc, MI": [
+    {
+      "name": "Grand Blanc View",
+      "twitter": "mihomepaper",
+      "website": "http://grandblancview.mihomepaper.com/",
+      "facebook": "https://www.facebook.com/ViewNewspaperGroup"
+    }
+  ],
+  "Grand Haven, MI": [
+    {
+      "name": "Grand Haven Tribune",
+      "twitter": "ghtribune",
+      "website": "http://www.grandhaventribune.com/",
+      "facebook": "https://www.facebook.com/GHTribune"
+    }
+  ],
+  "Grayling, MI": [],
+  "Greenville, MI": [
+    {
+      "name": "Daily News",
+      "twitter": "greenvilledn",
+      "website": "http://thedailynews.cc/",
+      "facebook": "https://www.facebook.com/thedn"
+    }
+  ],
+  "Grosse Pointe Farms, MI": [
+    {
+      "name": "Grosse Pointe News",
+      "twitter": "GPNEWSpaper",
+      "website": "http://www.grossepointenews.com/",
+      "facebook": "https://www.facebook.com/grossepointenewspapergroup"
+    }
+  ],
+  "Harbor Springs, MI": [
+    {
+      "name": "Harbor Light News",
+      "twitter": "harborlightnews",
+      "website": "http://harborlightnews.com/",
+      "facebook": "https://www.facebook.com/pages/Harbor-Light-Newspaper/248120896630"
+    }
+  ],
+  "Harrisville, MI": [],
+  "Hart, MI": [
+    {
+      "name": "Oceana's Herald-Journal",
+      "twitter": "OceanaHJ",
+      "website": "http://www.shorelinemedia.net/oceanas_herald_journal/",
+      "facebook": "https://www.facebook.com/pages/Oceanas-Herald-Journal/1472632336305726"
+    }
+  ],
+  "Hastings, MI": [],
+  "Hillsdale, MI": [
+    {
+      "name": "Daily News",
+      "twitter": "HillsdaleDaily",
+      "website": "http://www.hillsdale.net/",
+      "facebook": "https://www.facebook.com/pages/Hillsdale-Daily-News/162691950425441"
+    }
+  ],
+  "Holland, MI": [
+    {
+      "name": "Holland Sentinel",
+      "twitter": "hollandsentinel",
+      "website": "http://www.hollandsentinel.com/",
+      "facebook": "https://www.facebook.com/HollandSentinelNews"
+    }
+  ],
+  "Holt, MI": [
+    {
+      "name": "Holt Community News",
+      "twitter": "LSJNews",
+      "website": "http://www.lansingstatejournal.com/news/communities-holt/",
+      "facebook": "https://www.facebook.com/lsjnews"
+    }
+  ],
+  "Homer, MI": [],
+  "Houghton, MI": [
+    {
+      "name": "Daily Mining Gazette",
+      "twitter": "TheDMG",
+      "website": "http://www.mininggazette.com/",
+      "facebook": "https://www.facebook.com/mininggazette"
+    }
+  ],
+  "Houghton Lake, MI": [],
+  "Howell, MI": [
+    {
+      "name": "Daily Press & Argus",
+      "twitter": "livingstondaily",
+      "website": "http://www.livingstondaily.com/",
+      "facebook": "https://www.facebook.com/livingstondailypress"
+    }
+  ],
+  "Hudsonville, MI": [],
+  "Imlay City, MI": [
+    {
+      "name": "Tri-City Times",
+      "twitter": "TriCityTimes",
+      "website": "http://www.tricitytimes-online.com/",
+      "facebook": "https://www.facebook.com/Tricitytimes"
+    }
+  ],
+  "Indian River, MI": [],
+  "Ionia, MI": [
+    {
+      "name": "Ionia Sentinel Standard",
+      "twitter": "IoniaSentStand",
+      "website": "http://www.sentinel-standard.com/",
+      "facebook": "https://www.facebook.com/IoniaSentinelStandard"
+    }
+  ],
+  "Iron Mountain, MI": [
+    {
+      "name": "Daily News",
+      "twitter": "imdailynews",
+      "website": "http://www.ironmountaindailynews.com/",
+      "facebook": "https://www.facebook.com/IronMountainDailyNews"
+    }
+  ],
+  "Iron River, MI": [],
+  "Ironwood, MI": [],
+  "Ithaca, MI": [
+    {
+      "name": "Gratiot County Herald",
+      "twitter": "GCHeraldsports",
+      "website": "http://gcherald.com/",
+      "facebook": "https://www.facebook.com/gcherald"
+    }
+  ],
+  "Jackson, MI": [
+    {
+      "name": "Jackson Citizen Patriot",
+      "twitter": "jacksoncitpat ",
+      "website": "http://www.mlive.com/jackson/",
+      "facebook": "https://www.facebook.com/JacksonCitizenPatriot"
+    }
+  ],
+  "Kalamazoo, MI": [
+    {
+      "name": "Kalamazoo Gazette",
+      "twitter": "kzoo_gazette",
+      "website": "http://www.mlive.com/kalamazoo/",
+      "facebook": "https://www.facebook.com/KzooGazette"
+    }
+  ],
+  "Lake Orion, MI": [
+    {
+      "name": "Lake Orion Review",
+      "twitter": "LakeOrionReview",
+      "website": "http://lakeorionreview.com/",
+      "facebook": "https://www.facebook.com/pages/The-Lake-Orion-Review/79328594935"
+    }
+  ],
+  "Lakeview, MI": [],
+  "Lapeer, MI": [
+    {
+      "name": "County Press",
+      "twitter": "mihomepaper",
+      "website": "http://thecountypress.mihomepaper.com/",
+      "facebook": "https://www.facebook.com/ViewNewspaperGroup"
+    },
+    {
+      "name": "Lapeer Area View",
+      "twitter": "mihomepaper",
+      "website": "http://lapeerareaview.mihomepaper.com/",
+      "facebook": "https://www.facebook.com/ViewNewspaperGroup"
+    }
+  ],
+  "Leland, MI": [],
+  "Lewiston, MI": [],
+  "Livonia, MI": [],
+  "Lowell, MI": [],
+  "Ludington, MI": [
+    {
+      "name": "Ludington Daily News",
+      "twitter": "LudingtonDN",
+      "website": "http://www.shorelinemedia.net/ludington_daily_news/",
+      "facebook": "https://www.facebook.com/ludingtondailynews"
+    }
+  ],
+  "Mackinac Island, MI": [],
+  "Macomb, MI": [
+    {
+      "name": "Macomb Township Chronicle",
+      "twitter": "macombchronicle",
+      "website": "http://www.candgnews.com/macomb",
+      "facebook": "https://www.facebook.com/MacombTownshipChronicle"
+    }
+  ],
+  "Madison Heights, MI": [
+    {
+      "name": "Madison-Park News",
+      "twitter": "MadisonParkNews",
+      "website": "http://www.candgnews.com/newspaper/madisonparknews",
+      "facebook": "https://www.facebook.com/MadisonParkNews"
+    }
+  ],
+  "Manistee, MI": [
+    {
+      "name": "Manistee News Advocate",
+      "twitter": "manisteenews",
+      "website": "http://news.pioneergroup.com/manisteenews/",
+      "facebook": "https://www.facebook.com/manisteenews"
+    }
+  ],
+  "Manistique, MI": [
+    {
+      "name": "Pioneer-Tribune",
+      "twitter": "PioneerTribune",
+      "website": "http://www.pioneertribune.com/",
+      "facebook": "https://www.facebook.com/PioneerTribune"
+    }
+  ],
+  "Marion, MI": [],
+  "Marquette, MI": [
+    {
+      "name": "Mining Journal",
+      "twitter": "MiningJournal",
+      "website": "http://www.miningjournal.net/",
+      "facebook": "https://www.facebook.com/pages/The-Mining-Journal/114414031927958"
+    }
+  ],
+  "Marshall, MI": [],
+  "Midland, MI": [
+    {
+      "name": "Midland Daily News",
+      "twitter": "mdn ",
+      "website": "http://www.ourmidland.com/",
+      "facebook": "https://www.facebook.com/midlanddailynews"
+    }
+  ],
+  "Monroe, MI": [
+    {
+      "name": "Monroe News",
+      "twitter": "monroenews",
+      "website": "http://www.monroenews.com/",
+      "facebook": "https://www.facebook.com/monroenews"
+    }
+  ],
+  "Mount Clemens, MI": [
+    {
+      "name": "Macomb Daily",
+      "twitter": "macombdaily",
+      "website": "http://www.macombdaily.com/",
+      "facebook": "https://www.facebook.com/pages/Macomb-Daily/167187400091"
+    }
+  ],
+  "Mount Pleasant, MI": [
+    {
+      "name": "Morning Sun",
+      "twitter": "MPMorningSun",
+      "website": "http://www.themorningsun.com/",
+      "facebook": "https://www.facebook.com/MPmorningsun"
+    }
+  ],
+  "Muskegon, MI": [
+    {
+      "name": "Muskegon Chronicle",
+      "twitter": "MuskegonChron",
+      "website": "http://www.mlive.com/muskegon/",
+      "facebook": "https://www.facebook.com/muskegonnews"
+    }
+  ],
+  "New Baltimore, MI": [],
+  "New Buffalo, MI": [],
+  "New Troy, MI": [
+    {
+      "name": "Troy Times",
+      "twitter": "TroyTimesCG",
+      "website": "http://www.candgnews.com/newspaper/troytimes",
+      "facebook": "https://www.facebook.com/TroyTimes"
+    }
+  ],
+  "Newberry, MI": [],
+  "Niles, MI": [
+    {
+      "name": "Daily News",
+      "twitter": "dowagiacnews",
+      "website": "http://www.leaderpub.com/category/news/dowagiac-news/",
+      "facebook": "https://www.facebook.com/DowagiacNews"
+    },
+    {
+      "name": "Daily Star",
+      "twitter": "nilesstar",
+      "website": "http://www.leaderpub.com/category/news/niles/",
+      "facebook": "https://www.facebook.com/NilesStar"
+    }
+  ],
+  "Northville, MI": [],
+  "Novi, MI": [],
+  "Onaway, MI": [],
+  "Ontonagon, MI": [],
+  "Oscoda, MI": [],
+  "Owosso, MI": [],
+  "Oxford, MI": [
+    {
+      "name": "Oxford Leader",
+      "twitter": "theoxfordleader",
+      "website": "http://oxfordleader.com/",
+      "facebook": "https://www.facebook.com/The-Oxford-Leader-144767178910987"
+    }
+  ],
+  "Paw Paw, MI": [],
+  "Petoskey, MI": [
+    {
+      "name": "Petoskey News-Review",
+      "twitter": "petoskeynews",
+      "website": "http://www.petoskeynews.com/",
+      "facebook": "https://www.facebook.com/newsreview"
+    }
+  ],
+  "Pinckney, MI": [
+    {
+      "name": "Sun Times",
+      "twitter": "SunTimesSports",
+      "website": "http://thesuntimesnews.com/",
+      "facebook": "https://www.facebook.com/The-Sun-Times-News-500243043357320/timeline/"
+    }
+  ],
+  "Plainwell, MI": [],
+  "Pontiac, MI": [
+    {
+      "name": "Oakland Press",
+      "twitter": "TheOaklandPress",
+      "website": "http://www.theoaklandpress.com/",
+      "facebook": "https://www.facebook.com/pages/The-Oakland-Press/47899317691"
+    }
+  ],
+  "Port Huron, MI": [
+    {
+      "name": "Times Herald",
+      "twitter": "thetimesherald",
+      "website": "http://www.thetimesherald.com/",
+      "facebook": "https://www.facebook.com/thetimesherald"
+    }
+  ],
+  "Reed City, MI": [
+    {
+      "name": "Herald Review",
+      "twitter": "theheraldreview",
+      "website": "http://news.pioneergroup.com/heraldreview/",
+      "facebook": "https://www.facebook.com/theheraldreview"
+    }
+  ],
+  "Rockford, MI": [],
+  "Rogers City, MI": [],
+  "Rollin, MI": [],
+  "Roscommon, MI": [],
+  "Roseville, MI": [
+    {
+      "name": "Roseville-Eastpointe Eastsider",
+      "twitter": "candgnews",
+      "website": "http://www.candgnews.com/newspaper/eastsider",
+      "facebook": "https://www.facebook.com/rosevilleeastpointeeastsider"
+    }
+  ],
+  "Royal Oak, MI": [
+    {
+      "name": "Daily Tribune",
+      "twitter": "dailytrib",
+      "website": "http://www.dailytribune.com/",
+      "facebook": "https://www.facebook.com/RODailyTribune"
+    },
+    {
+      "name": "Royal Oak Review",
+      "twitter": "RoyalOakReview",
+      "website": "http://www.candgnews.com/newspaper/royaloak-review",
+      "facebook": "https://www.facebook.com/RoyalOakReview"
+    }
+  ],
+  "Saginaw, MI": [
+    {
+      "name": "Saginaw News",
+      "twitter": "saginawnews",
+      "website": "http://www.mlive.com/saginaw/",
+      "facebook": "https://www.facebook.com/saginawnews"
+    }
+  ],
+  "Saline, MI": [
+    {
+      "name": "Saline Post",
+      "twitter": "thesalinepost",
+      "website": "http://www.thesalinepost.com/",
+      "facebook": "https://www.facebook.com/TheSalinePost/"
+    }
+  ],
+  "Sandusky, MI": [
+    {
+      "name": "Sanilac County News",
+      "twitter": "mihomepaper",
+      "website": "http://sanilaccountynews.mihomepaper.com/",
+      "facebook": "https://www.facebook.com/ViewNewspaperGroup"
+    }
+  ],
+  "Saugatuck, MI": [],
+  "Shelby, MI": [
+    {
+      "name": "Shelby-Utica News",
+      "twitter": "shelbyuticanews",
+      "website": "http://www.candgnews.com/newspaper/shelbyuticanews",
+      "facebook": "https://www.facebook.com/ShelbyTwpUticaNews"
+    }
+  ],
+  "South Haven, MI": [],
+  "Southfield, MI": [
+    {
+      "name": "Southfield Sun",
+      "twitter": "SouthfieldSun",
+      "website": "http://www.candgnews.com/newspaper/southfieldsun",
+      "facebook": "https://www.facebook.com/SouthfieldSun"
+    }
+  ],
+  "Southgate, MI": [
+    {
+      "name": "News Herald",
+      "twitter": "NewsHeraldMI",
+      "website": "http://www.thenewsherald.com/",
+      "facebook": "https://www.facebook.com/NewsHeraldMi"
+    }
+  ],
+  "Standish, MI": [
+    {
+      "name": "Arenac County Independent",
+      "twitter": "ArenacIndy",
+      "website": "http://www.arenacindependent.com/",
+      "facebook": "https://www.facebook.com/ArenacIndependent"
+    }
+  ],
+  "Sterling Heights, MI": [
+    {
+      "name": "Sterling Heights Sentry",
+      "twitter": "SterlingSentry",
+      "website": "http://www.candgnews.com/newspaper/sterlingheightssentry",
+      "facebook": "https://www.facebook.com/sterlingheightssentry"
+    }
+  ],
+  "Sturgis, MI": [
+    {
+      "name": "Sturgis Journal",
+      "twitter": "sturgisnewsroom",
+      "website": "http://www.sturgisjournal.com/",
+      "facebook": "https://www.facebook.com/SturgisJournal"
+    }
+  ],
+  "Swartz Creek, MI": [
+    {
+      "name": "Swartz Creek View",
+      "twitter": "mihomepaper",
+      "website": "http://swartzcreekview.mihomepaper.com/",
+      "facebook": "https://www.facebook.com/ViewNewspaperGroup"
+    }
+  ],
+  "Tawas City, MI": [],
+  "Tecumseh, MI": [
+    {
+      "name": "Tecumseh Herald",
+      "twitter": "TecumsehHerald",
+      "website": "http://tecumsehherald.com/",
+      "facebook": "https://www.facebook.com/tecumseh.herald"
+    }
+  ],
+  "Three Rivers, MI": [
+    {
+      "name": "Commercial-News",
+      "twitter": "threeriversnews",
+      "website": "http://www.threeriversnews.com/",
+      "facebook": "https://www.facebook.com/pages/Three-Rivers-Commercial-News/138977262808285"
+    }
+  ],
+  "Traverse City, MI": [
+    {
+      "name": "Record-Eagle",
+      "twitter": "recordeagle",
+      "website": "http://www.record-eagle.com/",
+      "facebook": "https://www.facebook.com/tcrecordeagle"
+    }
+  ],
+  "Utica, MI": [
+    {
+      "name": "The Source",
+      "twitter": "advisorsource",
+      "website": "http://www.sourcenewspapers.com/",
+      "facebook": "https://www.facebook.com/pages/Advisor-Source-Newspapers/273238144574"
+    }
+  ],
+  "Vanderbilt, MI": [],
+  "Village of Clarkston, MI": [],
+  "Warren, MI": [
+    {
+      "name": "Warren Weekly",
+      "twitter": "WarrenWeekly",
+      "website": "http://www.candgnews.com/newspaper/warrenweekly",
+      "facebook": "https://www.facebook.com/warrenweekly"
+    }
+  ],
+  "Waterford, MI": [],
+  "Wayland, MI": [
+    {
+      "name": "Wayland News",
+      "twitter": "mlive",
+      "website": "http://www.mlive.com/wayland/",
+      "facebook": "https://www.facebook.com/mlive"
+    }
+  ],
+  "West Bloomfield, MI": [
+    {
+      "name": "West Bloomfield Beacon",
+      "twitter": "WBBeacon",
+      "website": "http://www.candgnews.com/newspaper/westbloomfieldbeacon",
+      "facebook": "https://www.facebook.com/westbloomfieldbeacon"
+    }
+  ],
+  "Whitehall, MI": [
+    {
+      "name": "White Lake Beacon",
+      "twitter": "WLBeacon",
+      "website": "http://www.shorelinemedia.net/white_lake_beacon/",
+      "facebook": "https://www.facebook.com/WhiteLakeBeacon"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "Aberdeen, SD": [
+    {
+      "name": "Aberdeen American News",
+      "twitter": "aberdeennews",
+      "website": "http://www.aberdeennews.com/",
+      "facebook": "https://www.facebook.com/theaberdeennews/"
+    }
+  ],
+  "Belle Fourche, SD": [],
+  "Brandon, SD": [],
+  "Brookings, SD": [],
+  "Chamberlain, SD": [],
+  "Flandreau, SD": [],
+  "Fort Pierre, SD": [
+    {
+      "name": "Pierre Capital Journal",
+      "twitter": "capitaljournal",
+      "website": "http://www.capjournal.com/",
+      "facebook": "https://www.facebook.com/CapitalJournal"
+    }
+  ],
+  "Freeman, SD": [
+    {
+      "name": "Freeman Courier",
+      "twitter": "freemancourier",
+      "website": "http://www.freemansd.com/",
+      "facebook": "https://www.facebook.com/pages/Freeman-Courier/119808784709486"
+    }
+  ],
+  "Gregory, SD": [],
+  "Groton, SD": [],
+  "Huron, SD": [],
+  "Lake Madison, SD": [
+    {
+      "name": "Madison Daily Leader",
+      "twitter": "daily_leader",
+      "website": "http://www.dailyleaderextra.com/",
+      "facebook": "https://www.facebook.com/pages/Madison-Daily-Leader/213063072771"
+    }
+  ],
+  "Lennox, SD": [
+    {
+      "name": "Lennox Independent",
+      "twitter": "LennoxSDnews",
+      "website": "http://www.lennoxnews.com/",
+      "facebook": "https://www.facebook.com/LennoxIndependent"
+    }
+  ],
+  "Miller, SD": [],
+  "Mitchell, SD": [
+    {
+      "name": "Daily Republic",
+      "twitter": "dailyrepublic",
+      "website": "http://www.mitchellrepublic.com/",
+      "facebook": "https://www.facebook.com/pages/The-Daily-Republic/114638563842"
+    }
+  ],
+  "Mobridge, SD": [
+    {
+      "name": "Mobridge Tribune",
+      "twitter": "MobridgeTribune",
+      "website": "http://www.mobridgetribune.com/",
+      "facebook": "https://www.facebook.com/mobridgetribune"
+    }
+  ],
+  "North Spearfish, SD": [
+    {
+      "name": "Black Hills Pioneer",
+      "twitter": "bhpioneer",
+      "website": "http://www.bhpioneer.com/",
+      "facebook": "https://www.facebook.com/pages/Black-Hills-Pioneer/328371246132"
+    }
+  ],
+  "Parkston, SD": [],
+  "Philip, SD": [],
+  "Pine Ridge, SD": [
+    {
+      "name": "Lakota Country Times",
+      "twitter": "lakota_timez",
+      "website": "http://www.lakotacountrytimes.com/",
+      "facebook": "https://www.facebook.com/pages/Lakota-Country-Times/180079713891"
+    }
+  ],
+  "Rapid City, SD": [
+    {
+      "name": "Rapid City Journal",
+      "twitter": "rcjournal",
+      "website": "http://rapidcityjournal.com/",
+      "facebook": "https://www.facebook.com/RCJournal"
+    }
+  ],
+  "Redfield, SD": [],
+  "Sioux Falls, SD": [
+    {
+      "name": "Argus Leader",
+      "twitter": "argusleader",
+      "website": "http://www.argusleader.com/",
+      "facebook": "https://www.facebook.com/argusleader"
+    }
+  ],
+  "Sisseton, SD": [],
+  "Sturgis, SD": [],
+  "Tea, SD": [
+    {
+      "name": "Tea Weekly",
+      "twitter": "teaweekly",
+      "website": "http://www.teaweekly.com/",
+      "facebook": "https://www.facebook.com/TeaWeekly"
+    }
+  ],
+  "Tripp, SD": [],
+  "Vermillion, SD": [
+    {
+      "name": "Plain Talk",
+      "twitter": "plaintalk2",
+      "website": "http://www.plaintalk.net/",
+      "facebook": "https://www.facebook.com/pages/Vermillion-Plain-Talk/362426717117570"
+    }
+  ],
+  "Watertown, SD": [
+    {
+      "name": "Public Opinion",
+      "twitter": "PublicOpinionSD",
+      "website": "http://www.thepublicopinion.com/",
+      "facebook": "https://www.facebook.com/PublicOpinionSD"
+    }
+  ],
+  "Webster, SD": [
+    {
+      "name": "Reporter & Farmer",
+      "twitter": "ReporterFarmer",
+      "website": "http://www.reporterandfarmer.com/",
+      "facebook": "https://www.facebook.com/pages/Reporter-Farmer/358099377556319"
+    }
+  ],
+  "Yankton, SD": [
+    {
+      "name": "Press & Dakotan",
+      "twitter": "pressanddakotan",
+      "website": "http://www.yankton.net/",
+      "facebook": "https://www.facebook.com/pressanddakotan"
+    }
+  ]
+}

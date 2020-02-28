@@ -1,0 +1,70 @@
+{
+  "Washington, DC": [
+    {
+      "name": "American Bazaar",
+      "twitter": "ambazaarmag",
+      "website": "http://www.americanbazaaronline.com/",
+      "facebook": "https://www.facebook.com/americanbazaaronline"
+    },
+    {
+      "name": "DC Spotlight",
+      "twitter": "dcspotlight",
+      "website": "http://www.dcspotlight.com/",
+      "facebook": "https://www.facebook.com/dcspotlight"
+    },
+    {
+      "name": "Politico",
+      "twitter": "politico",
+      "website": "http://www.politico.com/",
+      "facebook": "https://www.facebook.com/politico"
+    },
+    {
+      "name": "Roll Call",
+      "twitter": "ROLLCALL",
+      "website": "http://www.rollcall.com/",
+      "facebook": "https://www.facebook.com/RollCall"
+    },
+    {
+      "name": "The Hill",
+      "twitter": "thehill",
+      "website": "http://thehill.com/",
+      "facebook": "https://www.facebook.com/TheHill"
+    },
+    {
+      "name": "Town Hall",
+      "twitter": "townhallcom",
+      "website": "http://townhall.com/",
+      "facebook": "https://www.facebook.com/townhallcom"
+    },
+    {
+      "name": "Washington Business Jrnl",
+      "twitter": "WBJonline",
+      "website": "http://www.bizjournals.com/washington/",
+      "facebook": "https://www.facebook.com/wbjonline"
+    },
+    {
+      "name": "Washington City Paper",
+      "twitter": "wcp",
+      "website": "http://www.washingtoncitypaper.com/",
+      "facebook": "https://www.facebook.com/pages/Washington-City-Paper/215221115275"
+    },
+    {
+      "name": "Washington Examiner",
+      "twitter": "washexaminer",
+      "website": "http://washingtonexaminer.com/",
+      "facebook": "https://www.facebook.com/washingtonexaminer"
+    },
+    {
+      "name": "Washington Post",
+      "twitter": "washingtonpost",
+      "website": "http://www.washingtonpost.com/",
+      "facebook": "https://www.facebook.com/washingtonpost"
+    },
+    {
+      "name": "Washington Times",
+      "twitter": "washtimes",
+      "website": "http://www.washingtontimes.com/",
+      "facebook": "https://www.facebook.com/pages/WashingtonTimescom/35994014410"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "Barnet, VT": [
+    {
+      "name": "Caledonian Record",
+      "twitter": "calrecord",
+      "website": "http://caledonianrecord.com/",
+      "facebook": "https://www.facebook.com/caledonianrecord"
+    }
+  ],
+  "Barre, VT": [
+    {
+      "name": "Times-Argus",
+      "twitter": "TimesArgus",
+      "website": "http://www.timesargus.com/",
+      "facebook": "https://www.facebook.com/timesargus"
+    }
+  ],
+  "Barton, VT": [
+    {
+      "name": "Chronicle",
+      "twitter": "bartonchronicle",
+      "website": "http://www.bartonchronicle.com/",
+      "facebook": "https://www.facebook.com/pages/the-Chronicle-Inc/196516758594"
+    }
+  ],
+  "Bennington, VT": [
+    {
+      "name": "Bennington Banner",
+      "twitter": "banner_news",
+      "website": "http://www.benningtonbanner.com/",
+      "facebook": "https://www.facebook.com/benningtonbanner"
+    }
+  ],
+  "Bradford, VT": [
+    {
+      "name": "Journal Opinion",
+      "twitter": "journalopinion",
+      "website": "http://www.jonews.com/",
+      "facebook": "https://www.facebook.com/journalopinion.opinion"
+    }
+  ],
+  "Brattleboro, VT": [
+    {
+      "name": "Brattleboro Reformer",
+      "twitter": "brattreformer",
+      "website": "http://www.reformer.com/",
+      "facebook": "https://www.facebook.com/brattlebororeformer"
+    }
+  ],
+  "Burlington, VT": [
+    {
+      "name": "Burlington Free Press",
+      "twitter": "bfp_news",
+      "website": "http://www.burlingtonfreepress.com/",
+      "facebook": "https://www.facebook.com/bfpnews"
+    },
+    {
+      "name": "Seven Days",
+      "twitter": "sevendaysvt",
+      "website": "http://www.sevendaysvt.com/",
+      "facebook": "https://www.facebook.com/sevendaysvt"
+    }
+  ],
+  "Chester, VT": [],
+  "Dover, VT": [],
+  "East Middlebury, VT": [
+    {
+      "name": "Addison Co. Independent",
+      "twitter": "addyindy",
+      "website": "http://www.addisonindependent.com/",
+      "facebook": "https://www.facebook.com/AddisonIndependent"
+    }
+  ],
+  "Fairfax, VT": [
+    {
+      "name": "St. Albans Messenger",
+      "twitter": "samessenger",
+      "website": "http://www.samessenger.com/",
+      "facebook": "https://www.facebook.com/SaintAlbansMessenger"
+    }
+  ],
+  "Manchester Center, VT": [
+    {
+      "name": "Manchester Journal",
+      "twitter": "ManJourn",
+      "website": "http://www.manchesterjournal.com/",
+      "facebook": "https://www.facebook.com/manchesterjournal"
+    }
+  ],
+  "Morrisville, VT": [
+    {
+      "name": "News & Citizen",
+      "twitter": "newsandcitizen",
+      "website": "http://www.newsandcitizen.com/",
+      "facebook": "https://www.facebook.com/newsandcitizen"
+    }
+  ],
+  "Northfield, VT": [],
+  "Randolph, VT": [],
+  "Rutland, VT": [
+    {
+      "name": "Rutland Herald",
+      "twitter": "rutlandherald",
+      "website": "http://www.rutlandherald.com/",
+      "facebook": "https://www.facebook.com/rutlandherald"
+    }
+  ],
+  "Shelburne, VT": [
+    {
+      "name": "Shelburne News",
+      "twitter": "Shelburne_News",
+      "website": "http://shelburnenews.com/",
+      "facebook": "https://www.facebook.com/Shelburnenews"
+    }
+  ],
+  "South Burlington, VT": [
+    {
+      "name": "Vermont Woman",
+      "twitter": "VTWomanNews",
+      "website": "http://www.vermontwoman.com/",
+      "facebook": "https://www.facebook.com/pages/Vermont-Woman-newspaper/344887880077"
+    }
+  ],
+  "Stowe, VT": [
+    {
+      "name": "Stowe Reporter",
+      "twitter": "StoweToday",
+      "website": "http://www.stowetoday.com/stowe_reporter/",
+      "facebook": "https://www.facebook.com/pages/The-Stowe-Reporter/108600285889438"
+    }
+  ],
+  "Waitsfield, VT": [
+    {
+      "name": "Valley Reporter",
+      "twitter": "valleyreporter",
+      "website": "http://www.valleyreporter.com/",
+      "facebook": "https://www.facebook.com/pages/The-Valley-Reporter/190053483001"
+    }
+  ],
+  "White River Junction, VT": []
+}

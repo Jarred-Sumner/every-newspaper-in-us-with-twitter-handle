@@ -1,0 +1,83 @@
+{
+  "Dover, DE": [
+    {
+      "name": "Delaware State News",
+      "twitter": "TheStateNews",
+      "website": "http://delawarestatenews.net/",
+      "facebook": "https://www.facebook.com/DelawareStateNews"
+    },
+    {
+      "name": "Dover Post",
+      "twitter": "Doverpost",
+      "website": "http://www.doverpost.com/",
+      "facebook": "https://www.facebook.com/doverpost"
+    }
+  ],
+  "Georgetown, DE": [
+    {
+      "name": "Sussex Countian",
+      "twitter": "Sussex_Countian",
+      "website": "http://www.sussexcountian.com/",
+      "facebook": "https://www.facebook.com/TheSussexCountian"
+    }
+  ],
+  "Hockessin, DE": [],
+  "Laurel, DE": [],
+  "Lewes, DE": [
+    {
+      "name": "Cape Gazette",
+      "twitter": "CapeGazette",
+      "website": "http://www.capegazette.com/",
+      "facebook": "https://www.facebook.com/CapeGazette"
+    }
+  ],
+  "Middletown, DE": [
+    {
+      "name": "Middletown Transcript",
+      "twitter": "TranscriptMOT",
+      "website": "http://www.middletowntranscript.com/",
+      "facebook": "https://www.facebook.com/pages/The-Middletown-Transcript/114801044121"
+    }
+  ],
+  "Milford, DE": [
+    {
+      "name": "Milford Beacon",
+      "twitter": "MilfordBeaconDE",
+      "website": "http://www.milfordbeacon.com/",
+      "facebook": "https://www.facebook.com/MilfordBeacon"
+    }
+  ],
+  "Newark, DE": [
+    {
+      "name": "Newark Post",
+      "twitter": "nwkpost",
+      "website": "http://www.newarkpostonline.com/",
+      "facebook": "https://www.facebook.com/newarkpost"
+    }
+  ],
+  "Ocean View, DE": [
+    {
+      "name": "Coastal Point",
+      "twitter": "coastalpoint",
+      "website": "http://www.coastalpoint.com/",
+      "facebook": "https://www.facebook.com/CoastalPoint"
+    }
+  ],
+  "Seaford, DE": [],
+  "Smyrna, DE": [
+    {
+      "name": "Sun-Times",
+      "twitter": "scsuntimes",
+      "website": "http://www.scsuntimes.com/",
+      "facebook": "https://www.facebook.com/scsuntimes"
+    }
+  ],
+  "Wilmington, DE": [
+    {
+      "name": "News Journal",
+      "twitter": "delawareonline",
+      "website": "http://www.delawareonline.com/",
+      "facebook": "https://www.facebook.com/Delawareonline"
+    }
+  ]
+}

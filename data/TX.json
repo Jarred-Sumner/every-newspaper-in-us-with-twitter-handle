@@ -1,0 +1,1472 @@
+{
+  "Abilene, TX": [
+    {
+      "name": "Abilene Reporter News",
+      "twitter": "reporternews",
+      "website": "http://www.reporternews.com/",
+      "facebook": "https://www.facebook.com/reporternews"
+    }
+  ],
+  "Albany, TX": [
+    {
+      "name": "Albany News",
+      "twitter": "thealbanynews",
+      "website": "http://www.thealbanynews.net/",
+      "facebook": "https://www.facebook.com/albanynews"
+    }
+  ],
+  "Alice, TX": [
+    {
+      "name": "Alice Echo-News",
+      "twitter": "EchoNewsJournal",
+      "website": "http://www.alicetx.com/",
+      "facebook": "https://www.facebook.com/aliceechonews"
+    }
+  ],
+  "Allen, TX": [
+    {
+      "name": "Allen American",
+      "twitter": "starlocalmedia",
+      "website": "http://starlocalmedia.com/allenamerican/",
+      "facebook": "https://www.facebook.com/AllenAmerican"
+    }
+  ],
+  "Alpine, TX": [
+    {
+      "name": "Alpine Avalanche",
+      "twitter": "Rockslides",
+      "website": "http://www.alpineavalanche.com/",
+      "facebook": "https://www.facebook.com/pages/Alpine-Avalanche/115569998496043"
+    }
+  ],
+  "Alvin, TX": [],
+  "Amarillo, TX": [
+    {
+      "name": "Amarillo Globe-News",
+      "twitter": "amarilloglobe",
+      "website": "http://amarillo.com/",
+      "facebook": "https://www.facebook.com/amarilloglobenews"
+    }
+  ],
+  "Andrews, TX": [],
+  "Angleton, TX": [],
+  "Aransas Pass, TX": [],
+  "Athens, TX": [
+    {
+      "name": "Athens Daily Review",
+      "twitter": "AthReview",
+      "website": "http://www.athensreview.com/",
+      "facebook": "https://www.facebook.com/pages/Athens-Daily-Review/228059307235613"
+    }
+  ],
+  "Austin, TX": [
+    {
+      "name": "Austin American Statesman",
+      "twitter": "statesman",
+      "website": "http://www.statesman.com/",
+      "facebook": "https://www.facebook.com/statesman"
+    },
+    {
+      "name": "Austin Business Journal",
+      "twitter": "MyABJ",
+      "website": "https://www.bizjournals.com/austin/",
+      "facebook": "https://www.facebook.com/pages/Austin-Business-Journal/41677579235"
+    },
+    {
+      "name": "Austin Chronicle",
+      "twitter": "AustinChronicle",
+      "website": "http://www.austinchronicle.com/",
+      "facebook": "https://www.facebook.com/AustinChronicle"
+    },
+    {
+      "name": "Lake Travis View",
+      "twitter": "laketravisview",
+      "website": "http://www.statesman.com/news/local/lake-travis-view/",
+      "facebook": "https://www.facebook.com/LakeTravisView"
+    },
+    {
+      "name": "Texas Tribune",
+      "twitter": "texastribune",
+      "website": "https://www.texastribune.org/",
+      "facebook": "https://www.facebook.com/texastribune"
+    },
+    {
+      "name": "Villager",
+      "twitter": "TheVillagerATX",
+      "website": "http://www.theaustinvillager.com/",
+      "facebook": "https://www.facebook.com/thevillagerandblackregistrycompany"
+    }
+  ],
+  "Bandera, TX": [
+    {
+      "name": "Bandera Bulletin",
+      "twitter": "BanderaBulletin",
+      "website": "http://www.banderabulletin.com/",
+      "facebook": "https://www.facebook.com/BanderaBulletin"
+    }
+  ],
+  "Bastrop, TX": [
+    {
+      "name": "Bastrop Advertiser",
+      "twitter": "BastropNews",
+      "website": "http://www.statesman.com/news/local/bastrop-advertiser/",
+      "facebook": "https://www.facebook.com/pages/The-Bastrop-Advertiser/193131377394706"
+    }
+  ],
+  "Bay City, TX": [
+    {
+      "name": "Bay City Tribune",
+      "twitter": "baycitytribune",
+      "website": "http://baycitytribune.com/",
+      "facebook": "https://www.facebook.com/pages/The-Bay-City-Tribune/116310401347"
+    }
+  ],
+  "Baytown, TX": [
+    {
+      "name": "Baytown Sun",
+      "twitter": "TheBaytownSun",
+      "website": "http://baytownsun.com/",
+      "facebook": "https://www.facebook.com/BaytownSun"
+    }
+  ],
+  "Beaumont, TX": [
+    {
+      "name": "Beaumont Enterprise",
+      "twitter": "bmtenterprise",
+      "website": "http://www.beaumontenterprise.com/",
+      "facebook": "https://www.facebook.com/bmtenterprise"
+    }
+  ],
+  "Beeville, TX": [
+    {
+      "name": "Beeville Bee-Picayune",
+      "twitter": "mysoutex",
+      "website": "http://www.mysoutex.com/",
+      "facebook": "https://www.facebook.com/beepicayune"
+    }
+  ],
+  "Big Lake, TX": [],
+  "Big Spring, TX": [
+    {
+      "name": "Big Spring Herald",
+      "twitter": "bigspringherald",
+      "website": "http://www.bigspringherald.com/",
+      "facebook": "https://www.facebook.com/bigspringherald"
+    }
+  ],
+  "Blanco, TX": [
+    {
+      "name": "Blanco County News",
+      "twitter": "blanconews",
+      "website": "http://www.hillcountrypassport.com/blanco/",
+      "facebook": "https://www.facebook.com/blanconews"
+    }
+  ],
+  "Boerne, TX": [
+    {
+      "name": "Boerne Star",
+      "twitter": "TheBoerneStar",
+      "website": "http://www.boernestar.com/",
+      "facebook": "https://www.facebook.com/pages/The-Boerne-Star/109712472413357"
+    }
+  ],
+  "Bonham, TX": [],
+  "Borger, TX": [],
+  "Bowie, TX": [
+    {
+      "name": "Bowie News",
+      "twitter": "bowienews",
+      "website": "http://bowienewsonline.com/",
+      "facebook": "https://www.facebook.com/bowienews"
+    }
+  ],
+  "Box Canyon, TX": [
+    {
+      "name": "Canyon News",
+      "twitter": "TheCanyonNews",
+      "website": "http://www.canyonnews.com/",
+      "facebook": "https://www.facebook.com/pages/The-Canyon-News/92146676861"
+    }
+  ],
+  "Brady, TX": [],
+  "Breckenridge, TX": [
+    {
+      "name": "Breckenridge American",
+      "twitter": "BreckAmerican",
+      "website": "http://www.breckenridgeamerican.com/",
+      "facebook": "https://www.facebook.com/breckenridgeamerican/"
+    }
+  ],
+  "Brenham, TX": [],
+  "Bridge City, TX": [],
+  "Brownfield, TX": [
+    {
+      "name": "Brownfield News",
+      "twitter": "BNewsBrian",
+      "website": "http://www.brownfieldonline.com/",
+      "facebook": "https://www.facebook.com/brownfieldnews"
+    }
+  ],
+  "Brownsville, TX": [
+    {
+      "name": "Brownsville Herald",
+      "twitter": "brownsvillenews",
+      "website": "http://www.brownsvilleherald.com/",
+      "facebook": "https://www.facebook.com/BrownsvilleHeraldNews"
+    }
+  ],
+  "Brownwood, TX": [
+    {
+      "name": "Brownwood Bulletin",
+      "twitter": "bwdbulletin",
+      "website": "http://www.brownwoodtx.com/",
+      "facebook": "https://www.facebook.com/brownwoodbulletin"
+    }
+  ],
+  "Bryan, TX": [
+    {
+      "name": "Bryan-College Station Eagle",
+      "twitter": "theeagle",
+      "website": "http://www.theeagle.com/",
+      "facebook": "https://www.facebook.com/bcseagle"
+    }
+  ],
+  "Bullard, TX": [
+    {
+      "name": "Bullard Banner News",
+      "twitter": "BullardBanner",
+      "website": "http://www.bullardnews.com/",
+      "facebook": "https://www.facebook.com/Bullard-Banner-News-109702332452122/"
+    }
+  ],
+  "Burnet, TX": [],
+  "Caldwell, TX": [],
+  "Cameron, TX": [
+    {
+      "name": "Cameron Herald",
+      "twitter": "TheCamHerald",
+      "website": "http://www.cameronherald.com/",
+      "facebook": "https://www.facebook.com/pages/The-Cameron-Herald/122404757785971"
+    }
+  ],
+  "Carrizo Springs, TX": [
+    {
+      "name": "Javelin",
+      "twitter": "csjavelin",
+      "website": "http://www.carrizospringsjavelin.com/",
+      "facebook": "https://www.facebook.com/pages/Carrizo-Springs-Javelin/253282267479"
+    }
+  ],
+  "Cedar Park, TX": [
+    {
+      "name": "Hill Country News",
+      "twitter": "HillCountryNws",
+      "website": "http://www.hillcountrynews.com/",
+      "facebook": "https://www.facebook.com/HillCountryNews"
+    },
+    {
+      "name": "Leader",
+      "twitter": "statesman",
+      "website": "http://www.statesman.com/news/local/cedar-park-leander-statesman/",
+      "facebook": "https://www.facebook.com/statesman"
+    }
+  ],
+  "Chandler, TX": [
+    {
+      "name": "Statesman",
+      "twitter": "CBStatesman",
+      "website": "http://www.c-bstatesman.com/",
+      "facebook": "https://www.facebook.com/ChandlerBrownsboroStatesman"
+    }
+  ],
+  "Clarendon, TX": [
+    {
+      "name": "Clarendon Enterprise",
+      "twitter": "ClarendonTxNews",
+      "website": "http://www.clarendonlive.com/",
+      "facebook": "https://www.facebook.com/TheEnterprise"
+    }
+  ],
+  "Cleburne, TX": [
+    {
+      "name": "Cleburne Times-Review",
+      "twitter": "ctrnews",
+      "website": "http://www.cleburnetimesreview.com/",
+      "facebook": "https://www.facebook.com/ctrnews"
+    }
+  ],
+  "Cleveland, TX": [
+    {
+      "name": "Cleveland Advocate",
+      "twitter": "MyClevelandNews",
+      "website": "http://www.chron.com/neighborhood/cleveland/",
+      "facebook": "https://www.facebook.com/clevelandAdvocate/"
+    }
+  ],
+  "Clifton, TX": [],
+  "Clute, TX": [
+    {
+      "name": "Facts",
+      "twitter": "thefactsnews",
+      "website": "http://thefacts.com/",
+      "facebook": "https://www.facebook.com/pages/The-Facts/109047382448319"
+    }
+  ],
+  "Columbus, TX": [],
+  "Coppell, TX": [
+    {
+      "name": "Coppell Gazette",
+      "twitter": "starlocalmedia",
+      "website": "http://starlocalmedia.com/coppellgazette/",
+      "facebook": "https://www.facebook.com/starlocalmedia"
+    }
+  ],
+  "Copperas Cove, TX": [],
+  "Corpus Christi, TX": [
+    {
+      "name": "Caller-Times",
+      "twitter": "callerdotcom",
+      "website": "http://www.caller.com/",
+      "facebook": "https://www.facebook.com/callertimes"
+    }
+  ],
+  "Corsicana, TX": [
+    {
+      "name": "Corsicana Daily Sun",
+      "twitter": "TheDailySun",
+      "website": "http://www.corsicanadailysun.com/",
+      "facebook": "https://www.facebook.com/corsicanadailysun"
+    }
+  ],
+  "Crockett, TX": [],
+  "Crystal City, TX": [],
+  "Cuero, TX": [],
+  "Daingerfield, TX": [],
+  "Dalhart, TX": [],
+  "Dallas, TX": [
+    {
+      "name": "Dallas Business Journal",
+      "twitter": "DBJEvents",
+      "website": "https://www.bizjournals.com/dallas/",
+      "facebook": "https://www.facebook.com/dallasbizjournal"
+    },
+    {
+      "name": "Dallas Morning News",
+      "twitter": "dallasnews",
+      "website": "http://www.dallasnews.com/",
+      "facebook": "https://www.facebook.com/dallasmorningnews"
+    },
+    {
+      "name": "Dallas Observer",
+      "twitter": "Dallas_Observer",
+      "website": "http://www.dallasobserver.com/",
+      "facebook": "https://www.facebook.com/DallasObserver"
+    },
+    {
+      "name": "Park Cities People",
+      "twitter": "pcpeople",
+      "website": "http://www.parkcitiespeople.com/",
+      "facebook": "https://www.facebook.com/pcpeople"
+    },
+    {
+      "name": "Preston Hollow People",
+      "twitter": "phollowpeople",
+      "website": "http://www.prestonhollowpeople.com/",
+      "facebook": "https://www.facebook.com/phollowpeople"
+    }
+  ],
+  "De Leon, TX": [],
+  "Decatur, TX": [
+    {
+      "name": "Wise County Messenger",
+      "twitter": "WCMessenger",
+      "website": "http://www.wcmessenger.com/",
+      "facebook": "https://www.facebook.com/pages/Wise-County-Messenger/118492838214209"
+    }
+  ],
+  "Del Rio, TX": [
+    {
+      "name": "News Herald",
+      "twitter": "DRNewsHerald",
+      "website": "http://delrionewsherald.com/",
+      "facebook": "https://www.facebook.com/DRNewsHerald"
+    }
+  ],
+  "Denton, TX": [
+    {
+      "name": "Denton Record-Chronicle",
+      "twitter": "dentonrc",
+      "website": "http://www.dentonrc.com/",
+      "facebook": "https://www.facebook.com/dentonrc"
+    }
+  ],
+  "Diboll, TX": [],
+  "Dublin, TX": [],
+  "Dumas, TX": [
+    {
+      "name": "News-Press",
+      "twitter": "mcnewspress",
+      "website": "http://www.moorenews.com/",
+      "facebook": "https://www.facebook.com/MCNewsPress"
+    }
+  ],
+  "Eagle Lake, TX": [],
+  "El Campo, TX": [],
+  "El Mesquite, TX": [
+    {
+      "name": "Mesquite News",
+      "twitter": "starlocalmedia",
+      "website": "http://starlocalmedia.com/mesquitenews/",
+      "facebook": "https://www.facebook.com/starlocalmedia"
+    }
+  ],
+  "El Paso, TX": [
+    {
+      "name": "El Paso Times",
+      "twitter": "elpasotimes",
+      "website": "http://www.elpasotimes.com/",
+      "facebook": "https://www.facebook.com/eptimes"
+    }
+  ],
+  "Eldorado, TX": [],
+  "Elgin, TX": [
+    {
+      "name": "Elgin Courier",
+      "twitter": "ElginCourier",
+      "website": "http://www.elgincourier.com/",
+      "facebook": "https://www.facebook.com/pages/Elgin-Courier/182665988417547"
+    }
+  ],
+  "Emory, TX": [
+    {
+      "name": "Rains County Leader",
+      "twitter": "RainsCounty",
+      "website": "http://www.rainscountyleader.com/",
+      "facebook": "https://www.facebook.com/rainscountyleader"
+    }
+  ],
+  "Ennis, TX": [],
+  "Fairfield, TX": [
+    {
+      "name": "Freestone County Times",
+      "twitter": "FreestnCoTimes",
+      "website": "http://freestonecountytimesonline.com/",
+      "facebook": "https://www.facebook.com/pages/Freestone-Co-Times/147875767832"
+    }
+  ],
+  "Farmersville, TX": [
+    {
+      "name": "Farmersville Times",
+      "twitter": "farmersville",
+      "website": "http://farmersvilletimes.com/",
+      "facebook": "https://www.facebook.com/pages/The-Farmersville-Times/101252965830"
+    }
+  ],
+  "Ferris, TX": [],
+  "Floresville, TX": [
+    {
+      "name": "Wilson County News",
+      "twitter": "wcnonline",
+      "website": "https://www.wilsoncountynews.com/",
+      "facebook": "https://www.facebook.com/wilsoncountynews"
+    }
+  ],
+  "Floydada, TX": [],
+  "Fort Stockton, TX": [
+    {
+      "name": "Fort Stockton Pioneer",
+      "twitter": "FSPioneer",
+      "website": "http://www.fortstocktonpioneer.com/",
+      "facebook": "https://www.facebook.com/pages/Fort-Stockton-Pioneer/140791919306081"
+    }
+  ],
+  "Fort Worth, TX": [
+    {
+      "name": "Fort Worth Business Press",
+      "twitter": "fwbusinesspress",
+      "website": "http://www.fortworthbusiness.com/",
+      "facebook": "https://www.facebook.com/pages/Fort-Worth-Business-Press/242371041620"
+    },
+    {
+      "name": "Fort Worth Star-Telegram",
+      "twitter": "startelegram",
+      "website": "http://www.star-telegram.com/",
+      "facebook": "https://www.facebook.com/startelegram"
+    },
+    {
+      "name": "Fort Worth Weekly",
+      "twitter": "FortWorthWeekly",
+      "website": "https://www.fwweekly.com/",
+      "facebook": "https://www.facebook.com/FortWorthWeekly"
+    }
+  ],
+  "Frankston, TX": [],
+  "Fredericksburg, TX": [
+    {
+      "name": "Standard Radio Post",
+      "twitter": "fbgstandard",
+      "website": "http://www.fredericksburgstandard.com/",
+      "facebook": "https://www.facebook.com/fredericksburgstandard"
+    }
+  ],
+  "Friendswood, TX": [
+    {
+      "name": "Friendswood Journal",
+      "twitter": "FriendswoodNews",
+      "website": "http://www.chron.com/neighborhood/friendswood/",
+      "facebook": "https://www.facebook.com/FriendswoodJournal"
+    }
+  ],
+  "Friona, TX": [],
+  "Frisco, TX": [
+    {
+      "name": "Frisco Enterprise",
+      "twitter": "friscoupdates",
+      "website": "http://starlocalmedia.com/friscoenterprise/",
+      "facebook": "https://www.facebook.com/friscoenterprise"
+    }
+  ],
+  "Gainesville, TX": [],
+  "Galveston, TX": [
+    {
+      "name": "Galveston County Daily News",
+      "twitter": "GalvNews",
+      "website": "http://www.galvnews.com/",
+      "facebook": "https://www.facebook.com/GalvNews/"
+    },
+    {
+      "name": "The Police News",
+      "twitter": "thepolicenews",
+      "website": "http://thepolicenews.net/",
+      "facebook": "https://www.facebook.com/thepolicenews"
+    }
+  ],
+  "Gatesville, TX": [],
+  "Georgetown, TX": [
+    {
+      "name": "Williamson County Sun",
+      "twitter": "WilcoSun",
+      "website": "http://www.wilcosun.com/",
+      "facebook": "https://www.facebook.com/wilcosun"
+    }
+  ],
+  "Gilmer, TX": [
+    {
+      "name": "Gilmer Mirror",
+      "twitter": "TheGilmerMirror",
+      "website": "http://www.gilmermirror.com/",
+      "facebook": "https://www.facebook.com/pages/The-Gilmer-Mirror/52627212244"
+    }
+  ],
+  "Goldthwaite, TX": [],
+  "Gonzales, TX": [
+    {
+      "name": "Gonzales Inquirer",
+      "twitter": "GonzInquirer",
+      "website": "http://www.gonzalesinquirer.com/",
+      "facebook": "https://www.facebook.com/pages/Gonzales-Inquirer/126334907393571"
+    }
+  ],
+  "Graford, TX": [
+    {
+      "name": "Lake Country Sun",
+      "twitter": "lakecountrysun",
+      "website": "http://www.lakecountrysun.com/",
+      "facebook": "https://www.facebook.com/pages/Lake-Country-Sun/345382108938"
+    }
+  ],
+  "Graham, TX": [
+    {
+      "name": "Graham Leader",
+      "twitter": "grahamleader",
+      "website": "http://www.grahamleader.com/",
+      "facebook": "https://www.facebook.com/grahamleader"
+    }
+  ],
+  "Granbury, TX": [
+    {
+      "name": "Hood County News",
+      "twitter": "HoodCountyNews",
+      "website": "http://hcnews.com/",
+      "facebook": "https://www.facebook.com/HCNews"
+    }
+  ],
+  "Greenville, TX": [
+    {
+      "name": "Greenville Herald Banner",
+      "twitter": "heraldbanner",
+      "website": "http://www.heraldbanner.com/",
+      "facebook": "https://www.facebook.com/HeraldBanner"
+    }
+  ],
+  "Groesbeck, TX": [
+    {
+      "name": "Groesbeck Journal",
+      "twitter": "GBTJournal1",
+      "website": "http://www.groesbeckjournal.com/",
+      "facebook": "https://www.facebook.com/pages/Groesbeck-Journal/126680787387353"
+    }
+  ],
+  "Hamilton, TX": [],
+  "Harlingen, TX": [
+    {
+      "name": "Valley Morning Star",
+      "twitter": "valleystar",
+      "website": "http://www.valleymorningstar.com/",
+      "facebook": "https://www.facebook.com/Valleymorningstar"
+    }
+  ],
+  "Hearne, TX": [],
+  "Henderson, TX": [
+    {
+      "name": "Henderson Daily News",
+      "twitter": "theHDN",
+      "website": "http://www.hendersondailynews.com/",
+      "facebook": "https://www.facebook.com/HendersonDailyNews"
+    }
+  ],
+  "Hondo, TX": [],
+  "Houston, TX": [
+    {
+      "name": "Forward Times",
+      "twitter": "forwardtimes",
+      "website": "http://forwardtimesonline.com/",
+      "facebook": "https://www.facebook.com/forwardtimesonline"
+    },
+    {
+      "name": "Free Press Houston",
+      "twitter": "free_press",
+      "website": "http://www.freepresshouston.com/",
+      "facebook": "https://www.facebook.com/FPHNews"
+    },
+    {
+      "name": "Houston Business Journal",
+      "twitter": "HOUBizjournal",
+      "website": "https://www.bizjournals.com/houston/",
+      "facebook": "https://www.facebook.com/houstonbusinessjournals"
+    },
+    {
+      "name": "Houston Chronicle",
+      "twitter": "HoustonChron",
+      "website": "http://www.chron.com/",
+      "facebook": "https://www.facebook.com/chroncom"
+    },
+    {
+      "name": "Houston Community Newspapers",
+      "twitter": "hcnonline",
+      "website": "http://www.chron.com/neighborhood/",
+      "facebook": "https://www.facebook.com/YourHoustonNews"
+    },
+    {
+      "name": "Houston Press",
+      "twitter": "HoustonPress",
+      "website": "http://www.houstonpress.com/",
+      "facebook": "https://www.facebook.com/HoustonPress"
+    }
+  ],
+  "Howe, TX": [
+    {
+      "name": "Howe Enterprise",
+      "twitter": "howeenterprise",
+      "website": "http://www.howeenterprise.com/",
+      "facebook": "https://www.facebook.com/howeenterprise"
+    }
+  ],
+  "Huntsville, TX": [
+    {
+      "name": "Huntsville Item",
+      "twitter": "HuntsvilleItem",
+      "website": "http://itemonline.com/",
+      "facebook": "https://www.facebook.com/pages/The-Huntsville-Item/192612210786682"
+    }
+  ],
+  "Ingram, TX": [],
+  "Italy, TX": [
+    {
+      "name": "Italy Neotribune",
+      "twitter": "italyneotribune",
+      "website": "https://italy.neotrib.com/",
+      "facebook": "https://www.facebook.com/italyneotribune"
+    }
+  ],
+  "Jacksboro, TX": [
+    {
+      "name": "Jack County Herald",
+      "twitter": "jacksboro_news",
+      "website": "http://www.jacksboronewspapers.com/",
+      "facebook": "https://www.facebook.com/jacksboronewspapers"
+    }
+  ],
+  "Jacksonville, TX": [
+    {
+      "name": "Jacksonville Daily Progress",
+      "twitter": "jdprogress",
+      "website": "http://www.jacksonvilleprogress.com/"
+    }
+  ],
+  "Jasper, TX": [],
+  "Johnson City, TX": [
+    {
+      "name": "Johnson City Record Courier",
+      "twitter": "jcrecord",
+      "website": "http://www.hillcountrypassport.com/jcrc/",
+      "facebook": "https://www.facebook.com/pages/Johnson-City-Record-Courier/50973152345"
+    }
+  ],
+  "Junction, TX": [],
+  "Karnes City, TX": [
+    {
+      "name": "Karnes Countywide",
+      "twitter": "mysoutex",
+      "website": "http://www.mysoutex.com/karnes_countywide/",
+      "facebook": "https://www.facebook.com/karnescountywide"
+    }
+  ],
+  "Katy, TX": [],
+  "Kaufman, TX": [],
+  "Keller, TX": [
+    {
+      "name": "Keller Citizen",
+      "twitter": "startelegram",
+      "website": "http://www.star-telegram.com/kellercitizen/",
+      "facebook": "https://www.facebook.com/startelegram"
+    },
+    {
+      "name": "Texas Blaze News",
+      "twitter": "TexasBlazeNews",
+      "website": "http://texasblazenews.com/",
+      "facebook": "https://www.facebook.com/TexasBlazeNewspaper"
+    }
+  ],
+  "Kerrville, TX": [
+    {
+      "name": "Kerrville Daily Times",
+      "twitter": "kerrville",
+      "website": "http://dailytimes.com/",
+      "facebook": "https://www.facebook.com/kerrvilledailytimes"
+    }
+  ],
+  "Kilgore, TX": [
+    {
+      "name": "Kilgore News Herald",
+      "twitter": "kilgorenews",
+      "website": "http://www.kilgorenewsherald.com/",
+      "facebook": "https://www.facebook.com/pages/Kilgore-News-Herald/96353412148"
+    }
+  ],
+  "Killeen, TX": [
+    {
+      "name": "Killeen Daily Herald",
+      "twitter": "kdhnews",
+      "website": "http://kdhnews.com/",
+      "facebook": "https://www.facebook.com/kdhnews"
+    }
+  ],
+  "Kingsville, TX": [],
+  "Kyle, TX": [
+    {
+      "name": "Hays County Free Press",
+      "twitter": "haysfreepress",
+      "website": "http://haysfreepress.com/",
+      "facebook": "https://www.facebook.com/haysfreepress"
+    }
+  ],
+  "La Grange, TX": [
+    {
+      "name": "Fayette County Record",
+      "twitter": "FCR_News",
+      "website": "http://fayettecountyrecord.com/",
+      "facebook": "https://www.facebook.com/fcr.news"
+    }
+  ],
+  "La Victoria, TX": [
+    {
+      "name": "Advocate",
+      "twitter": "Vicadvocate",
+      "website": "https://www.victoriaadvocate.com/",
+      "facebook": "https://www.facebook.com/VictoriaAdvocate"
+    }
+  ],
+  "Lamesa, TX": [],
+  "Lampasas, TX": [],
+  "Laredo, TX": [
+    {
+      "name": "Laredo Morning Times",
+      "twitter": "lmtnews",
+      "website": "http://www.lmtonline.com/",
+      "facebook": "https://www.facebook.com/lmtonline"
+    }
+  ],
+  "Leakey, TX": [
+    {
+      "name": "Hill Country Herald",
+      "twitter": "HCHerald",
+      "website": "http://hillcountryherald.net/",
+      "facebook": "https://www.facebook.com/pages/The-Hill-Country-Herald/178261938859621"
+    }
+  ],
+  "Leander, TX": [
+    {
+      "name": "Leander Ledger ",
+      "twitter": "statesman",
+      "website": "http://www.statesman.com/s/news/local/cedar-park-leander-statesman/",
+      "facebook": "https://www.facebook.com/statesman"
+    }
+  ],
+  "Lewisville, TX": [
+    {
+      "name": "Lewisville Leader",
+      "twitter": "starlocalmedia",
+      "website": "http://starlocalmedia.com/lewisvilleleader/",
+      "facebook": "https://www.facebook.com/starlocalmedia"
+    },
+    {
+      "name": "Lewisville Texan Journal",
+      "twitter": "LewisvilleTexan",
+      "website": "https://www.lewisvilletexan.com/",
+      "facebook": "https://www.facebook.com/LewisvilleTexanJournal/"
+    }
+  ],
+  "Lexington, TX": [],
+  "Lindale, TX": [],
+  "Little Elm, TX": [
+    {
+      "name": "Journal",
+      "twitter": "starlocalmedia",
+      "website": "http://starlocalmedia.com/littleelmjournal/",
+      "facebook": "https://www.facebook.com/littleelmjournal"
+    }
+  ],
+  "Llano, TX": [
+    {
+      "name": "Llano News",
+      "twitter": "llanonews",
+      "website": "http://www.hillcountrypassport.com/llano/",
+      "facebook": "https://www.facebook.com/TheLlanoNews"
+    }
+  ],
+  "Lockhart, TX": [
+    {
+      "name": "Post-Register",
+      "twitter": "LktPostRegister",
+      "website": "http://post-register.com/",
+      "facebook": "https://www.facebook.com/pages/Lockhart-Post-Register/155968071085280"
+    }
+  ],
+  "Longview, TX": [
+    {
+      "name": "Longview News-Journal",
+      "twitter": "newsjournal",
+      "website": "https://www.news-journal.com/",
+      "facebook": "https://www.facebook.com/newsjournal"
+    }
+  ],
+  "Lubbock, TX": [
+    {
+      "name": "Lubbock Avalanche Journal",
+      "twitter": "lubbockonline",
+      "website": "http://lubbockonline.com/",
+      "facebook": "https://www.facebook.com/pages/Avalanche-Journal/95690719813"
+    }
+  ],
+  "Lufkin, TX": [
+    {
+      "name": "Lufkin Daily News",
+      "twitter": "lufkindailynews",
+      "website": "http://lufkindailynews.com/",
+      "facebook": "https://www.facebook.com/lufkindaily"
+    }
+  ],
+  "Lumberton, TX": [],
+  "Mabank, TX": [],
+  "Mansfield, TX": [],
+  "Marble Falls, TX": [
+    {
+      "name": "Daily Tribune",
+      "twitter": "daily_trib",
+      "website": "http://www.dailytrib.com/",
+      "facebook": "https://www.facebook.com/DailyTrib"
+    },
+    {
+      "name": "Highlander",
+      "twitter": "Highlander_News",
+      "website": "https://www.highlandernews.com/",
+      "facebook": "https://www.facebook.com/pages/The-Highlander/163419690342145"
+    }
+  ],
+  "Marfa, TX": [
+    {
+      "name": "Big Bend Sentinel",
+      "twitter": "bigbendnow",
+      "website": "http://www.bigbendsentinel.com/",
+      "facebook": "https://www.facebook.com/BigBendNow"
+    }
+  ],
+  "Marlin, TX": [
+    {
+      "name": "Marlin Democrat",
+      "twitter": "MarlinDemocrat",
+      "website": "http://www.marlindemocrat.com/",
+      "facebook": "https://www.facebook.com/pages/Marlin-Democrat/193488574021504"
+    }
+  ],
+  "Marshall, TX": [
+    {
+      "name": "News Messenger",
+      "twitter": "News_Messenger",
+      "website": "https://www.marshallnewsmessenger.com/",
+      "facebook": "https://www.facebook.com/newsmessenger"
+    }
+  ],
+  "Mason, TX": [
+    {
+      "name": "Mason County News",
+      "twitter": "masonnews",
+      "website": "http://www.masoncountynews.com/",
+      "facebook": "https://www.facebook.com/masoncountynews"
+    }
+  ],
+  "McAllen, TX": [
+    {
+      "name": "Monitor",
+      "twitter": "monitornews",
+      "website": "http://www.themonitor.com/",
+      "facebook": "https://www.facebook.com/monitornews"
+    },
+    {
+      "name": "Texas Border Business",
+      "twitter": "TBBusiness",
+      "website": "https://texasborderbusiness.com/",
+      "facebook": "https://www.facebook.com/texasborderbusiness"
+    }
+  ],
+  "McGregor, TX": [],
+  "McKinney, TX": [
+    {
+      "name": "Courier-Gazette",
+      "twitter": "starlocalmedia",
+      "website": "http://starlocalmedia.com/mckinneycouriergazette/",
+      "facebook": "https://www.facebook.com/mckinneycouriergazette"
+    }
+  ],
+  "Midland, TX": [
+    {
+      "name": "Midland Reporter Telegram",
+      "twitter": "mwtnews",
+      "website": "http://www.mrt.com/",
+      "facebook": "https://www.facebook.com/TheReporterTelegram"
+    }
+  ],
+  "Mineral Wells, TX": [
+    {
+      "name": "Index",
+      "twitter": "mwindex",
+      "website": "http://www.mineralwellsindex.com/",
+      "facebook": "https://www.facebook.com/mineralwellsindex"
+    }
+  ],
+  "Mission, TX": [
+    {
+      "name": "Progress Times",
+      "twitter": "progresstimes",
+      "website": "http://www.progresstimes.net/",
+      "facebook": "https://www.facebook.com/ProgressTimes"
+    }
+  ],
+  "Montgomery, TX": [],
+  "Mount Pleasant, TX": [
+    {
+      "name": "Daily Tribune",
+      "twitter": "MPDailyTribune",
+      "website": "http://www.dailytribune.net/",
+      "facebook": "https://www.facebook.com/dailytribune"
+    }
+  ],
+  "Mount Vernon, TX": [],
+  "Muleshoe, TX": [],
+  "Nacogdoches, TX": [
+    {
+      "name": "Daily Sentinel",
+      "twitter": "dailysentinel",
+      "website": "http://dailysentinel.com/",
+      "facebook": "https://www.facebook.com/dailysentinel"
+    }
+  ],
+  "Navasota, TX": [
+    {
+      "name": "Navasota Examiner",
+      "twitter": "NavExaminer",
+      "website": "http://www.navasotaexaminer.com/",
+      "facebook": "https://www.facebook.com/pages/Navasota-Examiner/80394749022"
+    }
+  ],
+  "Nederland, TX": [
+    {
+      "name": "Mid County Chronicle",
+      "twitter": "BmtEnterprise",
+      "website": "http://www.beaumontenterprise.com/news/midcounty/",
+      "facebook": "https://www.facebook.com/bmtenterprise"
+    }
+  ],
+  "New Braunfels, TX": [
+    {
+      "name": "Herald-Zeitung",
+      "twitter": "NewBraunfelsHZ",
+      "website": "http://herald-zeitung.com/",
+      "facebook": "https://www.facebook.com/pages/New-Braunfels-Herald-Zeitung/110394895661837"
+    }
+  ],
+  "Odessa, TX": [
+    {
+      "name": "Odessa American",
+      "twitter": "OdessaAmerican",
+      "website": "http://www.oaoa.com/",
+      "facebook": "https://www.facebook.com/OdessaAmerican"
+    }
+  ],
+  "Olney, TX": [],
+  "Orange, TX": [
+    {
+      "name": "Orange County News",
+      "twitter": "BmtEnterprise",
+      "website": "http://www.beaumontenterprise.com/news/orangecounty/",
+      "facebook": "https://www.facebook.com/bmtenterprise"
+    },
+    {
+      "name": "Orange Leader",
+      "twitter": "Orangeleader13",
+      "website": "http://www.orangeleader.com/",
+      "facebook": "https://www.facebook.com/theorangeleader"
+    }
+  ],
+  "Ozona, TX": [
+    {
+      "name": "Ozona Stockman",
+      "twitter": "ozstockman",
+      "website": "http://www.ozonastockman.com/",
+      "facebook": "https://www.facebook.com/pages/Ozona-TX/The-Ozona-Stockman/104649083211"
+    }
+  ],
+  "Palacios, TX": [],
+  "Palestine, TX": [
+    {
+      "name": "Herald-Press",
+      "twitter": "palestineherald",
+      "website": "http://www.palestineherald.com/",
+      "facebook": "https://www.facebook.com/palestineheraldpress"
+    }
+  ],
+  "Pampa, TX": [],
+  "Paris, TX": [
+    {
+      "name": "Paris News",
+      "twitter": "TheParisNews",
+      "website": "http://theparisnews.com/",
+      "facebook": "https://www.facebook.com/theparisnews"
+    }
+  ],
+  "Pasadena, TX": [
+    {
+      "name": "Pasadena Citizen",
+      "twitter": "PasadenaCitizen",
+      "website": "http://www.chron.com/neighborhood/pasadena/",
+      "facebook": "https://www.facebook.com/PasadenaCitizen"
+    }
+  ],
+  "Pearland, TX": [
+    {
+      "name": "Pearland Journal",
+      "twitter": "PearlandNews",
+      "website": "http://www.chron.com/neighborhood/pearland/",
+      "facebook": "https://www.facebook.com/PearlandJournal"
+    }
+  ],
+  "Pecos, TX": [],
+  "Pflugerville, TX": [
+    {
+      "name": "Pflugerville Pflag",
+      "twitter": "PvillePflag",
+      "website": "http://www.statesman.com/news/local/pflugerville-pflag/",
+      "facebook": "https://www.facebook.com/pages/Pflugerville-Pflag/325501278661"
+    }
+  ],
+  "Pilot Point, TX": [
+    {
+      "name": "Post-Signal",
+      "twitter": "postsignal",
+      "website": "http://www.postsignal.com/",
+      "facebook": "https://www.facebook.com/PilotPointPostSignal"
+    }
+  ],
+  "Pittsburg, TX": [],
+  "Plainview, TX": [
+    {
+      "name": "Plainview Daily Herald",
+      "twitter": "MyPlainview",
+      "website": "http://www.myplainview.com/",
+      "facebook": "https://www.facebook.com/plainviewdailyherald"
+    }
+  ],
+  "Plano, TX": [
+    {
+      "name": "Plano Star Courier",
+      "twitter": "planonewspaper",
+      "website": "http://starlocalmedia.com/planocourier/",
+      "facebook": "https://www.facebook.com/planostarcourier"
+    }
+  ],
+  "Pleasanton, TX": [
+    {
+      "name": "Pleasanton Express",
+      "twitter": "pe1909",
+      "website": "http://www.pleasantonexpress.com/",
+      "facebook": "https://www.facebook.com/pages/Pleasanton-Express/298864000133917"
+    }
+  ],
+  "Port Aransas, TX": [
+    {
+      "name": "Port Aransas South Jetty",
+      "twitter": "portasouthjetty",
+      "website": "http://www.portasouthjetty.com/",
+      "facebook": "https://www.facebook.com/portasouthjetty"
+    }
+  ],
+  "Port Arthur, TX": [
+    {
+      "name": "Port Arthur News",
+      "twitter": "panews",
+      "website": "http://www.panews.com/",
+      "facebook": "https://www.facebook.com/portarthurnews"
+    }
+  ],
+  "Port Lavaca, TX": [
+    {
+      "name": "Port Lavaca Wave",
+      "twitter": "portlavacawave",
+      "website": "http://www.portlavacawave.com/",
+      "facebook": "https://www.facebook.com/portlavacawave"
+    }
+  ],
+  "Princeton, TX": [
+    {
+      "name": "Princeton Herald",
+      "twitter": "princetonherald",
+      "website": "http://princetonherald.com/",
+      "facebook": "https://www.facebook.com/pages/The-Princeton-Herald/125163066000"
+    }
+  ],
+  "Raymondville, TX": [],
+  "Robstown, TX": [],
+  "Rockdale, TX": [],
+  "Rockport, TX": [],
+  "Rockwall, TX": [
+    {
+      "name": "Herald Banner",
+      "twitter": "heraldbanner",
+      "website": "http://www.rockwallheraldbanner.com/",
+      "facebook": "https://www.facebook.com/RockwallHeraldBanner"
+    }
+  ],
+  "Rosenberg, TX": [
+    {
+      "name": "Fort Bend Herald",
+      "twitter": "fbheraldsports",
+      "website": "http://www.fbherald.com/",
+      "facebook": "https://www.facebook.com/fortbendherald"
+    }
+  ],
+  "Round Rock, TX": [
+    {
+      "name": "Round Rock Leader",
+      "twitter": "roundrockleader",
+      "website": "http://www.statesman.com/news/local/round-rock-leader/",
+      "facebook": "https://www.facebook.com/pages/Round-Rock-Leader-Newspaper/324103444745"
+    }
+  ],
+  "Rowlett, TX": [
+    {
+      "name": "Lakeshore Times",
+      "twitter": "starlocalmedia",
+      "website": "http://starlocalmedia.com/rowlettlakeshoretimes/",
+      "facebook": "https://www.facebook.com/starlocalmedia"
+    }
+  ],
+  "Rusk, TX": [
+    {
+      "name": "Cherokeean Herald",
+      "twitter": "CHNewsDesk",
+      "website": "https://www.thecherokeean.com/",
+      "facebook": "https://www.facebook.com/Cherokeean-Herald-Newspaper-119576951478629/"
+    }
+  ],
+  "Salado, TX": [
+    {
+      "name": "Salado Village Voice",
+      "twitter": "saladovoice",
+      "website": "http://www.saladovillagevoice.com/",
+      "facebook": "https://www.facebook.com/pages/Salado-Village-Voice/196382125298"
+    }
+  ],
+  "Sam Rayburn, TX": [],
+  "San Angelo, TX": [
+    {
+      "name": "Standard-Times",
+      "twitter": "gosanangelo",
+      "website": "http://www.gosanangelo.com/",
+      "facebook": "https://www.facebook.com/gosanangelo"
+    }
+  ],
+  "San Antonio, TX": [
+    {
+      "name": "Business Journal",
+      "twitter": "SABizJournal",
+      "website": "https://www.bizjournals.com/sanantonio/",
+      "facebook": "https://www.facebook.com/SABusinessJournal"
+    },
+    {
+      "name": "Express News",
+      "twitter": "mysa",
+      "website": "http://www.mysanantonio.com/news/",
+      "facebook": "https://www.facebook.com/SanAntonioExpressNews"
+    },
+    {
+      "name": "La Prensa Newspaper",
+      "twitter": "LaPrensa_News",
+      "website": "http://www.laprensasa.com/",
+      "facebook": "https://www.facebook.com/pages/La-Prensa-de-San-Antonio-Newspaper/139533599817"
+    },
+    {
+      "name": "MySA",
+      "twitter": "mySA",
+      "website": "http://www.mysanantonio.com/",
+      "facebook": "https://www.facebook.com/SanAntonioExpressNews"
+    },
+    {
+      "name": "San Antonio Current",
+      "twitter": "SAcurrent",
+      "website": "https://www.sacurrent.com/",
+      "facebook": "https://www.facebook.com/sacurrent"
+    }
+  ],
+  "San Marcos, TX": [
+    {
+      "name": "Mercury",
+      "twitter": "themercurynews",
+      "website": "http://smmercury.com/",
+      "facebook": "https://www.facebook.com/sanmarcosmercury"
+    }
+  ],
+  "San Saba, TX": [
+    {
+      "name": "San Saba News & Star",
+      "twitter": "sabanews",
+      "website": "http://www.sansabanews.com/",
+      "facebook": "https://www.facebook.com/sansabanews"
+    }
+  ],
+  "Seabrook, TX": [
+    {
+      "name": "Bay Area Observer",
+      "twitter": "bayareatexas",
+      "website": "http://bayareaobserver.com/",
+      "facebook": "https://www.facebook.com/pages/The-Bay-Area-Observer/244796372630"
+    }
+  ],
+  "Sealy, TX": [],
+  "Seguin, TX": [
+    {
+      "name": "Gazette",
+      "twitter": "seguingazette",
+      "website": "http://seguingazette.com/",
+      "facebook": "https://www.facebook.com/seguingazette"
+    }
+  ],
+  "Seminole, TX": [
+    {
+      "name": "Seminole Sentinel",
+      "twitter": "SemTXSentinel",
+      "website": "http://www.seminolesentinel.com/",
+      "facebook": "https://www.facebook.com/pages/Seminole-Sentinel/120500261318606"
+    }
+  ],
+  "Sherman, TX": [
+    {
+      "name": "Herald Democrat",
+      "twitter": "heralddemocrat",
+      "website": "http://www.heralddemocrat.com/",
+      "facebook": "https://www.facebook.com/HDTexoma"
+    }
+  ],
+  "Silverton, TX": [],
+  "Smithville, TX": [
+    {
+      "name": "Smithville Times",
+      "twitter": "SmithvilleTimes",
+      "website": "http://www.statesman.com/news/local/smithville-times/",
+      "facebook": "https://www.facebook.com/pages/The-Smithville-Times/121285857921284"
+    }
+  ],
+  "Snyder, TX": [],
+  "Spearman, TX": [
+    {
+      "name": "High Plains Observer",
+      "twitter": "hpocom",
+      "website": "http://highplainsobserver.com/",
+      "facebook": "https://www.facebook.com/High-Plains-Observer-156344521750/"
+    },
+    {
+      "name": "Reporter-Statesman",
+      "twitter": "HansfordReport",
+      "website": "http://www.spearmanreporter.com/",
+      "facebook": "https://www.facebook.com/pages/Hansford-County-Reporter-Statesman/258654308921"
+    }
+  ],
+  "Stephenville, TX": [
+    {
+      "name": "Stephenville Empire-Tribune",
+      "twitter": "empiretribune",
+      "website": "http://www.yourstephenvilletx.com/",
+      "facebook": "https://www.facebook.com/empiretribune"
+    }
+  ],
+  "Sulphur Springs, TX": [
+    {
+      "name": "News Telegram",
+      "twitter": "myssnews",
+      "website": "https://www.ssnewstelegram.com/",
+      "facebook": "https://www.facebook.com/myssnewscom"
+    }
+  ],
+  "Sweetwater, TX": [
+    {
+      "name": "Sweetwater Reporter",
+      "twitter": "SWTRReporter",
+      "website": "http://www.sweetwaterreporter.com/",
+      "facebook": "https://www.facebook.com/pages/Sweetwater-Reporter/133071856773830"
+    }
+  ],
+  "Taylor, TX": [
+    {
+      "name": "Taylor Daily Press",
+      "twitter": "TaylorPublisher",
+      "website": "http://taylorpress.net/",
+      "facebook": "https://www.facebook.com/pages/Taylor-Daily-Press/114510121913070"
+    }
+  ],
+  "Temple, TX": [
+    {
+      "name": "Temple Daily Telegram",
+      "twitter": "tdtnews",
+      "website": "http://www.tdtnews.com/",
+      "facebook": "https://www.facebook.com/pages/Temple-Daily-Telegram/129630104785"
+    }
+  ],
+  "Terrell, TX": [
+    {
+      "name": "Terrell Tribune",
+      "twitter": "terrelltribune",
+      "website": "http://www.terrelltribune.com/",
+      "facebook": "https://www.facebook.com/pages/The-Terrell-Tribune/161786138775"
+    }
+  ],
+  "Texarkana, TX": [
+    {
+      "name": "Texarkana Gazette",
+      "twitter": "TxkGazette",
+      "website": "http://www.texarkanagazette.com/",
+      "facebook": "https://www.facebook.com/TexarkanaGazette"
+    }
+  ],
+  "Texas City, TX": [],
+  "The Woodlands, TX": [
+    {
+      "name": "The Villager",
+      "twitter": "VillagerNews",
+      "website": "http://www.chron.com/neighborhood/woodlands/",
+      "facebook": "https://www.facebook.com/thewoodlandsVillager"
+    }
+  ],
+  "Tyler, TX": [
+    {
+      "name": "Tyler Morning Telegraph",
+      "twitter": "Tylerpaper",
+      "website": "http://www.tylerpaper.com/",
+      "facebook": "https://www.facebook.com/tylerpaper"
+    }
+  ],
+  "Uvalde, TX": [
+    {
+      "name": "Uvalde Leader News",
+      "twitter": "uvaldenews",
+      "website": "https://www.uvaldeleadernews.com/",
+      "facebook": "https://www.facebook.com/UvaldeLeaderNews"
+    }
+  ],
+  "Van Horn, TX": [],
+  "Waco, TX": [
+    {
+      "name": "Waco Tribune-Herald",
+      "twitter": "wacotrib",
+      "website": "http://www.wacotrib.com/",
+      "facebook": "https://www.facebook.com/wacotrib"
+    }
+  ],
+  "Waxahachie, TX": [],
+  "Weatherford, TX": [
+    {
+      "name": "Weatherford Democrat",
+      "twitter": "WfordDemo",
+      "website": "http://www.weatherforddemocrat.com/",
+      "facebook": "https://www.facebook.com/WfordDemo/"
+    }
+  ],
+  "Westlake, TX": [
+    {
+      "name": "Westlake Picayune",
+      "twitter": "picayunenews",
+      "website": "http://www.statesman.com/news/local/westlake-picayune/",
+      "facebook": "https://www.facebook.com/WestlakePicayune"
+    }
+  ],
+  "Wharton, TX": [
+    {
+      "name": "Journal-Spectator",
+      "twitter": "whartonjs",
+      "website": "http://www.journal-spectator.com/",
+      "facebook": "https://www.facebook.com/pages/Wharton-Journal-Spectator/103834106364751"
+    }
+  ],
+  "Whitehouse, TX": [
+    {
+      "name": "Tri County Leader",
+      "twitter": "tricountyleader",
+      "website": "http://www.tricountyleader.com/",
+      "facebook": "https://www.facebook.com/TriCountyLeader"
+    }
+  ],
+  "Wichita Falls, TX": [
+    {
+      "name": "Times Record News",
+      "twitter": "TimesRecordNews",
+      "website": "http://www.timesrecordnews.com/",
+      "facebook": "https://www.facebook.com/TimesRecordNews"
+    }
+  ],
+  "Wills Point, TX": [
+    {
+      "name": "Van Zandt News",
+      "twitter": "vanzandtnews",
+      "website": "http://vanzandtnews.com/",
+      "facebook": "https://www.facebook.com/vanzandtnews"
+    }
+  ],
+  "Wimberley, TX": [],
+  "Wylie, TX": [
+    {
+      "name": "Wylie News",
+      "twitter": "WylieNews",
+      "website": "http://wylienews.com/",
+      "facebook": "https://www.facebook.com/pages/The-Wylie-News/82344778044"
+    }
+  ]
+}

@@ -1,0 +1,992 @@
+{
+  "Ada, OH": [],
+  "Akron, OH": [
+    {
+      "name": "Akron Beacon Journal",
+      "twitter": "ohiodotcom",
+      "website": "http://www.ohio.com/",
+      "facebook": "https://www.facebook.com/AkronBeaconJournal"
+    },
+    {
+      "name": "Akron.com",
+      "twitter": "Akrondotcom",
+      "website": "http://www.akron.com/",
+      "facebook": "https://www.facebook.com/akrondotcom"
+    }
+  ],
+  "Alliance, OH": [
+    {
+      "name": "The Review",
+      "twitter": "alliancereview",
+      "website": "http://www.the-review.com/",
+      "facebook": "https://www.facebook.com/alliancereview"
+    }
+  ],
+  "Antwerp, OH": [],
+  "Archbold, OH": [],
+  "Ashland, OH": [
+    {
+      "name": "Times Gazette",
+      "twitter": "timesgazette",
+      "website": "http://www.times-gazette.com/",
+      "facebook": "https://www.facebook.com/timesgazette"
+    }
+  ],
+  "Ashtabula, OH": [
+    {
+      "name": "Ashtabula Star Beacon",
+      "twitter": "thestarbeacon",
+      "website": "http://www.starbeacon.com/",
+      "facebook": "https://www.facebook.com/starbeacon4626"
+    }
+  ],
+  "Athens, OH": [
+    {
+      "name": "Athens Messenger",
+      "twitter": "athensmessenger",
+      "website": "http://www.athensmessenger.com/",
+      "facebook": "https://www.facebook.com/athensmessenger"
+    },
+    {
+      "name": "Athens News",
+      "twitter": "theathensnews",
+      "website": "http://www.athensnews.com/",
+      "facebook": "https://www.facebook.com/TheAthensNEWS"
+    }
+  ],
+  "Aurora, OH": [
+    {
+      "name": "Aurora Advocate",
+      "twitter": "AuroraAdvocate",
+      "website": "http://www.auroraadvocate.com/",
+      "facebook": "https://www.facebook.com/AuroraAdvocate"
+    }
+  ],
+  "Barberton, OH": [
+    {
+      "name": "Barberton Herald",
+      "twitter": "BarbertonHerald",
+      "website": "http://www.barbertonherald.com/",
+      "facebook": "https://www.facebook.com/barbertonherald"
+    }
+  ],
+  "Batavia, OH": [
+    {
+      "name": "Clermont Sun",
+      "twitter": "ClermontSun",
+      "website": "http://clermontsun.com/",
+      "facebook": "https://www.facebook.com/clermontsun"
+    }
+  ],
+  "Beavercreek, OH": [
+    {
+      "name": "News Current",
+      "twitter": "_beavercreeknc",
+      "website": "http://beavercreeknewscurrent.com/",
+      "facebook": "https://www.facebook.com/beavercreeknewscurrent"
+    }
+  ],
+  "Bellefontaine, OH": [
+    {
+      "name": "Bellefontaine Examiner",
+      "twitter": "BftExaminer",
+      "website": "http://www.examiner.org/",
+      "facebook": "https://www.facebook.com/pages/Bellefontaine-Examiner/202711736425953"
+    }
+  ],
+  "Bloomingburg, OH": [
+    {
+      "name": "Record Herald",
+      "twitter": "recordherald",
+      "website": "http://recordherald.com/",
+      "facebook": "https://www.facebook.com/therecordherald"
+    }
+  ],
+  "Bowling Green, OH": [
+    {
+      "name": "Sentinel Tribune",
+      "twitter": "sentineltribune",
+      "website": "http://www.sent-trib.com/",
+      "facebook": "https://www.facebook.com/pages/Sentinel-Tribune/286310076720"
+    }
+  ],
+  "Bryan, OH": [
+    {
+      "name": "Bryan Times",
+      "twitter": "bryantimes",
+      "website": "http://www.bryantimes.com/",
+      "facebook": "https://www.facebook.com/bryantimes"
+    }
+  ],
+  "Buckeye Lake, OH": [],
+  "Bucyrus, OH": [
+    {
+      "name": "Telegraph Forum",
+      "twitter": "bucyrustf",
+      "website": "http://www.bucyrustelegraphforum.com/",
+      "facebook": "https://www.facebook.com/BucyrusTelegraphForum"
+    }
+  ],
+  "Cadiz, OH": [],
+  "Cambridge, OH": [
+    {
+      "name": "Daily Jeffersonian",
+      "twitter": "dailyjeff",
+      "website": "http://www.daily-jeff.com/",
+      "facebook": "https://www.facebook.com/daily.jeffersonian"
+    }
+  ],
+  "Canton, OH": [
+    {
+      "name": "Canton Repository",
+      "twitter": "cantonrepdotcom",
+      "website": "http://www.cantonrep.com/",
+      "facebook": "https://www.facebook.com/CantonRep"
+    }
+  ],
+  "Carey, OH": [],
+  "Carrollton, OH": [
+    {
+      "name": "Free Press Standard",
+      "twitter": "fpstandard",
+      "website": "http://freepressstandard.com/",
+      "facebook": "https://www.facebook.com/pages/The-Free-Press-Standard/69670310725"
+    }
+  ],
+  "Celina, OH": [],
+  "Chagrin Falls, OH": [],
+  "Chillicothe, OH": [
+    {
+      "name": "Chillicothe Gazette",
+      "twitter": "ChilliGaz",
+      "website": "http://www.chillicothegazette.com/",
+      "facebook": "https://www.facebook.com/ChillicotheGazette"
+    }
+  ],
+  "Cincinnati, OH": [
+    {
+      "name": "Cincinnati Business Courier",
+      "twitter": "BusinessCourier",
+      "website": "http://www.bizjournals.com/cincinnati/",
+      "facebook": "https://www.facebook.com/BusinessCourier"
+    },
+    {
+      "name": "Cincinnati Call and Post ",
+      "twitter": "call_post",
+      "website": "https://www.callandpost.com/",
+      "facebook": "https://www.facebook.com/CallandPost"
+    },
+    {
+      "name": "Cincinnati City Beat",
+      "twitter": "CityBeatCincy",
+      "website": "http://www.citybeat.com/",
+      "facebook": "https://www.facebook.com/CincinnatiCityBeat"
+    },
+    {
+      "name": "Cincinnati Enquirer",
+      "twitter": "Enquirer",
+      "website": "http://www.cincinnati.com/",
+      "facebook": "https://www.facebook.com/Enquirer"
+    },
+    {
+      "name": "Cincinnati Herald",
+      "twitter": "CinciHerald",
+      "website": "https://www.thecincinnatiherald.com/",
+      "facebook": "https://www.facebook.com/pages/The-Cincinnati-Herald/276096779079865"
+    }
+  ],
+  "Circleville, OH": [
+    {
+      "name": "Circleville Herald",
+      "twitter": "CirclevilleNews",
+      "website": "http://www.circlevilleherald.com/",
+      "facebook": "https://www.facebook.com/circlevilleherald"
+    }
+  ],
+  "Cleveland, OH": [
+    {
+      "name": "Cleveland Scene",
+      "twitter": "ClevelandScene",
+      "website": "http://www.clevescene.com/",
+      "facebook": "https://www.facebook.com/ClevelandScene"
+    },
+    {
+      "name": "Crain's Cleveland Business",
+      "twitter": "CrainsCleveland",
+      "website": "http://www.crainscleveland.com/",
+      "facebook": "https://www.facebook.com/CrainsCleveland"
+    },
+    {
+      "name": "Plain Dealer",
+      "twitter": "clevelanddotcom",
+      "website": "http://www.cleveland.com/plaindealer/",
+      "facebook": "https://www.facebook.com/clevelandcom"
+    }
+  ],
+  "Cleveland Heights, OH": [
+    {
+      "name": "Heights Observer",
+      "twitter": "heightsobserver",
+      "website": "http://heightsobserver.org/",
+      "facebook": "https://www.facebook.com/futureheights"
+    }
+  ],
+  "Columbus, OH": [
+    {
+      "name": "Business First",
+      "twitter": "columbusbiz1st",
+      "website": "http://www.bizjournals.com/columbus/",
+      "facebook": "https://www.facebook.com/ColumbusBusinessFirst"
+    },
+    {
+      "name": "Columbus Alive",
+      "twitter": "ColumbusAlive",
+      "website": "http://www.columbusalive.com/",
+      "facebook": "https://www.facebook.com/columbusalive"
+    },
+    {
+      "name": "Columbus Dispatch",
+      "twitter": "dispatchalerts",
+      "website": "http://www.dispatch.com/",
+      "facebook": "https://www.facebook.com/columbusdispatch"
+    },
+    {
+      "name": "Columbus Post",
+      "twitter": "columbuspost",
+      "website": "http://columbuspost.com/",
+      "facebook": "https://www.facebook.com/columbuspost"
+    },
+    {
+      "name": "This Week ",
+      "twitter": "thisweeknews",
+      "website": "http://www.thisweeknews.com/",
+      "facebook": "https://www.facebook.com/ThisWeekNews"
+    }
+  ],
+  "Cortland, OH": [],
+  "Coshocton, OH": [
+    {
+      "name": "Coshocton Tribune",
+      "twitter": "coshtribune",
+      "website": "http://www.coshoctontribune.com/",
+      "facebook": "https://www.facebook.com/CoshoctonTribune"
+    }
+  ],
+  "Dayton, OH": [
+    {
+      "name": "Dayton Business Journal",
+      "twitter": "dbjnews",
+      "website": "http://www.bizjournals.com/dayton/",
+      "facebook": "https://www.facebook.com/dbjnews"
+    },
+    {
+      "name": "Dayton Daily News",
+      "twitter": "daytondailynews",
+      "website": "http://www.daytondailynews.com/",
+      "facebook": "https://www.facebook.com/daytondailynews"
+    }
+  ],
+  "Defiance, OH": [
+    {
+      "name": "Crescent-News",
+      "twitter": "crescentnews",
+      "website": "http://www.crescent-news.com/",
+      "facebook": "https://www.facebook.com/crescentnews"
+    }
+  ],
+  "Delaware, OH": [
+    {
+      "name": "Delaware Gazette",
+      "twitter": "delgazette",
+      "website": "http://delgazette.com/",
+      "facebook": "https://www.facebook.com/delawaregazette"
+    }
+  ],
+  "Delphos, OH": [
+    {
+      "name": "Daily Herald",
+      "twitter": "delphosherald",
+      "website": "http://www.delphosherald.com/",
+      "facebook": "https://www.facebook.com/pages/The-Delphos-Herald/185052741540410"
+    }
+  ],
+  "East Liverpool, OH": [
+    {
+      "name": "Review",
+      "twitter": "TheReviewOnline",
+      "website": "http://www.reviewonline.com/",
+      "facebook": "https://www.facebook.com/EastLiverpoolReview"
+    }
+  ],
+  "East Springfield, OH": [
+    {
+      "name": "Springfield News-Sun",
+      "twitter": "springfieldnews",
+      "website": "http://www.springfieldnewssun.com/",
+      "facebook": "https://www.facebook.com/springfieldnewssun"
+    }
+  ],
+  "Eaton, OH": [
+    {
+      "name": "Register-Herald",
+      "twitter": "theeatonrh",
+      "website": "http://registerherald.com/",
+      "facebook": "https://www.facebook.com/TheRegisterHerald"
+    }
+  ],
+  "Elyria, OH": [
+    {
+      "name": "Chronicle-Telegram",
+      "twitter": "YourChronicle",
+      "website": "http://www.chroniclet.com/",
+      "facebook": "https://www.facebook.com/ChronicleTelegram"
+    }
+  ],
+  "Englewood, OH": [
+    {
+      "name": "Englewood Independent",
+      "twitter": "Englewood_Ind",
+      "website": "http://englewoodindependent.com/",
+      "facebook": "https://www.facebook.com/EnglewoodIndependent"
+    }
+  ],
+  "Fairborn, OH": [
+    {
+      "name": "Fairborn Daily Herald",
+      "twitter": "fairbornherald",
+      "website": "http://fairborndailyherald.com/",
+      "facebook": "https://www.facebook.com/FairbornDailyHerald"
+    }
+  ],
+  "Findlay, OH": [
+    {
+      "name": "Courier",
+      "twitter": "FindlayCourier",
+      "website": "http://thecourier.com/",
+      "facebook": "https://www.facebook.com/pages/The-Courier/256312172678"
+    }
+  ],
+  "Fostoria, OH": [
+    {
+      "name": "Review Times",
+      "twitter": "Fostoria_RT",
+      "website": "http://reviewtimes.com/",
+      "facebook": "https://www.facebook.com/pages/Fostoria-Review-Times/342669131635"
+    }
+  ],
+  "Fremont, OH": [
+    {
+      "name": "News-Messenger",
+      "twitter": "fremontNM",
+      "website": "http://www.thenews-messenger.com/",
+      "facebook": "https://www.facebook.com/TheNewsMessenger"
+    }
+  ],
+  "Galion, OH": [
+    {
+      "name": "Galion Inquirer",
+      "twitter": "GalionNews",
+      "website": "http://galioninquirer.com/",
+      "facebook": "https://www.facebook.com/GalionInquirer/"
+    }
+  ],
+  "Gallipolis, OH": [
+    {
+      "name": "Gallipolis Daily Tribune",
+      "twitter": "gd_trib",
+      "website": "http://mydailytribune.com/",
+      "facebook": "https://www.facebook.com/gallipolisdailytribune"
+    }
+  ],
+  "Georgetown, OH": [
+    {
+      "name": "News Democrat",
+      "twitter": "thenewsdemocrat",
+      "website": "http://www.newsdemocrat.com/",
+      "facebook": "https://www.facebook.com/thenewsdemocrat"
+    }
+  ],
+  "Granville, OH": [
+    {
+      "name": "Granville Sentinel",
+      "twitter": "GranvilleSent",
+      "website": "http://www.newarkadvocate.com/news/granville-sentinel/",
+      "facebook": "https://www.facebook.com/granvillesentinel"
+    }
+  ],
+  "Greenville, OH": [
+    {
+      "name": "Daily Advocate",
+      "twitter": "advocate360",
+      "website": "http://dailyadvocate.com/",
+      "facebook": "https://www.facebook.com/advocate360"
+    }
+  ],
+  "Hamilton, OH": [
+    {
+      "name": "Journal-News",
+      "twitter": "journalnews",
+      "website": "http://www.journal-news.com/",
+      "facebook": "https://www.facebook.com/journalnews"
+    }
+  ],
+  "Hicksville, OH": [],
+  "Hillsboro, OH": [
+    {
+      "name": "Times-Gazette",
+      "twitter": "TheTimesGazette",
+      "website": "http://timesgazette.com/",
+      "facebook": "https://www.facebook.com/TheTimesGazette"
+    }
+  ],
+  "Hubbard, OH": [],
+  "Huber Heights, OH": [
+    {
+      "name": "Huber Heights Courier",
+      "twitter": "hh_courier",
+      "website": "http://hhcourier.com/",
+      "facebook": "https://www.facebook.com/HuberHeightsCourier"
+    }
+  ],
+  "Ironton, OH": [
+    {
+      "name": "Ironton Tribune",
+      "twitter": "IrontonTribune",
+      "website": "http://www.irontontribune.com/",
+      "facebook": "https://www.facebook.com/irontontribune"
+    }
+  ],
+  "Jackson, OH": [
+    {
+      "name": "Times-Journal",
+      "twitter": "jtimesjournal",
+      "website": "http://www.timesjournal.com/",
+      "facebook": "https://www.facebook.com/jacksoncountytimesjournal"
+    }
+  ],
+  "Jerusalem, OH": [
+    {
+      "name": "Salem News",
+      "twitter": "SalemNewsOH",
+      "website": "http://www.salemnews.net/",
+      "facebook": "https://www.facebook.com/SalemNews"
+    }
+  ],
+  "Kenton, OH": [
+    {
+      "name": "Kenton Times",
+      "twitter": "kentontimes",
+      "website": "http://www.kentontimes.com/",
+      "facebook": "https://www.facebook.com/kentontimes"
+    }
+  ],
+  "Lakewood, OH": [],
+  "Lancaster, OH": [
+    {
+      "name": "Eagle Gazette",
+      "twitter": "eaglegazette",
+      "website": "http://www.lancastereaglegazette.com/",
+      "facebook": "https://www.facebook.com/LancasterEagleGazette"
+    }
+  ],
+  "Lima, OH": [
+    {
+      "name": "Lima News",
+      "twitter": "limanews",
+      "website": "http://limaohio.com/",
+      "facebook": "https://www.facebook.com/limanews"
+    },
+    {
+      "name": "the419",
+      "twitter": "the419",
+      "website": "http://the419.com/",
+      "facebook": "https://www.facebook.com/the419paper"
+    }
+  ],
+  "Lisbon, OH": [
+    {
+      "name": "Morning Journal",
+      "twitter": "Morning_Journal",
+      "website": "http://www.morningjournalnews.com/",
+      "facebook": "https://www.facebook.com/LisbonMorningJournal"
+    }
+  ],
+  "Logan, OH": [
+    {
+      "name": "Logan Daily News",
+      "twitter": "logandaily",
+      "website": "http://www.logandaily.com/",
+      "facebook": "https://www.facebook.com/LoganDailyNews"
+    },
+    {
+      "name": "St. Marys Evening Leader",
+      "twitter": "smeveningleader",
+      "website": "http://www.theeveningleader.com/",
+      "facebook": "https://www.facebook.com/pages/The-Evening-Leader/111666739053"
+    }
+  ],
+  "London, OH": [
+    {
+      "name": "Madison Press",
+      "twitter": "TheMadisonPress",
+      "website": "http://madison-press.com/",
+      "facebook": "https://www.facebook.com/TheMadisonPress"
+    }
+  ],
+  "Lorain, OH": [
+    {
+      "name": "Morning Journal",
+      "twitter": "MorningJournal",
+      "website": "http://www.morningjournal.com/",
+      "facebook": "https://www.facebook.com/MorningJournal"
+    }
+  ],
+  "Mansfield, OH": [
+    {
+      "name": "News Journal",
+      "twitter": "MansfieldNJ",
+      "website": "http://www.mansfieldnewsjournal.com/",
+      "facebook": "https://www.facebook.com/MansfieldNewsJournal"
+    }
+  ],
+  "Marietta, OH": [
+    {
+      "name": "Marietta Times",
+      "twitter": "MariettaTimes",
+      "website": "http://www.mariettatimes.com/",
+      "facebook": "https://www.facebook.com/MariettaTimes"
+    }
+  ],
+  "Marion, OH": [
+    {
+      "name": "Marion Star",
+      "twitter": "TheMarionStar",
+      "website": "http://www.marionstar.com/",
+      "facebook": "https://www.facebook.com/MarionStar"
+    }
+  ],
+  "Martins Ferry, OH": [
+    {
+      "name": "Times Leader",
+      "twitter": "TheTimesLeader",
+      "website": "http://www.timesleaderonline.com/",
+      "facebook": "https://www.facebook.com/TheTimesLeader"
+    }
+  ],
+  "Marysville, OH": [],
+  "Massillon, OH": [
+    {
+      "name": "Independent",
+      "twitter": "indedotcom",
+      "website": "http://www.indeonline.com/",
+      "facebook": "https://www.facebook.com/massillonindependent"
+    }
+  ],
+  "McConnelsville, OH": [
+    {
+      "name": "Morgan County Herald",
+      "twitter": "mchnews",
+      "website": "http://www.mchnews.com/",
+      "facebook": "https://www.facebook.com/MorganCountyHerald"
+    }
+  ],
+  "Medina, OH": [
+    {
+      "name": "Medina Gazette",
+      "twitter": "medinagazette",
+      "website": "http://www.medina-gazette.com/",
+      "facebook": "https://www.facebook.com/medinagazette"
+    }
+  ],
+  "Middletown, OH": [
+    {
+      "name": "Journal-News",
+      "twitter": "journalnews",
+      "website": "http://www.journal-news.com/community/middletown/",
+      "facebook": "https://www.facebook.com/journalnews"
+    }
+  ],
+  "Millbury, OH": [
+    {
+      "name": "Press",
+      "twitter": "pressnewspapers",
+      "website": "http://www.presspublications.com/",
+      "facebook": "https://www.facebook.com/pressnewspapers"
+    }
+  ],
+  "Mount Vernon, OH": [
+    {
+      "name": "Mount Vernon News",
+      "twitter": "mountvernonnews",
+      "website": "http://www.mountvernonnews.com/",
+      "facebook": "https://www.facebook.com/mvnews"
+    }
+  ],
+  "Napoleon, OH": [
+    {
+      "name": "Northwest Signal",
+      "twitter": "nwseditor",
+      "website": "http://www.northwestsignal.net/",
+      "facebook": "https://www.facebook.com/pages/Northwest-Signal/91474768932"
+    }
+  ],
+  "New Carlisle, OH": [],
+  "New London, OH": [],
+  "New Philadelphia, OH": [
+    {
+      "name": "Times Reporter",
+      "twitter": "TROhio",
+      "website": "http://www.timesreporter.com/",
+      "facebook": "https://www.facebook.com/timesreporter"
+    }
+  ],
+  "Newark, OH": [
+    {
+      "name": "Advocate",
+      "twitter": "NewarkAdvocate",
+      "website": "http://www.newarkadvocate.com/",
+      "facebook": "https://www.facebook.com/NewarkAdvocate"
+    }
+  ],
+  "Newcomerstown, OH": [],
+  "North Zanesville, OH": [
+    {
+      "name": "Times Recorder",
+      "twitter": "TimesRecorder",
+      "website": "http://www.zanesvilletimesrecorder.com/",
+      "facebook": "https://www.facebook.com/ZanesvilleTimesRecorder"
+    }
+  ],
+  "Norwalk, OH": [
+    {
+      "name": "Norwalk Reflector",
+      "twitter": "nreflector",
+      "website": "http://www.norwalkreflector.com/",
+      "facebook": "https://www.facebook.com/pages/Norwalk-Reflector/69372083633"
+    }
+  ],
+  "Ottawa, OH": [
+    {
+      "name": "Putnam County Sentinel",
+      "twitter": "PutnamSentinel",
+      "website": "http://putnamsentinel.com/",
+      "facebook": "https://www.facebook.com/Putnam.County.Sentinel"
+    }
+  ],
+  "Ottawa Hills, OH": [
+    {
+      "name": "Village Voice",
+      "twitter": "vvoh",
+      "website": "http://www.vvoh.com/index.php",
+      "facebook": "https://www.facebook.com/Village.Voice.of.Ottawa.Hills"
+    }
+  ],
+  "Oxford, OH": [
+    {
+      "name": "Oxford Twp. News",
+      "twitter": "journalnews",
+      "website": "http://www.journal-news.com/news/local/oxford-news/LtcAeyRSIRwS1h300QljAK/",
+      "facebook": "https://www.facebook.com/journalnews"
+    }
+  ],
+  "Pataskala, OH": [
+    {
+      "name": "Pataskala Standard",
+      "twitter": "PataskalaStand",
+      "website": "http://www.newarkadvocate.com/news/pataskala-standard/",
+      "facebook": "https://www.facebook.com/pataskalastandard"
+    }
+  ],
+  "Paulding, OH": [
+    {
+      "name": "Paulding County Progress",
+      "twitter": "pauldingpaper",
+      "website": "http://www.progressnewspaper.org/",
+      "facebook": "https://www.facebook.com/pauldingpaper"
+    }
+  ],
+  "Perrysburg, OH": [],
+  "Pickerington, OH": [
+    {
+      "name": "Pickerington Times Sun",
+      "twitter": "ThisWeekNews",
+      "website": "http://www.thisweeknews.com/news/Pickerington",
+      "facebook": "https://www.facebook.com/ThisWeekNews"
+    }
+  ],
+  "Piqua, OH": [
+    {
+      "name": "Piqua Daily Call",
+      "twitter": "TheDailyCall",
+      "website": "http://dailycall.com/",
+      "facebook": "https://www.facebook.com/PiquaDailyCall"
+    }
+  ],
+  "Pomeroy, OH": [],
+  "Port Clinton, OH": [
+    {
+      "name": "Beacon",
+      "twitter": "thebeaconnews",
+      "website": "http://thebeacon.net/",
+      "facebook": "https://www.facebook.com/beaconnews"
+    },
+    {
+      "name": "News Herald",
+      "twitter": "pcnewsherald",
+      "website": "http://www.portclintonnewsherald.com/",
+      "facebook": "https://www.facebook.com/PortClintonNewsHerald"
+    }
+  ],
+  "Portsmouth, OH": [
+    {
+      "name": "Portsmouth Times",
+      "twitter": "PDTNews",
+      "website": "http://portsmouth-dailytimes.com/",
+      "facebook": "https://www.facebook.com/pages/Portsmouth-Daily-Times/212015062154098"
+    }
+  ],
+  "Ripley, OH": [],
+  "Rossford, OH": [],
+  "Rushsylvania, OH": [
+    {
+      "name": "Sylvania AdVantage",
+      "twitter": "SylvaniaAdv",
+      "website": "http://sylvaniaadvantage.com/",
+      "facebook": "https://www.facebook.com/SylvaniaAdVantageNewspaper/"
+    }
+  ],
+  "Sandusky, OH": [
+    {
+      "name": "Sandusky Register",
+      "twitter": "sanduskyregistr",
+      "website": "http://www.sanduskyregister.com/",
+      "facebook": "https://www.facebook.com/sanduskyregister"
+    }
+  ],
+  "Shelby, OH": [],
+  "Sidney, OH": [
+    {
+      "name": "Sidney Daily News",
+      "twitter": "sidneydailynews",
+      "website": "http://sidneydailynews.com/",
+      "facebook": "https://www.facebook.com/SidneyDailyNews"
+    }
+  ],
+  "Steubenville, OH": [
+    {
+      "name": "Herald-Star",
+      "twitter": "HeraldStar",
+      "website": "http://www.heraldstaronline.com/",
+      "facebook": "https://www.facebook.com/HeraldStar"
+    }
+  ],
+  "Stow, OH": [
+    {
+      "name": "Record-Courier",
+      "twitter": "recordpub",
+      "website": "http://www.recordpub.com/",
+      "facebook": "https://www.facebook.com/recordpub"
+    },
+    {
+      "name": "Stow Sentry",
+      "twitter": "stowsentry",
+      "website": "http://www.stowsentry.com/",
+      "facebook": "https://www.facebook.com/StowSentry"
+    }
+  ],
+  "Struthers, OH": [
+    {
+      "name": "Hometown Journal",
+      "twitter": "hometownjournal",
+      "website": "http://hometownjournal.biz/",
+      "facebook": "https://www.facebook.com/thehometownjournal"
+    }
+  ],
+  "Sunbury, OH": [],
+  "Tiffin, OH": [
+    {
+      "name": "Advertiser-Tribune",
+      "twitter": "AdvertiserTrib",
+      "website": "http://www.advertiser-tribune.com/",
+      "facebook": "https://www.facebook.com/AdvertiserTribune"
+    }
+  ],
+  "Tipp City, OH": [
+    {
+      "name": "TippNews Daily",
+      "twitter": "tippnews",
+      "website": "http://tippnews.com/",
+      "facebook": "https://www.facebook.com/tippnews"
+    }
+  ],
+  "Toledo, OH": [
+    {
+      "name": "Toledo Blade",
+      "twitter": "toledonews",
+      "website": "http://www.toledoblade.com/",
+      "facebook": "https://www.facebook.com/thetoledoblade"
+    },
+    {
+      "name": "Toledo City Paper",
+      "twitter": "TCPaper",
+      "website": "http://toledocitypaper.com/",
+      "facebook": "https://www.facebook.com/toledocitypaper"
+    }
+  ],
+  "Troy, OH": [
+    {
+      "name": "Troy Daily News",
+      "twitter": "Troydailynews",
+      "website": "http://tdn-net.com/",
+      "facebook": "https://www.facebook.com/pages/Troy-Daily-News/372516874590"
+    }
+  ],
+  "Upper Sandusky, OH": [
+    {
+      "name": "Daily Chief-Union",
+      "twitter": "DailyChiefUnion",
+      "website": "http://www.dailychiefunion.com/",
+      "facebook": "https://www.facebook.com/dailychiefunion"
+    }
+  ],
+  "Urbana, OH": [
+    {
+      "name": "Urbana Daily Citizen",
+      "twitter": "UrbanaCitizen",
+      "website": "http://urbanacitizen.com/",
+      "facebook": "https://www.facebook.com/UrbanaDailyCitizen"
+    }
+  ],
+  "Van Wert, OH": [],
+  "Vandalia, OH": [
+    {
+      "name": "Vandalia Drummer News",
+      "twitter": "VandaliaDrummer",
+      "website": "http://vandaliadrummernews.com/",
+      "facebook": "https://www.facebook.com/VandaliaDrummer"
+    }
+  ],
+  "Wapakoneta, OH": [
+    {
+      "name": "Wapakoneta Daily News",
+      "twitter": "wapakdaily",
+      "website": "http://www.wapakdailynews.com/",
+      "facebook": "https://www.facebook.com/WapakonetaDaily"
+    }
+  ],
+  "Warren, OH": [
+    {
+      "name": "Tribune Chronicle",
+      "twitter": "TribToday",
+      "website": "http://www.tribtoday.com/",
+      "facebook": "https://www.facebook.com/TribuneChronicle"
+    }
+  ],
+  "Waverly, OH": [
+    {
+      "name": "Pike County News Watchman",
+      "twitter": "newswatchman",
+      "website": "http://www.newswatchman.com/",
+      "facebook": "https://www.facebook.com/newswatchman"
+    }
+  ],
+  "Wellington, OH": [
+    {
+      "name": "North Forty News",
+      "twitter": "northfortynews",
+      "website": "http://www.northfortynews.com/",
+      "facebook": "https://www.facebook.com/northfortynews"
+    },
+    {
+      "name": "Wellington Enterprise",
+      "twitter": "WelEnterprise",
+      "website": "http://www.thewellingtonenterprise.com/",
+      "facebook": "https://www.facebook.com/wellington.enterprise"
+    }
+  ],
+  "West Union, OH": [
+    {
+      "name": "People's Defender",
+      "twitter": "peoplesdefender",
+      "website": "http://www.peoplesdefender.com/",
+      "facebook": "https://www.facebook.com/thepeoplesdefender"
+    }
+  ],
+  "West Unity, OH": [
+    {
+      "name": "Village Reporter",
+      "twitter": "Village_Report",
+      "website": "http://www.thevillagereporter.com/",
+      "facebook": "https://www.facebook.com/villagereporter"
+    }
+  ],
+  "Westlake, OH": [
+    {
+      "name": "Westlife",
+      "twitter": "WestLifePaper",
+      "website": "http://westlife.northcoastnow.com/",
+      "facebook": "https://www.facebook.com/WestLifeNews"
+    }
+  ],
+  "Willard, OH": [],
+  "Willoughby, OH": [
+    {
+      "name": "News-Herald",
+      "twitter": "newsheraldinoh",
+      "website": "http://www.news-herald.com/",
+      "facebook": "https://www.facebook.com/newsheraldinoh"
+    }
+  ],
+  "Wilmington, OH": [
+    {
+      "name": "News-Journal",
+      "twitter": "WilmingtonNews",
+      "website": "http://wnewsj.com/",
+      "facebook": "https://www.facebook.com/wnewsj"
+    }
+  ],
+  "Wooster, OH": [
+    {
+      "name": "Daily Record",
+      "twitter": "thedailyrecord",
+      "website": "http://www.the-daily-record.com/",
+      "facebook": "https://www.facebook.com/TheDROnline"
+    }
+  ],
+  "Xenia, OH": [
+    {
+      "name": "Xenia Gazette",
+      "twitter": "xeniagazette",
+      "website": "http://xeniagazette.com/",
+      "facebook": "https://www.facebook.com/XeniaDailyGazette"
+    }
+  ],
+  "Yellow Springs, OH": [
+    {
+      "name": "Yellow Springs News",
+      "twitter": "ysnews",
+      "website": "http://ysnews.com/",
+      "facebook": "https://www.facebook.com/ysnews"
+    }
+  ],
+  "Youngstown, OH": [
+    {
+      "name": "Business Journal",
+      "twitter": "thebizjournal",
+      "website": "http://businessjournaldaily.com/",
+      "facebook": "https://www.facebook.com/thebusinessjournal"
+    },
+    {
+      "name": "Metro Monthly",
+      "twitter": "metromonthly",
+      "website": "http://www.metromonthly.net/",
+      "facebook": "https://www.facebook.com/metromonthly/"
+    },
+    {
+      "name": "Vindicator Online",
+      "twitter": "vindicator",
+      "website": "http://www.vindy.com/",
+      "facebook": "https://www.facebook.com/thevindicator"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "Bath (Berkeley Springs), WV": [],
+  "Beckley, WV": [
+    {
+      "name": "Register-Herald",
+      "twitter": "Register_Herald",
+      "website": "http://www.register-herald.com/",
+      "facebook": "https://www.facebook.com/RegisterHerald"
+    }
+  ],
+  "Bluefield, WV": [
+    {
+      "name": "Bluefield Daily Telegraph",
+      "twitter": "bdtonline",
+      "website": "http://bdtonline.com/",
+      "facebook": "https://www.facebook.com/bdtonline"
+    }
+  ],
+  "Charles Town, WV": [
+    {
+      "name": "Spirit of Jefferson",
+      "twitter": "SpiritofJeff",
+      "website": "http://spiritofjefferson.com/",
+      "facebook": "https://www.facebook.com/pages/Spirit-of-Jefferson/357822602185"
+    }
+  ],
+  "Charleston, WV": [
+    {
+      "name": "Gazette-Mail",
+      "twitter": "wvgazettemail",
+      "website": "http://www.wvgazettemail.com/",
+      "facebook": "https://www.facebook.com/charlestongazettemail"
+    },
+    {
+      "name": "State Journal",
+      "twitter": "wvstatejournal",
+      "website": "http://www.statejournal.com/",
+      "facebook": "https://www.facebook.com/statejournal"
+    }
+  ],
+  "Clarksburg, WV": [
+    {
+      "name": "Exponent Telegram",
+      "twitter": "WVTelegram",
+      "website": "http://www.theet.com/",
+      "facebook": "https://www.facebook.com/WVTelegram"
+    }
+  ],
+  "Elkins, WV": [
+    {
+      "name": "Inter-Mountain",
+      "twitter": "InterMountainWV",
+      "website": "http://www.theintermountain.com/",
+      "facebook": "https://www.facebook.com/TheInterMountain"
+    }
+  ],
+  "Fairmont, WV": [
+    {
+      "name": "Times West Virginian",
+      "twitter": "timeswv",
+      "website": "http://timeswv.com/",
+      "facebook": "https://www.facebook.com/timeswv"
+    }
+  ],
+  "Grafton, WV": [],
+  "Grantsville, WV": [],
+  "Huntington, WV": [
+    {
+      "name": "Herald-Dispatch",
+      "twitter": "heralddispatch",
+      "website": "http://www.herald-dispatch.com/",
+      "facebook": "https://www.facebook.com/theheralddispatch"
+    }
+  ],
+  "Keyser, WV": [],
+  "Lewisburg, WV": [
+    {
+      "name": "Mountain Messenger",
+      "twitter": "MtnMsgr",
+      "website": "http://mountainmessenger.com/",
+      "facebook": "https://www.facebook.com/pages/Mountain-Messenger-Newspaper/106445809388956"
+    }
+  ],
+  "Logan, WV": [
+    {
+      "name": "Logan Banner",
+      "twitter": "theloganbanner",
+      "website": "http://www.loganbanner.com/",
+      "facebook": "https://www.facebook.com/pages/The-Logan-Banner/377255854642"
+    }
+  ],
+  "Madison, WV": [],
+  "Marlinton, WV": [
+    {
+      "name": "Pocahontas Times",
+      "twitter": "pocahontastimes",
+      "website": "http://www.pocahontastimes.com/",
+      "facebook": "https://www.facebook.com/pocahontastimes"
+    }
+  ],
+  "Martinsburg, WV": [
+    {
+      "name": "Journal",
+      "twitter": "TheJournalWV",
+      "website": "http://journal-news.net/",
+      "facebook": "https://www.facebook.com/TheJournalWV"
+    }
+  ],
+  "Moorefield, WV": [
+    {
+      "name": "Moorefield Examiner",
+      "twitter": "moorefieldex",
+      "website": "http://www.moorefieldexaminer.com/",
+      "facebook": "https://www.facebook.com/pages/Moorefield-Examiner/108962617062"
+    }
+  ],
+  "Morgantown, WV": [
+    {
+      "name": "Dominion Post",
+      "twitter": "DominionPostWV",
+      "website": "http://www.thedpost.com/",
+      "facebook": "https://www.facebook.com/thedominionpostwv"
+    }
+  ],
+  "Parkersburg, WV": [
+    {
+      "name": "News and Sentinel",
+      "twitter": "NewsandSentinel",
+      "website": "http://newsandsentinel.com/",
+      "facebook": "https://www.facebook.com/NewsandSentinel"
+    }
+  ],
+  "Petersburg, WV": [
+    {
+      "name": "Grant County Press",
+      "twitter": "GrantCoPress",
+      "website": "http://www.grantcountypress.com/",
+      "facebook": "https://www.facebook.com/pages/Grant-County-Press/209564485736122"
+    }
+  ],
+  "Point Pleasant, WV": [],
+  "Ripley, WV": [],
+  "Romney, WV": [
+    {
+      "name": "Hampshire Review",
+      "twitter": "HampshireReview",
+      "website": "http://www.hampshirereview.com/",
+      "facebook": "https://www.facebook.com/HampshireReview"
+    }
+  ],
+  "Shepherdstown, WV": [],
+  "Sutton, WV": [],
+  "Wayne, WV": [],
+  "Weirton, WV": [
+    {
+      "name": "Weirton Daily Times",
+      "twitter": "WeirtonDlyTimes",
+      "website": "http://weirtondailytimes.com/",
+      "facebook": "https://www.facebook.com/WeirtonDailyTimes"
+    }
+  ],
+  "Weston, WV": [],
+  "Wheeling, WV": [
+    {
+      "name": "Wheeling News-Register",
+      "twitter": "IntelligencerWV",
+      "website": "http://www.theintelligencer.net/",
+      "facebook": "https://www.facebook.com/TheIntelligencer"
+    }
+  ],
+  "Williamson, WV": []
+}

@@ -1,0 +1,1520 @@
+{
+  "Abington, MA": [
+    {
+      "name": "Abington Mariner",
+      "twitter": "WickedLocal",
+      "website": "http://abington.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/RocklandStandard-AbingtonMariner/318350324875505"
+    }
+  ],
+  "Acton, MA": [
+    {
+      "name": "Acton Beacon",
+      "twitter": "actonbeacon",
+      "website": "http://acton.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/The-Acton-Boxborough-Beacon/115175621856553"
+    }
+  ],
+  "Agawam Town, MA": [],
+  "Amherst, MA": [],
+  "Andover, MA": [
+    {
+      "name": "Andover Townsman",
+      "twitter": "AndoverTownsman",
+      "website": "http://www.andovertownsman.com/",
+      "facebook": "https://www.facebook.com/AndoverTownsman"
+    },
+    {
+      "name": "Dover-Sherborn Press",
+      "twitter": "DoverSherborn",
+      "website": "http://dover.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Wicked-Local-DoverSherborn/100592563355005"
+    }
+  ],
+  "Arlington, MA": [
+    {
+      "name": "Arlington Advocate",
+      "twitter": "the_advocate",
+      "website": "http://arlington.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Arlington-Advocate/181267248565486"
+    }
+  ],
+  "Ashland, MA": [
+    {
+      "name": "Ashland TAB",
+      "twitter": "WickedLocal",
+      "website": "http://ashland.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/AshlandTAB"
+    }
+  ],
+  "Athol, MA": [],
+  "Attleboro, MA": [
+    {
+      "name": "Sun Chronicle",
+      "twitter": "thesunchronicle",
+      "website": "http://www.thesunchronicle.com/",
+      "facebook": "https://www.facebook.com/TheSunChronicle"
+    }
+  ],
+  "Auburn, MA": [],
+  "Avon, MA": [
+    {
+      "name": "Avon Messenger",
+      "twitter": "WickedLocal",
+      "website": "http://avon.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Wicked-Local/119311408344"
+    }
+  ],
+  "Ayer, MA": [
+    {
+      "name": "Ayer News",
+      "twitter": "NashobaValVoice",
+      "website": "http://www.nashobavalleyvoice.com/ayer_news",
+      "facebook": "https://www.facebook.com/NashobaValleyVoice"
+    },
+    {
+      "name": "Nashoba Valley Voice",
+      "twitter": "NashobaValVoice",
+      "website": "http://www.nashobavalleyvoice.com/",
+      "facebook": "https://www.facebook.com/NashobaValleyVoice"
+    }
+  ],
+  "Barnstable Town, MA": [
+    {
+      "name": "Barnstable Patriot",
+      "twitter": "BarnPat",
+      "website": "http://www.barnstablepatriot.com/",
+      "facebook": "https://www.facebook.com/barnstablepatriot"
+    },
+    {
+      "name": "Cape Cod Times",
+      "twitter": "capecodtimes",
+      "website": "http://www.capecodtimes.com/",
+      "facebook": "https://www.facebook.com/capecodtimes"
+    },
+    {
+      "name": "Register",
+      "twitter": "WickedLocal",
+      "website": "http://barnstable.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Wicked-Local/119311408344"
+    }
+  ],
+  "Bedford, MA": [
+    {
+      "name": "Bedford Minuteman",
+      "twitter": "WickedLocal",
+      "website": "http://bedford.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Bedford-Minuteman/115207078529059"
+    }
+  ],
+  "Bellingham, MA": [
+    {
+      "name": "Country Gazette",
+      "twitter": "countrygazette",
+      "website": "http://bellingham.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/The-Country-Gazette/117382848606"
+    }
+  ],
+  "Belmont, MA": [
+    {
+      "name": "Belmont Citizen-Herald",
+      "twitter": "citizenherald",
+      "website": "http://belmont.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/citizenherald"
+    }
+  ],
+  "Berkley, MA": [
+    {
+      "name": "Wicked Local Berkley",
+      "twitter": "WickedLocal",
+      "website": "http://berkley.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Wicked-Local/119311408344"
+    }
+  ],
+  "Beverly, MA": [
+    {
+      "name": "Beverly Citizen",
+      "twitter": "BeverlyCitizen",
+      "website": "http://beverly.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Beverly-Citizen/121434541213830"
+    }
+  ],
+  "Billerica, MA": [
+    {
+      "name": "Billerica Minuteman",
+      "twitter": "WickedLocal",
+      "website": "http://billerica.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Billerica-Minuteman/62369762919"
+    }
+  ],
+  "Bolton, MA": [
+    {
+      "name": "Bolton Common",
+      "twitter": "WickedLocal",
+      "website": "http://bolton.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Bolton-Common/142076375818774"
+    }
+  ],
+  "Boston, MA": [
+    {
+      "name": "Boston Business Journal",
+      "twitter": "BosBizJournal",
+      "website": "http://www.bizjournals.com/boston/",
+      "facebook": "https://www.facebook.com/BostonBusinessJournal"
+    },
+    {
+      "name": "Boston Globe",
+      "twitter": "BostonGlobe",
+      "website": "https://www.bostonglobe.com/",
+      "facebook": "https://www.facebook.com/globe/"
+    },
+    {
+      "name": "Boston Herald",
+      "twitter": "bostonherald",
+      "website": "http://www.bostonherald.com/",
+      "facebook": "https://www.facebook.com/pages/Boston-Herald/197211981599"
+    },
+    {
+      "name": "Boston Irish Reporter",
+      "twitter": "BostonIrishRptr",
+      "website": "http://www.bostonirish.com/",
+      "facebook": "https://www.facebook.com/pages/Boston-Irish-Reporter/346909585957"
+    },
+    {
+      "name": "Boston.com Neighborhoods",
+      "twitter": "BostonAngela",
+      "website": "http://www.boston.com/section/news",
+      "facebook": "https://www.facebook.com/boston"
+    },
+    {
+      "name": "Christian Science Monitor",
+      "twitter": "csmonitor",
+      "website": "http://www.csmonitor.com/",
+      "facebook": "https://www.facebook.com/ChristianScienceMonitor"
+    },
+    {
+      "name": "Dorchester Reporter",
+      "twitter": "dotnews",
+      "website": "http://www.dotnews.com/",
+      "facebook": "https://www.facebook.com/pages/Dorchester-Reporter/245747663197"
+    },
+    {
+      "name": "El Mundo Boston",
+      "twitter": "ELMUNDOBoston",
+      "website": "http://elmundoboston.com/",
+      "facebook": "https://www.facebook.com/elmundoboston"
+    },
+    {
+      "name": "El Planeta Boston",
+      "twitter": "ElPlanetaBoston",
+      "website": "http://elplaneta.com/",
+      "facebook": "https://www.facebook.com/ElPlaneta"
+    },
+    {
+      "name": "Mission Hill Gazette",
+      "twitter": "MHGazette",
+      "website": "http://missionhillgazette.com/"
+    },
+    {
+      "name": "Roslindale Transcript",
+      "twitter": "WickedLocal",
+      "website": "http://roslindale.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Wicked-Local/119311408344"
+    },
+    {
+      "name": "Sampan",
+      "twitter": "SampanNewspaper",
+      "website": "http://sampan.org/",
+      "facebook": "https://www.facebook.com/SampanNewspaperBoston"
+    },
+    {
+      "name": "West Roxbury Transcript",
+      "twitter": "WickedLocal",
+      "website": "http://west-roxbury.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Parkway-Transcripts/289285367802577"
+    }
+  ],
+  "Bourne, MA": [
+    {
+      "name": "Bourne Courier",
+      "twitter": "WickedLocal",
+      "website": "http://bourne.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Wicked-Local/119311408344"
+    },
+    {
+      "name": "Bourne Enterprise",
+      "twitter": "capenewsdotnet",
+      "website": "http://www.capenews.net/bourne/",
+      "facebook": "https://www.facebook.com/enterprisenewspapers"
+    }
+  ],
+  "Boxborough, MA": [
+    {
+      "name": "Boxborough Beacon",
+      "twitter": "actonbeacon",
+      "website": "http://boxborough.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/The-Acton-Boxborough-Beacon/115175621856553"
+    }
+  ],
+  "Boxford, MA": [
+    {
+      "name": "Tri-Town Transcript",
+      "twitter": "ttranscript",
+      "website": "http://boxford.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/tritown.transcript"
+    }
+  ],
+  "Brewster, MA": [
+    {
+      "name": "Cape Cod Day",
+      "twitter": "WickedLocal",
+      "website": "http://capecod.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/Wicked-Local-119311408344"
+    }
+  ],
+  "Bridgewater, MA": [
+    {
+      "name": "Bridgewater Enterprise",
+      "twitter": "BwIndependent",
+      "website": "http://bridgewatereast.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Wicked-Local-Bridgewater/157661724283844"
+    }
+  ],
+  "Brockton, MA": [
+    {
+      "name": "Enterprise",
+      "twitter": "enterprisenews",
+      "website": "http://www.enterprisenews.com/",
+      "facebook": "https://www.facebook.com/EnterpriseBrockton"
+    }
+  ],
+  "Brookline, MA": [
+    {
+      "name": "Brookline TAB",
+      "twitter": "BrooklineTAB",
+      "website": "http://brookline.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/brookline.tab"
+    }
+  ],
+  "Burlington, MA": [
+    {
+      "name": "Burlington Union",
+      "twitter": "burlingtonunion",
+      "website": "http://burlington.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Burlington-Union/115473422648"
+    }
+  ],
+  "Cambridge, MA": [
+    {
+      "name": "Cambridge Chronicle",
+      "twitter": "cambridgechron",
+      "website": "http://cambridge.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/CambridgeChronicle"
+    }
+  ],
+  "Canton, MA": [
+    {
+      "name": "Canton Citizen",
+      "twitter": "CantonCitizen",
+      "website": "http://www.thecantoncitizen.com/",
+      "facebook": "https://www.facebook.com/pages/The-Canton-Citizen/145897385482548"
+    },
+    {
+      "name": "Canton Journal",
+      "twitter": "CantonJournal",
+      "website": "http://canton.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/canton.journal"
+    }
+  ],
+  "Carlisle, MA": [],
+  "Carver, MA": [
+    {
+      "name": "Carver Reporter",
+      "twitter": "carverreporter",
+      "website": "http://carver.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/CarverReporter"
+    }
+  ],
+  "Charlton, MA": [],
+  "Chatham, MA": [
+    {
+      "name": "Cape Cod Chronicle",
+      "twitter": "CCCNewsroom",
+      "website": "http://www.capecodchronicle.com/",
+      "facebook": "https://www.facebook.com/pages/Cape-Cod-Chronicle/115984107596"
+    },
+    {
+      "name": "Wicked Local Chatham",
+      "twitter": "WickedLocal",
+      "website": "http://chatham.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Wicked-Local/119311408344"
+    }
+  ],
+  "Chelmsford, MA": [
+    {
+      "name": "Chelmsford Independent",
+      "twitter": "chelmsfordindep",
+      "website": "http://chelmsford.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Chelmsford-Independent/110796122273412"
+    }
+  ],
+  "Chelsea, MA": [],
+  "Chicopee, MA": [
+    {
+      "name": "Chicopee Herald Weekly",
+      "twitter": "TheReminderMA",
+      "website": "http://thereminder.com/localnews/chicopee/",
+      "facebook": "https://www.facebook.com/ReminderPublications"
+    }
+  ],
+  "Clinton, MA": [
+    {
+      "name": "Times & Courier",
+      "twitter": "WickedLocal",
+      "website": "http://clinton.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Times-Courier/140674725960775"
+    }
+  ],
+  "Cohasset, MA": [
+    {
+      "name": "Cohasset Mariner",
+      "twitter": "cohassetmariner",
+      "website": "http://cohasset.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Wicked-Local/119311408344"
+    }
+  ],
+  "Concord, MA": [
+    {
+      "name": "Concord Journal",
+      "twitter": "concordjournal",
+      "website": "http://concord.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/The-Concord-Journal/196842985828"
+    }
+  ],
+  "Danvers, MA": [
+    {
+      "name": "Amesbury News",
+      "twitter": "amesbury_news",
+      "website": "http://amesbury.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Amesbury-News/77484017333"
+    },
+    {
+      "name": "Danvers Herald",
+      "twitter": "WickedLocal",
+      "website": "http://danvers.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/danvers.herald"
+    },
+    {
+      "name": "Wicked Local Manchester",
+      "twitter": "WickedLocal",
+      "website": "http://manchester.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Wicked-Local/119311408344"
+    }
+  ],
+  "Dennis, MA": [
+    {
+      "name": "Dennis Register",
+      "twitter": "WickedLocal",
+      "website": "http://dennis.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/The-Register/265190843567050"
+    }
+  ],
+  "Dighton, MA": [
+    {
+      "name": "Wicked Local Dighton",
+      "twitter": "WickedLocal",
+      "website": "http://dighton.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Wicked-Local/119311408344"
+    }
+  ],
+  "Duxbury, MA": [
+    {
+      "name": "Duxbury Clipper",
+      "twitter": "duxburyclipper",
+      "website": "http://www.duxburyclipper.com/",
+      "facebook": "https://www.facebook.com/duxburyclipper"
+    },
+    {
+      "name": "Duxbury Reporter",
+      "twitter": "WickedLocal",
+      "website": "http://duxbury.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/wickedlocal.duxbury"
+    }
+  ],
+  "East Bridgewater, MA": [
+    {
+      "name": "Enterprise",
+      "twitter": "WickedLocal",
+      "website": "http://bridgewatereast.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Wicked-Local-Bridgewater/157661724283844"
+    }
+  ],
+  "East Falmouth, MA": [
+    {
+      "name": "Falmouth Bulletin",
+      "twitter": "WickedLocal",
+      "website": "http://falmouth.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Wicked-Local/119311408344"
+    },
+    {
+      "name": "The Enterprise",
+      "twitter": "capenewsdotnet",
+      "website": "http://www.capenews.net/",
+      "facebook": "https://www.facebook.com/enterprisenewspapers"
+    }
+  ],
+  "East Harwich, MA": [
+    {
+      "name": "Harwich Oracle",
+      "twitter": "WickedLocal",
+      "website": "http://harwich.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Wicked-Local/119311408344"
+    }
+  ],
+  "East Longmeadow, MA": [
+    {
+      "name": "Reminder",
+      "twitter": "TheReminderMA",
+      "website": "http://thereminder.com/",
+      "facebook": "https://www.facebook.com/ReminderPublications"
+    }
+  ],
+  "East Pepperell, MA": [
+    {
+      "name": "Pepperell Free Press",
+      "twitter": "NashobaValVoice",
+      "website": "http://www.nashobavalleyvoice.com/pepperell_news",
+      "facebook": "https://www.facebook.com/NashobaValleyVoice"
+    }
+  ],
+  "East Sandwich, MA": [
+    {
+      "name": "Sandwich Enterprise",
+      "twitter": "capenewsdotnet",
+      "website": "http://www.capenews.net/sandwich/",
+      "facebook": "https://www.facebook.com/enterprisenewspapers"
+    }
+  ],
+  "Eastham, MA": [
+    {
+      "name": "Wicked Local Eastham",
+      "twitter": "WickedLocal",
+      "website": "http://eastham.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Wicked-Local/119311408344"
+    }
+  ],
+  "Easton, MA": [
+    {
+      "name": "Easton Journal",
+      "twitter": "EastonJournal",
+      "website": "http://easton.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Easton-Journal/112349038886503"
+    }
+  ],
+  "Edgartown, MA": [
+    {
+      "name": "Vineyard Gazette",
+      "twitter": "vineyardgazette",
+      "website": "https://vineyardgazette.com/",
+      "facebook": "https://www.facebook.com/marthasvineyardgazette"
+    }
+  ],
+  "Essex, MA": [
+    {
+      "name": "Cape Ann Beacon",
+      "twitter": "capeann_beacon",
+      "website": "http://essex.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Cape-Ann-Beacon/112261465453654"
+    }
+  ],
+  "Everett, MA": [],
+  "Fall River, MA": [
+    {
+      "name": "Herald News",
+      "twitter": "hnnow",
+      "website": "http://www.heraldnews.com/",
+      "facebook": "https://www.facebook.com/HNNow"
+    },
+    {
+      "name": "O Jornal News",
+      "twitter": "Ojornal1",
+      "website": "http://ojornal.com/",
+      "facebook": "https://www.facebook.com/OjornalNewspaper"
+    }
+  ],
+  "Falmouth, MA": [
+    {
+      "name": "Barnstable Enterprise",
+      "twitter": "capenewsdotnet",
+      "website": "http://www.capenews.net/",
+      "facebook": "https://www.facebook.com/enterprisenewspapers"
+    }
+  ],
+  "Fitchburg, MA": [
+    {
+      "name": "Sentinel & Enterprise",
+      "twitter": "sentandent",
+      "website": "http://www.sentinelandenterprise.com/",
+      "facebook": "https://www.facebook.com/SentinelandEnterprise"
+    }
+  ],
+  "Foxborough, MA": [
+    {
+      "name": "Country Gazette",
+      "twitter": "CountryGazette",
+      "website": "http://foxborough.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/CountryGazette"
+    },
+    {
+      "name": "Foxboro Reporter",
+      "twitter": "FoxboroReporter",
+      "website": "http://www.foxbororeporter.com/"
+    }
+  ],
+  "Framingham, MA": [
+    {
+      "name": "Framingham TAB",
+      "twitter": "framinghamtab",
+      "website": "http://framingham.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Wicked-Local/119311408344"
+    }
+  ],
+  "Franklin Town, MA": [],
+  "Gardner, MA": [],
+  "Georgetown, MA": [
+    {
+      "name": "Georgetown Record",
+      "twitter": "GtownRecord",
+      "website": "http://georgetown.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/georgetownrecord"
+    }
+  ],
+  "Gloucester, MA": [
+    {
+      "name": "Cape Ann Beacon",
+      "twitter": "capeann_beacon",
+      "website": "http://gloucester.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Cape-Ann-Beacon/112261465453654"
+    },
+    {
+      "name": "Gloucester Daily Times",
+      "twitter": "GDTnews",
+      "website": "http://www.gloucestertimes.com/",
+      "facebook": "https://www.facebook.com/gloucesterdailytimes"
+    }
+  ],
+  "Grafton, MA": [
+    {
+      "name": "Grafton News",
+      "twitter": "graftonnews",
+      "website": "http://www.thegraftonnews.com/",
+      "facebook": "https://www.facebook.com/graftonnews"
+    }
+  ],
+  "Great Barrington, MA": [
+    {
+      "name": "Berkshire Record",
+      "twitter": "BerkshireRecrd",
+      "website": "http://berkshirerecord.net/",
+      "facebook": "https://www.facebook.com/berkshire.record"
+    }
+  ],
+  "Greenfield Town, MA": [
+    {
+      "name": "Recorder",
+      "twitter": "TheRecorderNews",
+      "website": "http://www.recorder.com/",
+      "facebook": "https://www.facebook.com/pages/The-Recorder/326310256952"
+    }
+  ],
+  "Groton, MA": [
+    {
+      "name": "Groton News",
+      "twitter": "NashobaValVoice",
+      "website": "http://www.nashobavalleyvoice.com/groton_news",
+      "facebook": "https://www.facebook.com/NashobaValleyVoice"
+    }
+  ],
+  "Halifax, MA": [
+    {
+      "name": "Halifax-Plympton Reporter",
+      "twitter": "WickedLocal",
+      "website": "http://halifax.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/hpreporter"
+    }
+  ],
+  "Hamilton, MA": [
+    {
+      "name": "Hamilton-Wenham Chronicle",
+      "twitter": "hwchronicle",
+      "website": "http://hamilton.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/HWChronicle"
+    },
+    {
+      "name": "Milton Times",
+      "twitter": "MiltonTimes",
+      "website": "http://www.miltontimes.com/",
+      "facebook": "https://www.facebook.com/MiltonTimes"
+    }
+  ],
+  "Hanover, MA": [
+    {
+      "name": "Hanover Mariner",
+      "twitter": "hanovermariner",
+      "website": "http://hanover.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Hanover-Mariner/185834768106925"
+    }
+  ],
+  "Hanson, MA": [
+    {
+      "name": "Hanson Enterprise",
+      "twitter": "WickedLocal",
+      "website": "http://hanson.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Wicked-Local-Bridgewater/157661724283844"
+    }
+  ],
+  "Harvard, MA": [
+    {
+      "name": "Harvard Hillside",
+      "twitter": "NashobaValVoice",
+      "website": "http://www.nashobavalleyvoice.com/harvard_news",
+      "facebook": "https://www.facebook.com/NashobaValleyVoice"
+    },
+    {
+      "name": "Harvard Post",
+      "twitter": "WickedLocal",
+      "website": "http://harvard.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Harvard-Post/140334902657904"
+    }
+  ],
+  "Hatfield, MA": [
+    {
+      "name": "Valley Advocate",
+      "twitter": "ValleyAdvocate",
+      "website": "http://valleyadvocate.com/",
+      "facebook": "https://www.facebook.com/pages/The-Valley-Advocate/12779106205"
+    }
+  ],
+  "Haverhill, MA": [],
+  "Hingham, MA": [
+    {
+      "name": "Hingham Journal",
+      "twitter": "hinghamjournal",
+      "website": "http://hingham.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/WickedLocalHingham"
+    }
+  ],
+  "Holbrook, MA": [
+    {
+      "name": "Holbrook Sun",
+      "twitter": "holbrooksun",
+      "website": "http://holbrook.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Holbrook-Sun/207931825945282"
+    },
+    {
+      "name": "Weymouth News",
+      "twitter": "weymouthpaper",
+      "website": "http://weymouth.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Weymouth-News/292310080798539"
+    }
+  ],
+  "Holden, MA": [
+    {
+      "name": "Landmark",
+      "twitter": "thelandmarknews",
+      "website": "http://www.thelandmark.com/",
+      "facebook": "https://www.facebook.com/HoldenLandmark"
+    }
+  ],
+  "Holliston, MA": [
+    {
+      "name": "Holliston TAB",
+      "twitter": "WickedLocal",
+      "website": "http://holliston.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/HollistonTAB"
+    }
+  ],
+  "Holyoke, MA": [],
+  "Hopedale, MA": [
+    {
+      "name": "Wicked Local Hopedale",
+      "twitter": "WickedLocal",
+      "website": "http://hopedale.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Wicked-Local/119311408344"
+    }
+  ],
+  "Hopkinton, MA": [
+    {
+      "name": "Hopkinton Crier",
+      "twitter": "HopkintonCrier",
+      "website": "http://hopkinton.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Hopkinton-Crier/121405161245431"
+    }
+  ],
+  "Hudson, MA": [
+    {
+      "name": "Hudson Sun",
+      "twitter": "TheHudsonSun",
+      "website": "http://hudson.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/TheHudsonSun"
+    }
+  ],
+  "Hull, MA": [],
+  "Huntington, MA": [],
+  "Ipswich, MA": [
+    {
+      "name": "Ipswich Chronicle",
+      "twitter": "ipswich_chron",
+      "website": "http://ipswich.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Ipswich-Chronicle/193499973994852"
+    }
+  ],
+  "Kingston, MA": [
+    {
+      "name": "Kingston Reporter",
+      "twitter": "kingstonreport",
+      "website": "http://kingston.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/KingstonReporter"
+    }
+  ],
+  "Lakeville, MA": [
+    {
+      "name": "Lakeville Call",
+      "twitter": "WickedLocal",
+      "website": "http://lakeville.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Wicked-Local-Bridgewater/157661724283844"
+    }
+  ],
+  "Lawrence, MA": [
+    {
+      "name": "Eagle-Tribune",
+      "twitter": "EagleTrib",
+      "website": "http://www.eagletribune.com/",
+      "facebook": "https://www.facebook.com/theeagletribune"
+    }
+  ],
+  "Leominster, MA": [
+    {
+      "name": "Leominster Champion",
+      "twitter": "LeominsterChamp",
+      "website": "http://www.leominsterchamp.com/",
+      "facebook": "https://www.facebook.com/pages/Leominster-Champion/157642644307764"
+    }
+  ],
+  "Lexington, MA": [
+    {
+      "name": "Lexington Minuteman",
+      "twitter": "wickedlocallex",
+      "website": "http://lexington.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/TheLexingtonMinuteman"
+    }
+  ],
+  "Lincoln, MA": [
+    {
+      "name": "Lincoln Journal",
+      "twitter": "WickedLocal",
+      "website": "http://lincoln.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/The-Lincoln-Journal/245575055459384"
+    }
+  ],
+  "Littleton, MA": [
+    {
+      "name": "Littleton Independent",
+      "twitter": "LittletonIndie",
+      "website": "http://littleton.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/littletonindependent"
+    }
+  ],
+  "Lowell, MA": [
+    {
+      "name": "Sun",
+      "twitter": "LowellSunNews ",
+      "website": "http://www.lowellsun.com/",
+      "facebook": "https://www.facebook.com/LowellSun"
+    },
+    {
+      "name": "Valley Dispatch",
+      "twitter": "valleydispatch",
+      "website": "http://www.thevalleydispatch.com/",
+      "facebook": "https://www.facebook.com/TheValleyDispatch"
+    }
+  ],
+  "Ludlow, MA": [],
+  "Lynn, MA": [
+    {
+      "name": "Daily Evening Item",
+      "twitter": "itemlive",
+      "website": "http://www.itemlive.com/",
+      "facebook": "https://www.facebook.com/DailyItem"
+    }
+  ],
+  "Malden, MA": [
+    {
+      "name": "Malden Evening News",
+      "twitter": "maldennews",
+      "website": "http://www.maldennews.com/"
+    },
+    {
+      "name": "Malden Observer",
+      "twitter": "maldenobserver",
+      "website": "http://malden.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/MaldenObserver"
+    }
+  ],
+  "Mansfield, MA": [
+    {
+      "name": "Mansfield News",
+      "twitter": "MansfieldNews1",
+      "website": "http://mansfield.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Mansfield-News/75500571067"
+    }
+  ],
+  "Marblehead, MA": [
+    {
+      "name": "Marblehead Reporter",
+      "twitter": "mheadreporter",
+      "website": "http://marblehead.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/MarbleheadReporter"
+    }
+  ],
+  "Marion, MA": [
+    {
+      "name": "Sentinel",
+      "twitter": "WickedLocal",
+      "website": "http://marion.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/tritownsentinel"
+    }
+  ],
+  "Marlborough, MA": [
+    {
+      "name": "Marlborough Enterprise",
+      "twitter": "marlenterprise",
+      "website": "http://marlborough.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/MarlboroughEnterprise"
+    }
+  ],
+  "Marshfield, MA": [
+    {
+      "name": "Marshfield Mariner",
+      "twitter": "marshfieldpaper",
+      "website": "http://marshfield.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/marshfieldmariner"
+    }
+  ],
+  "Mashpee, MA": [
+    {
+      "name": "Bourne Courier",
+      "twitter": "WickedLocal",
+      "website": "http://mashpee.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/The-Bourne-Courier/215100255228421"
+    },
+    {
+      "name": "Mashpee Enterprise",
+      "twitter": "capenewsdotnet",
+      "website": "http://www.capenews.net/mashpee/",
+      "facebook": "https://www.facebook.com/enterprisenewspapers"
+    }
+  ],
+  "Mattapoisett, MA": [
+    {
+      "name": "Sentinel",
+      "twitter": "tritownsentinel",
+      "website": "http://mattapoisett.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/tritownsentinel"
+    },
+    {
+      "name": "Wanderer",
+      "twitter": "thewanderer",
+      "website": "http://www.wanderer.com/",
+      "facebook": "https://www.facebook.com/wanderer"
+    }
+  ],
+  "Maynard, MA": [
+    {
+      "name": "Beacon-Villager",
+      "twitter": "beaconvillager",
+      "website": "http://maynard.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/beaconvillager"
+    }
+  ],
+  "Medfield, MA": [
+    {
+      "name": "Medfield Press",
+      "twitter": "MedfieldPress",
+      "website": "http://medfield.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/medfield.press"
+    }
+  ],
+  "Medford, MA": [
+    {
+      "name": "Medford Transcript",
+      "twitter": "medford_trans",
+      "website": "http://medford.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/medtranscript"
+    }
+  ],
+  "Medway, MA": [
+    {
+      "name": "Wicked Local Medway",
+      "twitter": "WickedLocal",
+      "website": "http://medway.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Wicked-Local/119311408344"
+    }
+  ],
+  "Melrose, MA": [
+    {
+      "name": "Melrose Free Press",
+      "twitter": "MelroseFreePrss",
+      "website": "http://melrose.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Melrose-Free-Press/136426456382573"
+    }
+  ],
+  "Mendon, MA": [
+    {
+      "name": "Mendon Daily News",
+      "twitter": "milforddaily",
+      "website": "http://mendon.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Milford-Daily-News/104182678168"
+    }
+  ],
+  "Middleton, MA": [
+    {
+      "name": "Tri-Town Transcript",
+      "twitter": "ttranscript",
+      "website": "http://middleton.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/The-Tri-Town-Transcript/125467650844117"
+    }
+  ],
+  "Milford, MA": [
+    {
+      "name": "Country Gazette",
+      "twitter": "CountryGazette",
+      "website": "http://franklin.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/CountryGazette"
+    },
+    {
+      "name": "Milford Daily News",
+      "twitter": "milforddaily",
+      "website": "http://www.milforddailynews.com/",
+      "facebook": "https://www.facebook.com/MilfordDailyNews"
+    }
+  ],
+  "Millbury, MA": [
+    {
+      "name": "Millbury-Sutton Chronicle",
+      "twitter": "millburysutton",
+      "website": "http://www.millburysutton.com/",
+      "facebook": "https://www.facebook.com/millburysutton"
+    }
+  ],
+  "Monson, MA": [],
+  "Nantucket, MA": [
+    {
+      "name": "Inquirer and Mirror",
+      "twitter": "InkyM",
+      "website": "http://www.ack.net/",
+      "facebook": "https://www.facebook.com/pages/The-Nantucket-Inquirer-and-Mirror/255864560765"
+    }
+  ],
+  "Natick, MA": [
+    {
+      "name": "Natick Bulletin & Tab",
+      "twitter": "WickedLocal",
+      "website": "http://natick.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Natick-Bulletin-Tab/175023825942720"
+    }
+  ],
+  "Needham, MA": [
+    {
+      "name": "Needham Times",
+      "twitter": "needhamtimes",
+      "website": "http://needham.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Needham-Times/48168751932"
+    }
+  ],
+  "New Bedford, MA": [
+    {
+      "name": "South Coast Today",
+      "twitter": "southcoasttoday ",
+      "website": "http://www.southcoasttoday.com/",
+      "facebook": "https://www.facebook.com/southcoasttoday"
+    }
+  ],
+  "New Braintree, MA": [
+    {
+      "name": "Braintree Forum",
+      "twitter": "braintreepaper",
+      "website": "http://braintree.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Braintree-Forum/186990061381338"
+    }
+  ],
+  "New Salem, MA": [
+    {
+      "name": "Salem News",
+      "twitter": "salemnews",
+      "website": "http://www.salemnews.com/",
+      "facebook": "https://www.facebook.com/pages/The-Salem-News/133426745678"
+    }
+  ],
+  "Newburyport, MA": [
+    {
+      "name": "Daily News",
+      "twitter": "newburyportnews",
+      "website": "http://www.newburyportnews.com/",
+      "facebook": "https://www.facebook.com/pages/Daily-News-of-Newburyport/380708820375"
+    },
+    {
+      "name": "Newburyport Current",
+      "twitter": "newburyport_cur",
+      "website": "http://newburyport.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Newburyport-Current/141301585931853"
+    }
+  ],
+  "Newton, MA": [
+    {
+      "name": "Armenian Weekly",
+      "twitter": "ArmenianWeekly",
+      "website": "http://armenianweekly.com/",
+      "facebook": "https://www.facebook.com/ArmenianWeekly"
+    },
+    {
+      "name": "Newton TAB and Daily ",
+      "twitter": "WickedLocal",
+      "website": "http://newton.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Wicked-Local/119311408344"
+    }
+  ],
+  "Norfolk, MA": [
+    {
+      "name": "Country Gazette",
+      "twitter": "countrygazette",
+      "website": "http://norfolk.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/CountryGazette"
+    }
+  ],
+  "North Andover, MA": [
+    {
+      "name": "North Andover Citizen",
+      "twitter": "NAndoverCitizen",
+      "website": "http://northandover.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/northandovercitizen"
+    }
+  ],
+  "North Attleborough, MA": [
+    {
+      "name": "Free Press",
+      "twitter": "WickedLocal",
+      "website": "http://northattleborough.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/North-Attleborough-Free-Press/190536600981205"
+    }
+  ],
+  "North Pembroke, MA": [
+    {
+      "name": "Mariner and Express",
+      "twitter": "pembrokenews",
+      "website": "http://pembroke.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pembrokemariner"
+    }
+  ],
+  "North Plymouth, MA": [
+    {
+      "name": "Old Colony Memorial",
+      "twitter": "OldColony",
+      "website": "http://plymouth.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/OldColonyMemorial"
+    }
+  ],
+  "North Reading, MA": [
+    {
+      "name": "Reading Advocate",
+      "twitter": "readingadvocate",
+      "website": "http://reading.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/The-Reading-Advocate/250535860376"
+    }
+  ],
+  "North Scituate, MA": [
+    {
+      "name": "Scituate Mariner",
+      "twitter": "scituatemariner",
+      "website": "http://scituate.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Scituate-Mariner/221500301258840"
+    }
+  ],
+  "Northampton, MA": [],
+  "Northborough, MA": [
+    {
+      "name": "Villager",
+      "twitter": "WickedLocal",
+      "website": "http://northborough.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Northborough-Southborough-Villager/258518757515054"
+    }
+  ],
+  "Norton, MA": [
+    {
+      "name": "Norton Mirror",
+      "twitter": "NortonMirror",
+      "website": "http://norton.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/nortonmirror"
+    }
+  ],
+  "Norwell, MA": [
+    {
+      "name": "Norwell Mariner",
+      "twitter": "WickedLocal",
+      "website": "http://norwell.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Norwell-Mariner/175248892543834"
+    }
+  ],
+  "Norwood, MA": [
+    {
+      "name": "Dedham Transcript",
+      "twitter": "dedhamtranscrip",
+      "website": "http://dedham.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/DedhamTranscript"
+    },
+    {
+      "name": "Transcript and Bulletin",
+      "twitter": "NorwoodTranscri",
+      "website": "http://norwood.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/NorwoodTranscript"
+    }
+  ],
+  "Peabody, MA": [],
+  "Pittsfield, MA": [
+    {
+      "name": "Berkshire Eagle",
+      "twitter": "berkshireeagle",
+      "website": "http://www.berkshireeagle.com/",
+      "facebook": "https://www.facebook.com/berkshire.eagle"
+    }
+  ],
+  "Provincetown, MA": [
+    {
+      "name": "Provincetown Banner",
+      "twitter": "ptownbanner",
+      "website": "http://provincetown.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/The-Provincetown-Banner/139703022770721"
+    }
+  ],
+  "Quincy, MA": [
+    {
+      "name": "Patriot Ledger",
+      "twitter": "patriotledger",
+      "website": "http://www.patriotledger.com/",
+      "facebook": "https://www.facebook.com/patriotledger"
+    }
+  ],
+  "Randolph, MA": [
+    {
+      "name": "Randolph Herald",
+      "twitter": "Randolph_Herald",
+      "website": "http://randolph.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/randolph.herald"
+    }
+  ],
+  "Raynham, MA": [
+    {
+      "name": "Raynham Call",
+      "twitter": "RaynhamCall",
+      "website": "http://raynham.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Raynham-Call/202477246515906"
+    }
+  ],
+  "Revere, MA": [
+    {
+      "name": "Revere Journal",
+      "twitter": "RevereJournal",
+      "website": "http://www.reverejournal.com/",
+      "facebook": "https://www.facebook.com/RevereJournal"
+    }
+  ],
+  "Rockland, MA": [
+    {
+      "name": "Rockland Standard",
+      "twitter": "WickedLocal",
+      "website": "http://rockland.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/RocklandStandard-AbingtonMariner/318350324875505"
+    }
+  ],
+  "Saugus, MA": [
+    {
+      "name": "Saugus Advertiser",
+      "twitter": "Saugusnews",
+      "website": "http://saugus.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Saugus-Advertiser/180558090544"
+    }
+  ],
+  "Sharon, MA": [
+    {
+      "name": "Sharon Advocate",
+      "twitter": "sharonadvocate",
+      "website": "http://sharon.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/SharonAdvocate"
+    }
+  ],
+  "Shirley, MA": [
+    {
+      "name": "Shirley News",
+      "twitter": "NashobaValVoice",
+      "website": "http://www.nashobavalleyvoice.com/shirley_news",
+      "facebook": "https://www.facebook.com/NashobaValleyVoice"
+    }
+  ],
+  "Shrewsbury, MA": [
+    {
+      "name": "Shrewsbury Chronicle",
+      "twitter": "WickedLocal",
+      "website": "http://shrewsbury.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/ShrewsburyChronicle"
+    }
+  ],
+  "Somerset, MA": [],
+  "Somerville, MA": [
+    {
+      "name": "Somerville Journal",
+      "twitter": "VilleJournal",
+      "website": "http://somerville.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Wicked-Local-Somerville/138796856150687"
+    },
+    {
+      "name": "Somerville Times",
+      "twitter": "somervilletimes",
+      "website": "http://www.thesomervillenews.com/",
+      "facebook": "https://www.facebook.com/thesomervilletimes"
+    },
+    {
+      "name": "Watertown TAB & Press",
+      "twitter": "watertowntab",
+      "website": "http://watertown.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Wicked-Local-Watertown/334992331236"
+    }
+  ],
+  "South Yarmouth, MA": [],
+  "Southborough, MA": [
+    {
+      "name": "Southborough Villager",
+      "twitter": "WickedLocal",
+      "website": "http://southborough.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/NorthboroughSouthboroughVillager"
+    }
+  ],
+  "Southbridge Town, MA": [],
+  "Southwick, MA": [],
+  "Spencer, MA": [],
+  "Springfield, MA": [
+    {
+      "name": "Springfield Reminder",
+      "twitter": "TheReminderMA",
+      "website": "http://thereminder.com/Localnews/springfield/",
+      "facebook": "https://www.facebook.com/ReminderPublications"
+    }
+  ],
+  "Stoneham, MA": [
+    {
+      "name": "Stoneham Sun",
+      "twitter": "StonehamSun",
+      "website": "http://stoneham.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/wickedlocalstoneham"
+    }
+  ],
+  "Stoughton, MA": [
+    {
+      "name": "Stoughton Journal",
+      "twitter": "WickedLocal",
+      "website": "http://stoughton.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/wickedlocalstoughton"
+    }
+  ],
+  "Sturbridge, MA": [],
+  "Sudbury, MA": [
+    {
+      "name": "Sudbury Town Crier",
+      "twitter": "SudburyCrier",
+      "website": "http://sudbury.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/SudburyTownCrier"
+    }
+  ],
+  "Swampscott, MA": [
+    {
+      "name": "Swampscott Reporter",
+      "twitter": "swampscott_rep",
+      "website": "http://swampscott.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/SwampscottReporter"
+    }
+  ],
+  "Taunton, MA": [
+    {
+      "name": "Taunton Daily Gazette",
+      "twitter": "TauntonToGo",
+      "website": "http://www.tauntongazette.com/",
+      "facebook": "https://www.facebook.com/TauntonToGo"
+    }
+  ],
+  "Tewksbury, MA": [
+    {
+      "name": "Tewksbury Advocate",
+      "twitter": "TewksburyNews",
+      "website": "http://tewksbury.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Tewksbury-Advocate/128464047184498"
+    },
+    {
+      "name": "Tewksbury Town Crier",
+      "twitter": "editortowncrier",
+      "website": "http://homenewshere.com/tewksbury_town_crier/"
+    }
+  ],
+  "Townsend, MA": [
+    {
+      "name": "Townsend Times",
+      "twitter": "NashobaValVoice",
+      "website": "http://www.nashobavalleyvoice.com/townsend_news",
+      "facebook": "https://www.facebook.com/NashobaValleyVoice"
+    }
+  ],
+  "Uxbridge, MA": [],
+  "Vineyard Haven, MA": [
+    {
+      "name": "MV Times",
+      "twitter": "TheMVTimes",
+      "website": "http://www.mvtimes.com/",
+      "facebook": "https://www.facebook.com/mvtimes"
+    }
+  ],
+  "Wakefield, MA": [
+    {
+      "name": "Wakefield Observer",
+      "twitter": "WakefldObserver",
+      "website": "http://wakefield.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/wakefield.observer"
+    }
+  ],
+  "Walpole, MA": [
+    {
+      "name": "Walpole Times",
+      "twitter": "TheWalpoleTimes",
+      "website": "http://walpole.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/thewalpoletimes"
+    }
+  ],
+  "Waltham, MA": [
+    {
+      "name": "Waltham News Tribune",
+      "twitter": "walthamnewstrib",
+      "website": "http://waltham.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Waltham-News-Tribune/141940222510304"
+    }
+  ],
+  "Ware, MA": [],
+  "Wareham, MA": [
+    {
+      "name": "Wareham Courier",
+      "twitter": "warehamcourier",
+      "website": "http://wareham.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/WarehamCourier"
+    }
+  ],
+  "Wayland, MA": [
+    {
+      "name": "Wayland Town Crier",
+      "twitter": "WaylandCrier",
+      "website": "http://wayland.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/WaylandTownCrier"
+    }
+  ],
+  "Webster, MA": [],
+  "Wellesley, MA": [
+    {
+      "name": "Wellesley Townsman",
+      "twitter": "wellesleytown",
+      "website": "http://wellesley.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/wellesley.townsman"
+    }
+  ],
+  "West Boylston, MA": [
+    {
+      "name": "West Boylston Banner",
+      "twitter": "bannews",
+      "website": "http://www.telegram.com/thebanner",
+      "facebook": "https://www.facebook.com/pages/The-BoylstonWest-Boylston-Banner/196301987074606"
+    }
+  ],
+  "Westborough, MA": [
+    {
+      "name": "Community Advocate",
+      "twitter": "CommunityAdNews",
+      "website": "http://www.communityadvocate.com/",
+      "facebook": "https://www.facebook.com/communityadvocatenewspaper"
+    },
+    {
+      "name": "Westborough News",
+      "twitter": "WestboroughNews",
+      "website": "http://westborough.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/westboroughnews"
+    }
+  ],
+  "Westfield, MA": [
+    {
+      "name": "Reminder",
+      "twitter": "TheReminderMA",
+      "website": "http://thereminder.com/localnews/westfield/",
+      "facebook": "https://www.facebook.com/ReminderPublications"
+    }
+  ],
+  "Westford, MA": [
+    {
+      "name": "Westford Eagle",
+      "twitter": "Westford_Eagle",
+      "website": "http://westford.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/WestfordEagle"
+    }
+  ],
+  "Weston, MA": [
+    {
+      "name": "Weston Town Crier",
+      "twitter": "WestonCrier",
+      "website": "http://weston.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/WestonTownCrier"
+    }
+  ],
+  "Westwood, MA": [
+    {
+      "name": "Westwood Press",
+      "twitter": "WestwoodPress",
+      "website": "http://westwood.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/The-Westwood-Press/144942722096"
+    }
+  ],
+  "Wilbraham, MA": [],
+  "Wilmington, MA": [
+    {
+      "name": "Wilmington Advocate",
+      "twitter": "WickedLocal",
+      "website": "http://wilmington.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/Wilmington-Advocate/122520094457054"
+    }
+  ],
+  "Winchendon, MA": [],
+  "Winchester, MA": [],
+  "Woburn, MA": [
+    {
+      "name": "Woburn Advocate",
+      "twitter": "woburnadvocate",
+      "website": "http://woburn.wickedlocal.com/",
+      "facebook": "https://www.facebook.com/pages/The-Woburn-Advocate/302766153235?sk=timeline"
+    }
+  ],
+  "Worcester, MA": [
+    {
+      "name": "Telegram & Gazette",
+      "twitter": "telegramdotcom",
+      "website": "http://www.telegram.com/",
+      "facebook": "https://www.facebook.com/TheTelegram"
+    },
+    {
+      "name": "Worcester Business Jrnl",
+      "twitter": "wbjournal",
+      "website": "http://www.wbjournal.com/",
+      "facebook": "https://www.facebook.com/wbjournal"
+    }
+  ]
+}

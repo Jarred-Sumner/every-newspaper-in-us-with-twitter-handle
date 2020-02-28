@@ -1,0 +1,666 @@
+{
+  "Akron, CO": [
+    {
+      "name": "Akron News-Reporter",
+      "twitter": "AkronNewsReport",
+      "website": "http://www.akronnewsreporter.com/",
+      "facebook": "https://www.facebook.com/AkronNewsReporter"
+    }
+  ],
+  "Alamosa, CO": [],
+  "Alma, CO": [
+    {
+      "name": "The Flume",
+      "twitter": "fairplayflume",
+      "website": "http://www.theflume.com/",
+      "facebook": "https://www.facebook.com/TheFlume"
+    }
+  ],
+  "Arvada, CO": [
+    {
+      "name": "Arvada Press",
+      "twitter": "ArvadaPress",
+      "website": "http://arvadapress.com/",
+      "facebook": "https://www.facebook.com/pages/Arvada-Press/292522390857834"
+    }
+  ],
+  "Aspen, CO": [
+    {
+      "name": "Aspen Daily News",
+      "twitter": "aspendailynews",
+      "website": "http://www.aspendailynews.com/",
+      "facebook": "https://www.facebook.com/aspendailynews"
+    },
+    {
+      "name": "Aspen Times",
+      "twitter": "TheAspenTimes",
+      "website": "http://www.aspentimes.com/",
+      "facebook": "https://www.facebook.com/AspenTimes"
+    },
+    {
+      "name": "Snowmass Village Sun",
+      "twitter": "SnowmassSun",
+      "website": "http://www.aspentimes.com/News/Snowmass",
+      "facebook": "https://www.facebook.com/snowmasssun"
+    }
+  ],
+  "Aspen Park, CO": [
+    {
+      "name": "High Timber Times",
+      "twitter": "HighTimberTimes",
+      "website": "http://www.hightimbertimes.com/",
+      "facebook": "https://www.facebook.com/hightimbertimes"
+    }
+  ],
+  "Aurora, CO": [
+    {
+      "name": "Aurora Sentinel",
+      "twitter": "aurorasentinel",
+      "website": "http://www.aurorasentinel.com/",
+      "facebook": "https://www.facebook.com/theaurorasentinel"
+    }
+  ],
+  "Bayfield, CO": [],
+  "Berthoud, CO": [
+    {
+      "name": "Berthoud Recorder",
+      "twitter": "berthoudrecordr",
+      "website": "http://www.berthoudrecorder.com/"
+    }
+  ],
+  "Black Forest, CO": [],
+  "Boulder, CO": [
+    {
+      "name": "BizWest",
+      "twitter": "bizwestmedia",
+      "website": "http://bizwest.com/",
+      "facebook": "https://www.facebook.com/bizwestmedia"
+    },
+    {
+      "name": "Boulder Weekly",
+      "twitter": "boulderweekly",
+      "website": "http://www.boulderweekly.com/",
+      "facebook": "https://www.facebook.com/boulderweeklymedia"
+    },
+    {
+      "name": "Colorado Daily",
+      "twitter": "coloradodaily",
+      "website": "http://www.coloradodaily.com",
+      "facebook": "https://www.facebook.com/coloradodaily"
+    },
+    {
+      "name": "Daily Camera",
+      "twitter": "dailycamera",
+      "website": "http://www.dailycamera.com/",
+      "facebook": "https://www.facebook.com/dailycamera"
+    }
+  ],
+  "Brick Center, CO": [],
+  "Brighton, CO": [
+    {
+      "name": "Standard Blade",
+      "twitter": "BrightonBlade",
+      "website": "http://www.thebrightonblade.com/",
+      "facebook": "https://www.facebook.com/brightonblade"
+    }
+  ],
+  "Brookside, CO": [
+    {
+      "name": "Daily Record",
+      "twitter": "ccdr_news",
+      "website": "http://www.canoncitydailyrecord.com/",
+      "facebook": "https://www.facebook.com/CanonCityDailyRecord"
+    }
+  ],
+  "Broomfield, CO": [
+    {
+      "name": "Broomfield Enterprise",
+      "twitter": "bfld_enterprise",
+      "website": "http://www.broomfieldenterprise.com/",
+      "facebook": "https://www.facebook.com/BroomfieldEnterprise"
+    }
+  ],
+  "Brush, CO": [
+    {
+      "name": "Brush News Tribune",
+      "twitter": "BrushNewsTrib",
+      "website": "http://www.brushnewstribune.com/",
+      "facebook": "https://www.facebook.com/BrushNewsTribune"
+    }
+  ],
+  "Buena Vista, CO": [
+    {
+      "name": "Chaffee County Times",
+      "twitter": "ChaffeeCoTimes",
+      "website": "http://www.chaffeecountytimes.com/",
+      "facebook": "https://www.facebook.com/pages/The-Chaffee-County-Times/156318137788379"
+    }
+  ],
+  "Burlington, CO": [
+    {
+      "name": "Burlington Record",
+      "twitter": "BrlingtonRecord",
+      "website": "http://www.burlington-record.com/",
+      "facebook": "https://www.facebook.com/BurlingtonRecord"
+    }
+  ],
+  "Carbondale, CO": [
+    {
+      "name": "Sopris Sun",
+      "twitter": "SoprisSun",
+      "website": "http://www.soprissun.com/",
+      "facebook": "https://www.facebook.com/soprissun"
+    }
+  ],
+  "Castle Rock, CO": [],
+  "City of Creede, CO": [],
+  "Colorado Springs, CO": [
+    {
+      "name": "Business Journal",
+      "twitter": "csbizjournal",
+      "website": "http://csbj.com/",
+      "facebook": "https://www.facebook.com/coloradospringsbusinessjournal"
+    },
+    {
+      "name": "Gazette",
+      "twitter": "csgazette",
+      "website": "http://gazette.com/",
+      "facebook": "https://www.facebook.com/springsgazette"
+    },
+    {
+      "name": "Independent",
+      "twitter": "csindependent",
+      "website": "http://www.csindy.com/",
+      "facebook": "https://www.facebook.com/csindependent"
+    },
+    {
+      "name": "Southside Business",
+      "twitter": "southsidebiz",
+      "website": "http://www.southsidebusiness.com/",
+      "facebook": "https://www.facebook.com/SouthSideBusinessNews"
+    }
+  ],
+  "Columbine, CO": [],
+  "Commerce City, CO": [],
+  "Cortez, CO": [
+    {
+      "name": "Cortez Journal",
+      "twitter": "TheJournalCo",
+      "website": "http://www.the-journal.com/",
+      "facebook": "https://www.facebook.com/TheJournalCO"
+    },
+    {
+      "name": "Dolores Star",
+      "twitter": "TheJournalCo",
+      "website": "http://www.the-journal.com/",
+      "facebook": "https://www.facebook.com/TheJournalCO"
+    }
+  ],
+  "Craig, CO": [
+    {
+      "name": "Craig Daily Press",
+      "twitter": "craigdailypress",
+      "website": "http://www.craigdailypress.com/",
+      "facebook": "https://www.facebook.com/pages/Craig-Daily-Press/66210612742"
+    }
+  ],
+  "Crested Butte, CO": [],
+  "Del Norte, CO": [],
+  "Delta, CO": [],
+  "Denver, CO": [
+    {
+      "name": "Colorado Statesman",
+      "twitter": "ColoStatesman",
+      "website": "http://coloradostatesman.com/",
+      "facebook": "https://www.facebook.com/coloradostatesman"
+    },
+    {
+      "name": "Denver Business Journal",
+      "twitter": "denbizjournal",
+      "website": "http://www.bizjournals.com/denver/",
+      "facebook": "https://www.facebook.com/denverbusiness"
+    },
+    {
+      "name": "Denver Post",
+      "twitter": "denverpost",
+      "website": "http://www.denverpost.com/",
+      "facebook": "https://www.facebook.com/denverpost"
+    },
+    {
+      "name": "Denver Urban Spectrum",
+      "twitter": "DUS_Tweets",
+      "website": "http://denverurbanspectrum.com/",
+      "facebook": "https://www.facebook.com/pages/Denver-Urban-Spectrum/127549171660"
+    },
+    {
+      "name": "Denver Voice",
+      "twitter": "DenverVOICE",
+      "website": "http://www.denvervoice.org/",
+      "facebook": "https://www.facebook.com/denvervoice"
+    },
+    {
+      "name": "La Prensa de Colorado",
+      "twitter": "LaPrensadeCO",
+      "website": "http://laprensadecolorado.com/",
+      "facebook": "https://www.facebook.com/LaPrensadeColorado"
+    },
+    {
+      "name": "Westword",
+      "twitter": "DENVERWESTWORD",
+      "website": "http://www.westword.com/",
+      "facebook": "https://www.facebook.com/denverwestword"
+    }
+  ],
+  "Divide, CO": [],
+  "Dove Creek, CO": [],
+  "Durango, CO": [
+    {
+      "name": "Durango Herald",
+      "twitter": "DurangoHerald",
+      "website": "http://www.durangoherald.com/",
+      "facebook": "https://www.facebook.com/TheDurangoHerald"
+    },
+    {
+      "name": "Durango Telegraph",
+      "twitter": "DgoTelegraph",
+      "website": "http://www.durangotelegraph.com/",
+      "facebook": "https://www.facebook.com/pages/Durango-Telegraph/429307033779054"
+    }
+  ],
+  "Eads, CO": [],
+  "Eagle, CO": [
+    {
+      "name": "Eagle Valley Enterprise",
+      "twitter": "VailDaily",
+      "website": "http://www.vaildaily.com/News/EagleValley",
+      "facebook": "https://www.facebook.com/VailNews"
+    }
+  ],
+  "Eaton, CO": [],
+  "Elizabeth, CO": [],
+  "Englewood, CO": [],
+  "Erie, CO": [
+    {
+      "name": "Colorado Hometown Weekly",
+      "twitter": "CoHoWeekly",
+      "website": "http://www.coloradohometownweekly.com/news/erie",
+      "facebook": "https://www.facebook.com/coloradohometownweekly"
+    }
+  ],
+  "Estes Park, CO": [
+    {
+      "name": "Estes Park Trail-Gazette",
+      "twitter": "EPTrailGazette",
+      "website": "http://www.eptrail.com/",
+      "facebook": "https://www.facebook.com/eptrail"
+    }
+  ],
+  "Evergreen, CO": [],
+  "Fort Collins, CO": [
+    {
+      "name": "BizWest",
+      "twitter": "bizwestmedia",
+      "website": "http://bizwest.com/",
+      "facebook": "https://www.facebook.com/bizwestmedia"
+    },
+    {
+      "name": "Coloradoan",
+      "twitter": "coloradoan",
+      "website": "http://www.coloradoan.com/",
+      "facebook": "https://www.facebook.com/Coloradoan"
+    }
+  ],
+  "Fort Lupton, CO": [],
+  "Fort Morgan, CO": [
+    {
+      "name": "Fort Morgan Times",
+      "twitter": "fortmorgantimes",
+      "website": "http://www.fortmorgantimes.com/",
+      "facebook": "https://www.facebook.com/fortmorgantimes"
+    }
+  ],
+  "Fowler, CO": [
+    {
+      "name": "Fowler Tribune",
+      "twitter": "FowlerTribune",
+      "website": "http://www.fowlertribune.com/",
+      "facebook": "https://www.facebook.com/pages/Fowler-Tribune/134766543293911"
+    }
+  ],
+  "Frisco, CO": [
+    {
+      "name": "Summit Daily News",
+      "twitter": "summitdailynews",
+      "website": "http://www.summitdaily.com/",
+      "facebook": "https://www.facebook.com/summitdailynews"
+    }
+  ],
+  "Glenwood Springs, CO": [
+    {
+      "name": "Post Independent",
+      "twitter": "GlenwoodPI",
+      "website": "http://www.postindependent.com/",
+      "facebook": "https://www.facebook.com/glenwoodsprings"
+    }
+  ],
+  "Golden, CO": [],
+  "Granby, CO": [],
+  "Grand Junction, CO": [
+    {
+      "name": "Daily Sentinel",
+      "twitter": "DailySentinelGJ",
+      "website": "http://www.gjsentinel.com/",
+      "facebook": "https://www.facebook.com/thedailysentinelgj"
+    }
+  ],
+  "Greeley, CO": [
+    {
+      "name": "Fence Post",
+      "twitter": "FencePostNews",
+      "website": "http://www.thefencepost.com/",
+      "facebook": "https://www.facebook.com/thefencepost"
+    },
+    {
+      "name": "Greeley Tribune",
+      "twitter": "GreeleyTribune",
+      "website": "http://www.greeleytribune.com/",
+      "facebook": "https://www.facebook.com/greeleytribune"
+    }
+  ],
+  "Greenwood Village, CO": [
+    {
+      "name": "Villager",
+      "twitter": "VillagerDenver",
+      "website": "http://www.villagerpublishing.com/",
+      "facebook": "https://www.facebook.com/TheVillagerNewspaper"
+    }
+  ],
+  "Gunnison, CO": [
+    {
+      "name": "Country Times",
+      "twitter": "gunnisontimes",
+      "website": "http://www.gunnisontimes.com/",
+      "facebook": "https://www.facebook.com/pages/Gunnison-Country-Times/260846108710"
+    }
+  ],
+  "Haxtun, CO": [],
+  "Highlands Ranch, CO": [],
+  "Holyoke, CO": [],
+  "Idaho Springs, CO": [],
+  "Johnstown, CO": [
+    {
+      "name": "Johnstown Breeze",
+      "twitter": "The_JT_Breeze",
+      "website": "http://myjohnstownbreeze.com/",
+      "facebook": "https://www.facebook.com/pages/The-Johnstown-Breeze/177854392267067"
+    }
+  ],
+  "Julesburg, CO": [
+    {
+      "name": "Julesburg Advocate",
+      "twitter": "JlsburgAdvocate",
+      "website": "http://www.julesburgadvocate.com/",
+      "facebook": "https://www.facebook.com/JulesburgAdvocate"
+    }
+  ],
+  "Keenesburg, CO": [],
+  "La Junta, CO": [
+    {
+      "name": "Tribune-Democrat",
+      "twitter": "LaJuntaTD",
+      "website": "http://www.lajuntatribunedemocrat.com/",
+      "facebook": "https://www.facebook.com/pages/The-La-Junta-Tribune-Democrat/122942067733381"
+    }
+  ],
+  "La Veta, CO": [],
+  "Lafayette, CO": [
+    {
+      "name": "Colorado Hometown Weekly",
+      "twitter": "CoHoWeekly",
+      "website": "http://www.coloradohometownweekly.com/news/lafayette",
+      "facebook": "https://www.facebook.com/coloradohometownweekly"
+    }
+  ],
+  "Lakewood, CO": [],
+  "Lamar, CO": [
+    {
+      "name": "Lamar Ledger",
+      "twitter": "lamarledger",
+      "website": "http://www.lamarledger.com/",
+      "facebook": "https://www.facebook.com/lamarledger"
+    },
+    {
+      "name": "Prowers Journal",
+      "twitter": "prowersjournal",
+      "website": "http://theprowersjournal.com/",
+      "facebook": "https://www.facebook.com/pages/The-Prowers-Journal/187726154604145"
+    }
+  ],
+  "Laporte, CO": [
+    {
+      "name": "North Forty News",
+      "twitter": "northfortynews",
+      "website": "http://www.northfortynews.com/",
+      "facebook": "https://www.facebook.com/northfortynews"
+    }
+  ],
+  "Las Animas, CO": [
+    {
+      "name": "Bent County Democrat",
+      "twitter": "BentCountyDemoc",
+      "website": "http://www.bcdemocratonline.com/",
+      "facebook": "https://www.facebook.com/pages/Bent-County-Democrat/133429776731542"
+    }
+  ],
+  "Leadville, CO": [
+    {
+      "name": "Leadville Herald Democrat",
+      "twitter": "leadvilleherald",
+      "website": "http://www.leadvilleherald.com/",
+      "facebook": "https://www.facebook.com/HERALDDEMOCRAT"
+    }
+  ],
+  "Limon, CO": [
+    {
+      "name": "Limon Leader",
+      "twitter": "LimonLeader",
+      "website": "http://easterncoloradoplainsman.com/",
+      "facebook": "https://www.facebook.com/TheLimonLeader"
+    }
+  ],
+  "Littleton, CO": [
+    {
+      "name": "Centennial Citizen",
+      "twitter": "ChrisRotar",
+      "website": "http://centennialcitizen.net/",
+      "facebook": "https://www.facebook.com/pages/Centennial-Citizen/428853483843560"
+    },
+    {
+      "name": "Littleton Independent",
+      "twitter": "LittletonIndie",
+      "website": "http://littletonindependent.net/",
+      "facebook": "https://www.facebook.com/Littleton-Independent-130795427068535/"
+    }
+  ],
+  "Lone Tree, CO": [],
+  "Longmont, CO": [
+    {
+      "name": "Daily Times-Call",
+      "twitter": "timescall",
+      "website": "http://www.timescall.com/",
+      "facebook": "https://www.facebook.com/LongmontTimesCall"
+    }
+  ],
+  "Louisville, CO": [
+    {
+      "name": "Colorado Hometown Weekly",
+      "twitter": "CoHoWeekly",
+      "website": "http://www.coloradohometownweekly.com/news/louisville",
+      "facebook": "https://www.facebook.com/coloradohometownweekly"
+    }
+  ],
+  "Loveland, CO": [
+    {
+      "name": "Daily Reporter-Herald",
+      "twitter": "reporterherald",
+      "website": "http://www.reporterherald.com/",
+      "facebook": "https://www.facebook.com/reporterherald"
+    }
+  ],
+  "Lyons, CO": [
+    {
+      "name": "Lyons Recorder",
+      "twitter": "LyonsRecorder",
+      "website": "http://www.lyonsrecorder.com/",
+      "facebook": "https://www.facebook.com/LyonsRecorder"
+    }
+  ],
+  "Mancos, CO": [
+    {
+      "name": "Mancos Times",
+      "twitter": "TheJournalCo",
+      "website": "http://www.the-journal.com/",
+      "facebook": "https://www.facebook.com/TheJournalCO"
+    }
+  ],
+  "Monte Vista, CO": [],
+  "Montrose, CO": [
+    {
+      "name": "Montrose Daily Press",
+      "twitter": "montrosepress",
+      "website": "http://www.montrosepress.com/",
+      "facebook": "https://www.facebook.com/MontroseDailyPress"
+    }
+  ],
+  "Monument, CO": [],
+  "Nederland, CO": [],
+  "Niwot, CO": [],
+  "Norwood, CO": [
+    {
+      "name": "Sunshine Express",
+      "twitter": "SunshineXNews",
+      "website": "https://sunshineexpressmedia.com/",
+      "facebook": "https://www.facebook.com/SunshineXNews"
+    }
+  ],
+  "Ouray, CO": [
+    {
+      "name": "Plaindealer",
+      "twitter": "ocplaindealer",
+      "website": "http://www.ouraynews.com/",
+      "facebook": "https://www.facebook.com/pages/Ouraynewscom/164784523563199"
+    }
+  ],
+  "Pagosa Springs, CO": [],
+  "Paonia, CO": [
+    {
+      "name": "High Country News",
+      "twitter": "highcountrynews",
+      "website": "http://www.hcn.org/",
+      "facebook": "https://www.facebook.com/highcountrynews"
+    }
+  ],
+  "Parker, CO": [],
+  "Pueblo, CO": [
+    {
+      "name": "Pueblo Chieftain",
+      "twitter": "chieftainnews",
+      "website": "http://www.chieftain.com/",
+      "facebook": "https://www.facebook.com/ThePuebloChieftain"
+    }
+  ],
+  "Rangely, CO": [
+    {
+      "name": "Rangely Herald Times",
+      "twitter": "heraldtimes",
+      "website": "http://www.theheraldtimes.com/",
+      "facebook": "https://www.facebook.com/theheraldtimes"
+    }
+  ],
+  "Rifle, CO": [],
+  "Saguache, CO": [],
+  "Salida, CO": [
+    {
+      "name": "Mountain Mail",
+      "twitter": "TheMtnMail",
+      "website": "http://www.themountainmail.com",
+      "facebook": "https://www.facebook.com/TheMountainMail"
+    }
+  ],
+  "Silverton, CO": [],
+  "Simla, CO": [],
+  "South Fork, CO": [],
+  "Steamboat Springs, CO": [
+    {
+      "name": "Steamboat Pilot",
+      "twitter": "steamboatpilot",
+      "website": "http://www.steamboattoday.com/",
+      "facebook": "https://www.facebook.com/pages/Steamboat-Pilot-Today/45254790221"
+    }
+  ],
+  "Sterling, CO": [
+    {
+      "name": "South Platte Sentinel",
+      "twitter": "SP_Sentinel",
+      "website": "http://www.southplattesentinel.com/",
+      "facebook": "https://www.facebook.com/SouthPlatteSentinel"
+    },
+    {
+      "name": "Sterling Journal-Advocate",
+      "twitter": "SterlingJA",
+      "website": "http://www.journal-advocate.com/",
+      "facebook": "https://www.facebook.com/journaladvocate"
+    }
+  ],
+  "Superior, CO": [
+    {
+      "name": "Colorado Hometown Weekly",
+      "twitter": "CoHoWeekly",
+      "website": "http://www.coloradohometownweekly.com/news/superior",
+      "facebook": "https://www.facebook.com/coloradohometownweekly"
+    }
+  ],
+  "Telluride, CO": [
+    {
+      "name": "Telluride Daily Planet",
+      "twitter": "TelluridePlanet",
+      "website": "http://www.telluridenews.com/",
+      "facebook": "https://www.facebook.com/telluridedailyplanet"
+    }
+  ],
+  "Thornton, CO": [],
+  "Trinidad, CO": [],
+  "Vail, CO": [
+    {
+      "name": "Vail Daily",
+      "twitter": "vaildaily",
+      "website": "http://www.vaildaily.com/",
+      "facebook": "https://www.facebook.com/VailNews"
+    }
+  ],
+  "Walsenburg, CO": [],
+  "Westcliffe, CO": [],
+  "Westminster, CO": [],
+  "Wheat Ridge, CO": [],
+  "Windsor, CO": [
+    {
+      "name": "Windsor Beacon",
+      "twitter": "WindsorBeacon",
+      "website": "http://www.coloradoan.com/windsor-beacon/"
+    },
+    {
+      "name": "Windsor Now ",
+      "twitter": "WindsorNow",
+      "website": "http://www.mywindsornow.com/",
+      "facebook": "https://www.facebook.com/mywindsornow"
+    }
+  ],
+  "Woodland Park, CO": [
+    {
+      "name": "Mountain Jackpot",
+      "twitter": "TMountainJ",
+      "website": "http://www.mountainjackpot.com/",
+      "facebook": "https://www.facebook.com/TMJnews"
+    }
+  ]
+}

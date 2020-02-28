@@ -1,0 +1,107 @@
+{
+  "Ashley, ND": [],
+  "Beulah, ND": [],
+  "Bismarck, ND": [
+    {
+      "name": "Bismarck Tribune ",
+      "twitter": "bistrib",
+      "website": "http://bismarcktribune.com/",
+      "facebook": "https://www.facebook.com/BisTrib"
+    },
+    {
+      "name": "Farm & Ranch Guide ",
+      "twitter": "farmranchguide",
+      "website": "http://www.farmandranchguide.com/",
+      "facebook": "https://www.facebook.com/farmandranchguide"
+    }
+  ],
+  "Center, ND": [],
+  "Crosby, ND": [],
+  "Devils Lake, ND": [
+    {
+      "name": "Devils Lake Journal ",
+      "twitter": "DevilsLakeJour1",
+      "website": "http://www.devilslakejournal.com/",
+      "facebook": "https://www.facebook.com/pages/Devils-Lake-Journal/191196920933772"
+    }
+  ],
+  "Dickinson, ND": [
+    {
+      "name": "The Dickinson Press ",
+      "twitter": "dickinsonpress",
+      "website": "http://www.thedickinsonpress.com/",
+      "facebook": "https://www.facebook.com/pages/The-Dickinson-Press/179055638616"
+    }
+  ],
+  "Fargo, ND": [
+    {
+      "name": "INForum",
+      "twitter": "inforum",
+      "website": "http://www.inforum.com/",
+      "facebook": "https://www.facebook.com/inforumFM"
+    }
+  ],
+  "Grand Forks, ND": [
+    {
+      "name": "Grand Forks Herald ",
+      "twitter": "gfherald",
+      "website": "http://www.grandforksherald.com/",
+      "facebook": "https://www.facebook.com/GrandForksHerald"
+    }
+  ],
+  "Hazen, ND": [],
+  "Jamestown, ND": [
+    {
+      "name": "Jamestown Sun ",
+      "twitter": "jamestownsun",
+      "website": "http://www.jamestownsun.com/",
+      "facebook": "https://www.facebook.com/TheJamestownSun"
+    }
+  ],
+  "Kenmare, ND": [
+    {
+      "name": "Kenmare News ",
+      "twitter": "kenmarenews",
+      "website": "http://www.kenmarend.com/",
+      "facebook": "https://www.facebook.com/kenmarenews"
+    }
+  ],
+  "Minot, ND": [],
+  "New Town, ND": [],
+  "Parshall, ND": [],
+  "Underwood, ND": [],
+  "Valley City, ND": [
+    {
+      "name": "Times-Record ",
+      "twitter": "vctimesrecord",
+      "website": "http://www.times-online.com/",
+      "facebook": "https://www.facebook.com/VCTimesRecord"
+    }
+  ],
+  "Wahpeton, ND": [
+    {
+      "name": "Wahpeton Daily News ",
+      "twitter": "wahpeton",
+      "website": "http://www.wahpetondailynews.com/",
+      "facebook": "https://www.facebook.com/WahpetonDailyNews"
+    }
+  ],
+  "Washburn, ND": [],
+  "Watford City, ND": [],
+  "West Fargo, ND": [
+    {
+      "name": "West Fargo Pioneer",
+      "twitter": "westfargo",
+      "website": "http://www.westfargopioneer.com/",
+      "facebook": "https://www.facebook.com/westfargopioneer"
+    }
+  ],
+  "Williston, ND": [
+    {
+      "name": "Williston Daily Herald ",
+      "twitter": "willistonherald",
+      "website": "http://www.willistonherald.com/",
+      "facebook": "https://www.facebook.com/pages/Williston-Herald/122673927752725"
+    }
+  ]
+}

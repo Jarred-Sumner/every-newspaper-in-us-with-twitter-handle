@@ -1,0 +1,74 @@
+{
+  "Charlestown (CDP), RI": [],
+  "Coventry, RI": [],
+  "Cumberland, RI": [
+    {
+      "name": "Valley Breeze",
+      "twitter": "TheValleyBreeze",
+      "website": "http://www.valleybreeze.com/",
+      "facebook": "https://www.facebook.com/pages/The-Valley-Breeze-Newspapers/117345161623616"
+    }
+  ],
+  "East Greenwich, RI": [],
+  "East Providence, RI": [
+    {
+      "name": "Providence Business News ",
+      "twitter": "provbusnews",
+      "website": "https://pbn.com/",
+      "facebook": "https://www.facebook.com/ProvidenceBusinessNews"
+    },
+    {
+      "name": "Providence Journal",
+      "twitter": "projo",
+      "website": "http://www.providencejournal.com/",
+      "facebook": "https://www.facebook.com/ProvidenceJournal"
+    }
+  ],
+  "Jamestown, RI": [],
+  "Newport, RI": [
+    {
+      "name": "Newport Daily News ",
+      "twitter": "TheNewportDaily",
+      "website": "http://www.newportri.com/newportdailynews/",
+      "facebook": "https://www.facebook.com/pages/The-Newport-Daily-News/117256043830"
+    }
+  ],
+  "North Kingstown, RI": [],
+  "Pawtucket, RI": [],
+  "Portsmouth, RI": [
+    {
+      "name": "Portsmouth Times",
+      "twitter": "eastbayri",
+      "website": "http://www.eastbayri.com/portsmouth/",
+      "facebook": "https://www.facebook.com/PortsmouthTimes"
+    }
+  ],
+  "South Kingstown, RI": [],
+  "Warren, RI": [
+    {
+      "name": "Warren Times-Gazette ",
+      "twitter": "eastbayri",
+      "website": "http://www.eastbayri.com/warren/",
+      "facebook": "https://www.facebook.com/pages/Warren-Times-Gazette/259622280877176"
+    }
+  ],
+  "Warwick, RI": [],
+  "West Warwick, RI": [],
+  "Westerly, RI": [
+    {
+      "name": "Westerly Sun",
+      "twitter": "thewesterlysun",
+      "website": "http://www.thewesterlysun.com/",
+      "facebook": "https://www.facebook.com/TheWesterlySun"
+    }
+  ],
+  "Woonsocket, RI": [
+    {
+      "name": "Woonsocket Call ",
+      "twitter": "WoonsocketCall",
+      "website": "http://www.woonsocketcall.com/",
+      "facebook": "https://www.facebook.com/pages/The-Woonsocket-Call/343704942326612"
+    }
+  ],
+  "Wyoming, RI": []
+}

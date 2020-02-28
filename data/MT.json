@@ -1,0 +1,207 @@
+{
+  "Amsterdam, MT": [],
+  "Baker, MT": [],
+  "Belgrade, MT": [
+    {
+      "name": "Belgrade News",
+      "twitter": "belgnews",
+      "website": "http://www.belgrade-news.com/",
+      "facebook": "https://www.facebook.com/belgradenews"
+    }
+  ],
+  "Big Sky, MT": [
+    {
+      "name": "Explore Big Sky",
+      "twitter": "explorebigsky",
+      "website": "http://www.explorebigsky.com/",
+      "facebook": "https://www.facebook.com/explorebigsky"
+    }
+  ],
+  "Big Timber, MT": [],
+  "Bigfork, MT": [
+    {
+      "name": "Bigfork Eagle",
+      "twitter": "BigforkEagle",
+      "website": "http://www.bigforkeagle.com/",
+      "facebook": "https://www.facebook.com/bigforkeagle"
+    }
+  ],
+  "Billings, MT": [
+    {
+      "name": "Billings Gazette",
+      "twitter": "billingsgazette",
+      "website": "http://billingsgazette.com/",
+      "facebook": "https://www.facebook.com/billingsgazette"
+    }
+  ],
+  "Boulder, MT": [],
+  "Bozeman, MT": [
+    {
+      "name": "Bozeman Daily Chronicle",
+      "twitter": "bozchron",
+      "website": "http://www.bozemandailychronicle.com/",
+      "facebook": "https://www.facebook.com/dailychronicle"
+    }
+  ],
+  "Browning, MT": [],
+  "Butte, MT": [
+    {
+      "name": "Montana Standard",
+      "twitter": "mtsbrk",
+      "website": "http://mtstandard.com/",
+      "facebook": "https://www.facebook.com/MontanaStandard"
+    }
+  ],
+  "Cascade, MT": [],
+  "Chester, MT": [],
+  "Choteau, MT": [],
+  "Columbia Falls, MT": [
+    {
+      "name": "Hungry Horse News",
+      "twitter": "hungryhorsenews",
+      "website": "http://www.hungryhorsenews.com/",
+      "facebook": "https://www.facebook.com/HungryHorseNews"
+    }
+  ],
+  "Columbus, MT": [],
+  "Conrad, MT": [],
+  "Cut Bank, MT": [],
+  "Deer Lodge, MT": [],
+  "Dillon, MT": [],
+  "East Helena, MT": [
+    {
+      "name": "Independent Record",
+      "twitter": "helenaironline",
+      "website": "http://helenair.com/",
+      "facebook": "https://www.facebook.com/helenaironline"
+    }
+  ],
+  "East Missoula, MT": [
+    {
+      "name": "Missoula Independent",
+      "twitter": "Missoula_Indy",
+      "website": "http://missoulanews.bigskypress.com/",
+      "facebook": "https://www.facebook.com/MissoulaIndependent"
+    },
+    {
+      "name": "Missoulian",
+      "twitter": "missoulian",
+      "website": "http://missoulian.com/",
+      "facebook": "https://www.facebook.com/MissoulianNewspaper"
+    }
+  ],
+  "Ennis, MT": [
+    {
+      "name": "Ennis Madisonian",
+      "twitter": "MadisonianNews",
+      "website": "http://www.madisoniannews.com/",
+      "facebook": "https://www.facebook.com/madisonian"
+    }
+  ],
+  "Eureka, MT": [],
+  "Fairfield, MT": [
+    {
+      "name": "Fairfield Sun Times",
+      "twitter": "Fairfield_MT",
+      "website": "http://www.fairfieldsuntimes.com/"
+    }
+  ],
+  "Fort Benton, MT": [],
+  "Glasgow, MT": [
+    {
+      "name": "Glasgow Courier",
+      "twitter": "glasgowcourier",
+      "website": "http://www.glasgowcourier.com/",
+      "facebook": "https://www.facebook.com/glasgowcourier"
+    }
+  ],
+  "Glendive, MT": [],
+  "Great Falls, MT": [
+    {
+      "name": "Great Falls Tribune",
+      "twitter": "gftribune",
+      "website": "http://www.greatfallstribune.com/",
+      "facebook": "https://www.facebook.com/greatfallstribune"
+    }
+  ],
+  "Hamilton, MT": [
+    {
+      "name": "Ravalli Republic",
+      "twitter": "RavalliRepublic",
+      "website": "http://ravallirepublic.com/",
+      "facebook": "https://www.facebook.com/RavalliRepublic"
+    }
+  ],
+  "Hardin, MT": [],
+  "Havre, MT": [
+    {
+      "name": "Havre Daily News",
+      "twitter": "HavreDaily",
+      "website": "http://www.havredailynews.com/",
+      "facebook": "https://www.facebook.com/havredailynews"
+    }
+  ],
+  "Kalispell, MT": [
+    {
+      "name": "Daily Inter Lake",
+      "twitter": "DailyInterLake",
+      "website": "http://www.dailyinterlake.com/",
+      "facebook": "https://www.facebook.com/Dailyinterlake"
+    },
+    {
+      "name": "Flathead Beacon",
+      "twitter": "FlatheadBeacon",
+      "website": "http://flatheadbeacon.com/",
+      "facebook": "https://www.facebook.com/FlatheadBeacon"
+    }
+  ],
+  "Laurel, MT": [],
+  "Lewistown, MT": [],
+  "Libby, MT": [
+    {
+      "name": "Western News",
+      "twitter": "westernnews",
+      "website": "http://www.thewesternnews.com/",
+      "facebook": "https://www.facebook.com/TheWesternNews"
+    }
+  ],
+  "Livingston, MT": [],
+  "Malta, MT": [],
+  "Miles City, MT": [],
+  "Pablo, MT": [],
+  "Philipsburg, MT": [],
+  "Plains, MT": [],
+  "Polson, MT": [
+    {
+      "name": "Lake County Leader",
+      "twitter": "LCLNews",
+      "website": "http://www.leaderadvertiser.com/",
+      "facebook": "https://www.facebook.com/pages/Lake-County-Leader/124479984253096"
+    }
+  ],
+  "Red Lodge, MT": [],
+  "Seeley Lake, MT": [],
+  "Shelby, MT": [],
+  "Sidney, MT": [
+    {
+      "name": "Sidney Herald-Leader",
+      "twitter": "sidneyherald",
+      "website": "http://www.sidneyherald.com/",
+      "facebook": "https://www.facebook.com/sidney.herald"
+    }
+  ],
+  "Stevensville, MT": [],
+  "Terry, MT": [],
+  "Thompson Falls, MT": [],
+  "Valier, MT": [],
+  "Whitefish, MT": [
+    {
+      "name": "Whitefish Pilot",
+      "twitter": "whitefishpilot",
+      "website": "http://www.whitefishpilot.com/",
+      "facebook": "https://www.facebook.com/pages/Whitefish-Pilot/171618699504"
+    }
+  ],
+  "Whitehall, MT": [],
+  "Wolf Point, MT": []
+}

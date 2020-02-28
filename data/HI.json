@@ -1,0 +1,83 @@
+{
+  "East Honolulu, HI": [
+    {
+      "name": "Hawaii Herald",
+      "twitter": "thehawaiiherald",
+      "website": "http://thehawaiiherald.com/"
+    },
+    {
+      "name": "Hawaii Reporter",
+      "twitter": "hawaiireporter",
+      "website": "http://www.hawaiireporter.com",
+      "facebook": "https://www.facebook.com/hawaiireporter"
+    },
+    {
+      "name": "HawaiiStar.com",
+      "twitter": "hawaiistar",
+      "website": "http://www.hawaiistar.com/",
+      "facebook": "https://www.facebook.com/hawaiinews"
+    },
+    {
+      "name": "Honolulu Civil Beat",
+      "twitter": "civilbeat",
+      "website": "http://www.civilbeat.org/",
+      "facebook": "https://www.facebook.com/civilbeat"
+    },
+    {
+      "name": "Honolulu Star Advertiser",
+      "twitter": "staradvertiser",
+      "website": "http://www.staradvertiser.com/",
+      "facebook": "https://www.facebook.com/staradvertiser"
+    },
+    {
+      "name": "MidWeek",
+      "twitter": "midweekhawaii",
+      "website": "http://www.midweek.com/",
+      "facebook": "https://www.facebook.com/MidWeekHawaii"
+    },
+    {
+      "name": "Pacific Business News",
+      "twitter": "pacificbiznews",
+      "website": "http://www.bizjournals.com/pacific/",
+      "facebook": "https://www.facebook.com/pages/Pacific-Business-News/392905870630"
+    }
+  ],
+  "Haleiwa, HI": [],
+  "Hilo, HI": [
+    {
+      "name": "Hawaii Tribune-Herald",
+      "twitter": "HITribuneHerald",
+      "website": "http://hawaiitribune-herald.com/",
+      "facebook": "https://www.facebook.com/hawaiitribuneherald"
+    }
+  ],
+  "Kahului, HI": [],
+  "Kailua, HI": [
+    {
+      "name": "West Hawaii Today",
+      "twitter": "westhawaiitoday",
+      "website": "http://westhawaiitoday.com/",
+      "facebook": "https://www.facebook.com/westhawaiitoday"
+    }
+  ],
+  "Kapolei, HI": [],
+  "Kaunakakai, HI": [],
+  "Lahaina, HI": [],
+  "Lihue, HI": [
+    {
+      "name": "Garden Island",
+      "twitter": "thegardenisland",
+      "website": "http://thegardenisland.com/",
+      "facebook": "https://www.facebook.com/TheGardenIsland"
+    }
+  ],
+  "Puako, HI": [],
+  "Wailuku, HI": [
+    {
+      "name": "Maui News",
+      "twitter": "TheMauiNewsHI",
+      "website": "http://www.mauinews.com/",
+      "facebook": "https://www.facebook.com/MauiNews"
+    }
+  ]
+}

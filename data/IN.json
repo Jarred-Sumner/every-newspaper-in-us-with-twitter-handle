@@ -1,0 +1,744 @@
+{
+  "Albion, IN": [
+    {
+      "name": "Albion New Era",
+      "twitter": "kpcnews",
+      "website": "http://kpcnews.com/news/latest/new_era/",
+      "facebook": "https://www.facebook.com/albionnewera"
+    }
+  ],
+  "Alexandria, IN": [],
+  "Anderson, IN": [
+    {
+      "name": "Anderson Herald Bulletin",
+      "twitter": "heraldbulletin",
+      "website": "http://www.heraldbulletin.com/",
+      "facebook": "https://www.facebook.com/heraldbulletin"
+    }
+  ],
+  "Angola, IN": [
+    {
+      "name": "Angola Herald Republican",
+      "twitter": "kpcnews",
+      "website": "http://kpcnews.com/news/latest/heraldrepublican/",
+      "facebook": "https://www.facebook.com/kpcnews"
+    }
+  ],
+  "Attica, IN": [],
+  "Auburn, IN": [
+    {
+      "name": "DeKalb Star",
+      "twitter": "kpcnews",
+      "website": "http://kpcnews.com/news/latest/eveningstar/",
+      "facebook": "https://www.facebook.com/kpcnews"
+    }
+  ],
+  "Batesville, IN": [],
+  "Bedford, IN": [],
+  "Berne, IN": [],
+  "Bloomingdale, IN": [],
+  "Bloomington, IN": [
+    {
+      "name": "Herald-Times",
+      "twitter": "theheraldtimes",
+      "website": "http://www.heraldtimesonline.com/",
+      "facebook": "https://www.facebook.com/pages/The-Herald-Times/13675287758"
+    }
+  ],
+  "Bluffton, IN": [
+    {
+      "name": "News Banner",
+      "twitter": "newsbanner",
+      "website": "http://www.news-banner.com/",
+      "facebook": "https://www.facebook.com/newsbanner"
+    }
+  ],
+  "Bolivar, IN": [],
+  "Bourbon, IN": [],
+  "Brazil, IN": [
+    {
+      "name": "Brazil Times",
+      "twitter": "thebraziltimes",
+      "website": "http://www.thebraziltimes.com/",
+      "facebook": "https://www.facebook.com/brazil.times"
+    }
+  ],
+  "Brookville, IN": [],
+  "Brownstown, IN": [
+    {
+      "name": "Jackson County Banner",
+      "twitter": "jcbanner",
+      "website": "http://www.thebanner.com/",
+      "facebook": "https://www.facebook.com/jacksoncountybanner"
+    }
+  ],
+  "Butler, IN": [
+    {
+      "name": "Butler Bulletin",
+      "twitter": "kpcnews",
+      "website": "http://kpcnews.com/news/latest/butlerbulletin/",
+      "facebook": "https://www.facebook.com/kpcnews"
+    }
+  ],
+  "Carmel, IN": [
+    {
+      "name": "Current in Carmel",
+      "twitter": "CI_Carmel",
+      "website": "http://currentincarmel.com/",
+      "facebook": "https://www.facebook.com/currentincarmel"
+    }
+  ],
+  "Charlestown, IN": [],
+  "Chesterton, IN": [
+    {
+      "name": "Chesterton Tribune",
+      "twitter": "ChestertonTrib",
+      "website": "http://chestertontribune.com/",
+      "facebook": "https://www.facebook.com/pages/Chesterton-Tribune/163085470378091"
+    }
+  ],
+  "Churubusco, IN": [
+    {
+      "name": "Churubusco News",
+      "twitter": "busconews",
+      "website": "http://busconews.com/",
+      "facebook": "https://www.facebook.com/busconews"
+    }
+  ],
+  "Cloverdale, IN": [],
+  "Columbia City, IN": [
+    {
+      "name": "Post & Mail",
+      "twitter": "ThePostandMail",
+      "website": "http://www.thepostandmail.com/",
+      "facebook": "https://www.facebook.com/pages/The-Post-and-Mail/147698951989988"
+    }
+  ],
+  "Columbus, IN": [
+    {
+      "name": "Republic",
+      "twitter": "therepublicnews",
+      "website": "http://www.therepublic.com/",
+      "facebook": "https://www.facebook.com/TheRepublicNews"
+    }
+  ],
+  "Connersville, IN": [
+    {
+      "name": "News Examiner",
+      "twitter": "CNewsExaminer",
+      "website": "http://www.newsexaminer.com/",
+      "facebook": "https://www.facebook.com/pages/News-Examiner/154120804656112"
+    }
+  ],
+  "Corydon, IN": [
+    {
+      "name": "Corydon Democrat",
+      "twitter": "corydondemocrat",
+      "website": "http://www.corydondemocrat.com/",
+      "facebook": "https://www.facebook.com/pages/The-Corydon-Democrat/23010221898"
+    }
+  ],
+  "Crawfordsville, IN": [
+    {
+      "name": "Journal Review",
+      "twitter": "journalreview",
+      "website": "http://www.journalreview.com/",
+      "facebook": "https://www.facebook.com/JournalReview"
+    }
+  ],
+  "Culver, IN": [],
+  "De Motte, IN": [],
+  "Decatur, IN": [],
+  "Elkhart, IN": [
+    {
+      "name": "Elkhart Truth",
+      "twitter": "elkharttruth",
+      "website": "http://www.elkharttruth.com/",
+      "facebook": "https://www.facebook.com/TheElkhartTruth"
+    }
+  ],
+  "Elwood, IN": [],
+  "Evansville, IN": [
+    {
+      "name": "Evansville Courier",
+      "twitter": "courierpress",
+      "website": "http://www.courierpress.com/",
+      "facebook": "https://www.facebook.com/courierpress"
+    }
+  ],
+  "Ferdinand, IN": [],
+  "Fishers, IN": [
+    {
+      "name": "Current in Fishers",
+      "twitter": "CI_Fishers",
+      "website": "http://currentinfishers.com/",
+      "facebook": "https://www.facebook.com/currentinfishers"
+    }
+  ],
+  "Flora, IN": [],
+  "Fort Wayne, IN": [
+    {
+      "name": "Business Weekly",
+      "twitter": "fwbusiness",
+      "website": "http://www.fwbusiness.com/",
+      "facebook": "https://www.facebook.com/businessweekly"
+    },
+    {
+      "name": "Frost Illustrated",
+      "twitter": "frostillustrate",
+      "website": "http://www.frostillustrated.com/",
+      "facebook": "https://www.facebook.com/FrostIllustrated"
+    },
+    {
+      "name": "Journal Gazette",
+      "twitter": "JGfortwayne",
+      "website": "http://www.journalgazette.net/",
+      "facebook": "https://www.facebook.com/journalgazette"
+    },
+    {
+      "name": "News-Sentinel",
+      "twitter": "newssentinel",
+      "website": "http://www.news-sentinel.com/",
+      "facebook": "https://www.facebook.com/thenewssentinel"
+    },
+    {
+      "name": "Waynedale News",
+      "twitter": "WaynedaleNews",
+      "website": "http://www.thewaynedalenews.com/",
+      "facebook": "https://www.facebook.com/Waynedalenews"
+    }
+  ],
+  "Frankfort, IN": [
+    {
+      "name": "Times",
+      "twitter": "ftimes",
+      "website": "http://www.chronicle-tribune.com/ftimes/",
+      "facebook": "https://www.facebook.com/frankforttimes"
+    }
+  ],
+  "Franklin, IN": [
+    {
+      "name": "Daily Journal of Johnson Co.",
+      "twitter": "DailyJournalNet",
+      "website": "http://www.dailyjournal.net/",
+      "facebook": "https://www.facebook.com/DailyJournalNews"
+    }
+  ],
+  "French Lick, IN": [],
+  "Garrett, IN": [
+    {
+      "name": "Garrett Clipper",
+      "twitter": "kpcnews",
+      "website": "http://kpcnews.com/?x=garrettclipper",
+      "facebook": "https://www.facebook.com/kpcnews"
+    }
+  ],
+  "Gary, IN": [
+    {
+      "name": "Gary Crusader",
+      "twitter": "CrusaderNewspap",
+      "website": "http://chicagocrusader.com/category/gary-local-news/",
+      "facebook": "https://www.facebook.com/thecrusader.newspaper.7"
+    }
+  ],
+  "Goshen, IN": [
+    {
+      "name": "El Puente",
+      "twitter": "ELPUENTENEWS",
+      "website": "http://www.webelpuente.com/",
+      "facebook": "https://www.facebook.com/ELPUENTENEWS"
+    },
+    {
+      "name": "Goshen News",
+      "twitter": "YourGoshenNews",
+      "website": "http://www.goshennews.com/",
+      "facebook": "https://www.facebook.com/TheGoshenNews"
+    }
+  ],
+  "Greencastle, IN": [],
+  "Greenfield, IN": [
+    {
+      "name": "Daily Reporter",
+      "twitter": "GreenfieldDR ",
+      "website": "http://www.greenfieldreporter.com/",
+      "facebook": "https://www.facebook.com/GreenfieldDR"
+    }
+  ],
+  "Greensburg, IN": [
+    {
+      "name": "Greensburg Daily News ",
+      "twitter": "GreensburgDaily",
+      "website": "http://www.greensburgdailynews.com/",
+      "facebook": "https://www.facebook.com/pages/Greensburg-Daily-News/206847829343159"
+    }
+  ],
+  "Hartford City, IN": [
+    {
+      "name": "Hartford City News-Times",
+      "twitter": "hcnewstimes",
+      "website": "http://www.hartfordcitynewstimes.com/",
+      "facebook": "https://www.facebook.com/hartfordcitynewstimes"
+    }
+  ],
+  "Hope, IN": [],
+  "Huntertown, IN": [
+    {
+      "name": "Northwest News",
+      "twitter": "kpcnews",
+      "website": "http://kpcnews.com/news/latest/northwest/",
+      "facebook": "https://www.facebook.com/pages/Northwest-News-Printing/228289830547430"
+    }
+  ],
+  "Huntington, IN": [
+    {
+      "name": "Herald Press",
+      "twitter": "theheraldpress",
+      "website": "http://www.chronicle-tribune.com/hp_online/"
+    }
+  ],
+  "Indianapolis, IN": [
+    {
+      "name": "Business Journal",
+      "twitter": "IBJnews",
+      "website": "http://www.ibj.com/",
+      "facebook": "https://www.facebook.com/IndianapolisBusinessJournal"
+    },
+    {
+      "name": "Indianapolis Recorder",
+      "twitter": "IndyRecorder",
+      "website": "http://www.indianapolisrecorder.com/",
+      "facebook": "https://www.facebook.com/IndyRecorder/"
+    },
+    {
+      "name": "Indy Star",
+      "twitter": "indystar",
+      "website": "http://www.indystar.com/",
+      "facebook": "https://www.facebook.com/indianapolis.star"
+    },
+    {
+      "name": "Nuvo Newsweekly",
+      "twitter": "nuvo_net",
+      "website": "http://www.nuvo.net/"
+    },
+    {
+      "name": "Southside Times",
+      "twitter": "southsidetimes",
+      "website": "http://ss-times.com/",
+      "facebook": "https://www.facebook.com/TheSouthsideTimes"
+    },
+    {
+      "name": "Southsider Voice",
+      "twitter": "SouthsiderVoice",
+      "website": "http://www.southsidervoice.com/",
+      "facebook": "https://www.facebook.com/indysouthsider"
+    },
+    {
+      "name": "Word",
+      "twitter": "TheGayWord",
+      "website": "http://thegayword.com/",
+      "facebook": "https://www.facebook.com/TheGayWord"
+    }
+  ],
+  "Jasonville, IN": [],
+  "Jasper, IN": [
+    {
+      "name": "Dubois County Herald",
+      "twitter": "DuboisCoHerald",
+      "website": "https://duboiscountyherald.com/",
+      "facebook": "https://www.facebook.com/DuboisCountyHerald"
+    }
+  ],
+  "Jeffersonville, IN": [
+    {
+      "name": "News and Tribune",
+      "twitter": "newsandtribune",
+      "website": "http://www.newsandtribune.com/",
+      "facebook": "https://www.facebook.com/newsandtribune"
+    }
+  ],
+  "Kendallville, IN": [
+    {
+      "name": "News Sun",
+      "twitter": "kpcnews",
+      "website": "http://kpcnews.com/",
+      "facebook": "https://www.facebook.com/kpcnews"
+    }
+  ],
+  "Kentland, IN": [],
+  "Knightstown, IN": [
+    {
+      "name": "Knightstown Banner",
+      "twitter": "ktownbanner",
+      "website": "http://thebanneronline.com/",
+      "facebook": "https://www.facebook.com/pages/Knightstown-Banner/111900458215"
+    }
+  ],
+  "Knox, IN": [],
+  "Kokomo, IN": [
+    {
+      "name": "Kokomo Herald",
+      "twitter": "kokomoherald",
+      "website": "http://kokomoherald.com/",
+      "facebook": "https://www.facebook.com/KokomoHerald"
+    },
+    {
+      "name": "Kokomo Perspective",
+      "twitter": "KokomoNews",
+      "website": "http://kokomoperspective.com/",
+      "facebook": "https://www.facebook.com/KokomoPerspective"
+    },
+    {
+      "name": "Kokomo Tribune",
+      "twitter": "kokomotribune",
+      "website": "http://www.kokomotribune.com/",
+      "facebook": "https://www.facebook.com/KokomoTribune"
+    }
+  ],
+  "La Porte, IN": [
+    {
+      "name": "Herald-Argus",
+      "twitter": "HeraldArgus",
+      "website": "http://www.heraldargus.com/",
+      "facebook": "https://www.facebook.com/The-La-Porte-County-Herald-Argus-565599370262091"
+    }
+  ],
+  "Lafayette, IN": [
+    {
+      "name": "Journal & Courier",
+      "twitter": "jconline",
+      "website": "http://www.jconline.com/",
+      "facebook": "https://www.facebook.com/journalandcourier"
+    }
+  ],
+  "Lagrange, IN": [],
+  "Lawrenceburg, IN": [],
+  "Lebanon, IN": [
+    {
+      "name": "Reporter",
+      "twitter": "lebanonreporter",
+      "website": "http://www.reporter.net/",
+      "facebook": "https://www.facebook.com/lebanonreporter"
+    }
+  ],
+  "Ligonier, IN": [
+    {
+      "name": "Advance-Leader",
+      "twitter": "kpcnews",
+      "website": "http://kpcnews.com/news/latest/advanceleader/",
+      "facebook": "https://www.facebook.com/kpcnews"
+    }
+  ],
+  "Linton, IN": [],
+  "Logansport, IN": [
+    {
+      "name": "Pharos-Tribune",
+      "twitter": "pharostribune",
+      "website": "http://www.pharostribune.com/",
+      "facebook": "https://www.facebook.com/PharosTribune"
+    }
+  ],
+  "Loogootee, IN": [],
+  "Madison, IN": [
+    {
+      "name": "Madison Courier",
+      "twitter": "madisoncourier",
+      "website": "http://madisoncourier.com/",
+      "facebook": "https://www.facebook.com/madisoncourier"
+    }
+  ],
+  "Marion, IN": [
+    {
+      "name": "Chronicle-Tribune",
+      "twitter": "Marion_CT",
+      "website": "http://www.chronicle-tribune.com/",
+      "facebook": "https://www.facebook.com/pages/Chronicle-Tribune/410516838990913"
+    }
+  ],
+  "Martinsville, IN": [
+    {
+      "name": "Reporter Times",
+      "twitter": "r_t_news",
+      "website": "http://www.reporter-times.com/",
+      "facebook": "https://www.facebook.com/pages/The-Reporter-Times/120634624626666"
+    }
+  ],
+  "Merrillville, IN": [
+    {
+      "name": "Gary Post Tribune",
+      "twitter": "posttrib",
+      "website": "http://www.chicagotribune.com/suburbs/post-tribune/",
+      "facebook": "https://www.facebook.com/pages/PostTrib-newspaper/330360537007411"
+    }
+  ],
+  "Michigan City, IN": [
+    {
+      "name": "News-Dispatch",
+      "twitter": "TheNewsDispatch",
+      "website": "http://www.thenewsdispatch.com/",
+      "facebook": "https://www.facebook.com/pages/Michigan-City-News-Dispatch/430459247049135"
+    }
+  ],
+  "Milford, IN": [],
+  "Monticello, IN": [
+    {
+      "name": "Herald Journal",
+      "twitter": "thehj",
+      "website": "http://www.newsbug.info/monticello_herald_journal/",
+      "facebook": "https://www.facebook.com/pages/Monticello-Herald-Journal/187972601673"
+    }
+  ],
+  "Mooresville, IN": [
+    {
+      "name": "Mooresville Times",
+      "twitter": "MDTnews",
+      "website": "http://www.reporter-times.com/mdt/",
+      "facebook": "https://www.facebook.com/pages/The-Mooresville-Decatur-Times/327851438815"
+    }
+  ],
+  "Muncie, IN": [
+    {
+      "name": "Muncie Voice",
+      "twitter": "muncievoice",
+      "website": "http://www.muncievoice.com/",
+      "facebook": "https://www.facebook.com/muncievoice"
+    },
+    {
+      "name": "Star Press",
+      "twitter": "TheStarPress",
+      "website": "http://www.thestarpress.com/",
+      "facebook": "https://www.facebook.com/thestarpress"
+    }
+  ],
+  "Munster, IN": [
+    {
+      "name": "Times",
+      "twitter": "nwi",
+      "website": "http://www.nwitimes.com/",
+      "facebook": "https://www.facebook.com/pages/The-Times-of-Northwest-Indiana/91501294412"
+    }
+  ],
+  "Nashville, IN": [
+    {
+      "name": "Brown County Democrat",
+      "twitter": "bcdemocrat",
+      "website": "http://www.bcdemocrat.com/",
+      "facebook": "https://www.facebook.com/pages/Brown-County-Democrat/58947961030"
+    }
+  ],
+  "New Castle, IN": [
+    {
+      "name": "Courier Times",
+      "twitter": "TheCourierTimes",
+      "website": "http://www.thecouriertimes.com/",
+      "facebook": "https://www.facebook.com/pages/The-Courier-Times/305302932140"
+    }
+  ],
+  "New Harmony, IN": [],
+  "New Paris, IN": [],
+  "New Pekin, IN": [],
+  "New Richmond, IN": [
+    {
+      "name": "Palladium-Item",
+      "twitter": "pi_news",
+      "website": "http://www.pal-item.com/",
+      "facebook": "https://www.facebook.com/palitem"
+    }
+  ],
+  "New Washington, IN": [
+    {
+      "name": "Times Herald",
+      "twitter": "washtimesherald",
+      "website": "http://www.washtimesherald.com/",
+      "facebook": "https://www.facebook.com/washtimesherald"
+    }
+  ],
+  "Newburgh, IN": [],
+  "Noblesville, IN": [
+    {
+      "name": "Current in Noblesville",
+      "twitter": "CI_Noblesville",
+      "website": "http://currentnoblesville.com/",
+      "facebook": "https://www.facebook.com/currentinnoblesville"
+    }
+  ],
+  "North Salem, IN": [
+    {
+      "name": "Salem Leader",
+      "twitter": "SalemLeader",
+      "website": "http://www.salemleader.com/",
+      "facebook": "https://www.facebook.com/pages/salemleadercom/178913472153765"
+    }
+  ],
+  "North Terre Haute, IN": [
+    {
+      "name": "Tribune-Star",
+      "twitter": "tribstar",
+      "website": "http://www.tribstar.com/",
+      "facebook": "https://www.facebook.com/tribstar"
+    }
+  ],
+  "North Vernon, IN": [],
+  "Paoli, IN": [],
+  "Pendleton, IN": [
+    {
+      "name": "Pendleton Times-Post",
+      "twitter": "TimesPost",
+      "website": "http://pendletontimespost.com/",
+      "facebook": "https://www.facebook.com/TimesPostNews"
+    }
+  ],
+  "Peru, IN": [
+    {
+      "name": "Peru Tribune",
+      "twitter": "PeruTribune",
+      "website": "http://www.chronicle-tribune.com/peru_tribune/",
+      "facebook": "https://www.facebook.com/pages/Peru-Tribune/180495801973585"
+    }
+  ],
+  "Plainfield, IN": [
+    {
+      "name": "Hendricks County Flyer",
+      "twitter": "TheHCFlyer",
+      "website": "http://www.flyergroup.com/",
+      "facebook": "https://www.facebook.com/pages/Hendricks-County-Flyer/49621332184"
+    }
+  ],
+  "Plymouth, IN": [],
+  "Portland, IN": [
+    {
+      "name": "Commercial Review",
+      "twitter": "commreview",
+      "website": "http://www.thecr.com/",
+      "facebook": "https://www.facebook.com/thecommercialreview"
+    }
+  ],
+  "Princeton, IN": [
+    {
+      "name": "Princeton Daily Clarion",
+      "twitter": "pdclarion",
+      "website": "http://www.pdclarion.com/",
+      "facebook": "https://www.facebook.com/pdclarion"
+    }
+  ],
+  "Rensselaer, IN": [
+    {
+      "name": "Republican Newspaper",
+      "twitter": "RensselaerNews",
+      "website": "http://www.newsbug.info/rensselaer_republican/",
+      "facebook": "https://www.facebook.com/pages/Rensselaer-Republican/278711810227"
+    }
+  ],
+  "Rising Sun, IN": [
+    {
+      "name": "Ohio County News",
+      "twitter": "newstoU",
+      "website": "http://www.theohiocountynews.com/",
+      "facebook": "https://www.facebook.com/pages/RegisterPublications/173654106006773"
+    }
+  ],
+  "Rochester, IN": [],
+  "Rockport, IN": [],
+  "Rockville, IN": [],
+  "Rushville, IN": [
+    {
+      "name": "Rushville Republican ",
+      "twitter": "Rush_Republican ",
+      "website": "http://www.rushvillerepublican.com/",
+      "facebook": "https://www.facebook.com/RushvilleRepublican"
+    }
+  ],
+  "Scottsburg, IN": [],
+  "Seymour, IN": [
+    {
+      "name": "Seymour Tribune",
+      "twitter": "seymourtribune",
+      "website": "http://www.tribtown.com/",
+      "facebook": "https://www.facebook.com/seymourtribune"
+    }
+  ],
+  "Shelbyville, IN": [
+    {
+      "name": "Shelbyville News",
+      "twitter": "ShelbyvilleNews",
+      "website": "http://www.shelbynews.com/",
+      "facebook": "https://www.facebook.com/pages/The-Shelbyville-News/137479316306764"
+    }
+  ],
+  "Shoals, IN": [],
+  "South Bend, IN": [
+    {
+      "name": "South Bend Tribune",
+      "twitter": "SBTribune",
+      "website": "http://www.southbendtribune.com/",
+      "facebook": "https://www.facebook.com/southbendtribune"
+    }
+  ],
+  "Spencer, IN": [],
+  "Sullivan, IN": [
+    {
+      "name": "Daily Times",
+      "twitter": "SullivanINTimes",
+      "website": "https://www.sullivan-times.com/",
+      "facebook": "https://www.facebook.com/pages/Sullivan-Daily-Times/110517035675927"
+    }
+  ],
+  "Tell City, IN": [],
+  "Tipton, IN": [],
+  "Versailles, IN": [],
+  "Vincennes, IN": [],
+  "Wabash, IN": [
+    {
+      "name": "Wabash Paper",
+      "twitter": "paperofwabash",
+      "website": "http://www.thepaperofwabash.com/",
+      "facebook": "https://www.facebook.com/pages/The-Paper-of-Wabash/144633638916631"
+    },
+    {
+      "name": "Wabash Plain Dealer",
+      "twitter": "WabashPD",
+      "website": "http://www.chronicle-tribune.com/wabashplaindealer/",
+      "facebook": "https://www.facebook.com/pages/Wabash-Plain-Dealer/184860684869423"
+    }
+  ],
+  "Warsaw, IN": [
+    {
+      "name": "Times-Union",
+      "twitter": "tuonline",
+      "website": "http://www.timesuniononline.com/",
+      "facebook": "https://www.facebook.com/pages/Times-Union-Warsaw/92957620822"
+    }
+  ],
+  "West Terre Haute, IN": [],
+  "Westfield, IN": [
+    {
+      "name": "Current in Westfield",
+      "twitter": "CI_Westfield",
+      "website": "http://currentinwestfield.com/",
+      "facebook": "https://www.facebook.com/currentinwestfield"
+    }
+  ],
+  "Williamsport, IN": [],
+  "Winchester, IN": [
+    {
+      "name": "News-Gazette",
+      "twitter": "newsgazettewc",
+      "website": "http://www.winchesternewsgazette.com/",
+      "facebook": "https://www.facebook.com/pages/The-News-Gazette/118194608191106"
+    }
+  ],
+  "Winfield, IN": [],
+  "Zionsville, IN": [
+    {
+      "name": "Current in Zionsville",
+      "twitter": "CI_Zionsville",
+      "website": "http://www.currentzionsville.com/",
+      "facebook": "https://www.facebook.com/currentinzionsville"
+    },
+    {
+      "name": "Times Sentinel",
+      "twitter": "zts1860",
+      "website": "http://www.timessentinel.com/",
+      "facebook": "https://www.facebook.com/ZionsvilleTimes"
+    }
+  ]
+}

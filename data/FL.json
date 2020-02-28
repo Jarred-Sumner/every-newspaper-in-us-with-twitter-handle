@@ -1,0 +1,856 @@
+{
+  "Alachua, FL": [],
+  "Anna Maria, FL": [],
+  "Apalachicola, FL": [
+    {
+      "name": "Apalachicola Times",
+      "twitter": "ApalachTimes",
+      "website": "http://www.apalachtimes.com/",
+      "facebook": "https://www.facebook.com/Apalachtimes"
+    }
+  ],
+  "Apopka, FL": [],
+  "Aventura, FL": [
+    {
+      "name": "Aventura News",
+      "twitter": "communitypapers",
+      "website": "http://www.communitynewspapers.com/aventura/",
+      "facebook": "https://www.facebook.com/Communitynewspapers"
+    }
+  ],
+  "Bartow, FL": [],
+  "Belleair, FL": [
+    {
+      "name": "Belleair Bee",
+      "twitter": "tbnwebmaster",
+      "website": "http://www.tbnweekly.com/pubs/belleair_bee/",
+      "facebook": "https://www.facebook.com/pages/wwwTBNweeklycom/143549281933"
+    }
+  ],
+  "Belleview, FL": [],
+  "Blountstown, FL": [],
+  "Boca Raton, FL": [
+    {
+      "name": "Del Ray Newspaper",
+      "twitter": "DelrayPineapple",
+      "website": "http://delraynewspaper.com/",
+      "facebook": "https://www.facebook.com/delraynewspaper/"
+    },
+    {
+      "name": "Happy Herald",
+      "twitter": "HappyHeraldNews",
+      "website": "http://www.happyherald.com/",
+      "facebook": "https://www.facebook.com/HappyHerald"
+    },
+    {
+      "name": "Tribune",
+      "twitter": "bocatribune",
+      "website": "http://www.bocaratontribune.com/",
+      "facebook": "https://www.facebook.com/BocaRatonTribune"
+    }
+  ],
+  "Bokeelia, FL": [
+    {
+      "name": "Boca Beacon",
+      "twitter": "BocaBeacon",
+      "website": "http://www.bocabeacon.com/",
+      "facebook": "https://www.facebook.com/bocabeacon"
+    }
+  ],
+  "Bonifay, FL": [
+    {
+      "name": "Holmes County Times Advertiser",
+      "twitter": "wcn_hct",
+      "website": "http://www.chipleypaper.com/",
+      "facebook": "https://www.facebook.com/pages/Washington-County-NewsHolmes-County-Advertiser/109405362449641"
+    }
+  ],
+  "Bonita Springs, FL": [
+    {
+      "name": "Banner",
+      "twitter": "ndn",
+      "website": "http://www.naplesnews.com/community/banner/",
+      "facebook": "https://www.facebook.com/bannernews"
+    },
+    {
+      "name": "Bonita Daily News",
+      "twitter": "ndn",
+      "website": "http://www.naplesnews.com/news/local",
+      "facebook": "https://www.facebook.com/naplesnews"
+    }
+  ],
+  "Bradenton, FL": [
+    {
+      "name": "Bradenton Herald",
+      "twitter": "bradentonherald",
+      "website": "http://www.bradenton.com/",
+      "facebook": "https://www.facebook.com/BradentonHeraldNews"
+    }
+  ],
+  "Brandon, FL": [
+    {
+      "name": "Brandon News",
+      "twitter": "TBOcom",
+      "website": "http://tbo.com/brandon/",
+      "facebook": "https://www.facebook.com/tampabaycom"
+    },
+    {
+      "name": "Osprey Observer",
+      "twitter": "OspreyObserver",
+      "website": "http://www.ospreyobserver.com/",
+      "facebook": "https://www.facebook.com/OspreyObserverFans"
+    }
+  ],
+  "Bristol, FL": [],
+  "Bronson, FL": [],
+  "Brooksville, FL": [
+    {
+      "name": "Hernando News",
+      "twitter": "TBOcom",
+      "website": "http://tbo.com/hernando/",
+      "facebook": "https://www.facebook.com/tampabaycom"
+    }
+  ],
+  "Bushnell, FL": [],
+  "Callahan, FL": [],
+  "Cape Coral, FL": [],
+  "Captiva, FL": [],
+  "Carrollwood, FL": [
+    {
+      "name": "Carrollwood News",
+      "twitter": "TBOcom",
+      "website": "http://tbo.com/carrollwood/",
+      "facebook": "https://www.facebook.com/tampabaycom"
+    },
+    {
+      "name": "Northwest News & Tribune",
+      "twitter": "TBOcom",
+      "website": "http://tbo.com/northwest-tampa/",
+      "facebook": "https://www.facebook.com/tampabaycom"
+    }
+  ],
+  "Cedar Key, FL": [
+    {
+      "name": "Cedar Key Beacon",
+      "twitter": "cedarkeybeacon",
+      "website": "http://www.cedarkeybeacon.com/",
+      "facebook": "https://www.facebook.com/pages/Cedar-Key-Beacon/114778808614034"
+    }
+  ],
+  "Chiefland, FL": [
+    {
+      "name": "Chiefland Citizen",
+      "twitter": "News4Levy",
+      "website": "http://www.chieflandcitizen.com/",
+      "facebook": "https://www.facebook.com/pages/Chiefland-Citizen/183043538415558"
+    }
+  ],
+  "Chipley, FL": [
+    {
+      "name": "Chipley Bugle Newspaper",
+      "twitter": "chipleybugle",
+      "website": "http://chipleybugle.com/",
+      "facebook": "https://www.facebook.com/chipleybugle"
+    }
+  ],
+  "Clearwater, FL": [
+    {
+      "name": "Clearwater Beacon",
+      "twitter": "tbnwebmaster",
+      "website": "http://www.tbnweekly.com/pubs/clearwater_beacon/",
+      "facebook": "https://www.facebook.com/pages/wwwTBNweeklycom/143549281933"
+    },
+    {
+      "name": "Clearwater Beacon",
+      "twitter": "tbnwebmaster",
+      "website": "http://clearwatergazette.com/",
+      "facebook": "https://www.facebook.com/pages/wwwTBNweeklycom/143549281933?ref=nf"
+    }
+  ],
+  "Clermont, FL": [],
+  "Clewiston, FL": [],
+  "Coral Springs, FL": [
+    {
+      "name": "Coral Springs News",
+      "twitter": "sunsentinel",
+      "website": "http://www.sun-sentinel.com/news/broward/coral-springs/",
+      "facebook": "https://www.facebook.com/sunsentinel"
+    }
+  ],
+  "Crawfordville, FL": [
+    {
+      "name": "Wakulla News",
+      "twitter": "TheWakullaNews",
+      "website": "http://www.thewakullanews.com/",
+      "facebook": "https://www.facebook.com/pages/The-Wakulla-News/121821147834984"
+    }
+  ],
+  "Crestview, FL": [
+    {
+      "name": "Crestview News Bulletin",
+      "twitter": "cnbulletin",
+      "website": "http://www.crestviewbulletin.com/",
+      "facebook": "https://www.facebook.com/crestview.bulletin"
+    }
+  ],
+  "Crystal River, FL": [
+    {
+      "name": "Citrus County Chronicle",
+      "twitter": "CitrusChronicle",
+      "website": "http://www.chronicleonline.com/",
+      "facebook": "https://www.facebook.com/citruscountychronicle"
+    }
+  ],
+  "Davie, FL": [],
+  "Daytona Beach, FL": [
+    {
+      "name": "News-Journal",
+      "twitter": "dbnewsjournal",
+      "website": "http://www.news-journalonline.com/",
+      "facebook": "https://www.facebook.com/daytonabeachnewsjournal"
+    }
+  ],
+  "DeLand, FL": [
+    {
+      "name": "West Volusia Beacon",
+      "twitter": "beacononline",
+      "website": "http://www.beacononlinenews.com/",
+      "facebook": "https://www.facebook.com/pages/The-West-Volusia-Beacon/155316614481816"
+    }
+  ],
+  "Delray Beach, FL": [
+    {
+      "name": "Delray Beach Pineapple",
+      "twitter": "DelrayPineapple",
+      "website": "http://delraynewspaper.com/",
+      "facebook": "https://www.facebook.com/delraypineapple"
+    }
+  ],
+  "Destin, FL": [
+    {
+      "name": "Destin Log",
+      "twitter": "destinlog",
+      "website": "http://www.thedestinlog.com/",
+      "facebook": "https://www.facebook.com/TheDestinLog"
+    }
+  ],
+  "East Milton, FL": [
+    {
+      "name": "Santa Rosa Press Gazette",
+      "twitter": "srpressgazette",
+      "website": "http://www.srpressgazette.com/",
+      "facebook": "https://www.facebook.com/pages/Santa-Rosa-Press-Gazette/284030690309"
+    }
+  ],
+  "East Palatka, FL": [],
+  "East Williston, FL": [],
+  "Englewood, FL": [],
+  "Fernandina Beach, FL": [],
+  "Fort Lauderdale, FL": [
+    {
+      "name": "Business Journal",
+      "twitter": "SFBJNews",
+      "website": "http://www.bizjournals.com/southflorida/",
+      "facebook": "https://www.facebook.com/SFlaBizJournal"
+    },
+    {
+      "name": "Sun-Sentinel",
+      "twitter": "sunsentinel",
+      "website": "http://www.sun-sentinel.com/",
+      "facebook": "https://www.facebook.com/sunsentinel"
+    }
+  ],
+  "Fort Meade, FL": [],
+  "Fort Myers, FL": [
+    {
+      "name": "Florida Weekly",
+      "twitter": "FloridaWeekly",
+      "website": "http://fortmyers.floridaweekly.com/",
+      "facebook": "https://www.facebook.com/FloridaWeeklyNewspapers"
+    },
+    {
+      "name": "News-Press",
+      "twitter": "thenewspress",
+      "website": "http://www.news-press.com/",
+      "facebook": "https://www.facebook.com/pages/The-News-Press-Fort-Myers-Fla/7850621533"
+    }
+  ],
+  "Fort Myers Beach, FL": [
+    {
+      "name": "Island Sand Paper",
+      "twitter": "island_paper",
+      "website": "http://fortmyersbeach.news/",
+      "facebook": "https://www.facebook.com/islandsandpaperfmb"
+    }
+  ],
+  "Fort Pierce, FL": [
+    {
+      "name": "TCPalm.com",
+      "twitter": "tcpalm",
+      "website": "http://www.tcpalm.com/news/st-lucie-county/",
+      "facebook": "https://www.facebook.com/tcpalm"
+    }
+  ],
+  "Fort Walton Beach, FL": [
+    {
+      "name": "Daily News",
+      "twitter": "nwfdailynews",
+      "website": "http://www.nwfdailynews.com/",
+      "facebook": "https://www.facebook.com/pages/Northwest-Florida-Daily-News/105672366142451"
+    }
+  ],
+  "Fort White, FL": [],
+  "Gainesville, FL": [
+    {
+      "name": "Florida Alligator",
+      "twitter": "TheAlligator",
+      "website": "http://www.alligator.org/",
+      "facebook": "https://www.facebook.com/floridaalligator"
+    },
+    {
+      "name": "Gainesville Sun",
+      "twitter": "gainesvillesun",
+      "website": "http://www.gainesville.com/",
+      "facebook": "https://www.facebook.com/GainesvilleSun"
+    }
+  ],
+  "Gulf Breeze, FL": [
+    {
+      "name": "Gulf Breeze News",
+      "twitter": "gulfbreezenews",
+      "website": "http://news.gulfbreezenews.com/"
+    }
+  ],
+  "Gulfport, FL": [
+    {
+      "name": "Beach Beacon",
+      "twitter": "tbnwebmaster",
+      "website": "http://www.tbnweekly.com/pubs/beach_beacon",
+      "facebook": "https://www.facebook.com/pages/wwwTBNweeklycom/143549281933"
+    }
+  ],
+  "Hollywood, FL": [],
+  "Holmes Beach, FL": [],
+  "Jacksonville, FL": [
+    {
+      "name": "Business Journal",
+      "twitter": "JaxBizJournal",
+      "website": "http://www.bizjournals.com/jacksonville/",
+      "facebook": "https://www.facebook.com/JBJNews"
+    },
+    {
+      "name": "Florida Times-Union",
+      "twitter": "jaxdotcom ",
+      "website": "http://jacksonville.com/",
+      "facebook": "https://www.facebook.com/FLTimesUnion"
+    },
+    {
+      "name": "Folio Weekly",
+      "twitter": "folioweekly",
+      "website": "http://www.folioweekly.com/",
+      "facebook": "https://www.facebook.com/thefolioweekly"
+    },
+    {
+      "name": "Jacksonville Daily Record",
+      "twitter": "JaxDailyRecord",
+      "website": "http://www.jaxdailyrecord.com/",
+      "facebook": "https://www.facebook.com/JaxDailyRecord"
+    }
+  ],
+  "Jacksonville Beach, FL": [],
+  "Jupiter, FL": [
+    {
+      "name": "Jupiter Courier",
+      "twitter": "tcpalm",
+      "website": "http://www.tcpalm.com/jupiter-courier-newsweekly",
+      "facebook": "https://www.facebook.com/jupitercouriernewsweekly"
+    }
+  ],
+  "Key Largo, FL": [
+    {
+      "name": "Largo Leader",
+      "twitter": "tbnwebmaster",
+      "website": "http://www.tbnweekly.com/pubs/largo_leader/",
+      "facebook": "https://www.facebook.com/pages/wwwTBNweeklycom/143549281933"
+    }
+  ],
+  "Key West, FL": [
+    {
+      "name": "Key West Citizen",
+      "twitter": "KeyWestCitizen",
+      "website": "http://keysnews.com/",
+      "facebook": "https://www.facebook.com/KeyWestCitizen"
+    }
+  ],
+  "Kissimmee, FL": [
+    {
+      "name": "Around Osceola",
+      "twitter": "OsceolaNews",
+      "website": "http://www.aroundosceola.com/",
+      "facebook": "https://www.facebook.com/pages/Osceola-News-Gazette/112184688806668"
+    }
+  ],
+  "Lake City, FL": [],
+  "Lake Sarasota, FL": [
+    {
+      "name": "Business Observer",
+      "twitter": "BizObserverFL",
+      "website": "http://www.businessobserverfl.com/",
+      "facebook": "https://www.facebook.com/BusinessObserverFL"
+    },
+    {
+      "name": "Sarasota Herald Tribune",
+      "twitter": "heraldtribune",
+      "website": "http://www.heraldtribune.com/",
+      "facebook": "https://www.facebook.com/heraldtribune"
+    },
+    {
+      "name": "YourObserver.com",
+      "twitter": "ObserverGroup",
+      "website": "http://www.yourobserver.com/sarasota",
+      "facebook": "https://www.facebook.com/ObserverGroup"
+    }
+  ],
+  "Lakeland, FL": [
+    {
+      "name": "Ledger",
+      "twitter": "theledger",
+      "website": "http://www.theledger.com/",
+      "facebook": "https://www.facebook.com/theledger"
+    }
+  ],
+  "Leesburg, FL": [
+    {
+      "name": "Daily Commercial",
+      "twitter": "dailycommercial",
+      "website": "http://www.dailycommercial.com/",
+      "facebook": "https://www.facebook.com/daily.commercial"
+    }
+  ],
+  "Lehigh Acres, FL": [
+    {
+      "name": "Lehigh Acres Citizen",
+      "twitter": "LehighAcresCit",
+      "website": "http://www.lehighacrescitizen.com/"
+    },
+    {
+      "name": "Lehigh Acres Gazette",
+      "twitter": "LehighAcresGaze",
+      "website": "http://lehighacresgazette.us/",
+      "facebook": "https://www.facebook.com/LehighAcresGazette"
+    },
+    {
+      "name": "Lehigh Acres News Press",
+      "twitter": "thenewspress",
+      "website": "http://www.news-press.com/news/",
+      "facebook": "https://www.facebook.com/pages/The-News-Press-Fort-Myers-Fla/7850621533"
+    }
+  ],
+  "Live Oak, FL": [
+    {
+      "name": "Suwannee Democrat",
+      "twitter": "suwanneedemocra",
+      "website": "http://suwanneedemocrat.com/",
+      "facebook": "https://www.facebook.com/SuwanneeDemocrat"
+    }
+  ],
+  "Macclenny, FL": [
+    {
+      "name": "Baker County Press",
+      "twitter": "BakerCoPress",
+      "website": "http://www.bakercountypress.com/",
+      "facebook": "https://www.facebook.com/pages/The-Baker-County-Press/356521567781"
+    },
+    {
+      "name": "Home Town Journal",
+      "twitter": "hometownjournal",
+      "website": "http://www.hometownjournal.org/",
+      "facebook": "https://www.facebook.com/HomeTownJournal"
+    }
+  ],
+  "Madison, FL": [],
+  "Marathon, FL": [],
+  "Marco Island, FL": [
+    {
+      "name": "Marco Island Eagle",
+      "twitter": "marconews",
+      "website": "http://www.naplesnews.com/community/marco-eagle",
+      "facebook": "https://www.facebook.com/themarcoeagle"
+    },
+    {
+      "name": "Marco Island Sun-Times",
+      "twitter": "thenewspress",
+      "website": "http://www.marcoislandflorida.com/",
+      "facebook": "https://www.facebook.com/pages/The-News-Press-Fort-Myers-Fla/7850621533"
+    }
+  ],
+  "Margate, FL": [
+    {
+      "name": "Margate News",
+      "twitter": "margatenews",
+      "website": "http://margatenews.net/",
+      "facebook": "https://www.facebook.com/MargateNews.net"
+    }
+  ],
+  "Marianna, FL": [
+    {
+      "name": "Jackson County Floridan",
+      "twitter": "jcfloridannews",
+      "website": "http://www.jcfloridan.com/",
+      "facebook": "https://www.facebook.com/JCFLoridan"
+    },
+    {
+      "name": "Jackson County Times",
+      "twitter": "JCTIMES",
+      "website": "http://www.jacksoncountytimes.net/",
+      "facebook": "https://www.facebook.com/JacksonCountyTimes"
+    }
+  ],
+  "Matlacha, FL": [],
+  "Mayo, FL": [],
+  "Melbourne, FL": [
+    {
+      "name": "Florida Today",
+      "twitter": "florida_today",
+      "website": "http://www.floridatoday.com/",
+      "facebook": "https://www.facebook.com/Floridatoday"
+    }
+  ],
+  "Mexico Beach, FL": [
+    {
+      "name": "Star",
+      "twitter": "PSJ_Star",
+      "website": "http://www.starfl.com/",
+      "facebook": "https://www.facebook.com/psjstar"
+    }
+  ],
+  "Miami, FL": [
+    {
+      "name": "Community News of Miami",
+      "twitter": "communitypapers",
+      "website": "http://www.communitynewspapers.com/",
+      "facebook": "https://www.facebook.com/Communitynewspapers"
+    },
+    {
+      "name": "El Nuevo Herald",
+      "twitter": "elnuevoherald",
+      "website": "http://www.elnuevoherald.com/",
+      "facebook": "https://www.facebook.com/pages/El-Nuevo-Herald/126339201288"
+    },
+    {
+      "name": "Miami Herald",
+      "twitter": "miamiherald",
+      "website": "http://www.miamiherald.com/",
+      "facebook": "https://www.facebook.com/miamiherald"
+    },
+    {
+      "name": "Miami New Times",
+      "twitter": "MiamiNewTimes",
+      "website": "http://www.miaminewtimes.com/",
+      "facebook": "https://www.facebook.com/miaminewtimes"
+    },
+    {
+      "name": "Miami Times",
+      "twitter": "TheMiamiTimes",
+      "website": "http://miamitimesonline.com/",
+      "facebook": "https://www.facebook.com/themiamitimes"
+    },
+    {
+      "name": "Miami Today",
+      "twitter": "MiamiTodayNews",
+      "website": "http://www.miamitodaynews.com/",
+      "facebook": "https://www.facebook.com/MiamiTodayNews"
+    },
+    {
+      "name": "Miami.com",
+      "twitter": "Miamicom",
+      "website": "http://www.miami.com/",
+      "facebook": "https://www.facebook.com/Miamicom"
+    }
+  ],
+  "Miramar Beach, FL": [
+    {
+      "name": "Walton Sun",
+      "twitter": "WaltonSun",
+      "website": "http://www.waltonsun.com/",
+      "facebook": "https://www.facebook.com/waltonsun"
+    }
+  ],
+  "Naples, FL": [
+    {
+      "name": "Naples Daily News",
+      "twitter": "ndn",
+      "website": "http://www.naplesnews.com/",
+      "facebook": "https://www.facebook.com/naplesnews"
+    }
+  ],
+  "Navarre, FL": [
+    {
+      "name": "Navarre Press",
+      "twitter": "navarrepress",
+      "website": "http://www.navarrepress.com/",
+      "facebook": "https://www.facebook.com/navarrepress"
+    }
+  ],
+  "North Palm Beach, FL": [
+    {
+      "name": "Daily News",
+      "twitter": "ShinySheet",
+      "website": "http://www.palmbeachdailynews.com/",
+      "facebook": "https://www.facebook.com/shinysheet"
+    },
+    {
+      "name": "New Times Broward",
+      "twitter": "NewTimesBroward",
+      "website": "http://www.browardpalmbeach.com/",
+      "facebook": "https://www.facebook.com/newtimesbpb"
+    },
+    {
+      "name": "Post",
+      "twitter": "pbpost",
+      "website": "http://www.palmbeachpost.com/",
+      "facebook": "https://www.facebook.com/palmbeachpost"
+    }
+  ],
+  "North Port, FL": [],
+  "Ocala, FL": [
+    {
+      "name": "Star-Banner",
+      "twitter": "OcalaStarBanner",
+      "website": "http://www.ocala.com/",
+      "facebook": "https://www.facebook.com/ocala.starbanner"
+    }
+  ],
+  "Orange Park, FL": [
+    {
+      "name": "Clay Today",
+      "twitter": "claytoday",
+      "website": "http://www.claytodayonline.com/",
+      "facebook": "https://www.facebook.com/ClayTodayFL"
+    }
+  ],
+  "Orlando, FL": [
+    {
+      "name": "Business Journal",
+      "twitter": "objupdate",
+      "website": "http://www.bizjournals.com/orlando/",
+      "facebook": "https://www.facebook.com/objupdate"
+    },
+    {
+      "name": "Sentinel",
+      "twitter": "orlandosentinel",
+      "website": "http://www.orlandosentinel.com/",
+      "facebook": "https://www.facebook.com/orlandosentinel"
+    },
+    {
+      "name": "Times",
+      "twitter": "TheOrlandoTimes",
+      "website": "http://www.orlando-times.com/",
+      "facebook": "https://www.facebook.com/orlando.times"
+    },
+    {
+      "name": "Weekly",
+      "twitter": "ORLANDOWEEKLY",
+      "website": "http://orlandoweekly.com/",
+      "facebook": "https://www.facebook.com/orlandoweekly"
+    }
+  ],
+  "Palm Valley, FL": [
+    {
+      "name": "Recorder ",
+      "twitter": "TheRecorderPV",
+      "website": "http://www.pontevedrarecorder.com/",
+      "facebook": "https://www.facebook.com/ThePVRecorder"
+    }
+  ],
+  "Panama City, FL": [
+    {
+      "name": "News Herald",
+      "twitter": "The_News_Herald",
+      "website": "http://www.newsherald.com/",
+      "facebook": "https://www.facebook.com/PanamaCityNewsHerald"
+    }
+  ],
+  "Pensacola, FL": [
+    {
+      "name": "News Journal",
+      "twitter": "pnj",
+      "website": "http://www.pnj.com/",
+      "facebook": "https://www.facebook.com/pnjnews"
+    }
+  ],
+  "Port Charlotte, FL": [
+    {
+      "name": "Charlotte Sun Herald",
+      "twitter": "CharlotteSunFla",
+      "website": "http://www.charlotte-sun.com/",
+      "facebook": "https://www.facebook.com/TheCharlotteSun"
+    }
+  ],
+  "Punta Gorda, FL": [
+    {
+      "name": "Florida Weekly",
+      "twitter": "FloridaWeekly",
+      "website": "http://charlotte.floridaweekly.com/",
+      "facebook": "https://www.facebook.com/FloridaWeeklyNewspapers"
+    }
+  ],
+  "Quincy, FL": [],
+  "Sanford, FL": [
+    {
+      "name": "Sanford Herald",
+      "twitter": "SanfordHerald",
+      "website": "http://mysanfordherald.com/",
+      "facebook": "https://www.facebook.com/TheSanfordHerald"
+    }
+  ],
+  "Sanibel, FL": [
+    {
+      "name": "Island Reporter",
+      "twitter": "CaptivaSanibel",
+      "website": "http://www.island-reporter.com/",
+      "facebook": "https://www.facebook.com/pages/Sanibel-Captiva-Islander-Island-Reporter-Captiva-Current/120011138022698"
+    },
+    {
+      "name": "Sanibel-Captiva Islander",
+      "twitter": "CaptivaSanibel",
+      "website": "http://www.sanibel-captiva-islander.com/",
+      "facebook": "https://www.facebook.com/pages/Sanibel-Captiva-Islander-Island-Reporter-Captiva-Current/120011138022698"
+    }
+  ],
+  "Sebring, FL": [
+    {
+      "name": "News-Sun",
+      "twitter": "TheNewsSun",
+      "website": "http://www.newssun.com/",
+      "facebook": "https://www.facebook.com/newssun"
+    }
+  ],
+  "Seminole, FL": [
+    {
+      "name": "Seminole Beacon",
+      "twitter": "tbnwebmaster",
+      "website": "http://www.tbnweekly.com/pubs/seminole_beacon/",
+      "facebook": "https://www.facebook.com/pages/wwwTBNweeklycom/143549281933"
+    }
+  ],
+  "South Venice, FL": [
+    {
+      "name": "Venice Gondolier",
+      "twitter": "VeniceGondolier",
+      "website": "http://www.venicegondolier.com/",
+      "facebook": "https://www.facebook.com/VeniceGondolierSun"
+    }
+  ],
+  "St. Augustine, FL": [
+    {
+      "name": "St. Augustine Record",
+      "twitter": "staugrecord",
+      "website": "http://staugustine.com/",
+      "facebook": "https://www.facebook.com/StAugustineRecord"
+    }
+  ],
+  "St. Petersburg, FL": [
+    {
+      "name": "Tampa Bay Times",
+      "twitter": "tb_times",
+      "website": "http://www.tampabay.com/",
+      "facebook": "https://www.facebook.com/tampabaycom"
+    }
+  ],
+  "Starke, FL": [],
+  "Stuart, FL": [
+    {
+      "name": "Port Saint Lucie News",
+      "twitter": "TCPalm",
+      "website": "http://www.tcpalm.com/",
+      "facebook": "https://www.facebook.com/tcpalm"
+    },
+    {
+      "name": "Stuart News",
+      "twitter": "tcpalm",
+      "website": "http://www.tcpalm.com/",
+      "facebook": "https://www.facebook.com/tcpalm"
+    }
+  ],
+  "Tallahassee, FL": [
+    {
+      "name": "Tallahassee Democrat",
+      "twitter": "TDOnline",
+      "website": "http://www.tallahassee.com/",
+      "facebook": "https://www.facebook.com/tallahasseedemocrat"
+    }
+  ],
+  "Tampa, FL": [
+    {
+      "name": "Daytona Times",
+      "twitter": "daytonatimes",
+      "website": "http://daytonatimes.com/",
+      "facebook": "https://www.facebook.com/daytonatimes"
+    },
+    {
+      "name": "Florida Courier",
+      "twitter": "flcourier",
+      "website": "http://flcourier.com/",
+      "facebook": "https://www.facebook.com/flcourier"
+    },
+    {
+      "name": "Tampa Bay Business Journal",
+      "twitter": "TBBJnewsroom",
+      "website": "http://www.bizjournals.com/tampabay/",
+      "facebook": "https://www.facebook.com/TampaBusinessJournal"
+    },
+    {
+      "name": "Tampa Tribune",
+      "twitter": "TBOcom",
+      "website": "http://tbo.com/",
+      "facebook": "https://www.facebook.com/tampabaycom"
+    }
+  ],
+  "Tavernier, FL": [],
+  "The Villages, FL": [
+    {
+      "name": "Villages-News.com",
+      "twitter": "Villages_News",
+      "website": "http://www.villages-news.com/",
+      "facebook": "https://www.facebook.com/TheVillagesNews"
+    }
+  ],
+  "Wellington, FL": [
+    {
+      "name": "Palms West Monthly",
+      "twitter": "PWMonthly",
+      "website": "http://www.palmswestmonthly.com/",
+      "facebook": "https://www.facebook.com/PalmsWestMonthly"
+    },
+    {
+      "name": "Town-Crier",
+      "twitter": "towncrieronline",
+      "website": "http://gotowncrier.com/",
+      "facebook": "https://www.facebook.com/towncriernewspaper"
+    }
+  ],
+  "West Palm Beach, FL": [
+    {
+      "name": "Diario Palm Beach",
+      "twitter": "DiarioPalmBeach",
+      "website": "http://www.diariopalmbeach.com/",
+      "facebook": "https://www.facebook.com/DiarioPalmBeach"
+    },
+    {
+      "name": "Palm Beach Post",
+      "twitter": "pbpost",
+      "website": "http://www.palmbeachpost.com/",
+      "facebook": "https://www.facebook.com/palmbeachpost"
+    }
+  ],
+  "Winter Haven, FL": [
+    {
+      "name": "News Chief",
+      "twitter": "newschiefweb",
+      "website": "http://www.newschief.com/",
+      "facebook": "https://www.facebook.com/newschief"
+    }
+  ],
+  "Zephyrhills, FL": []
+}

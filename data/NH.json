@@ -1,0 +1,179 @@
+{
+  "Alton, NH": [],
+  "Andover, NH": [
+    {
+      "name": "Fosters Daily Democrat",
+      "twitter": "FostersDailyDem",
+      "website": "http://www.fosters.com/",
+      "facebook": "https://www.facebook.com/FostersDailyDemocrat"
+    }
+  ],
+  "Bedford, NH": [],
+  "Berlin, NH": [
+    {
+      "name": "Berlin Daily Sun",
+      "twitter": "berlindailysun",
+      "website": "http://www.berlindailysun.com/",
+      "facebook": "https://www.facebook.com/TheBerlinDailySun"
+    }
+  ],
+  "Bow, NH": [],
+  "Chester, NH": [
+    {
+      "name": "Tri-Town Times",
+      "twitter": "LondonderryTime",
+      "website": "http://tritowntimes.net/",
+      "facebook": "https://www.facebook.com/TriTownTimes"
+    }
+  ],
+  "Claremont, NH": [],
+  "Colebrook, NH": [],
+  "Concord, NH": [
+    {
+      "name": "Concord Monitor",
+      "twitter": "ConMonitorNews",
+      "website": "http://www.concordmonitor.com/",
+      "facebook": "https://www.facebook.com/ConcordMonitor"
+    }
+  ],
+  "Derry, NH": [
+    {
+      "name": "Nutfield News",
+      "twitter": "nutfieldnews",
+      "website": "http://nutfieldnews.net/",
+      "facebook": "https://www.facebook.com/NutfieldNews"
+    }
+  ],
+  "East Kingston, NH": [],
+  "East Merrimack, NH": [],
+  "Exeter, NH": [
+    {
+      "name": "Exeter News-Letter",
+      "twitter": "ENLNews",
+      "website": "http://www.seacoastonline.com/ExeterNewsLetter",
+      "facebook": "https://www.facebook.com/exeternewsletter"
+    }
+  ],
+  "Goffstown, NH": [],
+  "Hampstead, NH": [
+    {
+      "name": "Tri-Town Times",
+      "twitter": "LondonderryTime",
+      "website": "http://tritowntimes.net/",
+      "facebook": "https://www.facebook.com/TriTownTimes"
+    }
+  ],
+  "Hampton, NH": [
+    {
+      "name": "Hampton Union",
+      "twitter": "HamptonUnion",
+      "website": "http://www.seacoastonline.com/HamptonUnion",
+      "facebook": "https://www.facebook.com/pages/Hampton-Union/219668198072878"
+    }
+  ],
+  "Hollis, NH": [],
+  "Hooksett, NH": [
+    {
+      "name": "Hooksett Banner",
+      "twitter": "hooksettbanner",
+      "website": "http://www.newhampshire.com/section/newhampshire1410",
+      "facebook": "https://www.facebook.com/pages/The-Hooksett-Banner/66271769511"
+    }
+  ],
+  "Hudson, NH": [
+    {
+      "name": "Hudson-Litchfield News",
+      "twitter": "HL_News",
+      "website": "http://www.areanewsgroup.com/",
+      "facebook": "https://www.facebook.com/HudsonLitchfieldNews"
+    }
+  ],
+  "Keene, NH": [],
+  "Laconia, NH": [
+    {
+      "name": "Weirs Times",
+      "twitter": "weirstimes",
+      "website": "http://www.theweirstimes.com/",
+      "facebook": "https://www.facebook.com/weirstimes"
+    }
+  ],
+  "Lancaster, NH": [
+    {
+      "name": "Coos County Democrat",
+      "twitter": "CoosCountyNews",
+      "website": "http://www.newhampshirelakesandmountains.com/118968.113119body.lasso?publication=LAN",
+      "facebook": "https://www.facebook.com/CoosCountyDemocrat"
+    }
+  ],
+  "Littleton, NH": [],
+  "Londonderry, NH": [
+    {
+      "name": "Londonderry Times",
+      "twitter": "LondonderryTime",
+      "website": "http://londonderrytimes.net/",
+      "facebook": "https://www.facebook.com/LondonderryTimes"
+    }
+  ],
+  "Manchester, NH": [
+    {
+      "name": "New Hampshire Business Review",
+      "twitter": "nhbr",
+      "website": "http://www.nhbr.com/",
+      "facebook": "https://www.facebook.com/nhbusinessreview"
+    },
+    {
+      "name": "Union Leader",
+      "twitter": "unionleader",
+      "website": "http://www.unionleader.com/",
+      "facebook": "https://www.facebook.com/UnionLeader"
+    }
+  ],
+  "Meredith, NH": [],
+  "Milford, NH": [],
+  "Nashua, NH": [
+    {
+      "name": "Telegraph",
+      "twitter": "nashuatelegraph",
+      "website": "http://www.nashuatelegraph.com/",
+      "facebook": "https://www.facebook.com/TheTelegraph"
+    }
+  ],
+  "North Conway, NH": [
+    {
+      "name": "Conway Daily Sun",
+      "twitter": "conwaydailysun",
+      "website": "http://www.conwaydailysun.com/",
+      "facebook": "https://www.facebook.com/TheConwayDailySun"
+    }
+  ],
+  "North Haverhill, NH": [],
+  "Pelham, NH": [
+    {
+      "name": "Pelham-Windham News",
+      "twitter": "Pelham_WindhamN",
+      "website": "http://www.areanewsgroup.com/",
+      "facebook": "https://www.facebook.com/PelhamWindhamNews"
+    }
+  ],
+  "Peterborough, NH": [
+    {
+      "name": "Monadnock Ledger",
+      "twitter": "LedgerTrans",
+      "website": "http://www.ledgertranscript.com/",
+      "facebook": "https://www.facebook.com/MonadnockLedgerTranscript"
+    }
+  ],
+  "Plymouth, NH": [],
+  "Portsmouth, NH": [
+    {
+      "name": "Portsmouth Herald",
+      "twitter": "seacoastonline",
+      "website": "http://www.seacoastonline.com/portsmouthherald",
+      "facebook": "https://www.facebook.com/seacoastonline"
+    }
+  ],
+  "Rochester, NH": [],
+  "Salem, NH": [],
+  "Sutton, NH": [],
+  "Wolfeboro, NH": []
+}

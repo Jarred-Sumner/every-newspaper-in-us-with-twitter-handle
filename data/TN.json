@@ -1,0 +1,501 @@
+{
+  "Ashland City, TN": [
+    {
+      "name": "Ashland City Times",
+      "twitter": "actimesnews",
+      "website": "http://www.tennessean.com/counties/cheatham/",
+      "facebook": "https://www.facebook.com/pages/The-Ashland-City-Times/225618707473378"
+    }
+  ],
+  "Athens, TN": [
+    {
+      "name": "Daily Post Athenian",
+      "twitter": "TheDPA",
+      "website": "http://www.dailypostathenian.com/",
+      "facebook": "https://www.facebook.com/dailypostathenian"
+    }
+  ],
+  "Blountville, TN": [],
+  "Carthage, TN": [],
+  "Chattanooga, TN": [
+    {
+      "name": "Chattanooga Times",
+      "twitter": "TimesFreePress",
+      "website": "http://www.timesfreepress.com/",
+      "facebook": "https://www.facebook.com/timesfreepress"
+    },
+    {
+      "name": "Chattanoogan",
+      "twitter": "Chattanoogancom",
+      "website": "http://www.chattanoogan.com/",
+      "facebook": "https://www.facebook.com/TheChattanoogan"
+    },
+    {
+      "name": "Pulse",
+      "twitter": "ChattaPulse",
+      "website": "http://www.chattanoogapulse.com/",
+      "facebook": "https://www.facebook.com/chattanoogapulse"
+    }
+  ],
+  "Clarksville, TN": [
+    {
+      "name": "Leaf-Chronicle",
+      "twitter": "LeafChronicle",
+      "website": "http://www.theleafchronicle.com/",
+      "facebook": "https://www.facebook.com/leafchronicle"
+    }
+  ],
+  "Cleveland, TN": [],
+  "Columbia, TN": [
+    {
+      "name": "Daily Herald",
+      "twitter": "thedailyherald",
+      "website": "http://www.columbiadailyherald.com/",
+      "facebook": "https://www.facebook.com/ColumbiaDailyHerald"
+    }
+  ],
+  "Cookeville, TN": [],
+  "Covington, TN": [
+    {
+      "name": "Covington Leader",
+      "twitter": "leader_news",
+      "website": "http://www.covingtonleader.com/",
+      "facebook": "https://www.facebook.com/covingtonleader"
+    }
+  ],
+  "Crossville, TN": [
+    {
+      "name": "Crossville Chronicle",
+      "twitter": "crossvillenews",
+      "website": "http://www.crossville-chronicle.com/",
+      "facebook": "https://www.facebook.com/pages/Crossville-Chronicle/127325699124"
+    }
+  ],
+  "Dayton, TN": [
+    {
+      "name": "Herald-News",
+      "twitter": "rheaheraldnews",
+      "website": "http://www.rheaheraldnews.com/",
+      "facebook": "https://www.facebook.com/pages/rheaheraldnews/231225650762"
+    }
+  ],
+  "Dickson, TN": [
+    {
+      "name": "Dickson Herald",
+      "twitter": "dicksonherald",
+      "website": "http://www.tennessean.com/counties/dickson/",
+      "facebook": "https://www.facebook.com/TheDicksonHerald"
+    }
+  ],
+  "Dresden, TN": [],
+  "Dyersburg, TN": [
+    {
+      "name": "State Gazette",
+      "twitter": "StateGazette",
+      "website": "http://www.stategazette.com/",
+      "facebook": "https://www.facebook.com/state.gazette"
+    }
+  ],
+  "Elizabethton, TN": [
+    {
+      "name": "Elizabethton Star",
+      "twitter": "ElizStarNews",
+      "website": "http://www.elizabethton.com/",
+      "facebook": "https://www.facebook.com/ElizabethtonStar"
+    }
+  ],
+  "Erwin, TN": [
+    {
+      "name": "Erwin Record",
+      "twitter": "erwinrecord",
+      "website": "http://www.erwinrecord.net/",
+      "facebook": "https://www.facebook.com/erwinrecord"
+    }
+  ],
+  "Fayetteville, TN": [
+    {
+      "name": "Elk Valley Times",
+      "twitter": "elkvalleytimes",
+      "website": "http://www.elkvalleytimes.com/",
+      "facebook": "https://www.facebook.com/pages/Elk-Valley-Times/124652977631043"
+    }
+  ],
+  "Franklin, TN": [
+    {
+      "name": "Williamson Herald",
+      "twitter": "wherald",
+      "website": "http://www.williamsonherald.com/",
+      "facebook": "https://www.facebook.com/WilliamsonHerald"
+    }
+  ],
+  "Gallatin, TN": [
+    {
+      "name": "Gallatin News",
+      "twitter": "GallatinNews",
+      "website": "http://www.gallatinnews.com/",
+      "facebook": "https://www.facebook.com/TheGallatinNews"
+    }
+  ],
+  "Greeneville, TN": [
+    {
+      "name": "Greeneville Sun",
+      "twitter": "GreeneSun",
+      "website": "http://www.greenevillesun.com/",
+      "facebook": "https://www.facebook.com/TheGreenevilleSun"
+    }
+  ],
+  "Humboldt, TN": [],
+  "Huntingdon, TN": [],
+  "Jackson, TN": [
+    {
+      "name": "Jackson Sun",
+      "twitter": "JSunNews",
+      "website": "http://www.jacksonsun.com/",
+      "facebook": "https://www.facebook.com/JacksonSun"
+    }
+  ],
+  "Jefferson City, TN": [
+    {
+      "name": "Standard Banner",
+      "twitter": "standardbanner",
+      "website": "http://www.standardbanner.com/",
+      "facebook": "https://www.facebook.com/pages/Standard-Banner/145905395429748"
+    }
+  ],
+  "Johnson City, TN": [
+    {
+      "name": "Bristol Herald Courier",
+      "twitter": "heraldcourier",
+      "website": "http://www.heraldcourier.com/",
+      "facebook": "https://www.facebook.com/heraldcourierdotcom"
+    },
+    {
+      "name": "Johnson City Press",
+      "twitter": "JCPress",
+      "website": "http://www.johnsoncitypress.com/",
+      "facebook": "https://www.facebook.com/JohnsonCityPress"
+    }
+  ],
+  "Jonesborough, TN": [],
+  "Kingsport, TN": [
+    {
+      "name": "Kingsport Times-News",
+      "twitter": "timesnewsonline",
+      "website": "http://www.timesnews.net/",
+      "facebook": "https://www.facebook.com/timesnews"
+    }
+  ],
+  "Kingston, TN": [
+    {
+      "name": "Roane County News",
+      "twitter": "Roanecountynews",
+      "website": "http://www.roanecounty.com/",
+      "facebook": "https://www.facebook.com/pages/Roane-County-News/158506084216454"
+    }
+  ],
+  "Knoxville, TN": [
+    {
+      "name": "Knoxville Daily Sun",
+      "twitter": "KnoxDailySun",
+      "website": "http://www.knoxvilledailysun.com/",
+      "facebook": "https://www.facebook.com/knoxdailysun"
+    },
+    {
+      "name": "Knoxville News-Sentinel",
+      "twitter": "knoxnews",
+      "website": "http://www.knoxnews.com/",
+      "facebook": "https://www.facebook.com/knoxnews"
+    },
+    {
+      "name": "Mundo Hispano",
+      "twitter": "mundohispanotn",
+      "website": "http://www.mundohispanotn.com/"
+    },
+    {
+      "name": "Shopper News Now",
+      "twitter": "shoppernewsnow",
+      "website": "http://www.knoxnews.com/shopper-news/",
+      "facebook": "https://www.facebook.com/ShopperNewsNow"
+    }
+  ],
+  "La Follette, TN": [
+    {
+      "name": "LaFollette Press",
+      "twitter": "lafollettepress",
+      "website": "http://www.lafollettepress.com/",
+      "facebook": "https://www.facebook.com/lafollettepress"
+    }
+  ],
+  "Lafayette, TN": [
+    {
+      "name": "Macon County Times",
+      "twitter": "MaconTimes",
+      "website": "http://maconcountytimes.com/",
+      "facebook": "https://www.facebook.com/pages/The-Macon-County-Times/134523478428"
+    }
+  ],
+  "Lebanon, TN": [
+    {
+      "name": "Lebanon Democrat",
+      "twitter": "WilsonCoNews",
+      "website": "http://www.lebanondemocrat.com/",
+      "facebook": "https://www.facebook.com/wilsonconews"
+    },
+    {
+      "name": "Wilson Post",
+      "twitter": "wilsonpostnews",
+      "website": "http://wilsonpost.com/",
+      "facebook": "https://www.facebook.com/TheWilsonPost"
+    }
+  ],
+  "Lenoir City, TN": [
+    {
+      "name": "News-Herald",
+      "twitter": "NewsHeraldSport",
+      "website": "http://www.news-herald.net/",
+      "facebook": "https://www.facebook.com/pages/Lenoir-City-TN/Loudon-County-News-Herald/251373032954"
+    }
+  ],
+  "Lewisburg, TN": [],
+  "Linden, TN": [],
+  "Livingston, TN": [
+    {
+      "name": "Overton County News",
+      "twitter": "ocnews38570",
+      "website": "https://www.overtoncountynews.com/",
+      "facebook": "https://www.facebook.com/pages/Overton-County-News/160618653972718"
+    }
+  ],
+  "Lynchburg, TN": [
+    {
+      "name": "Moore County News",
+      "twitter": "TheMooreCoNews",
+      "website": "http://www.themoorecountynews.com/",
+      "facebook": "https://www.facebook.com/pages/The-Moore-County-News/119580451405533"
+    }
+  ],
+  "Madisonville, TN": [
+    {
+      "name": "Monroe County Buzz",
+      "twitter": "TennesseeBuzz",
+      "website": "http://monroebuzz.com/",
+      "facebook": "https://www.facebook.com/monroecountybuzz"
+    }
+  ],
+  "Manchester, TN": [
+    {
+      "name": "Manchester Times",
+      "twitter": "manchestertimes",
+      "website": "http://www.manchestertimes.com/",
+      "facebook": "https://www.facebook.com/pages/Manchester-Times/207465582644398"
+    }
+  ],
+  "Martin, TN": [],
+  "Maryville, TN": [
+    {
+      "name": "Daily Times",
+      "twitter": "DailyTimes",
+      "website": "http://www.thedailytimes.com/",
+      "facebook": "https://www.facebook.com/TheDailyTimes"
+    }
+  ],
+  "McMinnville, TN": [
+    {
+      "name": "Southern Standard",
+      "twitter": "sstandardnews",
+      "website": "http://www.southernstandard.com/",
+      "facebook": "https://www.facebook.com/southernstandard.newspaper"
+    }
+  ],
+  "Memphis, TN": [
+    {
+      "name": "Commercial Appeal",
+      "twitter": "memphisnews",
+      "website": "http://www.commercialappeal.com/",
+      "facebook": "https://www.facebook.com/commercialappeal"
+    },
+    {
+      "name": "Memphis Business Journal",
+      "twitter": "MBJMemphis",
+      "website": "http://www.bizjournals.com/memphis/",
+      "facebook": "https://www.facebook.com/memphisbusinessjournal"
+    },
+    {
+      "name": "Memphis Daily News",
+      "twitter": "memphisdaily",
+      "website": "https://www.memphisdailynews.com/",
+      "facebook": "https://www.facebook.com/MemphisDailyNews"
+    },
+    {
+      "name": "Memphis Flyer",
+      "twitter": "memphisflyer",
+      "website": "http://www.memphisflyer.com/",
+      "facebook": "https://www.facebook.com/memphisflyer"
+    }
+  ],
+  "Milan, TN": [],
+  "Morristown, TN": [
+    {
+      "name": "Citizen Tribune",
+      "twitter": "CitizenTribune",
+      "website": "http://www.citizentribune.com/",
+      "facebook": "https://www.facebook.com/CitizenTribune"
+    }
+  ],
+  "Mount Juliet, TN": [
+    {
+      "name": "Mt Juliet Chronicle",
+      "twitter": "MJ_Chronicle",
+      "website": "https://www.thechronicleofmtjuliet.com/",
+      "facebook": "https://www.facebook.com/pages/The-Chronicle-of-Mt-Juliet/121731537014"
+    },
+    {
+      "name": "Mt Juliet News",
+      "twitter": "MtJulietNews",
+      "website": "http://www.mtjulietnews.com/",
+      "facebook": "https://www.facebook.com/mtjulietnews"
+    }
+  ],
+  "Mountain City, TN": [],
+  "Murfreesboro, TN": [
+    {
+      "name": "Daily News Journal",
+      "twitter": "dnj_com",
+      "website": "http://www.dnj.com/",
+      "facebook": "https://www.facebook.com/dnjcom"
+    },
+    {
+      "name": "Murfreesboro Post",
+      "twitter": "Mboro_Post",
+      "website": "http://www.murfreesboropost.com/",
+      "facebook": "https://www.facebook.com/murfreesboropost"
+    }
+  ],
+  "Nashville, TN": [
+    {
+      "name": "City Paper",
+      "twitter": "TheCityPaper",
+      "website": "http://www.nashvillecitypaper.com/"
+    },
+    {
+      "name": "Mundo Hispano",
+      "twitter": "mundohispanotn",
+      "website": "http://www.mundohispanotn.com/"
+    },
+    {
+      "name": "Nashville Business Journal",
+      "twitter": "nashvillebiz",
+      "website": "http://www.bizjournals.com/nashville/",
+      "facebook": "https://www.facebook.com/nashvillebiz"
+    },
+    {
+      "name": "Nashville Scene",
+      "twitter": "Nashvillescene",
+      "website": "http://www.nashvillescene.com/",
+      "facebook": "https://www.facebook.com/pages/Nashville-Scene/34536716194"
+    },
+    {
+      "name": "Tennessean",
+      "twitter": "tennessean",
+      "website": "http://www.tennessean.com/",
+      "facebook": "https://www.facebook.com/tennessean"
+    },
+    {
+      "name": "Tennessee Tribune",
+      "twitter": "tn_tribune",
+      "website": "http://tntribune.com/",
+      "facebook": "https://www.facebook.com/thetennesseetribune"
+    }
+  ],
+  "Newport, TN": [
+    {
+      "name": "Newport Plain Talk",
+      "twitter": "NPlainTalk",
+      "website": "http://www.newportplaintalk.com/",
+      "facebook": "https://www.facebook.com/NewportPlainTalk"
+    }
+  ],
+  "Oak Ridge, TN": [
+    {
+      "name": "Ridger",
+      "twitter": "theoakridger",
+      "website": "http://www.oakridger.com/",
+      "facebook": "https://www.facebook.com/pages/The-Oak-Ridger/177904832310303"
+    }
+  ],
+  "Paris, TN": [
+    {
+      "name": "Paris Post-Intelligencer",
+      "twitter": "parispi",
+      "website": "http://www.parispi.net/",
+      "facebook": "https://www.facebook.com/pages/Paris-Post-Intelligencer/107056999322048"
+    }
+  ],
+  "Pigeon Forge, TN": [
+    {
+      "name": "Tennessee Star Journal",
+      "twitter": "TennStarJournal",
+      "website": "http://tnsjournal.com/",
+      "facebook": "https://www.facebook.com/tennesseestarjournal"
+    }
+  ],
+  "Rogersville, TN": [
+    {
+      "name": "Rogersville Review",
+      "twitter": "RogReview",
+      "website": "http://www.therogersvillereview.com/",
+      "facebook": "https://www.facebook.com/TheRogersvilleReview"
+    }
+  ],
+  "Savannah, TN": [],
+  "Selmer, TN": [],
+  "Sevierville, TN": [
+    {
+      "name": "Mountain Press",
+      "twitter": "themtnpress",
+      "website": "http://www.themountainpress.com/",
+      "facebook": "https://www.facebook.com/pages/The-Mountain-Press/120819877928068"
+    }
+  ],
+  "Sewanee, TN": [],
+  "Seymour, TN": [],
+  "Shelbyville, TN": [
+    {
+      "name": "Shelbyville Times-Gazette",
+      "twitter": "times_gazette",
+      "website": "http://www.t-g.com/",
+      "facebook": "https://www.facebook.com/ShelbyvilleTimesGazette"
+    }
+  ],
+  "Smithville, TN": [],
+  "Sparta, TN": [],
+  "Springfield, TN": [],
+  "Sweetwater, TN": [],
+  "Tiptonville, TN": [],
+  "Tracy City, TN": [
+    {
+      "name": "Grundy County Herald",
+      "twitter": "grundycounty",
+      "website": "http://www.grundycountyherald.com/",
+      "facebook": "https://www.facebook.com/pages/Grundy-County-Herald/162364970506056"
+    }
+  ],
+  "Tullahoma, TN": [
+    {
+      "name": "Tullahoma News",
+      "twitter": "tullahomanews",
+      "website": "http://www.tullahomanews.com/",
+      "facebook": "https://www.facebook.com/pages/The-Tullahoma-News/124608720969249"
+    }
+  ],
+  "Union City, TN": [],
+  "Winchester, TN": [
+    {
+      "name": "Herald-Chronicle",
+      "twitter": "HeraldChronicle",
+      "website": "http://www.heraldchronicle.com/",
+      "facebook": "https://www.facebook.com/TheHeraldChronicle"
+    }
+  ],
+  "Woodbury, TN": []
+}

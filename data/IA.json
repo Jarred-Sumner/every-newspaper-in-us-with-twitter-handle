@@ -1,0 +1,700 @@
+{
+  "Ackley, IA": [],
+  "Adel, IA": [
+    {
+      "name": "Dallas County News",
+      "twitter": "DallasCoNews",
+      "website": "http://adelnews.com/",
+      "facebook": "https://www.facebook.com/DallasCountyNews"
+    }
+  ],
+  "Akron, IA": [
+    {
+      "name": "Hometowner",
+      "twitter": "akronht",
+      "website": "http://akronhometowner.com/",
+      "facebook": "https://www.facebook.com/pages/The-Akron-Hometowner/100574473356649"
+    }
+  ],
+  "Albia, IA": [],
+  "Algona, IA": [],
+  "Allison, IA": [
+    {
+      "name": "Butler County Tribune-Journal",
+      "twitter": "ButlerCountyTJ",
+      "website": "http://www.butlercountytribune.com/",
+      "facebook": "https://www.facebook.com/butlercountytribune"
+    }
+  ],
+  "Altoona, IA": [
+    {
+      "name": "Altoona Herald-Index",
+      "twitter": "HeraldIndex",
+      "website": "http://www.desmoinesregister.com/communities/altoona/",
+      "facebook": "https://www.facebook.com/AltoonaHerald"
+    }
+  ],
+  "Ames, IA": [
+    {
+      "name": "Daily Tribune",
+      "twitter": "AmesTribNews",
+      "website": "http://www.amestrib.com/",
+      "facebook": "https://www.facebook.com/AmesTribune"
+    }
+  ],
+  "Anamosa, IA": [
+    {
+      "name": "Journal-Eureka",
+      "twitter": "JournalEureka",
+      "website": "http://www.journal-eureka.com/",
+      "facebook": "https://www.facebook.com/journal.eureka"
+    }
+  ],
+  "Atlantic, IA": [
+    {
+      "name": "Atlantic News Telegraph",
+      "twitter": "NewsTelegraph",
+      "website": "http://www.swiowanewssource.com/atlantic/",
+      "facebook": "https://www.facebook.com/pages/Atlantic-News-Telegraph/121549554539588"
+    },
+    {
+      "name": "SW Iowa News Source",
+      "twitter": "NewsTelegraph",
+      "website": "http://www.swiowanewssource.com/",
+      "facebook": "https://www.facebook.com/pages/Atlantic-News-Telegraph/121549554539588"
+    }
+  ],
+  "Audubon, IA": [],
+  "Bedford, IA": [],
+  "Belle Plaine, IA": [],
+  "Bellevue, IA": [],
+  "Belmond, IA": [],
+  "Bettendorf, IA": [
+    {
+      "name": "Bettendorf News",
+      "twitter": "BettendorfNews",
+      "website": "http://qctimes.com/news/local/bettendorf/",
+      "facebook": "https://www.facebook.com/BettendorfNews"
+    }
+  ],
+  "Bloomfield, IA": [
+    {
+      "name": "Bloomfield Democrat",
+      "twitter": "bdemo1",
+      "website": "http://www.bdemo.com/",
+      "facebook": "https://www.facebook.com/pages/The-Bloomfield-Democrat/177164265361"
+    }
+  ],
+  "Boone, IA": [
+    {
+      "name": "Boone News-Republican",
+      "twitter": "newsrepublican",
+      "website": "http://newsrepublican.com/",
+      "facebook": "https://www.facebook.com/newsrepublican"
+    }
+  ],
+  "Britt, IA": [],
+  "Buffalo Center, IA": [
+    {
+      "name": "Buffalo Center Tribune",
+      "twitter": "BCTrib",
+      "website": "http://thebuffalocentertribune.com/",
+      "facebook": "https://www.facebook.com/buffalocentertribune"
+    }
+  ],
+  "Burlington, IA": [
+    {
+      "name": "Hawk Eye",
+      "twitter": "thehawkeye",
+      "website": "http://www.thehawkeye.com/",
+      "facebook": "https://www.facebook.com/thehawkeyemediaco"
+    }
+  ],
+  "Calmar, IA": [
+    {
+      "name": "Calmar Courier",
+      "twitter": "calmarcourier",
+      "website": "http://calmarcourier.com/",
+      "facebook": "https://www.facebook.com/calmarcourier"
+    }
+  ],
+  "Carroll, IA": [],
+  "Cascade, IA": [],
+  "Cedar Rapids, IA": [
+    {
+      "name": "Gazette",
+      "twitter": "gazettedotcom",
+      "website": "http://www.thegazette.com/",
+      "facebook": "https://www.facebook.com/GazetteOnline"
+    }
+  ],
+  "Centerville, IA": [
+    {
+      "name": "Centerville Daily Iowegian",
+      "twitter": "dailyiowegian",
+      "website": "http://www.dailyiowegian.com/",
+      "facebook": "https://www.facebook.com/dailyiowegian"
+    }
+  ],
+  "Chariton, IA": [],
+  "Charles City, IA": [
+    {
+      "name": "Charles City Press",
+      "twitter": "CCPress",
+      "website": "http://www.charlescitypress.com/",
+      "facebook": "https://www.facebook.com/charlescitypress"
+    }
+  ],
+  "Cherokee, IA": [],
+  "Clarinda, IA": [
+    {
+      "name": "Clarinda Herald-Journal",
+      "twitter": "ClarindaCHJ",
+      "website": "http://www.clarindaherald.com/",
+      "facebook": "https://www.facebook.com/pages/Clarinda-Herald-Journal/343766227151"
+    }
+  ],
+  "Clarion, IA": [
+    {
+      "name": "Wright County Monitor",
+      "twitter": "WCMonitor",
+      "website": "http://clarionnewsonline.com/",
+      "facebook": "https://www.facebook.com/wrightcountymonitor"
+    }
+  ],
+  "Clear Lake, IA": [
+    {
+      "name": "Clear Lake Mirror Reporter",
+      "twitter": "CLReporter",
+      "website": "http://www.clreporter.com/",
+      "facebook": "https://www.facebook.com/ClearLakeMirrorReporter"
+    }
+  ],
+  "Clinton, IA": [
+    {
+      "name": "Clinton Herald",
+      "twitter": "ClintonHerald",
+      "website": "http://www.clintonherald.com/",
+      "facebook": "https://www.facebook.com/clintonherald"
+    }
+  ],
+  "Columbus Junction, IA": [],
+  "Corning, IA": [],
+  "Corydon, IA": [],
+  "Council Bluffs, IA": [
+    {
+      "name": "Daily Nonpareil",
+      "twitter": "nonpareilonline",
+      "website": "http://www.nonpareilonline.com/",
+      "facebook": "https://www.facebook.com/pages/The-Daily-Nonpareil/121107139560"
+    }
+  ],
+  "Cresco, IA": [],
+  "Creston, IA": [],
+  "Danbury, IA": [],
+  "Davenport, IA": [
+    {
+      "name": "Quad City Times",
+      "twitter": "qctimes",
+      "website": "http://qctimes.com/",
+      "facebook": "https://www.facebook.com/qctimes"
+    },
+    {
+      "name": "River Cities Reader",
+      "twitter": "RCReader",
+      "website": "http://www.rcreader.com/",
+      "facebook": "https://www.facebook.com/pages/River-Cities-Reader/148984325133812"
+    }
+  ],
+  "Decorah, IA": [],
+  "Denison, IA": [],
+  "Denver, IA": [],
+  "Des Moines, IA": [
+    {
+      "name": "Des Moines Register",
+      "twitter": "dmregister",
+      "website": "http://www.desmoinesregister.com/",
+      "facebook": "https://www.facebook.com/DesMoinesRegister"
+    }
+  ],
+  "DeWitt, IA": [],
+  "Dubuque, IA": [
+    {
+      "name": "Telegraph Herald",
+      "twitter": "telegraphherald",
+      "website": "http://www.thonline.com/",
+      "facebook": "https://www.facebook.com/TelegraphHerald"
+    }
+  ],
+  "Dyersville, IA": [],
+  "Dysart, IA": [],
+  "Eagle Grove, IA": [
+    {
+      "name": "Eagle Grove Eagle",
+      "twitter": "eaglegroveeagle",
+      "website": "http://theeaglegroveeagle.com/",
+      "facebook": "https://www.facebook.com/pages/The-Eagle-Grove-Eagle/147822757255"
+    }
+  ],
+  "Eldridge, IA": [],
+  "Elgin, IA": [],
+  "Elkader, IA": [],
+  "Emmetsburg, IA": [],
+  "Estherville, IA": [
+    {
+      "name": "Estherville Daily News",
+      "twitter": "EsthervilleDly",
+      "website": "http://www.esthervilledailynews.com/",
+      "facebook": "https://www.facebook.com/EsthervilleDailyNews"
+    }
+  ],
+  "Fairfield, IA": [],
+  "Fayette, IA": [],
+  "Forest City, IA": [],
+  "Fort Dodge, IA": [
+    {
+      "name": "Messenger",
+      "twitter": "Messenger_News",
+      "website": "http://www.messengernews.net/",
+      "facebook": "https://www.facebook.com/FDmessenger"
+    }
+  ],
+  "Fort Madison, IA": [
+    {
+      "name": "Daily Democrat",
+      "twitter": "dailydem",
+      "website": "http://www.dailydem.com/",
+      "facebook": "https://www.facebook.com/pages/Fort-Madison-Daily-Democrat/201862949851456"
+    }
+  ],
+  "Gladbrook, IA": [],
+  "Glenwood, IA": [],
+  "Greenfield, IA": [],
+  "Grinnell, IA": [
+    {
+      "name": "Chronicle Republican",
+      "twitter": "dmregister",
+      "website": "http://www.desmoinesregister.com/communities/grinnell/",
+      "facebook": "https://www.facebook.com/DesMoinesRegister"
+    }
+  ],
+  "Grundy Center, IA": [
+    {
+      "name": "Grundy Register",
+      "twitter": "GrundyReg",
+      "website": "http://thegrundyregister.com/",
+      "facebook": "https://www.facebook.com/grundyregister"
+    }
+  ],
+  "Guttenberg, IA": [],
+  "Hamburg, IA": [],
+  "Hampton, IA": [
+    {
+      "name": "Hampton Chronicle ",
+      "twitter": "hamptonchron",
+      "website": "http://hamptonchronicle.com/",
+      "facebook": "https://www.facebook.com/hamptonchronicle"
+    }
+  ],
+  "Harlan, IA": [],
+  "Hull, IA": [],
+  "Humboldt, IA": [],
+  "Ida Grove, IA": [
+    {
+      "name": "Ida County Courier",
+      "twitter": "IdaCoCourier",
+      "website": "http://www.idacountycourier.com/"
+    }
+  ],
+  "Independence, IA": [],
+  "Indianola, IA": [
+    {
+      "name": "Record-Herald",
+      "twitter": "IndianolaTrib",
+      "website": "http://www.desmoinesregister.com/communities/indianola/",
+      "facebook": "https://www.facebook.com/IndianolaRHT"
+    }
+  ],
+  "Inwood, IA": [],
+  "Iowa City, IA": [
+    {
+      "name": "Press-Citizen",
+      "twitter": "presscitizen",
+      "website": "http://www.press-citizen.com/",
+      "facebook": "https://www.facebook.com/press.citizen"
+    }
+  ],
+  "Iowa Falls, IA": [
+    {
+      "name": "Times-Citizen",
+      "twitter": "TimesCitizen",
+      "website": "http://www.timescitizen.com/",
+      "facebook": "https://www.facebook.com/pages/Iowa-Falls-Times-Citizen/19853582922"
+    }
+  ],
+  "Jesup, IA": [],
+  "Kalona, IA": [],
+  "Kanawha, IA": [
+    {
+      "name": "Leader",
+      "twitter": "KanawhaReporter",
+      "website": "http://theleaderonline.net/",
+      "facebook": "https://www.facebook.com/kanawhareporter"
+    }
+  ],
+  "Keokuk, IA": [
+    {
+      "name": "Daily Gate City",
+      "twitter": "dailygatecity",
+      "website": "http://www.dailygate.com/",
+      "facebook": "https://www.facebook.com/pages/Daily-Gate-City/176402672418420"
+    }
+  ],
+  "Keota, IA": [
+    {
+      "name": "Keota Eagle",
+      "twitter": "keotaeagle",
+      "website": "http://keotaeagle.com/",
+      "facebook": "https://www.facebook.com/keoeagle"
+    }
+  ],
+  "Knoxville, IA": [],
+  "La Porte City, IA": [
+    {
+      "name": "Progress-Review",
+      "twitter": "progressreview",
+      "website": "http://theprogressreview.co/",
+      "facebook": "https://www.facebook.com/theprogressreview"
+    }
+  ],
+  "Lake City, IA": [
+    {
+      "name": "Graphic-Advocate",
+      "twitter": "GraphicAdvocate",
+      "website": "http://thegraphic-advocate.com/",
+      "facebook": "https://www.facebook.com/thegraphicadvocate"
+    }
+  ],
+  "Lake Mills, IA": [
+    {
+      "name": "Lake Mills Graphic",
+      "twitter": "lmgeditor",
+      "website": "http://www.lmgraphic.com/",
+      "facebook": "https://www.facebook.com/pages/Lake-Mills-Graphic/68215259576?ref=hl"
+    }
+  ],
+  "Le Mars, IA": [
+    {
+      "name": "Daily Sentinel",
+      "twitter": "lmdsentinel",
+      "website": "http://www.lemarssentinel.com/",
+      "facebook": "https://www.facebook.com/lemarssentinel/"
+    }
+  ],
+  "Logan, IA": [],
+  "Manchester, IA": [],
+  "Manson, IA": [
+    {
+      "name": "Calhoun County Journal-Herald",
+      "twitter": "CalhCoJournal",
+      "website": "http://www.journalherald.com/",
+      "facebook": "https://www.facebook.com/pages/Calhoun-News-Herald/114311801927755"
+    }
+  ],
+  "Mapleton, IA": [],
+  "Maquoketa, IA": [],
+  "Marion, IA": [],
+  "Marshalltown, IA": [
+    {
+      "name": "Times-Republican",
+      "twitter": "marshalltowntr",
+      "website": "http://www.timesrepublican.com/",
+      "facebook": "https://www.facebook.com/TimesRepublican"
+    }
+  ],
+  "Mason City, IA": [
+    {
+      "name": "Globe-Gazette",
+      "twitter": "globegazette",
+      "website": "http://globegazette.com/",
+      "facebook": "https://www.facebook.com/mcglobegazette"
+    }
+  ],
+  "McGregor, IA": [],
+  "Missouri Valley, IA": [],
+  "Monroe, IA": [],
+  "Monticello, IA": [
+    {
+      "name": "Monticello Express",
+      "twitter": "montiexp",
+      "website": "http://monticelloexpress.com/",
+      "facebook": "https://www.facebook.com/pages/The-Monticello-Express/233466939438"
+    }
+  ],
+  "Mount Ayr, IA": [],
+  "Mount Pleasant, IA": [
+    {
+      "name": "Mt. Pleasant News",
+      "twitter": "MPNewstweets",
+      "website": "http://mt-pleasant-ia.villagesoup.com/"
+    }
+  ],
+  "Mount Vernon, IA": [],
+  "Moville, IA": [],
+  "Muscatine, IA": [
+    {
+      "name": "Muscatine Journal",
+      "twitter": "journalonline",
+      "website": "http://muscatinejournal.com/",
+      "facebook": "https://www.facebook.com/muscatinejournal"
+    }
+  ],
+  "Nashua, IA": [],
+  "Nevada, IA": [
+    {
+      "name": "Nevada Journal",
+      "twitter": "NevadaJournal",
+      "website": "http://nevadaiowajournal.com/",
+      "facebook": "https://www.facebook.com/NevadaIowaJournal"
+    }
+  ],
+  "New Hampton, IA": [
+    {
+      "name": "New Hampton Tribune",
+      "twitter": "NHTribune",
+      "website": "http://www.nhtrib.com/",
+      "facebook": "https://www.facebook.com/pages/New-Hampton-Tribune/52247618101"
+    }
+  ],
+  "New Sharon, IA": [
+    {
+      "name": "New Sharon Sun",
+      "twitter": "newsharonsun",
+      "website": "http://www.thenewsharonsun.com/",
+      "facebook": "https://www.facebook.com/pages/The-Sun/131057457806"
+    }
+  ],
+  "Newton, IA": [
+    {
+      "name": "Newton Daily News",
+      "twitter": "NewtonDNews",
+      "website": "http://www.newtondailynews.com/",
+      "facebook": "https://www.facebook.com/newtondailynews"
+    }
+  ],
+  "North Liberty, IA": [
+    {
+      "name": "North Liberty Leader",
+      "twitter": "NLleadernews",
+      "website": "http://www.northlibertyleader.com/",
+      "facebook": "https://www.facebook.com/pages/North-Liberty-Leader/172401376176082"
+    }
+  ],
+  "North Washington, IA": [],
+  "Oelwein, IA": [],
+  "Ogden, IA": [
+    {
+      "name": "Ogden Reporter",
+      "twitter": "OgdenReporter",
+      "website": "http://www.ogdenreporter.com/",
+      "facebook": "https://www.facebook.com/ogdenreporter"
+    }
+  ],
+  "Orange City, IA": [
+    {
+      "name": "Sioux County Capital-Democrat",
+      "twitter": "CapDemo",
+      "website": "http://www.siouxcountynews.com/",
+      "facebook": "https://www.facebook.com/pages/Sioux-County-Capital-Democrat/332170760071"
+    }
+  ],
+  "Osage, IA": [],
+  "Osceola, IA": [],
+  "Oskaloosa, IA": [
+    {
+      "name": "Oskaloosa Herald",
+      "twitter": "OskyHerald",
+      "website": "http://www.oskaloosa.com/",
+      "facebook": "https://www.facebook.com/OskyHerald"
+    }
+  ],
+  "Ossian, IA": [],
+  "Ottumwa, IA": [
+    {
+      "name": "Ottumwa Courier",
+      "twitter": "OttumwaCourier",
+      "website": "http://www.ottumwacourier.com/",
+      "facebook": "https://www.facebook.com/ottumwacourier"
+    }
+  ],
+  "Pella, IA": [
+    {
+      "name": "Pella Chronicle",
+      "twitter": "PellaChronicle",
+      "website": "http://www.pellachronicle.com/",
+      "facebook": "https://www.facebook.com/PellaChronicle"
+    }
+  ],
+  "Perry, IA": [
+    {
+      "name": "Perry Chief",
+      "twitter": "ThePerryChief",
+      "website": "http://theperrychief.com/",
+      "facebook": "https://www.facebook.com/theperrychief"
+    }
+  ],
+  "Red Oak, IA": [],
+  "Reinbeck, IA": [],
+  "Rock Rapids, IA": [],
+  "Rockwell, IA": [],
+  "Sheffield, IA": [
+    {
+      "name": "Sheffield Press",
+      "twitter": "sheffieldpress",
+      "website": "http://www.thesheffieldpress.com/",
+      "facebook": "https://www.facebook.com/thesheffieldpress"
+    }
+  ],
+  "Sheldon, IA": [
+    {
+      "name": "N'West Iowa Review",
+      "twitter": "NWestIowaREVIEW",
+      "website": "http://www.nwestiowa.com/",
+      "facebook": "https://www.facebook.com/nwestiareview"
+    }
+  ],
+  "Shenandoah, IA": [
+    {
+      "name": "Valley News",
+      "twitter": "ValleyNewsToday",
+      "website": "http://www.valleynewstoday.com/",
+      "facebook": "https://www.facebook.com/valleynewstoday"
+    }
+  ],
+  "Sigourney, IA": [
+    {
+      "name": "Sigourney News-Review",
+      "twitter": "sigourneynews",
+      "website": "http://sigourneynewsreview.com/",
+      "facebook": "https://www.facebook.com/pages/Sigourney-News-Review/308374900252"
+    }
+  ],
+  "Sioux City, IA": [
+    {
+      "name": "Sioux City Journal",
+      "twitter": "scj",
+      "website": "http://siouxcityjournal.com/",
+      "facebook": "https://www.facebook.com/SiouxCityJournal"
+    }
+  ],
+  "Slater, IA": [],
+  "Solon, IA": [
+    {
+      "name": "Solon Economist",
+      "twitter": "SolonEconomist",
+      "website": "http://www.soloneconomist.com/",
+      "facebook": "https://www.facebook.com/Solon-Economist-171240349625659/"
+    }
+  ],
+  "Spencer, IA": [
+    {
+      "name": "Daily Reporter",
+      "twitter": "SpDailyReporter",
+      "website": "http://www.spencerdailyreporter.com/",
+      "facebook": "https://www.facebook.com/spencerdailyreporter"
+    }
+  ],
+  "Spirit Lake, IA": [
+    {
+      "name": "Dickinson County News",
+      "twitter": "DickinsonCoNews",
+      "website": "http://www.dickinsoncountynews.com/",
+      "facebook": "https://www.facebook.com/DickinsonCountyNews"
+    }
+  ],
+  "State Center, IA": [
+    {
+      "name": "Mid-Iowa Enterprise",
+      "twitter": "MidIowaEnterpri",
+      "website": "http://www.midiaenterprise.com/",
+      "facebook": "https://www.facebook.com/MidIowaEnterprise"
+    }
+  ],
+  "Storm Lake, IA": [
+    {
+      "name": "Pilot Tribune",
+      "twitter": "SLPilotTribune",
+      "website": "http://www.stormlakepilottribune.com/",
+      "facebook": "https://www.facebook.com/PilotTribune"
+    },
+    {
+      "name": "Storm Lake Times",
+      "twitter": "sltimes",
+      "website": "http://www.stormlake.com/",
+      "facebook": "https://www.facebook.com/TheStormLakeTimes"
+    }
+  ],
+  "Tama, IA": [
+    {
+      "name": "Tama News-Herald",
+      "twitter": "TamaToledoNews",
+      "website": "http://tamatoledonews.com/",
+      "facebook": "https://www.facebook.com/pages/Tama-News-Herald-Toledo-Chronicle/124010980945008"
+    }
+  ],
+  "Tipton, IA": [],
+  "Toledo, IA": [
+    {
+      "name": "Toledo Chronicle",
+      "twitter": "TamaToledoNews",
+      "website": "http://tamatoledonews.com/",
+      "facebook": "https://www.facebook.com/pages/Tama-News-Herald-Toledo-Chronicle/124010980945008?hc_location=timeline"
+    }
+  ],
+  "Traer, IA": [],
+  "Vinton, IA": [],
+  "Waterloo, IA": [
+    {
+      "name": "Waterloo-Cedar Falls Courier",
+      "twitter": "wcfcourier",
+      "website": "http://wcfcourier.com/",
+      "facebook": "https://www.facebook.com/wcfcourier"
+    }
+  ],
+  "Waukon, IA": [],
+  "Waverly, IA": [
+    {
+      "name": "Waverly Newspapers",
+      "twitter": "wavnewspapers",
+      "website": "http://www.communitynewspapergroup.com/waverly_newspapers/",
+      "facebook": "https://www.facebook.com/waverlynewspapers"
+    }
+  ],
+  "Webster City, IA": [
+    {
+      "name": "Daily Freeman-Journal",
+      "twitter": "FreemanJournal",
+      "website": "http://www.freemanjournal.net/",
+      "facebook": "https://www.facebook.com/FreemanJournal"
+    }
+  ],
+  "West Branch, IA": [
+    {
+      "name": "West Branch Times",
+      "twitter": "WBTimes",
+      "website": "http://www.westbranchtimes.com/",
+      "facebook": "https://www.facebook.com/westbranchtimes.iowa"
+    }
+  ],
+  "West Liberty, IA": [
+    {
+      "name": "West Liberty Index",
+      "twitter": "WLINDEX",
+      "website": "http://www.westlibertyindex.com/",
+      "facebook": "https://www.facebook.com/wlindex"
+    }
+  ],
+  "West Union, IA": [],
+  "Williamsburg, IA": [],
+  "Winterset, IA": []
+}

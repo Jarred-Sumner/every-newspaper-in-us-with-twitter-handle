@@ -1,0 +1,807 @@
+{
+  "Ahoskie, NC": [
+    {
+      "name": "Roanoke-Chowan News Herald",
+      "twitter": "RCNewsherald",
+      "website": "http://www.roanoke-chowannewsherald.com/",
+      "facebook": "https://www.facebook.com/pages/The-Roanoke-Chowan-News-Herald/123853690458"
+    }
+  ],
+  "Albemarle, NC": [
+    {
+      "name": "Stanly News & Press",
+      "twitter": "stanlynewspress",
+      "website": "http://www.thesnaponline.com/",
+      "facebook": "https://www.facebook.com/thesnaponline/"
+    }
+  ],
+  "Andrews, NC": [],
+  "Asheboro, NC": [
+    {
+      "name": "Courier Tribune",
+      "twitter": "courier_tribune",
+      "website": "http://www.courier-tribune.com/",
+      "facebook": "https://www.facebook.com/CourierTribune"
+    }
+  ],
+  "Asheville, NC": [
+    {
+      "name": "Asheville Citizen-Times",
+      "twitter": "asheville",
+      "website": "http://www.citizen-times.com/"
+    },
+    {
+      "name": "Mountain Xpress",
+      "twitter": "mxnews",
+      "website": "http://mountainx.com/",
+      "facebook": "https://www.facebook.com/mountainx"
+    }
+  ],
+  "Black Mountain, NC": [
+    {
+      "name": "Black Mountain News",
+      "twitter": "blkmtnnews",
+      "website": "http://www.blackmountainnews.com/",
+      "facebook": "https://www.facebook.com/pages/Black-Mountain-News/116107288449711"
+    }
+  ],
+  "Boone, NC": [
+    {
+      "name": "Mountain Times",
+      "twitter": "Mountain_Times",
+      "website": "http://www.wataugademocrat.com/mountaintimes/",
+      "facebook": "https://www.facebook.com/mountaintimes"
+    },
+    {
+      "name": "Watauga Democrat",
+      "twitter": "WataugaDemocrat",
+      "website": "http://www.wataugademocrat.com/",
+      "facebook": "https://www.facebook.com/WataugaDemocrat"
+    }
+  ],
+  "Bryson City, NC": [
+    {
+      "name": "Smoky Mountain Times",
+      "twitter": "smokymtntimes",
+      "website": "http://www.thesmokymountaintimes.com/",
+      "facebook": "https://www.facebook.com/The-Smoky-Mountain-Times-1038570609509045/"
+    }
+  ],
+  "Burgaw, NC": [],
+  "Burlington, NC": [
+    {
+      "name": "Times-News",
+      "twitter": "thetimesnews",
+      "website": "http://www.thetimesnews.com/",
+      "facebook": "https://www.facebook.com/TimesNewsBurlington"
+    }
+  ],
+  "Carolina Beach, NC": [
+    {
+      "name": "Island Gazette",
+      "twitter": "IslandGazette",
+      "website": "http://www.islandgazette.net/",
+      "facebook": "https://www.facebook.com/pages/Island-Gazette-Newspaper/98295771513"
+    }
+  ],
+  "Cary, NC": [
+    {
+      "name": "Cary Citizen",
+      "twitter": "CaryCitizen",
+      "website": "http://carycitizen.com/",
+      "facebook": "https://www.facebook.com/carycitizen"
+    },
+    {
+      "name": "Cary News",
+      "twitter": "Cary_News",
+      "website": "http://www.newsobserver.com/news/local/community/cary-news/",
+      "facebook": "https://www.facebook.com/CaryNews"
+    }
+  ],
+  "Cashiers, NC": [],
+  "Chapel Hill, NC": [
+    {
+      "name": "Chapel Hill News",
+      "twitter": "ChapelHillNews1",
+      "website": "http://www.newsobserver.com/news/local/community/chapel-hill-news/",
+      "facebook": "https://www.facebook.com/TheChapelHillNews"
+    }
+  ],
+  "Charlotte, NC": [
+    {
+      "name": "Charlotte Business Journal",
+      "twitter": "CBJnewsroom",
+      "website": "http://www.bizjournals.com/charlotte/",
+      "facebook": "https://www.facebook.com/charlottebizjournal"
+    },
+    {
+      "name": "Charlotte Observer",
+      "twitter": "theobserver",
+      "website": "http://www.charlotteobserver.com/",
+      "facebook": "https://www.facebook.com/thecharlotteobserver"
+    },
+    {
+      "name": "Charlotte Post",
+      "twitter": "thecharpost",
+      "website": "http://www.thecharlottepost.com/",
+      "facebook": "https://www.facebook.com/pages/The-Charlotte-Post/25683177506"
+    },
+    {
+      "name": "Creative Loafing",
+      "twitter": "cl_charlotte",
+      "website": "http://clclt.com/",
+      "facebook": "https://www.facebook.com/clclt"
+    },
+    {
+      "name": "Mecklenburg Times",
+      "twitter": "themecktimes",
+      "website": "http://mecktimes.com/",
+      "facebook": "https://www.facebook.com/MeckTimes"
+    },
+    {
+      "name": "Mi Gente de Charlotte",
+      "twitter": "QuePasaMedia",
+      "website": "https://charlotte.quepasanoticias.com/",
+      "facebook": "https://www.facebook.com/Quepasa.Migente.Charlotte"
+    },
+    {
+      "name": "Que Pasa",
+      "twitter": "QuePasaMedia",
+      "website": "https://www.quepasamedia.com/",
+      "facebook": "https://www.facebook.com/Quepasa.Migente.Charlotte"
+    }
+  ],
+  "Clayton, NC": [
+    {
+      "name": "Clayton News-Star",
+      "twitter": "newsobserver",
+      "website": "http://www.newsobserver.com/news/local/community/clayton-news-star/",
+      "facebook": "https://www.facebook.com/claytonnewsstar"
+    }
+  ],
+  "Clinton, NC": [
+    {
+      "name": "Sampson Independent",
+      "twitter": "SampsonInd",
+      "website": "http://clintonnc.com/",
+      "facebook": "https://www.facebook.com/pages/The-Sampson-Independent/10150135730835641"
+    }
+  ],
+  "Concord, NC": [
+    {
+      "name": "Independent Tribune",
+      "twitter": "indytribune",
+      "website": "http://www.independenttribune.com/",
+      "facebook": "https://www.facebook.com/Independent.Tribune"
+    }
+  ],
+  "Creedmoor, NC": [],
+  "Denton, NC": [],
+  "Denver, NC": [
+    {
+      "name": "Denver Weekly",
+      "twitter": "DenverWeekly",
+      "website": "http://www.lakenormanpublications.com/denver_weekly/",
+      "facebook": "https://www.facebook.com/DenverWeekly"
+    }
+  ],
+  "Dunn, NC": [],
+  "Durham, NC": [
+    {
+      "name": "Durham Skywriter",
+      "twitter": "durhamskywriter",
+      "website": "http://www.durhamskywriter.com/"
+    },
+    {
+      "name": "Herald-Sun",
+      "twitter": "TheHerald_Sun",
+      "website": "http://www.heraldsun.com/",
+      "facebook": "https://www.facebook.com/theheraldsun"
+    },
+    {
+      "name": "Indy Week",
+      "twitter": "indyweek",
+      "website": "http://www.indyweek.com/",
+      "facebook": "https://www.facebook.com/IndependentWeekly"
+    }
+  ],
+  "East Laurinburg, NC": [],
+  "East Rockingham, NC": [],
+  "Elizabeth City, NC": [
+    {
+      "name": "Daily Advance",
+      "twitter": "dailyadvance",
+      "website": "http://www.dailyadvance.com/",
+      "facebook": "https://www.facebook.com/pages/The-Daily-Advance/246062518755697"
+    }
+  ],
+  "Elizabethtown, NC": [
+    {
+      "name": "Bladen Journal",
+      "twitter": "BladenJournal",
+      "website": "http://bladenjournal.com/",
+      "facebook": "https://www.facebook.com/pages/The-Bladen-Journal/231654316873361"
+    }
+  ],
+  "Elkin, NC": [
+    {
+      "name": "Tribune",
+      "twitter": "ElkinTribune",
+      "website": "http://elkintribune.com/",
+      "facebook": "https://www.facebook.com/pages/The-Elkin-Tribune/121619696858"
+    }
+  ],
+  "Fayetteville, NC": [
+    {
+      "name": "Fayetteville Observer",
+      "twitter": "fayobserver",
+      "website": "http://www.fayobserver.com/",
+      "facebook": "https://www.facebook.com/fayobserver"
+    }
+  ],
+  "Forest City, NC": [],
+  "Franklin, NC": [
+    {
+      "name": "Macon County News",
+      "twitter": "MaconCountyNews",
+      "website": "http://themaconcountynews.com/",
+      "facebook": "https://www.facebook.com/MaconCountyNews"
+    }
+  ],
+  "Gastonia, NC": [
+    {
+      "name": "Gaston Gazette",
+      "twitter": "gastongazette",
+      "website": "http://www.gastongazette.com/",
+      "facebook": "https://www.facebook.com/gastongazette"
+    }
+  ],
+  "Goldsboro, NC": [
+    {
+      "name": "News-Argus",
+      "twitter": "newsargus",
+      "website": "http://www.newsargus.com/"
+    }
+  ],
+  "Granite Falls, NC": [
+    {
+      "name": "Caldwell Journal",
+      "twitter": "CaldwellJournal",
+      "website": "http://caldwelljournal.com/",
+      "facebook": "https://www.facebook.com/CaldwellJournal"
+    }
+  ],
+  "Greensboro, NC": [
+    {
+      "name": "Business Journal",
+      "twitter": "triadbizjournal",
+      "website": "http://www.bizjournals.com/triad/",
+      "facebook": "https://www.facebook.com/TriadBusinessJournal"
+    },
+    {
+      "name": "News and Record",
+      "twitter": "newsandrecord",
+      "website": "http://www.greensboro.com/",
+      "facebook": "https://www.facebook.com/newsandrecord"
+    },
+    {
+      "name": "Rhino Times",
+      "twitter": "RhinoTimesGso",
+      "website": "http://www.rhinotimes.com/",
+      "facebook": "https://www.facebook.com/rhino.times"
+    },
+    {
+      "name": "Yes! Weekly",
+      "twitter": "yesweekly",
+      "website": "http://yesweekly.com/",
+      "facebook": "https://www.facebook.com/yesweekly"
+    }
+  ],
+  "Greenville, NC": [
+    {
+      "name": "Daily Reflector",
+      "twitter": "reflectornews",
+      "website": "http://www.reflector.com/",
+      "facebook": "https://www.facebook.com/dailyreflector"
+    }
+  ],
+  "Hampstead, NC": [],
+  "Havelock, NC": [
+    {
+      "name": "Havelock News",
+      "twitter": "havenews",
+      "website": "http://www.havenews.com/",
+      "facebook": "https://www.facebook.com/pages/Havelock-News/202362496444824"
+    }
+  ],
+  "Henderson, NC": [
+    {
+      "name": "Daily Dispatch",
+      "twitter": "Daily_Dispatch",
+      "website": "http://www.hendersondispatch.com/",
+      "facebook": "https://www.facebook.com/hendersondispatch"
+    }
+  ],
+  "Hendersonville, NC": [
+    {
+      "name": "BlueRidgeNow.com",
+      "twitter": "BlueRidgeNow",
+      "website": "http://www.blueridgenow.com/",
+      "facebook": "https://www.facebook.com/blueridgenow"
+    }
+  ],
+  "Hickory, NC": [
+    {
+      "name": "Hickory Daily Record",
+      "twitter": "hickoryrecord",
+      "website": "http://www.hickoryrecord.com/",
+      "facebook": "https://www.facebook.com/Hickory.Daily.Record"
+    }
+  ],
+  "High Point, NC": [
+    {
+      "name": "High Point Enterprise",
+      "twitter": "hpenterprise",
+      "website": "http://www.hpenews.com/",
+      "facebook": "https://www.facebook.com/hpenterprise"
+    }
+  ],
+  "Highlands, NC": [],
+  "Hillsborough, NC": [
+    {
+      "name": "News of Orange County",
+      "twitter": "NewsofOrange",
+      "website": "http://www.newsoforange.com/",
+      "facebook": "https://www.facebook.com/NewsofOrange"
+    }
+  ],
+  "Huntersville, NC": [
+    {
+      "name": "Herald Weekly",
+      "twitter": "HeraldWeekly",
+      "website": "http://www.lakenormanpublications.com/herald_weekly/",
+      "facebook": "https://www.facebook.com/heraldweekly"
+    }
+  ],
+  "Jacksonville, NC": [
+    {
+      "name": "Jacksonville Daily News",
+      "twitter": "jdnews",
+      "website": "http://www.jdnews.com/",
+      "facebook": "https://www.facebook.com/JacksonvilleDailyNews"
+    }
+  ],
+  "Jamestown, NC": [],
+  "Kenansville, NC": [],
+  "Kenly, NC": [],
+  "King, NC": [
+    {
+      "name": "Stokes News",
+      "twitter": "stokesnews",
+      "website": "http://thestokesnews.com/",
+      "facebook": "https://www.facebook.com/thestokesnews"
+    }
+  ],
+  "Kinston, NC": [
+    {
+      "name": "Free Press",
+      "twitter": "kinstonfp",
+      "website": "http://www.kinston.com/",
+      "facebook": "https://www.facebook.com/KinstonFreePress"
+    }
+  ],
+  "Lenoir, NC": [
+    {
+      "name": "Lenoir News Topic",
+      "twitter": "newstopic",
+      "website": "http://www.newstopicnews.com/",
+      "facebook": "https://www.facebook.com/thenewstopic"
+    }
+  ],
+  "Lexington, NC": [
+    {
+      "name": "Dispatch",
+      "twitter": "lexdispatch",
+      "website": "http://www.the-dispatch.com/",
+      "facebook": "https://www.facebook.com/lexdispatch"
+    }
+  ],
+  "Lincolnton, NC": [
+    {
+      "name": "Lincoln Herald",
+      "twitter": "LincolnHerald20",
+      "website": "http://lincolnherald.net/",
+      "facebook": "https://www.facebook.com/LincolnHerald.net"
+    },
+    {
+      "name": "Lincoln Times-News",
+      "twitter": "LincolnTimes",
+      "website": "http://www.lincolntimesnews.com/",
+      "facebook": "https://www.facebook.com/pages/Lincoln-Times-News/156952811049675"
+    }
+  ],
+  "Louisburg, NC": [],
+  "Lumberton, NC": [
+    {
+      "name": "Robesonian",
+      "twitter": "The_Robesonian",
+      "website": "http://robesonian.com/",
+      "facebook": "https://www.facebook.com/pages/The-Robesonian/106253533588"
+    }
+  ],
+  "Marion, NC": [
+    {
+      "name": "McDowell News",
+      "twitter": "mcdowellnews",
+      "website": "http://www.mcdowellnews.com/",
+      "facebook": "https://www.facebook.com/McDowell.News"
+    }
+  ],
+  "Mebane, NC": [],
+  "Midway, NC": [
+    {
+      "name": "Que Pasa",
+      "twitter": "QuePasaMedia",
+      "website": "https://www.quepasamedia.com/",
+      "facebook": "https://www.facebook.com/QuePasaMedia"
+    }
+  ],
+  "Mocksville, NC": [],
+  "Monroe, NC": [
+    {
+      "name": "Enquirer-Journal",
+      "twitter": "EnquirerJournal",
+      "website": "http://www.enquirerjournal.com/",
+      "facebook": "https://www.facebook.com/pages/The-Enquirer-Journal/134546972378"
+    }
+  ],
+  "Mooresville, NC": [
+    {
+      "name": "Mooresville Tribune",
+      "twitter": "mooresvilletrib",
+      "website": "http://www.mooresvilletribune.com/",
+      "facebook": "https://www.facebook.com/mooresvilletribune"
+    }
+  ],
+  "Morehead City, NC": [
+    {
+      "name": "Carolina Coast Online",
+      "twitter": "newstimesonline",
+      "website": "http://www.carolinacoastonline.com/",
+      "facebook": "https://www.facebook.com/CarteretNewsTimes"
+    }
+  ],
+  "Morganton, NC": [
+    {
+      "name": "News Herald",
+      "twitter": "MorgantonNews",
+      "website": "http://www.morganton.com/",
+      "facebook": "https://www.facebook.com/Morganton.News.Herald"
+    }
+  ],
+  "Mount Airy, NC": [
+    {
+      "name": "Mount Airy News",
+      "twitter": "mountairynews",
+      "website": "http://mtairynews.com/",
+      "facebook": "https://www.facebook.com/pages/The-Mount-Airy-News/120821418072"
+    }
+  ],
+  "Mount Olive, NC": [],
+  "Murphy, NC": [
+    {
+      "name": "Cherokee Scout",
+      "twitter": "theScoutnews",
+      "website": "http://www.cherokeescout.com/",
+      "facebook": "https://www.facebook.com/pages/Cherokee-Scout/183779271641767"
+    }
+  ],
+  "Nags Head, NC": [],
+  "New Bern, NC": [
+    {
+      "name": "Sun Journal",
+      "twitter": "NBSunJournal",
+      "website": "http://www.newbernsj.com/",
+      "facebook": "https://www.facebook.com/newbernsunjournal"
+    }
+  ],
+  "Newton, NC": [],
+  "North Wilkesboro, NC": [
+    {
+      "name": "GoWilkes",
+      "twitter": "GoWilkes",
+      "website": "http://www.gowilkes.com/",
+      "facebook": "https://www.facebook.com/GoWilkes"
+    },
+    {
+      "name": "Wilkes Journal-Patriot",
+      "twitter": "journalpatriot",
+      "website": "http://www.journalpatriot.com/",
+      "facebook": "https://www.facebook.com/thewilkesjournalpatriot"
+    }
+  ],
+  "Oak Ridge, NC": [
+    {
+      "name": "Northwest Observer",
+      "twitter": "mynwobserver",
+      "website": "http://nwobserver.com/",
+      "facebook": "https://www.facebook.com/NorthwestObserver"
+    }
+  ],
+  "Oriental, NC": [],
+  "Princeton, NC": [],
+  "Raeford, NC": [],
+  "Raleigh, NC": [
+    {
+      "name": "News and Observer",
+      "twitter": "newsobserver",
+      "website": "http://www.newsobserver.com/",
+      "facebook": "https://www.facebook.com/newsandobserver"
+    },
+    {
+      "name": "North State Journal",
+      "twitter": "nsjnews",
+      "website": "http://www.nsjonline.com/",
+      "facebook": "https://www.facebook.com/NorthStateJournal"
+    },
+    {
+      "name": "Que Pasa",
+      "twitter": "QuePasaMedia",
+      "website": "https://raleigh.quepasanoticias.com/",
+      "facebook": "https://www.facebook.com/QuePasaMedia"
+    },
+    {
+      "name": "Triangle Business Journal",
+      "twitter": "TriangleBIZJrnl",
+      "website": "http://www.bizjournals.com/triangle/",
+      "facebook": "https://www.facebook.com/TriangleBIZJrnl"
+    }
+  ],
+  "Reidsville, NC": [
+    {
+      "name": "Rockingham Now",
+      "twitter": "RockinghamNow",
+      "website": "http://www.greensboro.com/rockingham_now/",
+      "facebook": "https://www.facebook.com/RockinghamNow"
+    }
+  ],
+  "Roanoke Rapids, NC": [
+    {
+      "name": "Daily Herald",
+      "twitter": "rrdailyherald",
+      "website": "http://www.rrdailyherald.com/",
+      "facebook": "https://www.facebook.com/rrdailyherald"
+    }
+  ],
+  "Robbinsville, NC": [],
+  "Rocky Mount, NC": [
+    {
+      "name": "Rocky Mount Telegram",
+      "twitter": "telegramreports",
+      "website": "http://www.rockymounttelegram.com/",
+      "facebook": "https://www.facebook.com/rockymounttelegram"
+    }
+  ],
+  "Roxboro, NC": [
+    {
+      "name": "Courier Times",
+      "twitter": "roxborocourier",
+      "website": "http://www.personcountylife.com/",
+      "facebook": "https://www.facebook.com/pages/The-Roxboro-Courier-Times-Fan-Site/262407846985"
+    }
+  ],
+  "Salisbury, NC": [
+    {
+      "name": "Salisbury Post",
+      "twitter": "salisburypost",
+      "website": "http://www.salisburypost.com/",
+      "facebook": "https://www.facebook.com/SalisburyPost"
+    }
+  ],
+  "Sanford, NC": [
+    {
+      "name": "Sanford Herald",
+      "twitter": "SanfordHerald",
+      "website": "http://www.sanfordherald.com/",
+      "facebook": "https://www.facebook.com/TheSanfordHerald"
+    }
+  ],
+  "Shallotte, NC": [
+    {
+      "name": "Brunswick Beacon",
+      "twitter": "brunswickbeacon",
+      "website": "http://www.brunswickbeacon.com/",
+      "facebook": "https://www.facebook.com/brunswickbeacon"
+    }
+  ],
+  "Shelby, NC": [
+    {
+      "name": "Shelby Star",
+      "twitter": "shelbystar",
+      "website": "http://www.shelbystar.com/",
+      "facebook": "https://www.facebook.com/theshelbystar"
+    }
+  ],
+  "Siler City, NC": [
+    {
+      "name": "Chatham News",
+      "twitter": "Chathamnews",
+      "website": "http://www.chathamnewsandrecord.com/",
+      "facebook": "https://www.facebook.com/ChathamDailyNews"
+    }
+  ],
+  "Smithfield, NC": [
+    {
+      "name": "Smithfield Herald",
+      "twitter": "heraldnc",
+      "website": "http://www.newsobserver.com/news/local/community/smithfield-herald/",
+      "facebook": "https://www.facebook.com/SmithfieldHerald"
+    }
+  ],
+  "Southern Pines, NC": [
+    {
+      "name": "Pilot",
+      "twitter": "ThePilotNews",
+      "website": "http://www.thepilot.com/",
+      "facebook": "https://www.facebook.com/pages/The-Pilot-Newspaper/129411350419719"
+    }
+  ],
+  "Southport, NC": [
+    {
+      "name": "State Port Pilot",
+      "twitter": "StatePortPilot",
+      "website": "http://stateportpilot.com/",
+      "facebook": "https://www.facebook.com/thestateportpilot"
+    }
+  ],
+  "Sparta, NC": [],
+  "Spruce Pine, NC": [],
+  "Statesville, NC": [
+    {
+      "name": "Record & Landmark",
+      "twitter": "statesville",
+      "website": "http://www.statesville.com/",
+      "facebook": "https://www.facebook.com/StatesvilleRL"
+    }
+  ],
+  "Swansboro, NC": [],
+  "Sylva, NC": [
+    {
+      "name": "Herald and Ruralite",
+      "twitter": "thesylvaherald",
+      "website": "http://www.thesylvaherald.com/",
+      "facebook": "https://www.facebook.com/sylvaheraldnewspaper"
+    }
+  ],
+  "Taylorsville, NC": [
+    {
+      "name": "Taylorsville Times",
+      "twitter": "Tville_Times",
+      "website": "http://www.taylorsvilletimes.com/",
+      "facebook": "https://www.facebook.com/taylorsvilletimes"
+    }
+  ],
+  "Thomasville, NC": [
+    {
+      "name": "Thomasville Times",
+      "twitter": "tvilletimes",
+      "website": "http://www.hpenews.com/tvilletimes/",
+      "facebook": "https://www.facebook.com/thomasvilletimes"
+    }
+  ],
+  "Troy, NC": [
+    {
+      "name": "Montgomery Herald",
+      "twitter": "MontHeraldNews",
+      "website": "http://www.montgomeryherald.com/",
+      "facebook": "https://www.facebook.com/pages/Montgomery-Herald/1435514703378728"
+    }
+  ],
+  "Tryon, NC": [
+    {
+      "name": "Tryon Daily Bulletin",
+      "twitter": "tryonnews",
+      "website": "http://www.tryondailybulletin.com/",
+      "facebook": "https://www.facebook.com/pages/Tryon-Daily-Bulletin/120250562068"
+    }
+  ],
+  "Wadesboro, NC": [
+    {
+      "name": "Anson Record",
+      "twitter": "TheAnsonRecord",
+      "website": "http://ansonrecord.com/",
+      "facebook": "https://www.facebook.com/pages/Anson-Record/180849995282535"
+    }
+  ],
+  "Wake Forest, NC": [
+    {
+      "name": "Wake Weekly",
+      "twitter": "wakeweekly",
+      "website": "http://www.wakeweekly.com/",
+      "facebook": "https://www.facebook.com/pages/The-Wake-Weekly/203275225886"
+    }
+  ],
+  "Walkertown, NC": [
+    {
+      "name": "Chronicle",
+      "twitter": "ws_chronicle",
+      "website": "http://www.wschronicle.com/",
+      "facebook": "https://www.facebook.com/WSChronicle"
+    }
+  ],
+  "Warrenton, NC": [
+    {
+      "name": "Warren Record",
+      "twitter": "WarrenRecord",
+      "website": "http://www.warrenrecord.com/",
+      "facebook": "https://www.facebook.com/WarrenRecord"
+    }
+  ],
+  "Washington, NC": [
+    {
+      "name": "Daily News",
+      "twitter": "WDNweb",
+      "website": "http://www.thewashingtondailynews.com/",
+      "facebook": "https://www.facebook.com/pages/The-Washington-Daily-News/104655813196"
+    }
+  ],
+  "Waynesville, NC": [
+    {
+      "name": "Smoky Mountain News",
+      "twitter": "SmokyMtnNews",
+      "website": "http://www.smokymountainnews.com/",
+      "facebook": "https://www.facebook.com/smnews"
+    }
+  ],
+  "West Jefferson, NC": [],
+  "Whiteville, NC": [],
+  "Wilmington, NC": [
+    {
+      "name": "Star-News Online",
+      "twitter": "starnewsonline",
+      "website": "http://www.starnewsonline.com/",
+      "facebook": "https://www.facebook.com/StarNewsMedia"
+    }
+  ],
+  "Wilson, NC": [
+    {
+      "name": "Wilson Daily Times",
+      "twitter": "thewilsontimes",
+      "website": "http://www.wilsontimes.com/",
+      "facebook": "https://www.facebook.com/wilsontimes"
+    }
+  ],
+  "Winston-Salem, NC": [
+    {
+      "name": "Winston-Salem Journal",
+      "twitter": "JournalNow",
+      "website": "http://www.journalnow.com/",
+      "facebook": "https://www.facebook.com/winstonsalemjournal"
+    }
+  ],
+  "Wrightsville Beach, NC": [
+    {
+      "name": "Lumina News",
+      "twitter": "luminanews",
+      "website": "http://luminanews.com/",
+      "facebook": "https://www.facebook.com/LuminaNews"
+    }
+  ],
+  "Yadkinville, NC": [
+    {
+      "name": "Yadkin Ripple",
+      "twitter": "TheYadkinRipple",
+      "website": "http://yadkinripple.com/",
+      "facebook": "https://www.facebook.com/pages/Yadkin-Ripple/144225339187"
+    }
+  ],
+  "Yanceyville, NC": [],
+  "Zebulon, NC": [
+    {
+      "name": "Eastern Wake News",
+      "twitter": "EasternWakeNews",
+      "website": "http://www.newsobserver.com/news/local/community/eastern-wake-news/",
+      "facebook": "https://www.facebook.com/easternwakenews"
+    }
+  ]
+}

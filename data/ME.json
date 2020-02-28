@@ -1,0 +1,263 @@
+{
+  "Atkinson, ME": [],
+  "Augusta, ME": [
+    {
+      "name": "Kennebec Journal",
+      "twitter": "kj_online",
+      "website": "http://www.centralmaine.com/",
+      "facebook": "https://www.facebook.com/kennebecjournal"
+    }
+  ],
+  "Bangor, ME": [
+    {
+      "name": "Bangor Daily News",
+      "twitter": "bangordailynews",
+      "website": "http://bangordailynews.com/",
+      "facebook": "https://www.facebook.com/bangordailynews"
+    },
+    {
+      "name": "The Maine Edge",
+      "twitter": "themaineedge",
+      "website": "http://www.themaineedge.com/",
+      "facebook": "https://www.facebook.com/themaineedge"
+    }
+  ],
+  "Bath, ME": [
+    {
+      "name": "Coastal Journal",
+      "twitter": "CoastalJournal",
+      "website": "http://www.coastaljournal.com/",
+      "facebook": "https://www.facebook.com/pages/The-Coastal-Journal/209006079124492"
+    }
+  ],
+  "Belfast, ME": [
+    {
+      "name": "Republican Journal",
+      "twitter": "republicanjourn",
+      "website": "http://waldo.villagesoup.com/",
+      "facebook": "https://www.facebook.com/RepublicanJournal"
+    }
+  ],
+  "Bethel, ME": [],
+  "Biddeford, ME": [
+    {
+      "name": "Biddeford-Saco-OOB Courier",
+      "twitter": "TheCourierNews",
+      "website": "http://courier.mainelymediallc.com/",
+      "facebook": "https://www.facebook.com/pages/Biddeford-Saco-OOB-Courier/148765485153419"
+    },
+    {
+      "name": "Journal Tribune",
+      "twitter": "JournalTribune",
+      "website": "http://www.journaltribune.com/",
+      "facebook": "https://www.facebook.com/pages/Journal-Tribune/148632478512743"
+    }
+  ],
+  "Blue Hill, ME": [],
+  "Boothbay Harbor, ME": [
+    {
+      "name": "Boothbay Register",
+      "twitter": "BBRegister",
+      "website": "http://www.boothbayregister.com/",
+      "facebook": "https://www.facebook.com/BoothbayRegister"
+    }
+  ],
+  "Bridgton, ME": [],
+  "Brunswick, ME": [
+    {
+      "name": "Times Record",
+      "twitter": "MidcoastNews",
+      "website": "http://www.timesrecord.com/",
+      "facebook": "https://www.facebook.com/TheTimesRecord"
+    }
+  ],
+  "Bucksport, ME": [],
+  "Calais, ME": [
+    {
+      "name": "Calais Advertiser",
+      "twitter": "TheCalaisAdv",
+      "website": "http://www.thecalaisadvertiser.com/",
+      "facebook": "https://www.facebook.com/TheCalaisAdvertiser"
+    }
+  ],
+  "Camden, ME": [
+    {
+      "name": "The Courier-Gazette",
+      "twitter": "KnoxVillageSoup",
+      "website": "http://knox.villagesoup.com/",
+      "facebook": "https://www.facebook.com/villagesoupCourierGazetteCamdenHerald"
+    }
+  ],
+  "Cape Elizabeth, ME": [],
+  "Caribou, ME": [],
+  "Damariscotta, ME": [
+    {
+      "name": "Lincoln County News",
+      "twitter": "lcnme",
+      "website": "http://lcnme.com/",
+      "facebook": "https://www.facebook.com/lcnme/"
+    }
+  ],
+  "Dexter, ME": [],
+  "East Machias, ME": [
+    {
+      "name": "Machias Valley News Observer",
+      "twitter": "machiasnews",
+      "website": "http://machiasnews.com/",
+      "facebook": "https://www.facebook.com/machiasnews/"
+    }
+  ],
+  "East Millinocket, ME": [],
+  "Eastport, ME": [],
+  "Ellsworth, ME": [
+    {
+      "name": "Ellsworth American",
+      "twitter": "EllsAmerican",
+      "website": "http://www.ellsworthamerican.com/",
+      "facebook": "https://www.facebook.com/ellsam"
+    },
+    {
+      "name": "Mount Desert Islander",
+      "twitter": "TheMDIslander",
+      "website": "http://www.mdislander.com/",
+      "facebook": "https://www.facebook.com/mdislander"
+    }
+  ],
+  "Falmouth, ME": [
+    {
+      "name": "Forecaster",
+      "twitter": "the_forecaster",
+      "website": "http://www.theforecaster.net/",
+      "facebook": "https://www.facebook.com/theforecaster"
+    }
+  ],
+  "Farmington, ME": [],
+  "Gorham, ME": [],
+  "Houlton, ME": [],
+  "Kennebunk, ME": [
+    {
+      "name": "Kennebunk Post",
+      "twitter": "kennebunkpost",
+      "website": "http://post.mainelymediallc.com/",
+      "facebook": "https://www.facebook.com/pages/Kennebunk-Post/123386727710579"
+    },
+    {
+      "name": "York County Coast Star",
+      "twitter": "YorkCountyCoast",
+      "website": "http://www.seacoastonline.com/YorkStar",
+      "facebook": "https://www.facebook.com/pages/York-County-Coast-Star/145396518815013"
+    }
+  ],
+  "Kingfield, ME": [],
+  "Lewiston, ME": [
+    {
+      "name": "Sun-Journal",
+      "twitter": "sunjournal",
+      "website": "http://www.sunjournal.com/",
+      "facebook": "https://www.facebook.com/sunjournal"
+    },
+    {
+      "name": "Twin City Times",
+      "twitter": "twincitytimes",
+      "website": "http://www.twincitytimes.com/",
+      "facebook": "https://www.facebook.com/twincitytimes"
+    }
+  ],
+  "Lincoln, ME": [],
+  "Livermore Falls, ME": [],
+  "Madawaska, ME": [],
+  "Milo, ME": [
+    {
+      "name": "Three Rivers News",
+      "twitter": "threeriversme",
+      "website": "http://www.trcmaine.org/",
+      "facebook": "https://www.facebook.com/trcmaine"
+    }
+  ],
+  "New Portland, ME": [
+    {
+      "name": "Mainebiz",
+      "twitter": "Mainebiz",
+      "website": "http://www.mainebiz.biz/",
+      "facebook": "https://www.facebook.com/Mainebiz"
+    },
+    {
+      "name": "Portland Press Herald",
+      "twitter": "pressherald",
+      "website": "http://www.pressherald.com/",
+      "facebook": "https://www.facebook.com/pressherald"
+    }
+  ],
+  "Newport, ME": [],
+  "North Windham, ME": [
+    {
+      "name": "Windham Eagle",
+      "twitter": "WindhamEagle",
+      "website": "http://www.thewindhameagle.com/",
+      "facebook": "https://www.facebook.com/TheWindhamEagle"
+    }
+  ],
+  "Norway, ME": [
+    {
+      "name": "Advertiser Democrat",
+      "twitter": "AdvDem",
+      "website": "http://advertiserdemocrat.com/",
+      "facebook": "https://www.facebook.com/pages/Advertiser-Democrat/146017835422698"
+    }
+  ],
+  "Old Town, ME": [],
+  "Presque Isle, ME": [],
+  "Rockland, ME": [],
+  "Rumford, ME": [],
+  "Saco, ME": [],
+  "Scarborough, ME": [],
+  "Solon, ME": [
+    {
+      "name": "Maine Insights",
+      "twitter": "maineinsights",
+      "website": "http://maineinsights.com/"
+    }
+  ],
+  "South Portland, ME": [
+    {
+      "name": "South Portland Sentry",
+      "twitter": "InTheSentry",
+      "website": "http://sentry.mainelymediallc.com/",
+      "facebook": "https://www.facebook.com/pages/South-Portland-Cape-Elizabeth-Sentry/220103231407383"
+    }
+  ],
+  "Stonington, ME": [],
+  "Waterboro, ME": [],
+  "Waterville, ME": [
+    {
+      "name": "Morning Sentinel",
+      "twitter": "onlinesentinel",
+      "website": "http://www.centralmaine.com/",
+      "facebook": "https://www.facebook.com/morningsentinel"
+    }
+  ],
+  "Westbrook, ME": [
+    {
+      "name": "Westbrook American Journal",
+      "twitter": "AmericanJrnl",
+      "website": "http://news.keepmecurrent.com/category/american-journal/westbrook/",
+      "facebook": "https://www.facebook.com/americanjournal"
+    }
+  ],
+  "Wiscasset, ME": [
+    {
+      "name": "Wiscasset Newspaper",
+      "twitter": "WiscassetNews",
+      "website": "http://www.wiscassetnewspaper.com/",
+      "facebook": "https://www.facebook.com/wiscassetnewspaper"
+    }
+  ],
+  "York, ME": [
+    {
+      "name": "York Weekly",
+      "twitter": "TheYorkWeekly",
+      "website": "http://www.seacoastonline.com/YorkWeekly",
+      "facebook": "https://www.facebook.com/theyorkweekly"
+    }
+  ]
+}

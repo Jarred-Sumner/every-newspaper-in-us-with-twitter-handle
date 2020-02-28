@@ -1,0 +1,681 @@
+{
+  "Allentown, PA": [
+    {
+      "name": "Morning Call",
+      "twitter": "mcall",
+      "website": "http://www.mcall.com/",
+      "facebook": "https://www.facebook.com/mcall.lv"
+    }
+  ],
+  "Altoona, PA": [
+    {
+      "name": "Mirror",
+      "twitter": "AltoonamirrorPA",
+      "website": "http://www.altoonamirror.com/",
+      "facebook": "https://www.facebook.com/AltoonaMirror"
+    }
+  ],
+  "Ardmore, PA": [
+    {
+      "name": "Main Line Times",
+      "twitter": "MLmedianews",
+      "website": "http://www.mainlinemedianews.com/mainlinetimes/",
+      "facebook": "https://www.facebook.com/MainLineMediaNews"
+    }
+  ],
+  "Beaver, PA": [
+    {
+      "name": "Beaver County Times",
+      "twitter": "bctimes",
+      "website": "http://www.timesonline.com/",
+      "facebook": "https://www.facebook.com/beavercountytimes"
+    }
+  ],
+  "Bloomsburg, PA": [
+    {
+      "name": "Press Enterprise",
+      "twitter": "pressenterpa",
+      "website": "http://www.pressenterpriseonline.com/",
+      "facebook": "https://www.facebook.com/pressenterprise"
+    }
+  ],
+  "Bradford, PA": [
+    {
+      "name": "Bradford Era",
+      "twitter": "TheBradfordEra",
+      "website": "http://www.bradfordera.com/",
+      "facebook": "https://www.facebook.com/pages/The-Bradford-Era/202797986453490"
+    }
+  ],
+  "Brookville, PA": [
+    {
+      "name": "Jeffersonian Democrat",
+      "twitter": "CElocal",
+      "website": "http://www.thecourierexpress.com/jeffersonian_democrat/",
+      "facebook": "https://www.facebook.com/pages/Jeffersonian-Democrat/117091385017450"
+    }
+  ],
+  "Buckingham, PA": [
+    {
+      "name": "Bucks County Herald",
+      "twitter": "BucksCoHerald",
+      "website": "http://www.buckscountyherald.com/",
+      "facebook": "https://www.facebook.com/pages/Bucks-County-Herald-Newspaper/114527761932794"
+    }
+  ],
+  "Butler, PA": [
+    {
+      "name": "Butler Eagle",
+      "twitter": "ButlerEagle",
+      "website": "http://www.butlereagle.com/",
+      "facebook": "https://www.facebook.com/pages/Butler-Eagle/339066760498"
+    }
+  ],
+  "Carlisle, PA": [
+    {
+      "name": "Sentinel",
+      "twitter": "cumberlink",
+      "website": "http://cumberlink.com/",
+      "facebook": "https://www.facebook.com/Cumberlink"
+    }
+  ],
+  "Carnegie, PA": [
+    {
+      "name": "YourCarlynton",
+      "twitter": "TribLive  ",
+      "website": "http://triblive.com/neighborhoods/yourcarlynton/",
+      "facebook": "https://www.facebook.com/triblive"
+    }
+  ],
+  "Chambersburg, PA": [
+    {
+      "name": "Public Opinion Online",
+      "twitter": "ponews",
+      "website": "http://www.publicopiniononline.com/",
+      "facebook": "https://www.facebook.com/publicopinionnews"
+    }
+  ],
+  "Clarion, PA": [
+    {
+      "name": "Explore Clarion",
+      "twitter": "exploreclarion",
+      "website": "http://www.exploreclarion.com/",
+      "facebook": "https://www.facebook.com/exploreClarion"
+    }
+  ],
+  "Clarks Summit, PA": [
+    {
+      "name": "Abington Journal",
+      "twitter": "AbingtonJournal",
+      "website": "http://theabingtonjournal.com/",
+      "facebook": "https://www.facebook.com/abingtonjournal"
+    }
+  ],
+  "Clearfield, PA": [
+    {
+      "name": "Gant Daily",
+      "twitter": "gantdaily",
+      "website": "http://gantdaily.com/",
+      "facebook": "https://www.facebook.com/gantdaily"
+    }
+  ],
+  "Coudersport, PA": [],
+  "Cranberry, PA": [
+    {
+      "name": "Cranberry Journal Star",
+      "twitter": "TribLive  ",
+      "website": "http://triblive.com/neighborhoods/yourcranberry/",
+      "facebook": "https://www.facebook.com/triblive"
+    },
+    {
+      "name": "South Hills Record",
+      "twitter": "TribLive  ",
+      "website": "http://triblive.com/neighborhoods/yoursouthhills/",
+      "facebook": "https://www.facebook.com/triblive"
+    }
+  ],
+  "Dallas, PA": [
+    {
+      "name": "Dallas Post",
+      "twitter": "TLNews",
+      "website": "http://mydallaspost.com/",
+      "facebook": "https://www.facebook.com/dallaspost"
+    }
+  ],
+  "Doylestown, PA": [],
+  "DuBois, PA": [
+    {
+      "name": "Courier Express",
+      "twitter": "CElocal",
+      "website": "http://www.thecourierexpress.com/",
+      "facebook": "https://www.facebook.com/courierexpressdubois"
+    }
+  ],
+  "East Hanover, PA": [
+    {
+      "name": "Evening Sun",
+      "twitter": "theeveningsun",
+      "website": "http://www.eveningsun.com/",
+      "facebook": "https://www.facebook.com/hanovereveningsun"
+    }
+  ],
+  "East Pennsboro, PA": [
+    {
+      "name": "Perry County Times",
+      "twitter": "pennlive",
+      "website": "http://www.pennlive.com/perry-county-times/",
+      "facebook": "https://www.facebook.com/PennLive"
+    }
+  ],
+  "East Pittsburgh, PA": [
+    {
+      "name": "New Pittsburgh Courier",
+      "twitter": "NewPghCourier",
+      "website": "https://newpittsburghcourieronline.com/",
+      "facebook": "https://www.facebook.com/newpittsburghcourier"
+    },
+    {
+      "name": "Pittsburgh Business Times",
+      "twitter": "pghbiztimes",
+      "website": "http://www.bizjournals.com/pittsburgh/",
+      "facebook": "https://www.facebook.com/pages/Pittsburgh-Business-Times/106985506377"
+    },
+    {
+      "name": "Pittsburgh City Paper",
+      "twitter": "PGHCityPaper",
+      "website": "http://www.pghcitypaper.com/",
+      "facebook": "https://www.facebook.com/PittsburghCityPaper"
+    },
+    {
+      "name": "Pittsburgh Post-Gazette",
+      "twitter": "pittsburghpg",
+      "website": "http://www.post-gazette.com/",
+      "facebook": "https://www.facebook.com/pittsburghpostgazette"
+    },
+    {
+      "name": "Pittsburgh Tribune-Review",
+      "twitter": "TribLive  ",
+      "website": "http://triblive.com/",
+      "facebook": "https://www.facebook.com/triblive"
+    }
+  ],
+  "East Stroudsburg, PA": [
+    {
+      "name": "Pocono Business Journal",
+      "twitter": "PBJonline",
+      "website": "http://www.poconobusinessjournal.com/",
+      "facebook": "https://www.facebook.com/PoconoBusinessJournal"
+    },
+    {
+      "name": "Pocono Record",
+      "twitter": "poconorecord",
+      "website": "http://www.poconorecord.com/",
+      "facebook": "https://www.facebook.com/poconorecord"
+    }
+  ],
+  "East Uniontown, PA": [
+    {
+      "name": "Herald-Standard",
+      "twitter": "hsuniontown",
+      "website": "http://www.heraldstandard.com/",
+      "facebook": "https://www.facebook.com/heraldstandard"
+    }
+  ],
+  "East Washington, PA": [
+    {
+      "name": "Observer-Reporter",
+      "twitter": "oronline",
+      "website": "http://www.observer-reporter.com/",
+      "facebook": "https://www.facebook.com/observerreporternews"
+    }
+  ],
+  "East York, PA": [
+    {
+      "name": "York Daily Record",
+      "twitter": "ydrcom",
+      "website": "http://www.ydr.com/",
+      "facebook": "https://www.facebook.com/YorkDailyRecord"
+    },
+    {
+      "name": "York Dispatch",
+      "twitter": "yorkdispatch",
+      "website": "http://www.yorkdispatch.com/",
+      "facebook": "https://www.facebook.com/YorkDispatch"
+    }
+  ],
+  "Ellwood City, PA": [
+    {
+      "name": "Ellwood City Ledger",
+      "twitter": "ECLedger",
+      "website": "https://www.ellwoodcityledger.com/",
+      "facebook": "https://www.facebook.com/pages/Ellwood-City-Ledger/197533958694"
+    }
+  ],
+  "Emlenton, PA": [
+    {
+      "name": "Progress News",
+      "twitter": "progressnews",
+      "website": "http://myprogressnews.com/",
+      "facebook": "https://www.facebook.com/pages/Progress-News/128526671146"
+    }
+  ],
+  "Emporium, PA": [],
+  "Erie, PA": [
+    {
+      "name": "GoErie",
+      "twitter": "goerie",
+      "website": "http://www.goerie.com/",
+      "facebook": "https://www.facebook.com/GoErie"
+    }
+  ],
+  "Fayette, PA": [],
+  "Folsom, PA": [
+    {
+      "name": "Delaware County Daily Times",
+      "twitter": "delcotimes",
+      "website": "http://www.delcotimes.com/",
+      "facebook": "https://www.facebook.com/delcodailytimes"
+    }
+  ],
+  "Fort Washington, PA": [
+    {
+      "name": "Montgomery News",
+      "twitter": "MontgomeryMedia",
+      "website": "http://www.montgomerynews.com/",
+      "facebook": "https://www.facebook.com/MontgomeryMedia"
+    }
+  ],
+  "Fox, PA": [],
+  "Gettysburg, PA": [
+    {
+      "name": "Gettysburg Times",
+      "twitter": "Gburg_Times",
+      "website": "http://www.gettysburgtimes.com/",
+      "facebook": "https://www.facebook.com/gettysburgtimes"
+    }
+  ],
+  "Greencastle, PA": [],
+  "Hamilton, PA": [],
+  "Harrisburg, PA": [
+    {
+      "name": "Lehigh Valley Live",
+      "twitter": "lehighvalley",
+      "website": "http://www.lehighvalleylive.com/",
+      "facebook": "https://www.facebook.com/lehighvalleynews"
+    },
+    {
+      "name": "Patriot News",
+      "twitter": "pennlive",
+      "website": "http://www.pennlive.com/harrisburg/",
+      "facebook": "https://www.facebook.com/PennLive"
+    }
+  ],
+  "Hawley, PA": [
+    {
+      "name": "News Eagle",
+      "twitter": "TheNewsEagle1",
+      "website": "http://www.neagle.com/",
+      "facebook": "https://www.facebook.com/NewsEagle"
+    }
+  ],
+  "Hazleton, PA": [
+    {
+      "name": "Standard-Speaker",
+      "twitter": "standardspeaker",
+      "website": "http://standardspeaker.com/",
+      "facebook": "https://www.facebook.com/standardspeaker"
+    }
+  ],
+  "Honesdale, PA": [
+    {
+      "name": "Wayne Independent",
+      "twitter": "TWI_newsroom",
+      "website": "http://www.wayneindependent.com/",
+      "facebook": "https://www.facebook.com/TheWayneIndependent"
+    }
+  ],
+  "Hummelstown, PA": [
+    {
+      "name": "Sun",
+      "twitter": "thesunontheweb",
+      "website": "http://news.thesunontheweb.com/",
+      "facebook": "https://www.facebook.com/TheSunOnTheWeb"
+    }
+  ],
+  "Indiana, PA": [
+    {
+      "name": "Indiana Gazette",
+      "twitter": "indianagazette",
+      "website": "https://www.indianagazette.com/",
+      "facebook": "https://www.facebook.com/TheIndianaGazette"
+    }
+  ],
+  "Johnstown, PA": [
+    {
+      "name": "Tribune Democrat",
+      "twitter": "tribunedemocrat",
+      "website": "http://www.tribdem.com/",
+      "facebook": "https://www.facebook.com/pages/The-Tribune-Democrat/127423537287906"
+    }
+  ],
+  "Kane, PA": [],
+  "Kittanning, PA": [
+    {
+      "name": "Leader Times",
+      "twitter": "http://triblive.com/x/leadertimes/",
+      "website": "http://www.leadertimes.com/",
+      "facebook": "https://www.facebook.com/LeaderTimesPA/"
+    }
+  ],
+  "Lancaster, PA": [
+    {
+      "name": "Lancaster Online",
+      "twitter": "lancasteronline",
+      "website": "http://lancasteronline.com/",
+      "facebook": "https://www.facebook.com/LancasterOnline"
+    }
+  ],
+  "Lansdale, PA": [
+    {
+      "name": "Reporter",
+      "twitter": "lansreporter",
+      "website": "http://www.thereporteronline.com/",
+      "facebook": "https://www.facebook.com/lansreporter"
+    }
+  ],
+  "Latrobe, PA": [
+    {
+      "name": "Laurel Mountain Post",
+      "twitter": "laurelmtnpost",
+      "website": "http://laurelmountainpost.com/",
+      "facebook": "https://www.facebook.com/LaurelMountainPost"
+    }
+  ],
+  "Lebanon, PA": [
+    {
+      "name": "Daily News",
+      "twitter": "ldnews",
+      "website": "http://www.ldnews.com/",
+      "facebook": "https://www.facebook.com/ldnews"
+    }
+  ],
+  "Lehighton, PA": [
+    {
+      "name": "Times News",
+      "twitter": "Times_News",
+      "website": "http://www.tnonline.com/",
+      "facebook": "https://www.facebook.com/pages/Times-News-Lehighton-Sports/175671395827358"
+    }
+  ],
+  "Levittown, PA": [],
+  "Lewistown, PA": [
+    {
+      "name": "Sentinel",
+      "twitter": "TheSentinelPA",
+      "website": "http://www.lewistownsentinel.com/",
+      "facebook": "https://www.facebook.com/LewistownSentinel"
+    }
+  ],
+  "Lock Haven, PA": [],
+  "McConnellsburg, PA": [],
+  "Meadville, PA": [
+    {
+      "name": "Meadville Tribune",
+      "twitter": "Meadville_Trib",
+      "website": "http://www.meadvilletribune.com/",
+      "facebook": "https://www.facebook.com/meadvilletribune"
+    }
+  ],
+  "Millersburg, PA": [],
+  "Monongahela, PA": [
+    {
+      "name": "Mon Valley Messenger",
+      "twitter": "messengerpaper",
+      "website": "http://messengerpaper.com/",
+      "facebook": "https://www.facebook.com/MessengerPaper/"
+    }
+  ],
+  "Mountain Top, PA": [],
+  "New Bethlehem, PA": [],
+  "New Castle, PA": [
+    {
+      "name": "New Castle News",
+      "twitter": "newcastlenews",
+      "website": "http://www.ncnewsonline.com/",
+      "facebook": "https://www.facebook.com/pages/New-Castle-News/269380027923"
+    }
+  ],
+  "Norristown, PA": [
+    {
+      "name": "Times Herald",
+      "twitter": "TimesHeraldPA",
+      "website": "http://www.timesherald.com/",
+      "facebook": "https://www.facebook.com/TimesHeraldPA"
+    }
+  ],
+  "North Towanda, PA": [],
+  "North Warren, PA": [
+    {
+      "name": "Warren Times Observer",
+      "twitter": "TimesObserver",
+      "website": "http://www.timesobserver.com/",
+      "facebook": "https://www.facebook.com/TimesObserver"
+    }
+  ],
+  "Oil City, PA": [
+    {
+      "name": "Derrick",
+      "twitter": "The_Derrick",
+      "website": "http://www.thederrick.com/",
+      "facebook": "https://www.facebook.com/DerrickNewsHerald"
+    }
+  ],
+  "Philadelphia, PA": [
+    {
+      "name": "Business Journal",
+      "twitter": "PHLBizJournal",
+      "website": "http://www.bizjournals.com/philadelphia/",
+      "facebook": "https://www.facebook.com/PhilaBusinessJournal"
+    },
+    {
+      "name": "Metro Chinese Weekly",
+      "twitter": "metrochinese",
+      "website": "http://www.nmspress.com/metro_chinese_weekly.htm",
+      "facebook": "https://www.facebook.com/metrochinese"
+    },
+    {
+      "name": "Philadelphia Daily News",
+      "twitter": "PhillyDailyNews",
+      "website": "http://www.philly.com/dailynews",
+      "facebook": "https://www.facebook.com/PhillyDailyNews"
+    },
+    {
+      "name": "Philadelphia Inquirer",
+      "twitter": "phillyinquirer",
+      "website": "http://www.philly.com/inquirer/",
+      "facebook": "https://www.facebook.com/phillyinquirer"
+    },
+    {
+      "name": "Philadelphia Weekly",
+      "twitter": "phillyweekly",
+      "website": "http://www.philadelphiaweekly.com/",
+      "facebook": "https://www.facebook.com/phillyweekly"
+    }
+  ],
+  "Phoenixville, PA": [],
+  "Pittston, PA": [
+    {
+      "name": "Dispatch",
+      "twitter": "PSDispatch",
+      "website": "http://psdispatch.com/",
+      "facebook": "https://www.facebook.com/sundaydispatch"
+    }
+  ],
+  "Plum, PA": [
+    {
+      "name": "Plum Advance Leader",
+      "twitter": "triblive",
+      "website": "http://triblive.com/neighborhoods/yourplum/",
+      "facebook": "https://www.facebook.com/triblive"
+    }
+  ],
+  "Pottstown, PA": [
+    {
+      "name": "Mercury",
+      "twitter": "MercuryX",
+      "website": "http://www.pottsmerc.com/",
+      "facebook": "https://www.facebook.com/pottstown.mercury"
+    }
+  ],
+  "Pottsville, PA": [
+    {
+      "name": "Republican-Herald",
+      "twitter": "repherald",
+      "website": "http://republicanherald.com/",
+      "facebook": "https://www.facebook.com/republicanherald"
+    }
+  ],
+  "Punxsutawney, PA": [],
+  "Reading, PA": [
+    {
+      "name": "Eagle",
+      "twitter": "readingeagle",
+      "website": "http://readingeagle.com/",
+      "facebook": "https://www.facebook.com/readingeaglenewspaper"
+    }
+  ],
+  "Ridgway, PA": [],
+  "Sayre, PA": [
+    {
+      "name": "Morning Times",
+      "twitter": "Morning_Times",
+      "website": "http://www.morning-times.com/",
+      "facebook": "https://www.facebook.com/pages/Morning-Times/183798948365170"
+    }
+  ],
+  "Scranton, PA": [
+    {
+      "name": "Times-Tribune",
+      "twitter": "timestribune",
+      "website": "http://thetimes-tribune.com/",
+      "facebook": "https://www.facebook.com/thetimestribune"
+    }
+  ],
+  "Shamokin, PA": [],
+  "Sharon, PA": [
+    {
+      "name": "Herald",
+      "twitter": "sharonheraldpa",
+      "website": "http://www.sharonherald.com/",
+      "facebook": "https://www.facebook.com/sharonheraldnewspaper"
+    }
+  ],
+  "Somerset, PA": [
+    {
+      "name": "Daily American",
+      "twitter": "dailyamerican",
+      "website": "http://www.dailyamerican.com/",
+      "facebook": "https://www.facebook.com/dailyamerican"
+    }
+  ],
+  "South Williamsport, PA": [
+    {
+      "name": "Sun-Gazette",
+      "twitter": "wmsptsungazette",
+      "website": "http://www.sungazette.com/",
+      "facebook": "https://www.facebook.com/SunGazette"
+    },
+    {
+      "name": "Webb Weekly",
+      "twitter": "webbweekly01",
+      "website": "http://webbweekly.com/"
+    }
+  ],
+  "State College, PA": [
+    {
+      "name": "Centre Daily Times",
+      "twitter": "centredaily",
+      "website": "http://www.centredaily.com/",
+      "facebook": "https://www.facebook.com/centredaily"
+    }
+  ],
+  "Sunbury, PA": [
+    {
+      "name": "Daily Item",
+      "twitter": "dailyitem",
+      "website": "http://www.dailyitem.com/",
+      "facebook": "https://www.facebook.com/TheDailyItem/"
+    }
+  ],
+  "Tarentum, PA": [
+    {
+      "name": "Valley News Dispatch",
+      "twitter": "triblive",
+      "website": "http://triblive.com/neighborhoods/yourallekiskivalley/",
+      "facebook": "https://www.facebook.com/ValleyNewsDispatch"
+    }
+  ],
+  "Titusville, PA": [],
+  "Tunkhannock, PA": [
+    {
+      "name": "Wyoming County Examiner",
+      "twitter": "wcexaminer",
+      "website": "http://wcexaminer.com/",
+      "facebook": "https://www.facebook.com/wcexaminer"
+    }
+  ],
+  "Wayne, PA": [
+    {
+      "name": "Main Line Media News",
+      "twitter": "MLMediaNews",
+      "website": "http://www.mainlinemedianews.com/",
+      "facebook": "https://www.facebook.com/MainLineMediaNews"
+    }
+  ],
+  "Waynesboro, PA": [
+    {
+      "name": "Record Herald",
+      "twitter": "therecordherald",
+      "website": "http://www.therecordherald.com/",
+      "facebook": "https://www.facebook.com/therecordheraldwaynesboro"
+    }
+  ],
+  "Waynesburg, PA": [],
+  "Wellsboro, PA": [
+    {
+      "name": "Wellsboro Gazette",
+      "twitter": "tiogapagazette",
+      "website": "http://www.tiogapublishing.com/the_wellsboro_mansfield_gazette/",
+      "facebook": "https://www.facebook.com/wellsboro.gazette"
+    }
+  ],
+  "West Chester, PA": [
+    {
+      "name": "Daily Local News",
+      "twitter": "wcdailylocal",
+      "website": "http://www.dailylocal.com/",
+      "facebook": "https://www.facebook.com/dailylocalnews"
+    }
+  ],
+  "Wilkes-Barre, PA": [
+    {
+      "name": "Citizens Voice",
+      "twitter": "citizensvoice",
+      "website": "http://citizensvoice.com/",
+      "facebook": "https://www.facebook.com/citizensvoice"
+    },
+    {
+      "name": "Times Leader",
+      "twitter": "TLnews",
+      "website": "http://timesleader.com/",
+      "facebook": "https://www.facebook.com/timesleader"
+    },
+    {
+      "name": "Weekender",
+      "twitter": "wkdr",
+      "website": "http://theweekender.com/",
+      "facebook": "https://www.facebook.com/theweekender"
+    }
+  ],
+  "Wyalusing, PA": []
+}

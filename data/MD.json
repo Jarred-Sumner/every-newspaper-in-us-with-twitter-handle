@@ -1,0 +1,297 @@
+{
+  "Annapolis, MD": [
+    {
+      "name": "Bay Weekly",
+      "twitter": "BayWeekly",
+      "website": "http://www.bayweekly.com/",
+      "facebook": "https://www.facebook.com/bayweekly"
+    },
+    {
+      "name": "Capital Gazette",
+      "twitter": "capgaznews",
+      "website": "http://www.capitalgazette.com/",
+      "facebook": "https://www.facebook.com/capitalgazette"
+    }
+  ],
+  "Baltimore, MD": [
+    {
+      "name": "Baltimore Afro American",
+      "twitter": "afronews",
+      "website": "http://www.afro.com/",
+      "facebook": "https://www.facebook.com/AfroAmericanNews"
+    },
+    {
+      "name": "Baltimore Business Journal",
+      "twitter": "BaltBizOnline",
+      "website": "http://www.bizjournals.com/baltimore/",
+      "facebook": "https://www.facebook.com/pages/Baltimore-Business-Journal/139964570715"
+    },
+    {
+      "name": "Baltimore City Paper",
+      "twitter": "city_paper",
+      "website": "http://www.citypaper.com/",
+      "facebook": "https://www.facebook.com/baltimorecitypaper"
+    },
+    {
+      "name": "Baltimore Sun",
+      "twitter": "baltimoresun",
+      "website": "http://www.baltimoresun.com/",
+      "facebook": "https://www.facebook.com/baltimoresun"
+    },
+    {
+      "name": "Baltimore Times",
+      "twitter": "baltimore_times",
+      "website": "http://baltimoretimes-online.com/",
+      "facebook": "https://www.facebook.com/TheBaltimoreTimes"
+    },
+    {
+      "name": "Daily Record",
+      "twitter": "mddailyrecord",
+      "website": "http://thedailyrecord.com/",
+      "facebook": "https://www.facebook.com/mddailyrecord"
+    },
+    {
+      "name": "Post-Examiner",
+      "twitter": "BaltPostExam",
+      "website": "http://baltimorepostexaminer.com/",
+      "facebook": "https://www.facebook.com/baltimorepostexaminer"
+    }
+  ],
+  "Bel Air, MD": [
+    {
+      "name": "Aegis",
+      "twitter": "HarfordAegis",
+      "website": "http://www.baltimoresun.com/news/maryland/harford/aegis/",
+      "facebook": "https://www.facebook.com/HarfordAegis"
+    }
+  ],
+  "Berlin, MD": [
+    {
+      "name": "Bayside Gazette",
+      "twitter": "BaysideGazette",
+      "website": "http://baysideoc.com/",
+      "facebook": "https://www.facebook.com/baysidegazette"
+    }
+  ],
+  "Cambridge, MD": [
+    {
+      "name": "Dorchester Star",
+      "twitter": "DorchesterStar",
+      "website": "http://www.myeasternshoremd.com/",
+      "facebook": "https://www.facebook.com/DorchesterStar"
+    }
+  ],
+  "Catonsville, MD": [
+    {
+      "name": "Catonsville Times",
+      "twitter": "BaltCoSun",
+      "website": "http://www.baltimoresun.com/news/maryland/baltimore-county/catonsville/",
+      "facebook": "https://www.facebook.com/BaltimoreCountySun"
+    }
+  ],
+  "Centreville, MD": [],
+  "Chestertown, MD": [],
+  "Columbia, MD": [
+    {
+      "name": "Guilford Gazette",
+      "twitter": "GuilfordGazette",
+      "website": "https://www.guilfordgazette.com/",
+      "facebook": "https://www.facebook.com/GuilfordGazette"
+    }
+  ],
+  "Crisfield, MD": [],
+  "Crofton, MD": [],
+  "Cumberland, MD": [
+    {
+      "name": "Cumberland Times-News",
+      "twitter": "CumberlandTN",
+      "website": "http://www.times-news.com/",
+      "facebook": "https://www.facebook.com/CumberlandTimesNews"
+    }
+  ],
+  "Denton, MD": [],
+  "Dundalk, MD": [
+    {
+      "name": "Dundalk Eagle",
+      "twitter": "TheDundalkEagle",
+      "website": "http://www.dundalkeagle.com/",
+      "facebook": "https://www.facebook.com/dundalkeagle"
+    }
+  ],
+  "Easton, MD": [
+    {
+      "name": "Star Democrat",
+      "twitter": "stardem_news",
+      "website": "http://www.stardem.com/",
+      "facebook": "https://www.facebook.com/StarDemocrat"
+    }
+  ],
+  "Eldersburg, MD": [
+    {
+      "name": "Advocate of Eldersburg & Sykesville",
+      "twitter": "CCTNews",
+      "website": "http://www.carrollcountytimes.com/news/sykesville/",
+      "facebook": "https://www.facebook.com/cctnews"
+    }
+  ],
+  "Elkton, MD": [
+    {
+      "name": "Cecil Whig",
+      "twitter": "cecil_whig",
+      "website": "http://www.cecildaily.com/",
+      "facebook": "https://www.facebook.com/CecilWhig"
+    }
+  ],
+  "Emmitsburg, MD": [],
+  "Essex, MD": [
+    {
+      "name": "Avenue News",
+      "twitter": "TheAvenueNews",
+      "website": "http://www.avenuenews.com/",
+      "facebook": "https://www.facebook.com/theavenuenews"
+    },
+    {
+      "name": "East County Times",
+      "twitter": "eastcountytimes",
+      "website": "http://www.eastcountytimesonline.com/",
+      "facebook": "https://www.facebook.com/pages/East-County-Times/194833855361"
+    }
+  ],
+  "Frederick, MD": [
+    {
+      "name": "Frederick News-Post",
+      "twitter": "frednewspost",
+      "website": "http://www.fredericknewspost.com/",
+      "facebook": "https://www.facebook.com/fredericknewspost"
+    }
+  ],
+  "Fruitland, MD": [
+    {
+      "name": "Delaware Coast Press",
+      "twitter": "DECoastPress",
+      "website": "http://www.delmarvanow.com/news/delaware/",
+      "facebook": "https://www.facebook.com/coastpress"
+    },
+    {
+      "name": "delmarvanow.com",
+      "twitter": "MyDelmarvaNow",
+      "website": "http://www.delmarvanow.com/news/virginia/",
+      "facebook": "https://www.facebook.com/TheDelmarvaDailyTimes"
+    }
+  ],
+  "Greenbelt, MD": [],
+  "Hagerstown, MD": [
+    {
+      "name": "Herald-Mail",
+      "twitter": "heraldmailnews",
+      "website": "http://www.heraldmailmedia.com/",
+      "facebook": "https://www.facebook.com/TheHeraldMail"
+    }
+  ],
+  "Havre de Grace, MD": [],
+  "Laurel, MD": [
+    {
+      "name": "Laurel Leader",
+      "twitter": "laurelleader",
+      "website": "http://www.baltimoresun.com/news/maryland/howard/laurel/",
+      "facebook": "https://www.facebook.com/laurelleader"
+    }
+  ],
+  "Lexington Park, MD": [
+    {
+      "name": "Enterprise",
+      "twitter": "SoMDNews",
+      "website": "http://www.somdnews.com/enterprise/",
+      "facebook": "https://www.facebook.com/SouthernMDNews"
+    }
+  ],
+  "Middletown, MD": [],
+  "Oakland, MD": [],
+  "Ocean City, MD": [],
+  "Owings Mills, MD": [
+    {
+      "name": "Owings Mills Times",
+      "twitter": "BaltCoSun",
+      "website": "http://www.baltimoresun.com/news/maryland/baltimore-county/owings-mills/",
+      "facebook": "https://www.facebook.com/BaltimoreCountySun"
+    }
+  ],
+  "Prince Frederick, MD": [
+    {
+      "name": "Calvert Recorder",
+      "twitter": "SoMDNews",
+      "website": "http://www.somdnews.com/recorder/",
+      "facebook": "https://www.facebook.com/SouthernMDNews"
+    }
+  ],
+  "Rockville, MD": [
+    {
+      "name": "Montgomery County Sentinel",
+      "twitter": "mocosentinel",
+      "website": "http://www.thesentinel.com/mont/",
+      "facebook": "https://www.facebook.com/MontgomerySentinel"
+    }
+  ],
+  "Salisbury, MD": [
+    {
+      "name": "Delmarvanow",
+      "twitter": "MyDelmarvaNow",
+      "website": "http://www.delmarvanow.com/",
+      "facebook": "https://www.facebook.com/TheDelmarvaDailyTimes"
+    }
+  ],
+  "Seabrook, MD": [
+    {
+      "name": "Sentinel Newspapers",
+      "twitter": "mocosentinel",
+      "website": "http://www.thesentinel.com/",
+      "facebook": "https://www.facebook.com/pages/The-Prince-Georges-Sentinel/262879958042"
+    }
+  ],
+  "Stevensville, MD": [],
+  "Takoma Park, MD": [
+    {
+      "name": "Takoma Voice",
+      "twitter": "TakomaVoice",
+      "website": "http://takomavoice.com/"
+    }
+  ],
+  "Thurmont, MD": [],
+  "Towson, MD": [
+    {
+      "name": "Towson Times",
+      "twitter": "BaltCoSun",
+      "website": "http://www.baltimoresun.com/news/maryland/baltimore-county/towson-times/",
+      "facebook": "https://www.facebook.com/BaltimoreCountySun"
+    }
+  ],
+  "Upper Marlboro, MD": [],
+  "Waldorf, MD": [
+    {
+      "name": "Maryland Independent",
+      "twitter": "SoMDNews",
+      "website": "http://www.somdnews.com/independent/",
+      "facebook": "https://www.facebook.com/SouthernMDNews"
+    }
+  ],
+  "Westminster, MD": [
+    {
+      "name": "Advocate of Westminster & Finksburg",
+      "twitter": "CCTNews",
+      "website": "http://www.carrollcountytimes.com/news/westminster/",
+      "facebook": "https://www.facebook.com/cctnews"
+    },
+    {
+      "name": "Carroll County Times",
+      "twitter": "CCTNews",
+      "website": "http://www.carrollcountytimes.com/",
+      "facebook": "https://www.facebook.com/cctnews"
+    },
+    {
+      "name": "Community Times",
+      "twitter": "CCTNews",
+      "website": "http://www.carrollcountytimes.com/publications/community_times/",
+      "facebook": "https://www.facebook.com/communitytimesromg"
+    }
+  ]
+}

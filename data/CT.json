@@ -1,0 +1,613 @@
+{
+  "Berlin, CT": [
+    {
+      "name": "Berlin Citizen",
+      "twitter": "Berlin_Citizen",
+      "website": "http://www.berlincitizen.com/",
+      "facebook": "https://www.facebook.com/pages/The-Berlin-Citizen/343185279188"
+    }
+  ],
+  "Bethel, CT": [],
+  "Bloomfield, CT": [],
+  "Branford, CT": [
+    {
+      "name": "Branford News",
+      "twitter": "Zip06CT",
+      "website": "http://www.zip06.com/section/branford",
+      "facebook": "https://www.facebook.com/zip06"
+    }
+  ],
+  "Bridgeport, CT": [
+    {
+      "name": "Bridgeport News",
+      "twitter": "TheBportNews",
+      "website": "http://www.thebridgeportnews.com/",
+      "facebook": "https://www.facebook.com/BridgeportNews"
+    },
+    {
+      "name": "Connecticut Post",
+      "twitter": "connpost",
+      "website": "http://www.ctpost.com/",
+      "facebook": "https://www.facebook.com/ctpost"
+    }
+  ],
+  "Bristol, CT": [
+    {
+      "name": "Bristol Observer",
+      "twitter": "BristolObserver",
+      "website": "http://bristolobserver.com/",
+      "facebook": "https://www.facebook.com/BristolObserver"
+    },
+    {
+      "name": "Bristol Press",
+      "twitter": "TheBristolPress",
+      "website": "http://www.centralctcommunications.com/bristolpress/",
+      "facebook": "https://www.facebook.com/BristolPress"
+    }
+  ],
+  "Cheshire, CT": [
+    {
+      "name": "Cheshire Herald",
+      "twitter": "CheshireHerald",
+      "website": "http://www.cheshireherald.com/",
+      "facebook": "https://www.facebook.com/pages/The-Cheshire-Herald/308910384083"
+    }
+  ],
+  "Danbury, CT": [
+    {
+      "name": "Danbury News-Times",
+      "twitter": "newstimes",
+      "website": "http://www.newstimes.com/",
+      "facebook": "https://www.facebook.com/newstimes"
+    },
+    {
+      "name": "Tribuna",
+      "twitter": "TribunaCT",
+      "website": "http://www.tribunact.com/",
+      "facebook": "https://www.facebook.com/Tribunact"
+    }
+  ],
+  "Darien, CT": [
+    {
+      "name": "Darien Hamlet Hub",
+      "twitter": "DarienHamletHub",
+      "website": "http://news.hamlethub.com/darien/",
+      "facebook": "https://www.facebook.com/DarienHamletHub"
+    },
+    {
+      "name": "Darien News-Review",
+      "twitter": "DarienNews",
+      "website": "http://www.dariennewsonline.com/",
+      "facebook": "https://www.facebook.com/dariennews"
+    },
+    {
+      "name": "Darien Times",
+      "twitter": "darientimes",
+      "website": "http://www.darientimes.com/",
+      "facebook": "https://www.facebook.com/DarienTimes"
+    }
+  ],
+  "East Hartford, CT": [
+    {
+      "name": "Commercial Record",
+      "twitter": "commercialrec",
+      "website": "http://www.commercialrecord.com/"
+    },
+    {
+      "name": "CTNow",
+      "twitter": "GoToCTNow",
+      "website": "http://www.ctnow.com/",
+      "facebook": "https://www.facebook.com/CTNow"
+    },
+    {
+      "name": "Hartford Business Journal",
+      "twitter": "hartfordbiz",
+      "website": "http://www.hartfordbusiness.com/",
+      "facebook": "https://www.facebook.com/HartfordBiz"
+    },
+    {
+      "name": "Hartford Courant",
+      "twitter": "hartfordcourant",
+      "website": "http://www.courant.com/",
+      "facebook": "https://www.facebook.com/hartfordcourant"
+    }
+  ],
+  "East Haven, CT": [
+    {
+      "name": "East Haven Courier",
+      "twitter": "Zip06CT",
+      "website": "http://www.zip06.com/section/EastHaven",
+      "facebook": "https://www.facebook.com/ehcourier"
+    }
+  ],
+  "Easton, CT": [
+    {
+      "name": "Easton Courier",
+      "twitter": "EastonCourier",
+      "website": "http://www.eastoncourier.com/",
+      "facebook": "https://www.facebook.com/EastonCourier"
+    }
+  ],
+  "Essex, CT": [
+    {
+      "name": "Essex News",
+      "twitter": "Zip06CT",
+      "website": "http://www.zip06.com/section/essex",
+      "facebook": "https://www.facebook.com/zip06"
+    }
+  ],
+  "Fairfield, CT": [
+    {
+      "name": "Fairfield Citizen-News",
+      "twitter": "ffldcitizen",
+      "website": "http://www.fairfieldcitizenonline.com/",
+      "facebook": "https://www.facebook.com/fairfieldcitizen"
+    },
+    {
+      "name": "Fairfield County Business Journal",
+      "twitter": "westfaironline",
+      "website": "http://westfaironline.com/fairfield-news_1/",
+      "facebook": "https://www.facebook.com/WestfairOnline"
+    },
+    {
+      "name": "Fairfield Hamlet Hub",
+      "twitter": "Fairfield_HH",
+      "website": "http://news.hamlethub.com/fairfield/",
+      "facebook": "https://www.facebook.com/FairfieldHamletHub"
+    },
+    {
+      "name": "Fairfield Minuteman",
+      "twitter": "Fairfieldminute",
+      "website": "http://minutemannewscenter.com/fairfield/"
+    },
+    {
+      "name": "Fairfield Sun",
+      "twitter": "FairfieldSun",
+      "website": "http://www.fairfield-sun.com/",
+      "facebook": "https://www.facebook.com/TheFairfieldSun"
+    }
+  ],
+  "Glastonbury, CT": [],
+  "Greenwich, CT": [
+    {
+      "name": "Greenwich Post",
+      "twitter": "greenwichpost",
+      "website": "http://www.greenwich-post.com/",
+      "facebook": "https://www.facebook.com/GreenwichPost"
+    },
+    {
+      "name": "Greenwich Time",
+      "twitter": "GreenwichTime",
+      "website": "http://www.greenwichtime.com/",
+      "facebook": "https://www.facebook.com/greenwichtime"
+    }
+  ],
+  "Guilford, CT": [
+    {
+      "name": "Guilford Courier",
+      "twitter": "Zip06CT",
+      "website": "http://www.zip06.com/section/Guilford",
+      "facebook": "https://www.facebook.com/guilfordcourier"
+    },
+    {
+      "name": "Shore Line Times",
+      "twitter": "shorelinetimes",
+      "website": "http://www.shorelinetimes.com/",
+      "facebook": "https://www.facebook.com/ShoreLineTimes"
+    }
+  ],
+  "Hamden, CT": [
+    {
+      "name": "Hamden Journal",
+      "twitter": "hamdenjournal",
+      "website": "http://www.thehamdenjournal.com/",
+      "facebook": "https://www.facebook.com/TheHamdenJournal"
+    }
+  ],
+  "Killingly, CT": [],
+  "Lakeville, CT": [],
+  "Madison, CT": [
+    {
+      "name": "Madison Source",
+      "twitter": "Zip06CT",
+      "website": "http://www.zip06.com/section/madison",
+      "facebook": "https://www.facebook.com/thesourcect"
+    }
+  ],
+  "Manchester, CT": [
+    {
+      "name": "Journal Inquirer",
+      "twitter": "JournalInquirer",
+      "website": "http://www.journalinquirer.com/",
+      "facebook": "https://www.facebook.com/pageone.journalinquirer"
+    }
+  ],
+  "Meriden, CT": [
+    {
+      "name": "Record-Journal",
+      "twitter": "Record_Journal ",
+      "website": "http://www.myrecordjournal.com/",
+      "facebook": "https://www.facebook.com/recordjournalnewspaper"
+    }
+  ],
+  "Middlefield, CT": [
+    {
+      "name": "Town Times",
+      "twitter": "thetowntimes",
+      "website": "http://www.towntimes.com/",
+      "facebook": "https://www.facebook.com/TownTimesNews"
+    }
+  ],
+  "Middletown, CT": [
+    {
+      "name": "Middletown Press",
+      "twitter": "middletownpress",
+      "website": "http://www.middletownpress.com/",
+      "facebook": "https://www.facebook.com/middletownpress"
+    }
+  ],
+  "Milford, CT": [
+    {
+      "name": "Milford Mirror",
+      "twitter": "Milfordmirror ",
+      "website": "http://www.milfordmirror.com/",
+      "facebook": "https://www.facebook.com/MilfordMirror"
+    }
+  ],
+  "Monroe, CT": [
+    {
+      "name": "Monroe Courier",
+      "twitter": "monroecourier",
+      "website": "http://www.monroecourier.com/",
+      "facebook": "https://www.facebook.com/MonroeCourier"
+    }
+  ],
+  "Mystic, CT": [
+    {
+      "name": "Mystic River Press",
+      "twitter": "thewesterlysun",
+      "website": "http://www.thewesterlysun.com/news/mysticriverpress",
+      "facebook": "https://www.facebook.com/TheWesterlySun/"
+    }
+  ],
+  "Naugatuck, CT": [
+    {
+      "name": "Naugatuck Citizen's News",
+      "twitter": "mycitizensnews",
+      "website": "http://www.mycitizensnews.com/",
+      "facebook": "https://www.facebook.com/CitizensNews"
+    }
+  ],
+  "New Britain, CT": [
+    {
+      "name": "Herald",
+      "twitter": "NewBritHerald",
+      "website": "http://www.centralctcommunications.com/newbritainherald/",
+      "facebook": "https://www.facebook.com/NBHerald"
+    }
+  ],
+  "New Canaan, CT": [
+    {
+      "name": "New Canaan Advertiser",
+      "twitter": "ncadvertiser",
+      "website": "http://www.ncadvertiser.com/",
+      "facebook": "https://www.facebook.com/NCAdvertiser"
+    },
+    {
+      "name": "New Canaan News",
+      "twitter": "NewCanaanNews",
+      "website": "http://www.newcanaannewsonline.com/",
+      "facebook": "https://www.facebook.com/newcanaannews"
+    }
+  ],
+  "New Haven, CT": [
+    {
+      "name": "CTNow",
+      "twitter": "GoToCTNow",
+      "website": "http://www.ctnow.com/",
+      "facebook": "https://www.facebook.com/CTNow"
+    },
+    {
+      "name": "La Voz Hispana de CT",
+      "twitter": "lavozhispanact",
+      "website": "http://lavozhispanact.com/",
+      "facebook": "https://www.facebook.com/lavozhispanact"
+    },
+    {
+      "name": "New Haven Independent",
+      "twitter": "newhavenindy",
+      "website": "http://www.newhavenindependent.org/",
+      "facebook": "https://www.facebook.com/NewHavenIndependent"
+    },
+    {
+      "name": "New Haven Register",
+      "twitter": "nhregister",
+      "website": "http://www.nhregister.com/",
+      "facebook": "https://www.facebook.com/NewHavenRegister"
+    }
+  ],
+  "New London, CT": [
+    {
+      "name": "The Day",
+      "twitter": "thedayct",
+      "website": "http://www.theday.com/",
+      "facebook": "https://www.facebook.com/thedayct"
+    }
+  ],
+  "New Milford, CT": [
+    {
+      "name": "Litchfield County Times",
+      "twitter": "thelct",
+      "website": "http://www.countytimes.com/",
+      "facebook": "https://www.facebook.com/TheLitchfieldCtyTimes"
+    },
+    {
+      "name": "News-Times",
+      "twitter": "newstimes",
+      "website": "http://www.newstimes.com/newmilford/",
+      "facebook": "https://www.facebook.com/newstimes"
+    }
+  ],
+  "Newington, CT": [],
+  "Newtown, CT": [
+    {
+      "name": "Newtown Bee",
+      "twitter": "thenewtownbee",
+      "website": "http://www.newtownbee.com/",
+      "facebook": "https://www.facebook.com/pages/The-Newtown-Bee/68042792701"
+    },
+    {
+      "name": "Newtown Hamlet Hub",
+      "twitter": "Newtown_HH",
+      "website": "http://news.hamlethub.com/newtown/",
+      "facebook": "https://www.facebook.com/NewtownHamletHub"
+    }
+  ],
+  "North Haven, CT": [
+    {
+      "name": "North Haven Courier",
+      "twitter": "Zip06CT",
+      "website": "http://www.zip06.com/section/northhaven",
+      "facebook": "https://www.facebook.com/nhcourier"
+    }
+  ],
+  "Norwalk, CT": [
+    {
+      "name": "Norwalk Hamlet Hub",
+      "twitter": "NorwalkHH",
+      "website": "http://news.hamlethub.com/norwalk/",
+      "facebook": "https://www.facebook.com/pages/Norwalk-HamletHub/204479176250874"
+    },
+    {
+      "name": "The Hour",
+      "twitter": "TheHourNews",
+      "website": "http://www.thehour.com/",
+      "facebook": "https://www.facebook.com/TheHourNewspaper"
+    }
+  ],
+  "Norwich, CT": [
+    {
+      "name": "Norwich Bulletin",
+      "twitter": "norwichbulletin ",
+      "website": "http://www.norwichbulletin.com/",
+      "facebook": "https://www.facebook.com/norwichbulletin"
+    }
+  ],
+  "Old Saybrook, CT": [
+    {
+      "name": "Old Saybrook News",
+      "twitter": "Zip06CT",
+      "website": "http://www.zip06.com/section/oldsaybrook",
+      "facebook": "https://www.facebook.com/zip06"
+    }
+  ],
+  "Plainville, CT": [
+    {
+      "name": "Plainville Citizen",
+      "twitter": "pvillecitizen",
+      "website": "http://www.plainvillecitizen.com/",
+      "facebook": "https://www.facebook.com/plainvillecitizen"
+    }
+  ],
+  "Putnam, CT": [],
+  "Redding, CT": [
+    {
+      "name": "Redding Hamlet Hub",
+      "twitter": "ReddingHH",
+      "website": "http://news.hamlethub.com/redding/",
+      "facebook": "https://www.facebook.com/HamletHubRedding"
+    },
+    {
+      "name": "Redding Pilot",
+      "twitter": "reddingpilot",
+      "website": "http://www.thereddingpilot.com/",
+      "facebook": "https://www.facebook.com/ReddingPilot"
+    }
+  ],
+  "Ridgefield, CT": [
+    {
+      "name": "Ridgefield Hamlet Hub",
+      "twitter": "HamletHubRidge",
+      "website": "http://news.hamlethub.com/ridgefield/",
+      "facebook": "https://www.facebook.com/RidgefieldHamletHub"
+    },
+    {
+      "name": "Ridgefield Press",
+      "twitter": "ridgefieldpress",
+      "website": "http://www.theridgefieldpress.com/",
+      "facebook": "https://www.facebook.com/RidgefieldPress"
+    }
+  ],
+  "Seymour, CT": [
+    {
+      "name": "Valley Gazette",
+      "twitter": "ValleyGazette",
+      "website": "http://www.thevalleygazette.com/",
+      "facebook": "https://www.facebook.com/ValleyGazette"
+    }
+  ],
+  "Shelton, CT": [
+    {
+      "name": "Shelton Herald",
+      "twitter": "SheltonHerald",
+      "website": "http://sheltonherald.com/",
+      "facebook": "https://www.facebook.com/SheltonHerald"
+    }
+  ],
+  "Simsbury, CT": [],
+  "South Woodstock, CT": [],
+  "Southington, CT": [
+    {
+      "name": "Southington Citizen",
+      "twitter": "SCitizen_News",
+      "website": "http://www.southingtoncitizen.com/",
+      "facebook": "https://www.facebook.com/thesouthingtoncitizen"
+    }
+  ],
+  "Stamford, CT": [
+    {
+      "name": "Advocate",
+      "twitter": "stamadvocate",
+      "website": "http://www.stamfordadvocate.com/",
+      "facebook": "https://www.facebook.com/stamfordadvocate"
+    },
+    {
+      "name": "CTNow",
+      "twitter": "GoToCTNow",
+      "website": "http://www.ctnow.com/",
+      "facebook": "https://www.facebook.com/CTNow"
+    },
+    {
+      "name": "El Sol News",
+      "twitter": "elsolnews",
+      "website": "http://www.elsolnews.com/",
+      "facebook": "https://www.facebook.com/news.elsol"
+    },
+    {
+      "name": "Stamford Advocate",
+      "twitter": "Stamford_Times",
+      "website": "http://www.stamfordadvocate.com/",
+      "facebook": "https://www.facebook.com/pages/The-Stamford-Times/109543452438949"
+    }
+  ],
+  "Stratford, CT": [
+    {
+      "name": "Stratford Star",
+      "twitter": "StratfordStar",
+      "website": "http://www.stratfordstar.com/",
+      "facebook": "https://www.facebook.com/StratfordStar"
+    }
+  ],
+  "Thompson, CT": [],
+  "Torrington, CT": [
+    {
+      "name": "Register Citizen",
+      "twitter": "registercitizen",
+      "website": "http://www.registercitizen.com/",
+      "facebook": "https://www.facebook.com/RegisterCitizen"
+    }
+  ],
+  "Trumbull, CT": [
+    {
+      "name": "Trumbull Times",
+      "twitter": "trumbulltimes",
+      "website": "http://www.trumbulltimes.com/",
+      "facebook": "https://www.facebook.com/TrumbullTimes"
+    }
+  ],
+  "Vernon, CT": [
+    {
+      "name": "Courant Community",
+      "twitter": "CTCommunities",
+      "website": "http://www.courant.com/community/",
+      "facebook": "https://www.facebook.com/CourantCommunity"
+    }
+  ],
+  "Waterbury, CT": [
+    {
+      "name": "Waterbury Observer",
+      "twitter": "WtbyObserver",
+      "website": "http://www.waterburyobserver.org/",
+      "facebook": "https://www.facebook.com/TheWaterburyObserver"
+    },
+    {
+      "name": "Waterbury Republican",
+      "twitter": "rep_am",
+      "website": "http://www.rep-am.com/",
+      "facebook": "https://www.facebook.com/repam"
+    }
+  ],
+  "Watertown, CT": [],
+  "West Hartford, CT": [],
+  "West Haven, CT": [
+    {
+      "name": "West Haven Voice",
+      "twitter": "whvoiceads",
+      "website": "http://www.whvoice.com/",
+      "facebook": "https://www.facebook.com/WHVoice"
+    }
+  ],
+  "Weston, CT": [
+    {
+      "name": "Weston Forum",
+      "twitter": "westonforum",
+      "website": "http://www.thewestonforum.com/",
+      "facebook": "https://www.facebook.com/WestonForum"
+    }
+  ],
+  "Westport, CT": [
+    {
+      "name": "Westport Hamlet Hub",
+      "twitter": "Westport_HH",
+      "website": "http://news.hamlethub.com/westport/",
+      "facebook": "https://www.facebook.com/WestportHamletHub"
+    },
+    {
+      "name": "Westport Minuteman",
+      "twitter": "westportminute",
+      "website": "http://minutemannewscenter.com/westport/"
+    },
+    {
+      "name": "Westport News",
+      "twitter": "wptnews",
+      "website": "http://www.westport-news.com/",
+      "facebook": "https://www.facebook.com/westportnews"
+    },
+    {
+      "name": "WestportNow.com",
+      "twitter": "WestportNow",
+      "website": "http://www.westportnow.com/",
+      "facebook": "https://www.facebook.com/pages/WestportNowcom/32107553616"
+    }
+  ],
+  "Willimantic, CT": [],
+  "Wilton, CT": [
+    {
+      "name": "Wilton Bulletin",
+      "twitter": "wiltonbulletin",
+      "website": "http://www.wiltonbulletin.com/",
+      "facebook": "https://www.facebook.com/WiltonBulletin"
+    },
+    {
+      "name": "Wilton Hamlet Hub",
+      "twitter": "hh_wilton",
+      "website": "http://www.hamlethub.com/wilton",
+      "facebook": "https://www.facebook.com/HamletHubWilton"
+    },
+    {
+      "name": "Wilton Villager",
+      "twitter": "wilton_villager",
+      "website": "http://www.thehour.com/wilton_villager/",
+      "facebook": "https://www.facebook.com/pages/Wilton-Villager/147848678611852"
+    }
+  ],
+  "Winsted, CT": [
+    {
+      "name": "Winsted Journal",
+      "twitter": "WinstedJournal",
+      "website": "http://www.tricornernews.com/",
+      "facebook": "https://www.facebook.com/thewinstedjournal"
+    }
+  ],
+  "Woodbury, CT": []
+}
